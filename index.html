@@ -132,6 +132,30 @@
         .news-content { display: none; color: #8b949e; font-size: 0.9rem; margin-top: 15px; padding-top: 15px; border-top: 1px solid #30363d; }
         .news-card.expanded .news-content { display: block; }
         .news-time { color: #8b949e; font-size: 0.8rem; }
+        
+        .news-share { 
+            background: transparent; 
+            border: none; 
+            color: var(--accent); 
+            cursor: pointer; 
+            font-size: 1rem;
+            margin-left: 10px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            transition: all 0.3s;
+        }
+        
+        .news-share:hover { 
+            background: var(--accent); 
+            color: var(--bg-primary); 
+        }
+        
+        .news-source-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
         .news-expand-hint { color: #58a6ff; font-size: 0.8rem; margin-top: 10px; }
         .news-card.expanded .news-expand-hint { display: none; }
 
@@ -383,12 +407,13 @@
                 <div class="news-card" onclick="toggleNews(this)">
                     <img src="${n.image}" alt="${n.title}" class="news-image" onerror="this.style.display='none'">
                     <div class="news-body">
-                        <div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div>
+                        <div class="news-source-row">
+            <div class="news-source-row"><div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div><button class="news-share" onclick="shareNews('${n.url}', '${n.title.replace("'", "\'")}', '${n.source}')" title="Share">📤</button></div><button class="news-share" onclick="shareNews(n.url, n.title, n.source)" title="Share">📤</button></div>
                         <div class="news-title">${n.title}</div>
                         <div class="news-time">${n.time}</div>
                         <div class="news-content">
                             ${n.content}
-                            <div style="margin-top: 10px;"><a href="${n.url}" target="_blank" style="color: #58a6ff; text-decoration: none;">📎 Citește pe ${n.source}</a></div>
+                            <div style="margin-top: 10px;"><a href="${n.url}" target="_blank" style="color: #58a6ff; text-decoration: none;">📎 Citește pe ${n.source}</a></div><button class="news-share" onclick="shareNews(n.url, n.title, n.source)" title="Share">📤</button></div>
                         </div>
                         <div class="news-expand-hint">Click pentru detalii...</div>
                     </div>
@@ -448,6 +473,39 @@
         if (savedTheme === 'light') {
             document.body.classList.add('light-mode');
             document.querySelector('.theme-toggle').textContent = '☀️';
+        }
+    </script>
+
+    <script>
+        async function shareNews(url, title, source) {
+            const shareText = `${title} - ${source}`;
+            
+            if (navigator.share) {
+                // Mobile: use native share
+                try {
+                    await navigator.share({
+                        title: shareText,
+                        url: url
+                    });
+                } catch(e) {
+                    // User cancelled or error
+                }
+            } else {
+                // Desktop: copy to clipboard
+                try {
+                    await navigator.clipboard.writeText(url);
+                    alert('Link copiat în clipboard! 📋');
+                } catch(e) {
+                    // Fallback
+                    const input = document.createElement('input');
+                    input.value = url;
+                    document.body.appendChild(input);
+                    input.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(input);
+                    alert('Link copiat! 📋');
+                }
+            }
         }
     </script>
 </body>
