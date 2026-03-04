@@ -224,6 +224,12 @@
                 <div class="card-sub">USD: $<span id="usd">--</span></div>
             </div>
             <div class="card">
+                <div class="card-icon">₿</div>
+                <div class="card-title">Crypto</div>
+                <div class="card-value" id="btc">BTC: $--</div>
+                <div class="card-sub">ETH: $<span id="eth">--</span></div>
+            </div>
+            <div class="card">
                 <div class="card-icon">⛽</div>
                 <div class="card-title">Carburant</div>
                 <div class="card-value" style="font-size: 1rem;">
@@ -300,12 +306,13 @@
 
         // Cached API calls (1 hour)
         const CACHE_DURATION = 60 * 60 * 1000; // 1 hour
+        const LONG_CACHE = 24 * 60 * 60 * 1000; // 24 ore pentru crypto
         
-        function fetchWithCache(url, key, updateFn) {
+        function fetchWithCache(url, key, updateFn, duration = CACHE_DURATION) {
             const cached = localStorage.getItem(key);
             if (cached) {
                 const data = JSON.parse(cached);
-                if (Date.now() - data.timestamp < CACHE_DURATION) {
+                if (Date.now() - data.timestamp < duration) {
                     updateFn(data.value);
                     return;
                 }
@@ -318,6 +325,13 @@
         
         fetchWithCache('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true', 'azinews_weather', 
             d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        
+        fetchWithCache('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd', 'azinews_crypto',
+            d => { 
+                document.getElementById('btc').textContent = 'BTC: $' + d.bitcoin.usd.toLocaleString(); 
+                document.getElementById('eth').textContent = d.ethereum.usd.toLocaleString(); 
+            }, LONG_CACHE);
+        
         fetchWithCache('https://api.frankfurter.app/latest?from=EUR&to=RON', 'azinews_eur',
             d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON; });
         fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
