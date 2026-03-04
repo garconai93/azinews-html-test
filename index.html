@@ -232,10 +232,8 @@
             <div class="card">
                 <div class="card-icon">🖼️</div>
                 <div class="card-title">Wikipedia POD</div>
-                <a id="pod-link" href="#" target="_blank" style="text-decoration: none; color: inherit;">
-                    <img id="pod-image" src="" alt="Wikipedia Picture of the Day" style="width: 100%; height: 120px; object-fit: cover; border-radius: 8px; margin-bottom: 8px; display: none;">
-                    <div id="pod-title" style="font-size: 0.85rem; font-weight: bold;">Se încarcă...</div>
-                    <div id="pod-desc" style="font-size: 0.7rem; opacity: 0.8;"></div>
+                <a id="pod-link" href="#" target="_blank">
+                    <img id="pod-image" src="" alt="Wikipedia Picture of the Day" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; display: none; cursor: pointer;">
                 </a>
             </div>
         </div>
@@ -350,9 +348,9 @@
                 if (tod && tod.thumbnail) {
                     document.getElementById('pod-image').src = tod.thumbnail.source;
                     document.getElementById('pod-image').style.display = 'block';
-                    document.getElementById('pod-title').textContent = tod.title;
-                    document.getElementById('pod-desc').textContent = tod.description || '';
-                    document.getElementById('pod-link').href = tod.content_urls?.desktop?.page || 'https://en.wikipedia.org/wiki/Main_Page';
+                    const articleUrl = tod.content_urls?.desktop?.page || 
+                                      'https://en.wikipedia.org/wiki/' + encodeURIComponent(tod.title);
+                    document.getElementById('pod-link').href = articleUrl;
                 }
             })
             .catch(() => {});
