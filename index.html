@@ -185,7 +185,7 @@
         .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; margin: 0 5px; }
         
         .forecast-section { display: grid; grid-template-columns: repeat(7, 1fr); gap: 10px; padding: 15px; background: #161b22; border-radius: 12px; margin-top: 10px; }
-        .forecast-day { text-align: center; padding: 10px; background: #21262d; border-radius: 8px; }
+        .forecast-day { text-align: center; padding: 10px; background: #21262d; border-radius: 8px; cursor: pointer; }
         .forecast-day-name { font-size: 12px; color: #8b949e; margin-bottom: 5px; }
         .forecast-temp { font-size: 14px; font-weight: bold; color: #f0f6fc; }
         .forecast-temp-min { font-size: 12px; color: #8b949e; }
@@ -240,12 +240,23 @@
                 <div class="card-sub">ETH: $<span id="eth">--</span></div>
             </div>
             <div id="crypto-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
-            <div class="card">
+            <div class="card" onclick="toggleWikipedia()" style="cursor: pointer;">
                 <div class="card-icon">🖼️</div>
-                <div class="card-title">Wikipedia POD</div>
+                <div class="card-title">Wikipedia <span style="font-size:10px;">▼</span></div>
                 <a id="pod-link" href="#" target="_blank">
                     <img id="pod-image" src="" alt="Wikipedia Picture of the Day" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; display: none; cursor: pointer;">
                 </a>
+            </div>
+            <div id="wikipedia-section" class="forecast-section" style="display: none; grid-template-columns: 1fr 1fr; grid-column: 1 / -1;">
+                <div style="grid-column: 1 / -1; margin-bottom: 10px;">
+                    <input type="text" id="wiki-search" placeholder="Caută în Wikipedia..." style="width: 70%; padding: 8px; border-radius: 6px; border: 1px solid #30363d; background: #21262d; color: #f0f6fc;" onkeypress="if(event.key==='Enter')searchWiki()">
+                    <button onclick="searchWiki()" style="padding: 8px 15px; border-radius: 6px; border: none; background: #58a6ff; color: white; cursor: pointer;">Caută</button>
+                </div>
+                <div id="wiki-random" class="forecast-day" style="cursor: pointer;" onclick="loadRandomWiki()">
+                    <div class="forecast-day-name">🎲 Articol Aleatoriu</div>
+                </div>
+                <div id="wiki-result" class="forecast-day" style="display:none;">
+                </div>
             </div>
         </div>
 
@@ -455,6 +466,39 @@
                 }
             })
             .catch(() => {});
+
+        // Wikipedia search & random
+        let wikiLoaded = false;
+        function toggleWikipedia() {
+            const el = document.getElementById('wikipedia-section');
+            el.style.display = el.style.display === 'none' ? 'grid' : 'none';
+        }
+        function searchWiki() {
+            const query = document.getElementById('wiki-search').value;
+            if (!query) return;
+            fetch('https://en.wikipedia.org/api/rest_v1/page/summary/' + encodeURIComponent(query))
+                .then(r => r.json()).then(data => {
+                    document.getElementById('wiki-result').style.display = 'block';
+                    document.getElementById('wiki-result').innerHTML = `
+                        <div class="forecast-day-name">${data.title}</div>
+                        <div style="font-size:11px;color:#8b949e;margin:5px 0;">${data.extract?.substring(0,150)}...</div>
+                        <a href="${data.content_urls?.desktop?.page}" target="_blank" style="color:#58a6ff;font-size:11px;">Citește mai mult →</a>
+                    `;
+                }).catch(() => {
+                    document.getElementById('wiki-result').style.display = 'block';
+                    document.getElementById('wiki-result').innerHTML = '<div style="color:#f85149">Nu am găsit rezultate</div>';
+                });
+        }
+        function loadRandomWiki() {
+            fetch('https://en.wikipedia.org/api/rest_v1/page/random/summary')
+                .then(r => r.json()).then(data => {
+                    document.getElementById('wiki-random').innerHTML = `
+                        <div class="forecast-day-name">${data.title}</div>
+                        <div style="font-size:11px;color:#8b949e;margin:5px 0;">${data.extract?.substring(0,100)}...</div>
+                        <a href="${data.content_urls?.desktop?.page}" target="_blank" style="color:#58a6ff;font-size:11px;">Citește →</a>
+                    `;
+                });
+        }
 
         const audio = document.getElementById('radioPlayer');
         audio.volume = 0.15;
