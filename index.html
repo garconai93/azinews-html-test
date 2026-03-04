@@ -230,12 +230,13 @@
                 <div class="card-sub">ETH: $<span id="eth">--</span></div>
             </div>
             <div class="card">
-                <div class="card-icon">⛽</div>
-                <div class="card-title">Carburant</div>
-                <div class="card-value" style="font-size: 1rem;">
-                    B: <span id="benzina">7.50</span> RON<br>
-                    M: <span id="motorina">7.80</span> RON
-                </div>
+                <div class="card-icon">🖼️</div>
+                <div class="card-title">Wikipedia POD</div>
+                <a id="pod-link" href="#" target="_blank" style="text-decoration: none; color: inherit;">
+                    <img id="pod-image" src="" alt="Wikipedia Picture of the Day" style="width: 100%; height: 120px; object-fit: cover; border-radius: 8px; margin-bottom: 8px; display: none;">
+                    <div id="pod-title" style="font-size: 0.85rem; font-weight: bold;">Se încarcă...</div>
+                    <div id="pod-desc" style="font-size: 0.7rem; opacity: 0.8;"></div>
+                </a>
             </div>
         </div>
 
@@ -336,6 +337,25 @@
             d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON; });
         fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
             d => { document.getElementById('usd').textContent = d.rates.RON; });
+
+        // Wikipedia Picture of the Day
+        const today = new Date();
+        const y = today.getFullYear();
+        const m = String(today.getMonth() + 1).padStart(2, '0');
+        const d = String(today.getDate()).padStart(2, '0');
+        fetch(`https://en.wikipedia.org/api/rest_v1/feed/featured/${y}/${m}/${d}`)
+            .then(r => r.json())
+            .then(data => {
+                const tod = data.tfa || data.mostread?.articles?.[0];
+                if (tod && tod.thumbnail) {
+                    document.getElementById('pod-image').src = tod.thumbnail.source;
+                    document.getElementById('pod-image').style.display = 'block';
+                    document.getElementById('pod-title').textContent = tod.title;
+                    document.getElementById('pod-desc').textContent = tod.description || '';
+                    document.getElementById('pod-link').href = tod.content_urls?.desktop?.page || 'https://en.wikipedia.org/wiki/Main_Page';
+                }
+            })
+            .catch(() => {});
 
         const audio = document.getElementById('radioPlayer');
         audio.volume = 0.15;
