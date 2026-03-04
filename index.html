@@ -226,12 +226,13 @@
                 <div class="card-sub">București <span style="font-size:10px;">▼</span></div>
             </div>
             <div id="weather-forecast" class="forecast-section" style="display: none; grid-column: 1 / -1;"></div>
-            <div class="card">
+            <div class="card" onclick="toggleCurrencyRates()" style="cursor: pointer;">
                 <div class="card-icon">💰</div>
                 <div class="card-title">Curs</div>
                 <div class="card-value" id="eur">€ --</div>
-                <div class="card-sub">$ <span id="usd">--</span> RON</div>
+                <div class="card-sub">$ <span id="usd">--</span> RON <span style="font-size:10px;">▼</span></div>
             </div>
+            <div id="currency-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
             <div class="card">
                 <div class="card-icon">₿</div>
                 <div class="card-title">Crypto</div>
@@ -357,6 +358,36 @@
                             });
                             el.innerHTML = html;
                             weatherForecastLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
+        
+        // Currency rates - multiple currencies
+        let currencyRatesLoaded = false;
+        function toggleCurrencyRates() {
+            const el = document.getElementById('currency-rates');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!currencyRatesLoaded) {
+                    fetch('https://api.frankfurter.app/latest?from=RON&to=EUR,USD,GBP,CHF,HUF,PLN,CZK')
+                        .then(r => r.json()).then(data => {
+                            const flags = { EUR: '🇪🇺', USD: '🇺🇸', GBP: '🇬🇧', CHF: '🇨🇭', HUF: '🇭🇺', PLN: '🇵🇱', CZK: '🇨🇿' };
+                            const names = { EUR: 'Euro', USD: 'Dolar', GBP: 'Lira', CHF: 'Franco', HUF: 'Forint', PLN: 'Zlot', CZK: 'Coroana' };
+                            const currencies = ['EUR', 'USD', 'GBP', 'CHF', 'HUF', 'PLN', 'CZK'];
+                            let html = '';
+                            currencies.forEach(c => {
+                                const rate = (1 / data.rates[c]).toFixed(4);
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${flags[c]} ${c}</div>
+                                    <div class="forecast-temp">${rate} RON</div>
+                                    <div class="forecast-info">${names[c]}</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            currencyRatesLoaded = true;
                         });
                 }
             } else {
