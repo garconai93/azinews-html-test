@@ -218,12 +218,6 @@
                 <div class="card-sub">București</div>
             </div>
             <div class="card">
-                <div class="card-icon">🕐</div>
-                <div class="card-title">Ora</div>
-                <div class="card-value" id="time">--:--</div>
-                <div class="card-sub" id="day">--</div>
-            </div>
-            <div class="card">
                 <div class="card-icon">💰</div>
                 <div class="card-title">Curs</div>
                 <div class="card-value" id="eur">€ --</div>
@@ -299,7 +293,7 @@
             const now = new Date();
             const days = ['Duminică', 'Luni', 'Marți', 'Miercuri', 'Joi', 'Vineri', 'Sâmbătă'];
             const months = ['Ianuarie', 'Februarie', 'Martie', 'Aprilie', 'Mai', 'Iunie', 'Iulie', 'August', 'Septembrie', 'Octombrie', 'Noiembrie', 'Decembrie'];
-            document.getElementById('currentDate').textContent = days[now.getDay()] + ', ' + now.getDate() + ' ' + months[now.getMonth()] + ' ' + now.getFullYear() + ' | România';
+            document.getElementById('currentDate').textContent = days[now.getDay()] + ', ' + now.getDate() + ' ' + months[now.getMonth()] + ' ' + now.getFullYear() + ' | ' + now.toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit' });
             document.getElementById('time').textContent = now.toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit' });
             document.getElementById('day').textContent = days[now.getDay()];
         }
