@@ -233,12 +233,13 @@
                 <div class="card-sub">$ <span id="usd">--</span> RON <span style="font-size:10px;">▼</span></div>
             </div>
             <div id="currency-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
-            <div class="card">
+            <div class="card" onclick="toggleCryptoRates()" style="cursor: pointer;">
                 <div class="card-icon">₿</div>
                 <div class="card-title">Crypto</div>
                 <div class="card-value" id="btc">BTC: $--</div>
-                <div class="card-sub">ETH: $<span id="eth">--</span></div>
+                <div class="card-sub">ETH: $<span id="eth">--</span> <span style="font-size:10px;">▼</span></div>
             </div>
+            <div id="crypto-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
             <div class="card">
                 <div class="card-icon">🖼️</div>
                 <div class="card-title">Wikipedia POD</div>
@@ -405,6 +406,36 @@
             d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON + ' RON'; });
         fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
             d => { document.getElementById('usd').textContent = d.rates.RON; });
+
+        // Crypto - top 8 coins
+        let cryptoRatesLoaded = false;
+        function toggleCryptoRates() {
+            const el = document.getElementById('crypto-rates');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!cryptoRatesLoaded) {
+                    fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,binancecoin,solana,ripple,cardano,dogecoin,polkadot&order=market_cap_desc&sparkline=false&price_change_percentage=24h')
+                        .then(r => r.json()).then(data => {
+                            const icons = { bitcoin: '₿', ethereum: 'Ξ', binancecoin: 'B', solana: 'S', ripple: 'X', cardano: 'A', dogecoin: 'Ð', polkadot: '●' };
+                            let html = '';
+                            data.forEach(coin => {
+                                const change = coin.price_change_percentage_24h.toFixed(2);
+                                const color = change >= 0 ? '#3fb950' : '#f85149';
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${icons[coin.id]} ${coin.symbol.toUpperCase()}</div>
+                                    <div class="forecast-temp">$${coin.current_price.toLocaleString()}</div>
+                                    <div class="forecast-info" style="color:${color}">${change >= 0 ? '▲' : '▼'} ${Math.abs(change)}%</div>
+                                    <div class="forecast-info">MCap: $${(coin.market_cap/1e9).toFixed(1)}B</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            cryptoRatesLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
 
         // Wikipedia Picture of the Day
         const today = new Date();
