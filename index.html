@@ -219,7 +219,7 @@
             </div>
             <div class="card">
                 <div class="card-icon">💰</div>
-                <div class="card-title">Curs <button onclick="refreshCurrency()" style="background:none;border:none;cursor:pointer;font-size:12px;">🔄</button></div>
+                <div class="card-title">Curs</div>
                 <div class="card-value" id="eur">€ --</div>
                 <div class="card-sub">$ <span id="usd">--</span> RON</div>
             </div>
@@ -335,13 +335,6 @@
             d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON + ' RON'; });
         fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
             d => { document.getElementById('usd').textContent = d.rates.RON; });
-
-        // Refresh currency manually
-        window.refreshCurrency = function() {
-            localStorage.removeItem('azinews_eur');
-            localStorage.removeItem('azinews_usd');
-            location.reload();
-        };
 
         // Wikipedia Picture of the Day
         const today = new Date();
