@@ -47,7 +47,8 @@
         body.light-mode .news-card,
         body.light-mode .horoscope-item,
         body.light-mode .radio-section,
-        body.light-mode .disclaimer,
+        body.light-mode .disclaimer, body.light-mode .forecast-section { background: #f6f8fa; }
+        body.light-mode .forecast-day { background: #eaeef2; }
         body.light-mode .cookie-banner {
             background: var(--bg-secondary);
             border-color: var(--border-color);
@@ -182,6 +183,13 @@
         .cookie-banner { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #161b22; border-top: 1px solid #30363d; padding: 20px; text-align: center; z-index: 1000; }
         .cookie-banner p { margin: 0 0 15px 0; color: #8b949e; font-size: 0.9rem; }
         .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; margin: 0 5px; }
+        
+        .forecast-section { display: grid; grid-template-columns: repeat(7, 1fr); gap: 10px; padding: 15px; background: #161b22; border-radius: 12px; margin-top: 10px; }
+        .forecast-day { text-align: center; padding: 10px; background: #21262d; border-radius: 8px; }
+        .forecast-day-name { font-size: 12px; color: #8b949e; margin-bottom: 5px; }
+        .forecast-temp { font-size: 14px; font-weight: bold; color: #f0f6fc; }
+        .forecast-temp-min { font-size: 12px; color: #8b949e; }
+        .forecast-info { font-size: 10px; color: #58a6ff; margin-top: 5px; }
         .cookie-banner button:hover { background: #4393e6; }
         .cookie-banner .reject { background: #333; }
         .cookie-banner .reject:hover { background: #444; }
@@ -211,12 +219,13 @@
 
     <div class="container">
         <div class="info-cards">
-            <div class="card">
+            <div class="card" onclick="toggleWeatherForecast()" style="cursor: pointer;">
                 <div class="card-icon">☀️</div>
                 <div class="card-title">Vremea</div>
                 <div class="card-value" id="weather">--°C</div>
-                <div class="card-sub">București</div>
+                <div class="card-sub">București <span style="font-size:10px;">▼</span></div>
             </div>
+            <div id="weather-forecast" class="forecast-section" style="display: none; grid-column: 1 / -1;"></div>
             <div class="card">
                 <div class="card-icon">💰</div>
                 <div class="card-title">Curs</div>
@@ -324,6 +333,36 @@
         
         fetchWithCache('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true', 'azinews_weather', 
             d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        
+        // Weather 7-day forecast
+        let weatherForecastLoaded = false;
+        function toggleWeatherForecast() {
+            const el = document.getElementById('weather-forecast');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!weatherForecastLoaded) {
+                    fetch('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=auto')
+                        .then(r => r.json()).then(d => {
+                            const days = ['Dum', 'Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm'];
+                            let html = '';
+                            d.daily.time.forEach((date, i) => {
+                                const dayName = days[new Date(date).getDay()];
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${dayName}</div>
+                                    <div class="forecast-temp">${d.daily.temperature_2m_max[i]}°</div>
+                                    <div class="forecast-temp-min">${d.daily.temperature_2m_min[i]}°</div>
+                                    <div class="forecast-info">💧 ${d.daily.precipitation_sum[i]}mm</div>
+                                    <div class="forecast-info">💨 ${d.daily.wind_speed_10m_max[i]}km/h</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            weatherForecastLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
         
         fetchWithCache('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd', 'azinews_crypto',
             d => { 
