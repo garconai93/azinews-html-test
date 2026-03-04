@@ -221,23 +221,23 @@
         <div class="info-cards">
             <div class="card" onclick="toggleWeatherForecast()" style="cursor: pointer;">
                 <div class="card-icon">☀️</div>
-                <div class="card-title">Vremea</div>
+                <div class="card-title">Vremea <span style="font-size:10px;">▼</span></div>
                 <div class="card-value" id="weather">--°C</div>
-                <div class="card-sub">București <span style="font-size:10px;">▼</span></div>
+                <div class="card-sub">București</div>
             </div>
             <div id="weather-forecast" class="forecast-section" style="display: none; grid-column: 1 / -1;"></div>
             <div class="card" onclick="toggleCurrencyRates()" style="cursor: pointer;">
                 <div class="card-icon">💰</div>
-                <div class="card-title">Curs</div>
+                <div class="card-title">Curs <span style="font-size:10px;">▼</span></div>
                 <div class="card-value" id="eur">€ --</div>
-                <div class="card-sub">$ <span id="usd">--</span> RON <span style="font-size:10px;">▼</span></div>
+                <div class="card-sub">$ <span id="usd">--</span> RON</div>
             </div>
             <div id="currency-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
             <div class="card" onclick="toggleCryptoRates()" style="cursor: pointer;">
                 <div class="card-icon">₿</div>
-                <div class="card-title">Crypto</div>
+                <div class="card-title">Crypto <span style="font-size:10px;">▼</span></div>
                 <div class="card-value" id="btc">BTC: $--</div>
-                <div class="card-sub">ETH: $<span id="eth">--</span> <span style="font-size:10px;">▼</span></div>
+                <div class="card-sub">ETH: $<span id="eth">--</span></div>
             </div>
             <div id="crypto-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
             <div class="card">
