@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AziNews - Știri din România</title>
+    <meta name="description" content="Știri din România - Digi24, Mediafax">
+    <meta name="google-site-verification" content="google-site-verification-code">
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZG88DTDR53"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZG88DTDR53');
+    </script>
+    <meta name="theme-color" content="#58a6ff">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/garconaibot/AziNews-HTML/master/icon-192.png">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9063451798744835" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --border-color: #30363d;
+            --text-primary: #f0f6fc;
+            --text-secondary: #8b949e;
+            --accent: #58a6ff;
+        }
+        
+        body.light-mode {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f6f8fa;
+            --bg-tertiary: #eaeef2;
+            --border-color: #d0d7de;
+            --text-primary: #1f2328;
+            --text-secondary: #656d76;
+            --accent: #0969da;
+        }
+        
+        body.light-mode .card, 
+        body.light-mode .news-card,
+        body.light-mode .horoscope-item,
+        body.light-mode .radio-section,
+        body.light-mode .disclaimer,
+        body.light-mode .cookie-banner {
+            background: var(--bg-secondary);
+            border-color: var(--border-color);
+        }
+        
+        body.light-mode header,
+        body.light-mode footer,
+        body.light-mode .section h2 {
+            border-color: var(--border-color);
+        }
+        
+        body.light-mode header h1,
+        body.light-mode .news-title,
+        body.light-mode .card-value,
+        body.light-mode .horoscope-sign,
+        body.light-mode .radio-title {
+            color: var(--text-primary);
+        }
+        
+        body.light-mode .date,
+        body.light-mode .card-title,
+        body.light-mode .card-sub,
+        body.light-mode .news-source,
+        body.light-mode .news-time,
+        body.light-mode .news-content,
+        body.light-mode .horoscope-msg,
+        body.light-mode footer {
+            color: var(--text-secondary);
+        }
+        
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1001;
+            transition: all 0.3s;
+        }
+        
+        .theme-toggle:hover {
+            border-color: var(--accent);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.6; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        
+        header { text-align: center; padding: 30px 20px; border-bottom: 1px solid #30363d; margin-bottom: 30px; }
+        header h1 { font-size: 2.5rem; font-weight: 700; color: #f0f6fc; margin-bottom: 5px; }
+        header h1 span { color: #58a6ff; }
+        .date { color: #8b949e; font-size: 1rem; }
+
+        .info-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-bottom: 40px; }
+        .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; text-align: center; }
+        .card-icon { font-size: 2rem; margin-bottom: 10px; }
+        .card-title { font-size: 0.9rem; color: #8b949e; margin-bottom: 5px; }
+        .card-value { font-size: 1.5rem; font-weight: 600; color: #f0f6fc; }
+        .card-sub { font-size: 0.8rem; color: #8b949e; }
+
+        .section { margin-bottom: 40px; text-align: center; }
+        .section h2 { font-size: 1.5rem; color: #f0f6fc; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #30363d; }
+
+        .news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+        .news-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; cursor: pointer; transition: all 0.3s; }
+        .news-card:hover { border-color: #58a6ff; }
+        .news-card.expanded { border-color: #58a6ff; }
+        .news-image { width: 100%; height: 180px; object-fit: cover; background: #21262d; }
+        .news-body { padding: 20px; }
+        .news-source { color: #58a6ff; font-size: 0.8rem; font-weight: 600; margin-bottom: 8px; }
+        .news-source a { color: inherit; text-decoration: none; }
+        .news-source a:hover { text-decoration: underline; }
+        .news-title { color: #f0f6fc; font-size: 1rem; font-weight: 500; margin-bottom: 10px; }
+        .news-content { display: none; color: #8b949e; font-size: 0.9rem; margin-top: 15px; padding-top: 15px; border-top: 1px solid #30363d; }
+        .news-card.expanded .news-content { display: block; }
+        .news-time { color: #8b949e; font-size: 0.8rem; }
+        
+        .news-share { 
+            background: transparent; 
+            border: none; 
+            color: var(--accent); 
+            cursor: pointer; 
+            font-size: 1rem;
+            margin-left: 10px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            transition: all 0.3s;
+        }
+        
+        .news-share:hover { 
+            background: var(--accent); 
+            color: var(--bg-primary); 
+        }
+        
+        .news-source-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .news-expand-hint { color: #58a6ff; font-size: 0.8rem; margin-top: 10px; }
+        .news-card.expanded .news-expand-hint { display: none; }
+
+        
+
+        .horoscope-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; justify-content: center; }
+        .horoscope-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; text-align: center; }
+        .horoscope-sign { font-weight: 600; color: #f0f6fc; margin-bottom: 5px; }
+        .horoscope-msg { color: #8b949e; font-size: 0.85rem; }
+
+        .radio-section { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 25px; text-align: center; }
+        .radio-title { font-size: 1.2rem; color: #f0f6fc; margin-bottom: 15px; }
+        .radio-player audio { width: 100%; max-width: 400px; }
+
+        footer { text-align: center; padding: 30px 20px; border-top: 1px solid #30363d; margin-top: 40px; color: #8b949e; font-size: 0.9rem; }
+        footer a { color: #58a6ff; text-decoration: none; margin: 0 10px; }
+        footer a:hover { text-decoration: underline; }
+
+        .disclaimer { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin-top: 30px; text-align: center; color: #8b949e; font-size: 0.85rem; }
+        .disclaimer p { margin: 0; line-height: 1.6; }
+        
+        .adsbygoogle { margin: 20px 0; }
+
+        .cookie-banner { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #161b22; border-top: 1px solid #30363d; padding: 20px; text-align: center; z-index: 1000; }
+        .cookie-banner p { margin: 0 0 15px 0; color: #8b949e; font-size: 0.9rem; }
+        .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; margin: 0 5px; }
+        .cookie-banner button:hover { background: #4393e6; }
+        .cookie-banner .reject { background: #333; }
+        .cookie-banner .reject:hover { background: #444; }
+
+        @media (max-width: 768px) {
+            .info-cards { grid-template-columns: repeat(2, 1fr); }
+            .news-grid { grid-template-columns: 1fr; }
+            .horoscope-grid { grid-template-columns: repeat(2, 1fr); }
+            .adsbygoogle { display: none !important; }
+        }
+    </style>
+</head>
+<body>
+    <button class="theme-toggle" onclick="toggleTheme()" title="Dark/Light Mode">🌙</button>
+    <header>
+        <div class="container">
+            <h1>AziNews</h1>
+            <p class="date" id="currentDate"></p>
+        </div>
+    </header>
+
+    <!-- AdSense after header -->
+    <div class="container">
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543211" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
+    <div class="container">
+        <div class="info-cards">
+            <div class="card">
+                <div class="card-icon">☀️</div>
+                <div class="card-title">Vremea</div>
+                <div class="card-value" id="weather">--°C</div>
+                <div class="card-sub">București</div>
+            </div>
+            <div class="card">
+                <div class="card-icon">🕐</div>
+                <div class="card-title">Ora</div>
+                <div class="card-value" id="time">--:--</div>
+                <div class="card-sub" id="day">--</div>
+            </div>
+            <div class="card">
+                <div class="card-icon">💰</div>
+                <div class="card-title">Curs</div>
+                <div class="card-value" id="eur">€ --</div>
+                <div class="card-sub">USD: $<span id="usd">--</span></div>
+            </div>
+            <div class="card">
+                <div class="card-icon">⛽</div>
+                <div class="card-title">Carburant</div>
+                <div class="card-value" style="font-size: 1rem;">
+                    B: <span id="benzina">7.92</span> RON<br>
+                    M: <span id="motorina">8.29</span> RON
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Radio Live</h2>
+            <div class="radio-section">
+                <div class="radio-title">🎵 Enjoy Radio</div>
+                <audio id="radioPlayer" controls>
+                    <source src="https://live.enjoyradio.ro/radio/8000/enjoylive.mp3" type="audio/mp3">
+                </audio>
+            </div>
+        </div>
+
+        <!-- AdSense after radio -->
+        <div class="section">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+
+        <div class="section">
+            <h2>Știri din România</h2>
+            <div class="news-grid" id="newsGrid"></div>
+        </div>
+
+        <div class="section">
+            <h2>Horoscop</h2>
+            <div class="horoscope-grid" id="horoscopeGrid"></div>
+        </div>
+
+        <!-- AdSense bottom -->
+        <div class="section">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543210" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+
+        <div class="disclaimer">
+            <p><strong>Disclaimer:</strong> AziNews este un agregator de știri publice și radio. Nu deținem conținutul afișat. Toate știrile și posturile de radio aparțin surselor originale (Digi24, Mediafax, Europa FM, Libertatea, Adevărul, Enjoy Radio). Acest serviciu este doar în scop informativ.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2026 AziNews. Toate drepturile rezervate.</p>
+        <p>
+            <a href="terms.html" target="_blank">Termeni și Condiții</a> | 
+            <a href="privacy.html" target="_blank">Politica de Confidențialitate</a> |
+            <a href="despre.html">Despre</a> |
+            <a href="contact.html">Contact</a>
+        </p>
+    </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <p>🍪 Folosim cookies pentru a afișa reclame Google. <a href="privacy.html" style="color: #58a6ff;">Citește Politica de Confidențialitate</a></p>
+        <div>
+            <button onclick="acceptCookies()">Accept</button>
+            <button class="reject" onclick="rejectCookies()">Respinge</button>
+        </div>
+    </div>
+
+    <script>
+        function updateDateTime() {
+            const now = new Date();
+            const days = ['Duminică', 'Luni', 'Marți', 'Miercuri', 'Joi', 'Vineri', 'Sâmbătă'];
+            const months = ['Ianuarie', 'Februarie', 'Martie', 'Aprilie', 'Mai', 'Iunie', 'Iulie', 'August', 'Septembrie', 'Octombrie', 'Noiembrie', 'Decembrie'];
+            document.getElementById('currentDate').textContent = days[now.getDay()] + ', ' + now.getDate() + ' ' + months[now.getMonth()] + ' ' + now.getFullYear() + ' | România';
+            document.getElementById('time').textContent = now.toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit' });
+            document.getElementById('day').textContent = days[now.getDay()];
+        }
+        updateDateTime();
+        setInterval(updateDateTime, 60000);
+
+        // Cached API calls (1 hour)
+        const CACHE_DURATION = 60 * 60 * 1000; // 1 hour
+        
+        function fetchWithCache(url, key, updateFn) {
+            const cached = localStorage.getItem(key);
+            if (cached) {
+                const data = JSON.parse(cached);
+                if (Date.now() - data.timestamp < CACHE_DURATION) {
+                    updateFn(data.value);
+                    return;
+                }
+            }
+            fetch(url).then(r => r.json()).then(d => {
+                localStorage.setItem(key, JSON.stringify({ timestamp: Date.now(), value: d }));
+                updateFn(d);
+            }).catch(() => {});
+        }
+        
+        fetchWithCache('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true', 'azinews_weather', 
+            d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        fetchWithCache('https://api.frankfurter.app/latest?from=EUR&to=RON', 'azinews_eur',
+            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON; });
+        fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
+            d => { document.getElementById('usd').textContent = d.rates.RON; });
+
+        const audio = document.getElementById('radioPlayer');
+        audio.volume = 0.15;
+        audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
+
+        const horoscope = [
+            { sign: "Săgetător", msg: "Libertate personală" },
+            { sign: "Leu", msg: "Strălucești în orice situație" },
+            { sign: "Balanță", msg: "Relații armonioase" },
+            { sign: "Taur", msg: "Conexiuni emoționale puternice" },
+            { sign: "Pești", msg: "Compasiune profundă" },
+            { sign: "Vărsător", msg: "Viitor luminos" },
+            { sign: "Scorpion", msg: "Putere și determinare" },
+            { sign: "Gemeni", msg: "Comunicare excelentă" },
+            { sign: "Berbec", msg: "Momente favoabile în relații" },
+            { sign: "Fecioară", msg: "Analiză profundă" },
+            { sign: "Capricorn", msg: "Succes garantat" },
+            { sign: "Rac", msg: "Timp prețios cu familia" },
+        ];
+        horoscope.forEach(h => {
+            document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
+        });
+
+        // Știri Digi24 + Mediafax - actualizate zilnic de cron
+        const news = [
+    { source: 'Europa FM', url: 'https://www.europafm.ro/sute-de-pesti-morti-in-raul-bistrita/', title: "Sute de pești morți în râul Bistrița. Reprezentanții Direcției Sanitar-Veterinare au recoltat probe &#124; AUDIO", image: 'https://www.europafm.ro/wp-content/uploads/2026/03/46a3fec6-a44f-4e22-a765-c0637632fdc0-200x200.jpg', content: "Mortalitate piscicolă semnalată în aval de Barajul Reconstrucția, din Piatra-Neamț. Reprezentanții Direcției Sanitar-Veterinare au recoltat probe din peștii morți, care vor fi analizate la laboratorul", time: 'Acum' },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/publicitate-advertorial/cele-mai-comandate-flori-de-8-martie-in-bucuresti-tendintele-primaverii-si-colectiile-atelierului-florens-5647759', title: "Cele mai comandate flori de 8 Martie în București. Tendințele primăverii și colecțiile Atelierului FLORENS™", image: 'https://static4.libertatea.ro/wp-content/uploads/2026/03/libertateacelemaicomandatefloride8martienbucuretitendineleprimveriiicoleciileatelieruluiflorenstm-620x349.jpg', content: "În fiecare an, în preajma zilei de 8 Martie, comenzile de flori explodează. Ziua Femeii e prilejul perfect pentru florarii să propună buchete mai elaborate, soiuri mai atent alese și livrare la interv", time: 'Acum' },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/rusia-reactioneaza-la-planul-lui-macron-privind-umbrela-nucleara-la-care-a-fost-invitata-si-romania-23697006', title: "Rusia reacționează la planul lui Macron privind „umbrela nucleară” la care a fost invitată și România", image: 'https://www.mediafax.ro//wp-content/uploads/2025/03/gebosxqwsaa9afr-1024x682.jpg', content: "Purtătoarea de cuvânt a Ministerului rus de Externe, Maria Zaharova, a comentat inițiativa anunțată de președintele Franței, Emmanuel Macron, privind o cooperare mai strânsă cu state europene interesa", time: 'Acum' },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/donald-trump-a-criticat-anumite-state-europene-pentru-felul-in-care-au-actionat-in-cazul-conflictului-din-iran-aau-reactionat-groaznic-nu-vrem-sa-avem-nimic-de-a-face-cu-spania/', title: "Donald Trump a criticat anumite state europene pentru felul în care au acționat în cazul conflictului din Iran: Au reacționat groaznic. Nu vrem să avem nimic de-a face cu Spania &#124; AUDIO", image: 'https://www.europafm.ro/wp-content/uploads/2026/02/Donald-Trump-Shutterstock-1-200x200.jpg', content: "Noi declarații ale președintelui american, Donald Trump. Acesta a criticat anumite state europene – printre care Spania și Marea Britanie – pentru felul în care au reacționat în cazul conflictului din", time: 'Acum' },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/stirile-zilei/nytimes-cum-a-ajuns-razboiul-din-iran-sa-sufoce-productia-mondiala-de-petrol-si-gaze-navele-au-ajuns-sa-isi-falsifice-locatiile-ce-efecte-sunt-23696980', title: "NYTimes: Cum a ajuns războiul din Iran să sufoce producția mondială de petrol și gaze. Navele au ajuns să își falsifice locațiile, ce efecte sunt", image: 'https://www.mediafax.ro//wp-content/uploads/2026/03/captura-de-ecran-din-2026-03-04-la-11-06-18-1024x944.png', content: "Jurnaliștii de la The New York Times prezintă astăzi, într-o amplă analiză, situația dificilă din Strâmtoarea Ormuz, controlată de Iran. Navele care operează mai multe industrii cheie mondiale sunt bl", time: 'Acum' },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/alunecare-de-teren-in-slatina-mai-multe-familii-au-fost-relocate/', title: "Alunecare de teren în Slatina. Mai multe familii au fost relocate &#124; AUDIO", image: 'https://www.europafm.ro/wp-content/uploads/2017/06/alunecare-de-teren-2-150x150.jpg', content: "Două case au fost afectate în urma alunecărilor de teren iar alte cinci  sunt în pericol din cauza instabilității solului. &#160; Alunecarea de teren de teren de pe strada Grădiște a fost semnalată de", time: 'Acum' },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/ungaria-organizeaza-primul-zbor-de-repatriere-din-iordania-87-de-persoane-inclusiv-doi-romani-vor-reveni-acasa-3659065', title: "Ungaria organizează primul zbor de repatriere din Iordania: 87 de persoane, inclusiv doi români, vor reveni acasă", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjA0JTJGMjYyMzEzMl8yNjIz/MTMyX0dldHR5SW1hZ2VzLTIxNzc2NjA4/MTIuanBnJmhhc2g9MGYwNGNkN2UzMmJlMWFlMjQyOWE0YWIxMDgxODJlN2U=.jpg', content: "Primul zbor de repatriere care va aduce acasă cetăţeni ungari blocaţi în Orientul Mijlociu din cauza războiului a plecat spre Iordania, a anunţat miercuri ministerul de externe ungar, Peter Szijjarto,", time: 'Acum' },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/publicitate-advertorial/cum-sa-alegi-un-casino-online-sigur-din-romania-5647752', title: "Cum să alegi un casino online sigur din România", image: 'https://static4.libertatea.ro/wp-content/uploads/2026/03/libertateacumsalegiuncasinoonlinesigurdinromnia-620x349.jpg', content: "Foto: totogaming.ro Nu e niciodată ușor să iei o decizie în ceea ce privește&#160;jocurile de noroc. Cum îți dai seama că un&#160;casino&#160;online din România&#160;e mai sigur sau mai bun decât altu", time: 'Acum' },
+    { source: 'Adevărul', url: 'https://adevarul.ro/stiri-externe/in-lume/vietile-luxoase-ale-influencerilor-din-dubai-date-2512572.html', title: "Viețile luxoase ale influencerilor din Dubai, date peste cap de atacurile Iranului: „Chiar e enervant, pentru că avem întâlniri”", image: 'https://cdn.adh.reperio.news/image-e/e87268e6-6981-4a70-89fc-92c776285e57/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg', content: "Loviturile iraniene au zdruncinat imaginea Dubaiului ca „oază de siguranță” și au expus contrastul dintre viața de lux afișată de influenceri și realitatea unui conflict care a ajuns, brusc, la ușa lo", time: 'Acum' },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/ana-barbosu-a-castigat-titlul-de-gimnasta-anului-2025/', title: "Ana Bărbosu a câștigat titlul de Gimnasta Anului 2025 &#124; AUDIO", image: 'https://www.europafm.ro/wp-content/uploads/2026/03/Ana-Barbosu-Inquam-Photos-George-Calin-200x200.jpg', content: "Ana Maria Bărbosu a câștigat titlul de Gimnasta Anului 2025, în campania lansată de forul european de profil. Anul trecut, Ana Maria Bărbosu (19 ani) a cucerit patru medalii la Campionatul European de", time: 'Acum' },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/mwc-2026-motorola-lansare-razr-fold-edge70-fusion-5647709', title: "MWC 2026: Motorola lansează razr fold, primul pliabil de top al companiei, dar și Edge70 Fusion, un smartphone cu o baterie uriașă", image: 'https://static4.libertatea.ro/wp-content/uploads/2026/03/motorola-razr-fold-620x362.jpg', content: "Motorola face o mișcare interesantă la început de 2026, extinzând brandul &#8222;razr&#8221; dincolo de zona telefoanelor flip. Compania a anunțat lansarea motorola razr fold, primul său dispozitiv pl", time: 'Acum' },
+    { source: 'Adevărul', url: 'https://adevarul.ro/stiri-interne/evenimente/tribunalul-bucuresti-admite-cererea-lui-dan-2512562.html', title: "Tribunalul București admite cererea lui Dan Voiculescu de rejudecare a dosarului ICA", image: 'https://cdn.adh.reperio.news/image-9/99ee6027-4d35-44ba-8b9f-4400fc53036a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg', content: "Tribunalul București a admis în principiu, miercuri, 4 martie, cererea depusă de Dan Voiculescu de rejudecare a dosarului ICA.", time: 'Acum' },
+    { source: 'Adevărul', url: 'https://adevarul.ro/stiri-externe/in-lume/mark-carney-despre-noul-razboi-din-orientul-2512578.html', title: "Mark Carney, despre noul război din Orientul Mijlociu: „Încă un eșec al ordinii internaționale”. Sprijin pentru SUA, dar cu rezerve", image: 'https://cdn.adh.reperio.news/image-9/9ac0678d-d908-4d14-a995-b922915691b3/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg', content: "", time: 'Acum' },
+    { source: 'Adevărul', url: 'https://adevarul.ro/sport/cupa-romaniei-la-fotbal-universitatea-cluj-prima-2512565.html', title: "Cupa României la fotbal: Universitatea Cluj, prima calificată în semifinale. Două „sferturi” se joacă miercuri", image: 'https://cdn.adh.reperio.news/image-f/f38a2ff3-65c0-4698-bc11-ee2d2682139d/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0.024%252C0.054%252C0.976%252C0.537%26f%3Djpeg&amp;file=image.jpeg', content: "Clujenii au eliminat-o pe Hermannstadt.", time: 'Acum' },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/cine-e-noul-nostradamus-care-a-prezis-atacurile-asupra-iranului-si-ce-avertizari-are-acum-23697007', title: "Cine e „noul Nostradamus&#8221; care a prezis atacurile asupra Iranului și ce avertizări are acum", image: 'https://www.mediafax.ro//wp-content/uploads/2026/03/craig-hamilton-parker-1024x853.jpg', content: "Craig Hamilton-Parker, cunoscut drept „noul Nostradamus\", susține că previziunile sale despre Iran s-au adeverit. Mediumul avertizează că urmează o nouă serie de atacuri.", time: 'Acum' },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/angajati-europeni-romani-parasesc-germania-criza-personal-5647641', title: "Angajații europeni, inclusiv români, părăsesc Germania: „Nu ne putem permite”", image: 'https://static4.libertatea.ro/wp-content/uploads/2026/03/lipsa-angajati-calificati-germania-spital-620x349.jpg', content: "Germania se confruntă cu o problemă tot mai mare: mulți lucrători din Uniunea Europeană, inclusiv români, aleg să părăsească țara, chiar dacă piața muncii are nevoie disperată de forță de muncă califi", time: 'Acum' },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/gazele-continua-sa-se-scumpeasca-in-europa-desi-trump-a-anuntat-un-plan-privind-stramtoarea-ormuz-3659073', title: "Gazele continuă să se scumpească în Europa, deși Trump a anunțat un plan privind Strâmtoarea Ormuz", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMSUyRjEwJTJGMjE2NDk2M18yMTY0/OTYzX0dhemUtbmF0dXJhbGVfLUZvdG8t/SW5xdWFtLVBob3Rvc09jdGF2LUdhbmVh/LmpwZyZoYXNoPTBhZWI5M2Q2MWM3NTVmNjk4NTdlOWY1NjI5ZTAyZTAz.jpg', content: "Preţurile de referinţă la gaze în Europa şi-au continuat creşterea miercuri dimineaţa, după ce marţi au atins cel mai ridicat nivel din ultimii trei ani din cauza războiului din Orientul Mijociu, ceea", time: 'Acum' },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/pedro-sanchez-il-sfideaza-pe-donald-trump-nu-razboiului-5647734', title: "Pedro Sánchez îl sfidează pe Donald Trump: Două vorbe, nu războiului", image: 'https://static4.libertatea.ro/wp-content/uploads/2026/03/pedro-sanchez-620x362.jpg', content: "Prim-ministrul spaniol Pedro Sánchez a răspuns cu fermitate amenințării președintelui american Donald Trump de a pune capăt comerțului cu Spania, declarându-și opoziția față de război și față de ceea ", time: 'Acum' },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/ccr-a-amanat-sesizarile-lui-nicusor-dan-privind-plajele-de-la-marea-neagra-si-legea-prosumatorilor-cand-vor-fi-discutate-3659071', title: "CCR a amânat sesizările lui Nicușor Dan privind plajele de la Marea Neagră și legea prosumatorilor. Când vor fi discutate", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOSUyRjI0JTJGMjM1OTU5OV8yMzU5/NTk5X1NFUF9DQ1JfSUxVU1RSQVRJRV8x/NF9JTlFVQU1fUGhvdG9zX09jdGF2X0dh/bmVhLmpwZyZoYXNoPTliYmQ0ZmM4M2QwNWE1NTQwMWRlNDc4NTU1ZDc3ZTlh.jpg', content: "Curtea Constituțională a amânat, miercuri, pentru data de 25 martie, pronunțarea pe două sesizări formulate de președintele Nicușor Dan, care vizează modificări legislative privind utilizarea plajelor", time: 'Acum' },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/stirile-zilei/peste-100-de-persoane-au-disparute-dupa-un-atac-asupra-unei-nave-iraniene-23697002', title: "Peste 100 de persoane au dispărute după un atac asupra unei nave iraniene", image: 'https://www.mediafax.ro//wp-content/uploads/2026/02/vapor-1024x644.jpg', content: "", time: 'Acum' },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/poluarea-este-asociata-cu-anxietatea-si-depresia-avertizeaza-agentia-europeana-de-mediu-23696985', title: "Poluarea este asociată cu anxietatea și depresia, avertizează Agenția Europeană de Mediu", image: 'https://www.mediafax.ro//wp-content/uploads/2026/03/sd-pictures-industry-1761801_1280-1024x682.jpg', content: "Poluarea mediului este asociată cu mai multe tulburări de sănătate mintală în Europa, a avertizat Agenția Europeană de Mediu (AEM), susținând că aplicarea legislației ar avea ca rezultat reducerea niv", time: 'Acum' },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/macron-loviturile-sua-si-israelului-asupra-iranului-sunt-in-afara-dreptului-international-23697004', title: "Macron: loviturile SUA și Israelului asupra Iranului sunt „în afara dreptului internațional”", image: 'https://www.mediafax.ro//wp-content/uploads/2025/05/index-1024x683.jpeg', content: "Emmanuel Macron, președintele francez, a calificat acțiunile militare întreprinse de Statele Unite și Israel împotriva Iranului drept „în afara normelor dreptului internațional”. Această poziție, expr", time: 'Acum' },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/sport/scm-ramnicu-valcea-anunta-transferul-internationalei-braziliene-de-handbal-tamires-morena-23697003', title: "SCM Râmnicu Vâlcea anunță transferul internaționalei braziliene de handbal, Tamires Morena", image: 'https://www.mediafax.ro//wp-content/uploads/2026/03/tamire-moreda-de-araujo-frossard-1024x1003.jpg', content: "Clubul SCM Râmnicu Vâlcea a anunțat miercuri transferul pivoului brazilian Tamires Morena de Araujo Frossard, componentă a naționalei Braziliei, care va evolua pentru formația vâlceană începând cu sez", time: 'Acum' },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/nato-nu-este-implicata-in-atacurile-sua-si-ale-israelului-in-iran-declara-mark-rutte-eliminarea-capabilitatilor-nucleare-neutralizarea-capacitatii-rachetelor-balistice-si-eliminarea-lideru/', title: "NATO nu este implicată în atacurile SUA și ale Israelului în Iran, declară Mark Rutte: „Eliminarea capabilităților nucleare, neutralizarea capacității rachetelor balistice și eliminarea liderului Ali Khamenei sunt aplaudate” &#124; AUDIO", image: 'https://www.europafm.ro/wp-content/uploads/2025/05/shutterstock_2524491697-200x200.jpg', content: "NATO nu este implicată în atacurile SUA și ale Israelului în Iran – declară secretarul general al Alianței, Mark Rutte. Sunt aliați care pun la dispoziția Statelor Unite spațiul aerian sau bazele mili", time: 'Acum' },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/moldova/stare-de-alerta-in-sectorul-energetic-din-republica-moldova-din-cauza-razboiului-din-orientul-mijlociu-anunta-chisinaul-3659105', title: "Stare de alertă în sectorul energetic din Republica Moldova din cauza războiului din Orientul Mijlociu, anunță Chișinăul", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNyUyRjI4JTJGMjMxNTczMl8yMzE1/NzMyX1BhcmxhbWVudHVsLVJlcHVibGlj/aWktTW9sZG92YV8tRm90by1Qcm9maW1l/ZGlhLmpwZyZoYXNoPTU5MjcxNGNiOWJhN2E1ZDAxOGY5N2IzNjczODdiZWIx.jpg', content: "Cabinetul de miniștri de la Chișinău a aprobat miercuri, 4 martie, instituirea stării de alertă în sectorul energetic, pe o perioadă de 60 de zile. Starea de alertă introduce măsuri preventive dedicat", time: 'Acum' },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/cel-mai-dur-atac-asupra-lui-donald-trump-chiar-din-america-minte-razboi-ilegal-iran-5647632', title: "Cel mai dur atac asupra lui Donald Trump, chiar din America: „Minte! Duce un război ilegal în Iran și nu are niciun plan să-i pună capăt”", image: 'https://static4.libertatea.ro/wp-content/uploads/2026/03/trump-atac-senatori-sua-620x362.jpg', content: "Senatorii democrați Ed Markey și Elizabeth Warren l-au criticat dur pe președintele Donald Trump după un briefing privat despre conflictul cu Iran, calificând războiul drept &#8222;ilegal&#8221; și su", time: 'Acum' },
+    { source: 'Adevărul', url: 'https://adevarul.ro/stiri-externe/in-lume/escorta-navala-promisa-de-trump-in-stramtoarea-2512558.html', title: "Escorta navală promisă de Trump în Strâmtoarea Hormuz nu calmează piețele: investitorii fug de risc", image: 'https://cdn.adh.reperio.news/image-e/ec930dc3-1646-48ca-9704-611547d25d79/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg', content: "Piețele bursiere globale au înregistrat noi scăderi miercuri, în pofida încercărilor președintelui american Donald Trump de a calma temerile privind o criză energetică în Strâmtoarea Hormuz.", time: 'Acum' },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/ue/regimul-lui-viktor-orban-este-pe-cale-de-disparitie-conform-ultimului-sondaj-publicat-la-budapesta-3659055', title: "Regimul lui Viktor Orban este pe cale de dispariție, conform ultimului sondaj publicat la Budapesta", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjExJTJGMjU4NjQ5OV8yNTg2/NDk5X29yYmFuLTEuanBnJmhhc2g9YmEw/NWU4NWU3ZTc3YjJjMGU0YmZjNjY4YjI4MzRiOGY=.jpg', content: "Partidul de centru-dreapta Tisza din Ungaria devansează partidul Fidesz al premierului Viktor Orban înaintea alegerilor din 12 aprilie, în timp ce partidul de extremă dreapta Our Homeland câștigă tere", time: 'Acum' },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/mapamond/razboi-in-orientul-mijlociu-ziua-5-sua-au-lovit-peste-1-700-de-tinte-in-iran-ali-khamenei-va-fi-inmormantat-in-mashhad-3658643', title: "Război în Orientul Mijlociu, Ziua 5. Mojtaba Khamenei, fiul fostului lider suprem al Iranului, a supraviețuit unui atac SUA-Israel", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjA0JTJGMjYyMDY0N18yNjIw/NjQ3X2lyYW4tdGVoZXJhbi0zLW1hcnRp/ZS0yMDI2LmpwZyZoYXNoPTFjYWM1OTA3NDM1NjkyZGUwNjJjNDlhYTYyNjU5NWIw.jpg', content: "Războiul în Orientul Mijlociu a intrat în a cincea zi, iar Statele Unite au anunțat că au lovit aproaape 2.000 de ținte în Iran de la debutul operațiunilor militare cu Israelul. Cea de-a patra zi a co", time: 'Acum' },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/campanie-nationala-de-promovare-a-vaccinarii-in-perioada-martie-aprilie/', title: "Campanie naţională de promovare a vaccinării în perioada martie-aprilie. Părinţii vor fi încurajați să își imunizeze copiii pentru a preveni infectarea cu boli grave &#124; AUDIO", image: 'https://www.europafm.ro/wp-content/uploads/2023/08/vaccinare-medic-shutterstockfoto-crop-200x200.jpg', content: "Vaccinarea copiilor previne infectarea cu boli grave ce pot duce la complicaţii severe, dizabilităţi sau chiar deces,  transmite Institutul Naţional de Sănătate Publică. &#160; Campania &#8220;Copil v", time: 'Acum' },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/premiera-kim-jong-un-si-a-facut-statuie-la-phenian-doar-liderii-morti-primeau-pana-acum-aceasta-onoare-3659053', title: "Premieră: Kim Jong Un și-a făcut statuie la Phenian. Doar liderii morți primeau până acum această onoare", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMCUyRjMwJTJGMjExNTg3Nl8yMTE1/ODc2X0tpbS1Kb25nLVVuLTQuanBnJmhh/c2g9ZDQ5OTlmYjAxOGM2MmU2NDAxMmUzZDZkMDlmMjlhOTQ=.jpg', content: "Coreea de Nord a prezentat recent o statuie a liderului său, Kim Jong Un, a anunţat miercuri Ministerul Unificării din Coreea de Sud, o onoare rezervată de obicei membrilor decedaţi ai dinastiei.", time: 'Acum' },
+    { source: 'Adevărul', url: 'https://adevarul.ro/stiri-externe/in-lume/garda-revolutionara-din-iran-sustine-ca-detine-2512559.html', title: "Garda Revoluționară din Iran susține că deține controlul total al Strâmtorii Ormuz", image: 'https://cdn.adh.reperio.news/image-c/c1b230bc-09e6-410d-9fce-ba88c599d16d/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg', content: "Corpul Gărzilor Revoluționare Iraniene (IRGC) a declarat că deține controlul deplin asupra Strâmtorii Ormuz, unde președintele Statelor Unite, Donald Trump, a afirmat că este pregătit să desfășoare ma", time: 'Acum' },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/entertainment/primele-imagini-de-la-insula-iubirii-2026-radu-valcan-a-ajuns-in-thailanda-5647704', title: "Primele imagini de la „Insula Iubirii” 2026. Radu Vâlcan a ajuns în Thailanda pentru filmările sezonului 10. „Am primit multe mesaje”", image: 'https://static4.libertatea.ro/wp-content/uploads/2026/03/radu-valcan-in-thailanda-620x362.jpg', content: "Radu Vâlcan, prezentatorul &#8222;Insula Iubirii&#8221; 2026, a ajuns dehja în Thailanda, acolo unde în curând încep filmările pentru sezonul 10, difuzat la Antena 1. Radu Vâlcan, gazda show-ului, a î", time: 'Acum' },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/reactia-chinei-dupa-amenintarile-lui-donald-trump-la-adresa-spaniei-3659117', title: "Reacția Chinei după ameninţările lui Donald Trump la adresa Spaniei", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNiUyRjAzJTJGMTk5MDQzMF8xOTkw/NDMwX3Byb2ZpbWVkaWEtMDc5MjAwMzQy/Mi5qcGcmaGFzaD1hYmYyNGMxNGE4YzJlMDNkM2E4ZDZmZGZhYzYyZDQyYg==.jpg', content: "China a respins miercuri ideea utilizării comerţului ca instrument de presiune politică, după ce preşedintele american Donald Trump a ameninţat că va întrerupe relaţiile comerciale cu Spania din cauza", time: 'Acum' },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/economic/bursele-europene-au-deschis-pe-plus-cu-ochii-pe-tensiunile-din-orientul-mijlociu-23696982', title: "Bursele europene au deschis pe plus, cu ochii pe tensiunile din Orientul Mijlociu", image: 'https://www.mediafax.ro//wp-content/uploads/2025/07/pexels-anna-nekrashevich-6802042-1024x647.jpg', content: "Piețele bursiere din Europa au înregistrat creșteri miercuri dimineață, investitorii urmărind cu atenție evoluțiile conflictului din Orientul Mijlociu și posibilele efecte asupra economiei globale, în", time: 'Acum' },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/analistul-de-politica-externa-mihai-isac-daca-razboiul-din-iran-se-va-prelungi-baza-de-la-mihail-kogalniceanu-poate-deveni-unul-dintre-punctele-importante-de-tranzit-pentru-fortele-american/', title: "Analistul de politică externă Mihai Isac: „Dacă războiul din Iran se va prelungi, baza de la Mihail Kogălniceanu poate deveni unul dintre punctele importante de tranzit pentru forțele americane” &#124; VIDEO", image: 'https://www.europafm.ro/wp-content/uploads/2026/03/Baza-militara-de-la-Mihail-Kogalniceanu-Inquam-Photos-George-Calin-200x200.jpg', content: "Atacurile americane și israeliene împotriva Iranului au dus la regionalizarea conflictului, după ce Teheranul a ripostat, lovind mai multe țări din Orientul Mijlociu. „Putem fi siguri că vom asista la", time: 'Acum' },
+    { source: 'Adevărul', url: 'https://adevarul.ro/stiri-externe/sua/cat-costa-razboiul-cu-iranul-cati-bani-a-cheltuit-2512571.html', title: "Cât costă războiul cu Iranul? Câți bani a cheltuit deja SUA în Israel și Orientul Mijlociu din 2023. Factura războiului crește, iar miza nu mai este doar financiară", image: 'https://cdn.adh.reperio.news/image-c/c0d7d091-55c6-4771-b9a9-0091ee138d6c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg', content: "Agenția Anadolu estimează că doar în primele 24 de ore ale Operațiunii „Epic Fury” SUA ar fi cheltuit aproximativ 779 de milioane de dolari. La această sumă s-ar adăuga circa 630 de milioane de dolari", time: 'Acum' },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/desteptarea-criza-parcarilor-din-romania-topul-oraselor-cu-cele-mai-mari-tarife-si-cele-mai-putine-locuri-de-parcare/', title: "DEȘTEPTAREA: Criza parcărilor din România. Topul orașelor cu cele mai mari tarife și cele mai puține locuri de parcare", image: 'https://www.europafm.ro/wp-content/uploads/2021/12/masini-parcare-unsplashfoto-200x200.jpg', content: "Criza parcărilor din marile orașe: tarife tot mai mari, locuri tot mai puține. Discutăm despre raportul Vegacomp Consulting, orașele cu cele mai scumpe parcări și strategiile primăriilor pentru gestio", time: 'Acum' },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/mai-mare-decat-titanoboa-cercetatorii-descoperit-uluiti-sarpe-monstruos-15-metri-5647692', title: "Mai mare decât Titanoboa: cercetătorii au descoperit uluiți un șarpe monstruos de 15 metri", image: 'https://static4.libertatea.ro/wp-content/uploads/2026/03/titanoboa-620x349.jpg', content: "Un nou gigant preistoric ar putea detrona Titanoboa, considerat până acum cel mai mare șarpe din istoria Pământului. Descoperirea speciei Vasuki indicus, anunțată în 2024, sugerează că această reptilă", time: 'Acum' },
+    { source: 'Adevărul', url: 'https://adevarul.ro/stiri-externe/in-lume/orice-succesor-al-liderului-suprem-al-iranului-va-2512544.html', title: "Israelul amenință că îi va ucide pe toți succesorii lui Ali Khamenei. Katz: „Am ordonat armatei să se pregătească”", image: 'https://cdn.adh.reperio.news/image-5/5d1c955d-ca4b-4e5d-99a5-309461bc9fcf/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg', content: "Israelul a transmis miercuri, 4 martie, că orice succesor al liderului suprem al Iranului, Ali Khamenei, va fi „o ţintă” destinată asasinării.", time: 'Acum' },
+];
+
+        function toggleNews(card) {
+            const wasExpanded = card.classList.contains('expanded');
+            document.querySelectorAll('.news-card').forEach(c => c.classList.remove('expanded'));
+            if (!wasExpanded) card.classList.add('expanded');
+        }
+
+        news.forEach(n => {
+            document.getElementById('newsGrid').innerHTML += `
+                <div class="news-card" onclick="toggleNews(this)">
+                    <img src="${n.image}" alt="${n.title}" class="news-image" onerror="this.style.display='none'">
+                    <div class="news-body">
+                        <div class="news-source-row">
+                        <div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div>
+                    </div>
+                        <div class="news-title">${n.title}</div>
+                        <div class="news-time">${n.time}</div>
+                        <div class="news-content">
+                            ${n.content}
+                            <div style="margin-top: 10px;"><a href="${n.url}" target="_blank" style="color: #58a6ff; text-decoration: none;">📎 Citește pe ${n.source}</a><button class="news-share" onclick="shareNews('${n.url}', '${n.title.replace("'", "\'")}', '${n.source}')" title="Share" style="margin-left: 10px;">↗️</button></div></div>
+                        </div>
+                        <div class="news-expand-hint">Click pentru detalii...</div>
+                    </div>
+                </div>`;
+        });
+
+        // Cookie consent
+        function checkCookieConsent() {
+            if (!localStorage.getItem('cookieConsent')) {
+                document.getElementById('cookieBanner').style.display = 'block';
+            }
+        }
+        function acceptCookies() {
+            localStorage.setItem('cookieConsent', 'accepted');
+            document.getElementById('cookieBanner').style.display = 'none';
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        }
+        function rejectCookies() {
+            localStorage.setItem('cookieConsent', 'rejected');
+            document.getElementById('cookieBanner').style.display = 'none';
+        }
+        checkCookieConsent();
+        
+        // Check for app update on iOS
+        const APP_VERSION = 'v3-' + new Date().getDate();
+        const lastVersion = localStorage.getItem('azinews_version');
+        
+        if (lastVersion !== APP_VERSION) {
+            localStorage.setItem('azinews_version', APP_VERSION);
+            // Clear old cache and reload
+            if ('caches' in window) {
+                caches.keys().then(keys => {
+                    keys.forEach(key => caches.delete(key));
+                });
+            }
+            window.location.reload();
+        }
+        
+        // Register Service Worker for PWA
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js')
+                .then(reg => console.log('SW registered'))
+                .catch(err => console.log('SW error', err));
+        }
+    </script>
+
+    <script>
+        function toggleTheme() {
+            document.body.classList.toggle('light-mode');
+            const isLight = document.body.classList.contains('light-mode');
+            localStorage.setItem('theme', isLight ? 'light' : 'dark');
+            document.querySelector('.theme-toggle').textContent = isLight ? '☀️' : '🌙';
+        }
+        
+        // Load saved theme
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'light') {
+            document.body.classList.add('light-mode');
+            document.querySelector('.theme-toggle').textContent = '☀️';
+        }
+    </script>
+
+    <script>
+        async function shareNews(url, title, source) {
+            const shareText = `${title} - ${source}`;
+            
+            if (navigator.share) {
+                // Mobile: use native share
+                try {
+                    await navigator.share({
+                        title: shareText,
+                        url: url
+                    });
+                } catch(e) {
+                    // User cancelled or error
+                }
+            } else {
+                // Desktop: copy to clipboard
+                try {
+                    await navigator.clipboard.writeText(url);
+                    alert('Link copiat în clipboard! 📋');
+                } catch(e) {
+                    // Fallback
+                    const input = document.createElement('input');
+                    input.value = url;
+                    document.body.appendChild(input);
+                    input.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(input);
+                    alert('Link copiat! 📋');
+                }
+            }
+        }
+    </script>
+</body>
+</html>
