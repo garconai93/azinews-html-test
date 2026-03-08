@@ -6,10 +6,42 @@ Extrage știri de pe Digi24, Mediafax, Europa FM, Libertatea, Adevărul
 import json
 import re
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
+from email.utils import parsedate_to_datetime
 
 HTML_FILE = Path(__file__).parent / "index.html"
+
+def parse_rss_time(pub_date_str):
+    """Parsează data din RSS și o convertește în format 'acum X'"""
+    if not pub_date_str:
+        return "Acum"
+    
+    try:
+        # Încearcă să parsezi data RSS
+        pub_date = parsedate_to_datetime(pub_date_str)
+        now = datetime.now(pub_date.tzinfo) if pub_date.tzinfo else datetime.now()
+        
+        diff = now - pub_date
+        minutes = diff.total_seconds() / 60
+        hours = minutes / 60
+        days = hours / 24
+        
+        if minutes < 1:
+            return "Acum"
+        elif minutes < 60:
+            mins = int(minutes)
+            return f"acum {mins} min"
+        elif hours < 24:
+            hrs = int(hours)
+            return f"acum {hrs} oră" if hrs == 1 else f"acum {hrs} ore"
+        elif days < 7:
+            zile = int(days)
+            return f"acum {zile} zi" if zile == 1 else f"acum {zile} zile"
+        else:
+            return pub_date.strftime("%d %b")
+    except Exception:
+        return "Acum"
 
 def fetch_digi24_news():
     """Preia știri de pe Digi24 RSS"""
@@ -35,6 +67,11 @@ def fetch_digi24_news():
             if not img_match:
                 img_match = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
             
+            # Extrage data publicării
+            pubdate_match = re.search(r'<pubDate>(.*?)</pubDate>', item)
+            pubdate = pubdate_match.group(1).strip() if pubdate_match else ""
+            news_time = parse_rss_time(pubdate)
+            
             if title_match and link_match:
                 title = title_match.group(1).strip()
                 link = link_match.group(1).strip()
@@ -48,7 +85,7 @@ def fetch_digi24_news():
                     "title": title,
                     "image": img,
                     "content": desc,
-                    "time": "Acum"
+                    "time": news_time
                 })
     except Exception as e:
         print(f"Eroare Digi24: {e}")
@@ -80,6 +117,11 @@ def fetch_mediafax_news():
             if not img_match:
                 img_match = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
             
+            # Extrage data publicării
+            pubdate_match = re.search(r'<pubDate>(.*?)</pubDate>', item)
+            pubdate = pubdate_match.group(1).strip() if pubdate_match else ""
+            news_time = parse_rss_time(pubdate)
+            
             if title_match and link_match:
                 title = title_match.group(1).strip()
                 link = link_match.group(1).strip()
@@ -93,7 +135,7 @@ def fetch_mediafax_news():
                     "title": title,
                     "image": img,
                     "content": desc,
-                    "time": "Acum"
+                    "time": news_time
                 })
     except Exception as e:
         print(f"Eroare Mediafax: {e}")
@@ -125,6 +167,11 @@ def fetch_europafm_news():
             if not img_match:
                 img_match = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
             
+            # Extrage data publicării
+            pubdate_match = re.search(r'<pubDate>(.*?)</pubDate>', item)
+            pubdate = pubdate_match.group(1).strip() if pubdate_match else ""
+            news_time = parse_rss_time(pubdate)
+            
             if title_match and link_match:
                 title = title_match.group(1).strip()
                 link = link_match.group(1).strip()
@@ -138,7 +185,7 @@ def fetch_europafm_news():
                     "title": title,
                     "image": img,
                     "content": desc,
-                    "time": "Acum"
+                    "time": news_time
                 })
     except Exception as e:
         print(f"Eroare Europa FM: {e}")
@@ -168,6 +215,11 @@ def fetch_libertatea_news():
             
             img_match = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
             
+            # Extrage data publicării
+            pubdate_match = re.search(r'<pubDate>(.*?)</pubDate>', item)
+            pubdate = pubdate_match.group(1).strip() if pubdate_match else ""
+            news_time = parse_rss_time(pubdate)
+            
             if title_match and link_match:
                 title = title_match.group(1).strip()
                 link = link_match.group(1).strip()
@@ -181,7 +233,7 @@ def fetch_libertatea_news():
                     "title": title,
                     "image": img,
                     "content": desc,
-                    "time": "Acum"
+                    "time": news_time
                 })
     except Exception as e:
         print(f"Eroare Libertatea: {e}")
@@ -211,6 +263,11 @@ def fetch_adevarul_news():
             
             img_match = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
             
+            # Extrage data publicării
+            pubdate_match = re.search(r'<pubDate>(.*?)</pubDate>', item)
+            pubdate = pubdate_match.group(1).strip() if pubdate_match else ""
+            news_time = parse_rss_time(pubdate)
+            
             if title_match and link_match:
                 title = title_match.group(1).strip()
                 link = link_match.group(1).strip()
@@ -224,7 +281,7 @@ def fetch_adevarul_news():
                     "title": title,
                     "image": img,
                     "content": desc,
-                    "time": "Acum"
+                    "time": news_time
                 })
     except Exception as e:
         print(f"Eroare Adevărul: {e}")
