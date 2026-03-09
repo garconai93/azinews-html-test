@@ -123,21 +123,35 @@
             width: 50px;
             height: 50px;
             cursor: pointer;
-            font-size: 1.5rem;
             display: flex;
             align-items: center;
             justify-content: center;
             z-index: 1001;
             transition: all 0.3s;
+            padding: 0;
+        }
+
+        .menu-toggle svg {
+            width: 24px;
+            height: 24px;
+            fill: var(--text-primary);
         }
 
         .menu-toggle:hover {
             border-color: var(--accent);
         }
 
+        .menu-toggle:hover svg {
+            fill: var(--accent);
+        }
+
         .menu-toggle.active {
             background: var(--accent);
-            color: var(--bg-primary);
+            border-color: var(--accent);
+        }
+
+        .menu-toggle.active svg {
+            fill: var(--bg-primary);
         }
 
         /* Dropdown menu */
@@ -317,7 +331,11 @@
 </head>
 <body>
     <button class="theme-toggle" onclick="toggleTheme()" title="Dark/Light Mode">🌙</button>
-    <button class="menu-toggle" onclick="toggleMenu()" title="Filtrează știrile">☰</button>
+    <button class="menu-toggle" onclick="toggleMenu()" title="Filtrează știrile">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+    </button>
     
     <!-- Dropdown Menu -->
     <div class="menu-dropdown" id="menuDropdown">
