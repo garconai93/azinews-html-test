@@ -884,7 +884,7 @@
                     };
                     
                     const keywords = categoryKeywords[value] || [];
-                    show = keywords.some(kw => text.includes(kw));
+                    show = keywords.some(kw => text.toLowerCase().includes(kw.toLowerCase()));
                 }
                 
                 card.style.display = show ? 'block' : 'none';
