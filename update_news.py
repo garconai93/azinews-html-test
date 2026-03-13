@@ -32,6 +32,7 @@ def fetch_news(source_name, url):
         for item in root.findall('.//item')[:10]:
             title_elem = item.find('title')
             link_elem = item.find('link')
+            pubdate_elem = item.find('pubDate')
             enclosure = item.find('enclosure')
             
             image_url = ""
@@ -55,11 +56,24 @@ def fetch_news(source_name, url):
                 # Clean title
                 title = re.sub(r'<[^>]+>', '', title)
                 
+                # Parse time from pubDate
+                time_str = ""
+                if pubdate_elem is not None and pubdate_elem.text:
+                    try:
+                        pubdate = pubdate_elem.text
+                        # Extract time from RFC 2822 format: "Fri, 13 Mar 2026 15:34:11 +0200"
+                        time_match = re.search(r'(\d{1,2}:\d{2})', pubdate)
+                        if time_match:
+                            time_str = time_match.group(1)
+                    except:
+                        pass
+                
                 news.append({
                     "source": source_name,
                     "url": link,
                     "title": title[:150],
-                    "image": image_url
+                    "image": image_url,
+                    "time": time_str
                 })
                 
     except Exception as e:
@@ -74,10 +88,15 @@ def update_index_html(all_news):
     for item in all_news:
         title_escaped = item['title'].replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
         image = item.get('image', '')
+        time_str = item.get('time', '')
+        
+        news_item = f"    {{ source: '{item['source']}', url: '{item['url']}', title: \"{title_escaped}\""
         if image:
-            news_js += f"    {{ source: '{item['source']}', url: '{item['url']}', title: \"{title_escaped}\", image: \"{image}\" }},\n"
-        else:
-            news_js += f"    {{ source: '{item['source']}', url: '{item['url']}', title: \"{title_escaped}\" }},\n"
+            news_item += f', image: "{image}"'
+        if time_str:
+            news_item += f', time: "{time_str}"'
+        news_item += " },\n"
+        news_js += news_item
     news_js = news_js.rstrip(',\n') + "\n];"
     
     # Read current index.html
