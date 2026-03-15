@@ -1,3 +1,4 @@
+# Auto-update AziNews every hour
 name: AziNews Update
 
 on:
