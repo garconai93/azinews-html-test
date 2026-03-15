@@ -33,4 +33,4 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add .
           git diff --staged --quiet || git commit -m "Auto-update: $(date)"
-          git push
+          git push origin master:gh-pages
