@@ -2,7 +2,7 @@ name: AziNews Update
 
 on:
   schedule:
-    - cron: '42 * * * *'  # Every hour at minute 42
+    - cron: '42 * * * *'  # Every hour at minute 42 (updated)
   workflow_dispatch:
 
 jobs:

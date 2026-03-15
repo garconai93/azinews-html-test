@@ -2,7 +2,7 @@ name: Horoscop Zilnic
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 6:00 Bucharest = 4:00 UTC
+    - cron: '42 4 * * *'  # 6:42 Bucharest = 4:42 UTC
   workflow_dispatch:
 
 jobs:
