@@ -8,30 +8,27 @@ from datetime import datetime
 with open('index.html', 'r', encoding='utf-8') as f:
     content = f.read()
 
-# Extract news array
-match = re.search(r'const news = \[(.*?)\];', content, re.DOTALL)
-if not match:
-    print("No news found!")
-    exit(1)
-
-news_text = match.group(1)
-
-# Parse news items
 news_items = []
-# Match news items with optional fields
-item_pattern = r"{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\"(?:, image: \"([^\"]*)\")?(?:, time: \"([^\"]*)\")?(?:, content: \"([^\"]*)\")?"
 
-for m in re.finditer(item_pattern, news_text):
-    source = m.group(1)
-    url = m.group(2)
-    title = m.group(3) or ""
-    # Decode HTML entities
-    title = title.replace('&#8222;', '"').replace('&#8221;', '"').replace('&#8217;', "'").replace('&#8211;', '–')
-    news_items.append({
-        'source': source,
-        'url': url,
-        'title': title
-    })
+# Try new static HTML format first
+news_cards = re.findall(r'<div class="news-card"[^>]*data-url="([^"]+)"[^>]*>.*?<div class="news-source"><a[^>]*>([^<]+)</a>.*?<div class="news-title">([^<]+)</div>', content, re.DOTALL)
+
+if news_cards:
+    for url, source, title in news_cards:
+        title = re.sub(r'<[^>]+>', '', title).strip()
+        title = title.replace('&#8222;', '"').replace('&#8221;', '"').replace('&#8217;', "'").replace('&#8211;', '–')
+        news_items.append({'source': source.strip(), 'url': url.strip(), 'title': title})
+
+# Fallback: try old JS array format
+if not news_items:
+    match = re.search(r'const news = \[(.*?)\];', content, re.DOTALL)
+    if match:
+        news_text = match.group(1)
+        item_pattern = r"{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\""
+        for m in re.finditer(item_pattern, news_text):
+            source, url, title = m.groups()
+            title = title.replace('&#8222;', '"').replace('&#8221;', '"').replace('&#8217;', "'").replace('&#8211;', '–')
+            news_items.append({'source': source, 'url': url, 'title': title})
 
 if not news_items:
     print("No news found!")
