@@ -18,10 +18,13 @@ news_text = match.group(1)
 
 # Parse news items
 news_items = []
-item_pattern = r"{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\""
+# Match news items with optional fields
+item_pattern = r"{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\"(?:, image: \"([^\"]*)\")?(?:, time: \"([^\"]*)\")?(?:, content: \"([^\"]*)\")?"
 
 for m in re.finditer(item_pattern, news_text):
-    source, url, title = m.groups()
+    source = m.group(1)
+    url = m.group(2)
+    title = m.group(3) or ""
     # Decode HTML entities
     title = title.replace('&#8222;', '"').replace('&#8221;', '"').replace('&#8217;', "'").replace('&#8211;', '–')
     news_items.append({
@@ -29,6 +32,10 @@ for m in re.finditer(item_pattern, news_text):
         'url': url,
         'title': title
     })
+
+if not news_items:
+    print("No news found!")
+    exit(0)  # Don't fail, just skip
 
 # Generate RSS
 rss = '''<?xml version="1.0" encoding="UTF-8"?>
