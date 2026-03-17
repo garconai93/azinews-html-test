@@ -33,21 +33,32 @@
             --accent: #58a6ff;
         }
         
+        html.light-mode, body.light-mode {
+            background: #ffffff;
+        }
+        
         body.light-mode {
             --bg-primary: #ffffff;
-            --bg-secondary: #f6f8fa;
-            --bg-tertiary: #eaeef2;
-            --border-color: #d0d7de;
-            --text-primary: #1f2328;
-            --text-secondary: #656d76;
-            --accent: #0969da;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f0f0f0;
+            --border-color: #000000;
+            --text-primary: #000000;
+            --text-secondary: #333333;
+            --accent: #000000;
         }
         
         body.light-mode .card, 
         body.light-mode .news-card,
         body.light-mode .horoscope-item,
         body.light-mode .radio-section,
-        body.light-mode .disclaimer,
+        body.light-mode .disclaimer, body.light-mode .forecast-section { background: #ffffff; }
+        body.light-mode .forecast-day { background: #f5f5f5;
+        }
+        
+        body.light-mode .forecast-day-name,
+        body.light-mode .forecast-temp-min { color: #000000 !important; }
+        
+        body.light-mode .forecast-temp { color: #000000 !important; }
         body.light-mode .cookie-banner {
             background: var(--bg-secondary);
             border-color: var(--border-color);
@@ -57,6 +68,7 @@
         body.light-mode footer,
         body.light-mode .section h2 {
             border-color: var(--border-color);
+            color: #000000 !important;
         }
         
         body.light-mode header h1,
@@ -64,7 +76,7 @@
         body.light-mode .card-value,
         body.light-mode .horoscope-sign,
         body.light-mode .radio-title {
-            color: var(--text-primary);
+            color: #000000 !important;
         }
         
         body.light-mode .date,
@@ -74,8 +86,10 @@
         body.light-mode .news-time,
         body.light-mode .news-content,
         body.light-mode .horoscope-msg,
-        body.light-mode footer {
-            color: var(--text-secondary);
+        body.light-mode footer,
+        body.light-mode .menu-option,
+        body.light-mode .menu-section-title {
+            color: #000000 !important;
         }
         
         .theme-toggle {
@@ -98,6 +112,122 @@
         
         .theme-toggle:hover {
             border-color: var(--accent);
+        }
+
+        /* Menu button (left side) */
+        .menu-toggle {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1001;
+            transition: all 0.3s;
+            padding: 0;
+        }
+
+        .menu-toggle svg {
+            width: 24px;
+            height: 24px;
+            fill: var(--text-primary);
+        }
+
+        .menu-toggle:hover {
+            border-color: var(--accent);
+        }
+
+        .menu-toggle:hover svg {
+            fill: var(--accent);
+        }
+
+        .menu-toggle.active {
+            background: var(--accent);
+            border-color: var(--accent);
+        }
+
+        .menu-toggle.active svg {
+            fill: var(--bg-primary);
+        }
+
+        /* Dropdown menu */
+        .menu-dropdown {
+            display: none;
+            position: fixed;
+            top: 80px;
+            left: 20px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 15px;
+            z-index: 1002;
+            min-width: 220px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        }
+
+        .menu-dropdown.show {
+            display: block;
+        }
+
+        .menu-section {
+            margin-bottom: 15px;
+        }
+
+        .menu-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .menu-section-title {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .menu-options {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .menu-option {
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 6px 12px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .menu-option:hover {
+            border-color: var(--accent);
+        }
+
+        .menu-option.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+            border-color: var(--accent);
+        }
+
+        .menu-reset {
+            width: 100%;
+            text-align: center;
+            background: transparent;
+            border: 1px dashed var(--border-color);
+            margin-top: 10px;
+        }
+
+        .menu-reset:hover {
+            border-color: var(--accent);
+            border-style: solid;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -182,6 +312,13 @@
         .cookie-banner { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #161b22; border-top: 1px solid #30363d; padding: 20px; text-align: center; z-index: 1000; }
         .cookie-banner p { margin: 0 0 15px 0; color: #8b949e; font-size: 0.9rem; }
         .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; margin: 0 5px; }
+        
+        .forecast-section { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; padding: 15px; background: #161b22; border-radius: 12px; margin-top: 10px; }
+        .forecast-day { text-align: center; padding: 10px; background: #21262d; border-radius: 8px; cursor: pointer; }
+        .forecast-day-name { font-size: 12px; color: #8b949e; margin-bottom: 5px; }
+        .forecast-temp { font-size: 14px; font-weight: bold; color: #f0f6fc; }
+        .forecast-temp-min { font-size: 12px; color: #8b949e; }
+        .forecast-info { font-size: 10px; color: #58a6ff; margin-top: 5px; }
         .cookie-banner button:hover { background: #4393e6; }
         .cookie-banner .reject { background: #333; }
         .cookie-banner .reject:hover { background: #444; }
@@ -196,6 +333,26 @@
 </head>
 <body>
     <button class="theme-toggle" onclick="toggleTheme()" title="Dark/Light Mode">🌙</button>
+    <button class="menu-toggle" onclick="toggleMenu()" title="Filtrează știrile">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+    </button>
+    
+    <!-- Dropdown Menu -->
+    <div class="menu-dropdown" id="menuDropdown">
+        <div class="menu-section">
+            <div class="menu-section-title">Surse</div>
+            <div class="menu-options">
+                <div class="menu-option" data-source="Digi24" onclick="filterNews('source', 'Digi24', this)">Digi24</div>
+                <div class="menu-option" data-source="Mediafax" onclick="filterNews('source', 'Mediafax', this)">Mediafax</div>
+                <div class="menu-option" data-source="Europa FM" onclick="filterNews('source', 'Europa FM', this)">Europa FM</div>
+                <div class="menu-option" data-source="Libertatea" onclick="filterNews('source', 'Libertatea', this)">Libertatea</div>
+                <div class="menu-option" data-source="Adevarul" onclick="filterNews('source', 'Adevarul', this)">Adevărul</div>
+            </div>
+        </div>
+        <div class="menu-option menu-reset" onclick="resetFilters()">🔄 Arată toate știrile</div>
+    </div>
     <header>
         <div class="container">
             <h1>AziNews</h1>
@@ -211,31 +368,40 @@
 
     <div class="container">
         <div class="info-cards">
-            <div class="card">
+            <div class="card" onclick="toggleWeatherForecast()" style="cursor: pointer;">
                 <div class="card-icon">☀️</div>
-                <div class="card-title">Vremea</div>
+                <div class="card-title">Vremea <span style="font-size:10px;">▼</span></div>
                 <div class="card-value" id="weather">--°C</div>
-                <div class="card-sub">București</div>
-            </div>
-            <div class="card">
-                <div class="card-icon">🕐</div>
-                <div class="card-title">Ora</div>
-                <div class="card-value" id="time">--:--</div>
-                <div class="card-sub" id="day">--</div>
-            </div>
-            <div class="card">
-                <div class="card-icon">💰</div>
-                <div class="card-title">Curs</div>
-                <div class="card-value" id="eur">€ --</div>
-                <div class="card-sub">USD: $<span id="usd">--</span></div>
-            </div>
-            <div class="card">
-                <div class="card-icon">⛽</div>
-                <div class="card-title">Carburant</div>
-                <div class="card-value" style="font-size: 1rem;">
-                    B: <span id="benzina">7.92</span> RON<br>
-                    M: <span id="motorina">8.29</span> RON
+                <div class="card-sub">
+                    <input type="text" id="city-search" placeholder="Caută oraș..." 
+                           style="background:transparent;border:none;color:inherit;font-size:14px;width:100%;padding:2px;text-align:center;"
+                           onclick="event.stopPropagation(); showCityDropdown()"
+                           onkeyup="searchCity(this.value)">
+                    <div id="city-dropdown" style="display:none;position:absolute;background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:8px;padding:8px;z-index:1000;max-height:200px;overflow-y:auto;width:180px;">
+                    </div>
                 </div>
+            </div>
+            <div id="weather-forecast" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
+            <div class="card" onclick="toggleCurrencyRates()" style="cursor: pointer;">
+                <div class="card-icon">💰</div>
+                <div class="card-title">Curs <span style="font-size:10px;">▼</span></div>
+                <div class="card-value" id="eur">€ --</div>
+                <div class="card-sub">$ <span id="usd">--</span> RON</div>
+            </div>
+            <div id="currency-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
+            <div class="card" onclick="toggleCryptoRates()" style="cursor: pointer;">
+                <div class="card-icon">₿</div>
+                <div class="card-title">Crypto <span style="font-size:10px;">▼</span></div>
+                <div class="card-value" id="btc">BTC: $--</div>
+                <div class="card-sub">ETH: $<span id="eth">--</span></div>
+            </div>
+            <div id="crypto-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
+            <div class="card">
+                <div class="card-icon">📸</div>
+                <div class="card-title">Wiki Photo Day</div>
+                <a id="pod-link" href="#" target="_blank">
+                    <img id="pod-image" src="" alt="Wikipedia Picture of the Day" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; display: none; cursor: pointer;">
+                </a>
             </div>
         </div>
 
@@ -255,7 +421,7 @@
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
 
-        <div class="section">
+        <div class="section news-section">
             <h2>Știri din România</h2>
             <div class="news-grid" id="newsGrid"></div>
         </div>
@@ -300,20 +466,19 @@
             const days = ['Duminică', 'Luni', 'Marți', 'Miercuri', 'Joi', 'Vineri', 'Sâmbătă'];
             const months = ['Ianuarie', 'Februarie', 'Martie', 'Aprilie', 'Mai', 'Iunie', 'Iulie', 'August', 'Septembrie', 'Octombrie', 'Noiembrie', 'Decembrie'];
             document.getElementById('currentDate').textContent = days[now.getDay()] + ', ' + now.getDate() + ' ' + months[now.getMonth()] + ' ' + now.getFullYear() + ' | România';
-            document.getElementById('time').textContent = now.toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit' });
-            document.getElementById('day').textContent = days[now.getDay()];
         }
         updateDateTime();
         setInterval(updateDateTime, 60000);
 
         // Cached API calls (1 hour)
         const CACHE_DURATION = 60 * 60 * 1000; // 1 hour
+        const LONG_CACHE = 24 * 60 * 60 * 1000; // 24 ore pentru crypto
         
-        function fetchWithCache(url, key, updateFn) {
+        function fetchWithCache(url, key, updateFn, duration = CACHE_DURATION) {
             const cached = localStorage.getItem(key);
             if (cached) {
                 const data = JSON.parse(cached);
-                if (Date.now() - data.timestamp < CACHE_DURATION) {
+                if (Date.now() - data.timestamp < duration) {
                     updateFn(data.value);
                     return;
                 }
@@ -326,28 +491,221 @@
         
         fetchWithCache('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true', 'azinews_weather', 
             d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        
+        // Weather search by city
+        let currentCity = { name: 'București', lat: 44.43, lon: 26.10 };
+        
+        function showCityDropdown() {
+            const dropdown = document.getElementById('city-dropdown');
+            dropdown.style.display = 'block';
+            dropdown.innerHTML = getCityButtons();
+        }
+        
+        function getCityButtons() {
+            const cities = [
+                {name: 'București', lat: 44.43, lon: 26.10},
+                {name: 'Cluj-Napoca', lat: 46.77, lon: 23.60},
+                {name: 'Timișoara', lat: 45.75, lon: 21.23},
+                {name: 'Iași', lat: 47.16, lon: 27.59},
+                {name: 'Constanța', lat: 44.18, lon: 28.65},
+                {name: 'Craiova', lat: 44.32, lon: 23.80},
+                {name: 'Brașov', lat: 45.64, lon: 25.59},
+                {name: 'Galați', lat: 45.42, lon: 28.04},
+                {name: 'Ploiești', lat: 44.94, lon: 26.02},
+                {name: 'Oradea', lat: 47.06, lon: 21.92}
+            ];
+            return cities.map(c => `<div onclick="selectCity('${c.name}', ${c.lat}, ${c.lon})" 
+                style="padding:8px;cursor:pointer;border-radius:4px;hover:background:var(--bg-tertiary)">📍 ${c.name}</div>`).join('');
+        }
+        
+        function searchCity(query) {
+            const dropdown = document.getElementById('city-dropdown');
+            if (query.length < 2) {
+                dropdown.innerHTML = getCityButtons();
+                return;
+            }
+            fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(query)}&count=5&language=ro&format=json`)
+                .then(r => r.json()).then(d => {
+                    if (d.results) {
+                        dropdown.innerHTML = d.results.map(c => `<div onclick="selectCity('${c.name}', ${c.latitude}, ${c.longitude})" 
+                            style="padding:8px;cursor:pointer;">📍 ${c.name}, ${c.country}</div>`).join('');
+                    }
+                });
+        }
+        
+        function selectCity(name, lat, lon) {
+            currentCity = { name: name, lat: lat, lon: lon };
+            document.getElementById('city-search').value = name;
+            document.getElementById('city-dropdown').style.display = 'none';
+            // Update weather
+            fetchWithCache(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`, 'azinews_weather_' + name, 
+                d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+            // Save to localStorage
+            localStorage.setItem('azinews_city', JSON.stringify(currentCity));
+        }
+        
+        // Load saved city
+        const savedCity = localStorage.getItem('azinews_city');
+        if (savedCity) {
+            currentCity = JSON.parse(savedCity);
+            document.getElementById('city-search').value = currentCity.name;
+            fetchWithCache(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&current_weather=true`, 'azinews_weather', 
+                d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        }
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            const dropdown = document.getElementById('city-dropdown');
+            const input = document.getElementById('city-search');
+            if (!dropdown.contains(e.target) && e.target !== input) {
+                dropdown.style.display = 'none';
+            }
+        });
+        
+        // Weather 7-day forecast
+        let weatherForecastLoaded = false;
+        function toggleWeatherForecast() {
+            const el = document.getElementById('weather-forecast');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!weatherForecastLoaded) {
+                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=auto`)
+                        .then(r => r.json()).then(d => {
+                            const days = ['Dum', 'Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm'];
+                            let html = '';
+                            d.daily.time.forEach((date, i) => {
+                                const dayName = days[new Date(date).getDay()];
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${dayName}</div>
+                                    <div class="forecast-temp">${d.daily.temperature_2m_max[i]}°</div>
+                                    <div class="forecast-temp-min">${d.daily.temperature_2m_min[i]}°</div>
+                                    <div class="forecast-info">💧 ${d.daily.precipitation_sum[i]}mm</div>
+                                    <div class="forecast-info">💨 ${d.daily.wind_speed_10m_max[i]}km/h</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            weatherForecastLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
+        
+        // Currency rates - multiple currencies
+        let currencyRatesLoaded = false;
+        function toggleCurrencyRates() {
+            const el = document.getElementById('currency-rates');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!currencyRatesLoaded) {
+                    fetch('https://api.frankfurter.app/latest?from=RON&to=EUR,USD,GBP,CHF,HUF,PLN,CZK,TRY')
+                        .then(r => r.json()).then(data => {
+                            const flags = { EUR: '🇪🇺', USD: '🇺🇸', GBP: '🇬🇧', CHF: '🇨🇭', HUF: '🇭🇺', PLN: '🇵🇱', CZK: '🇨🇿', TRY: '🇹🇷' };
+                            const names = { EUR: 'Euro', USD: 'Dolar', GBP: 'Lira', CHF: 'Franco', HUF: 'Forint', PLN: 'Zlot', CZK: 'Coroana', TRY: 'Lira' };
+                            const currencies = ['EUR', 'USD', 'GBP', 'CHF', 'HUF', 'PLN', 'CZK', 'TRY'];
+                            let html = '';
+                            currencies.forEach(c => {
+                                const rate = (1 / data.rates[c]).toFixed(4);
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${flags[c]} ${c}</div>
+                                    <div class="forecast-temp">${rate} RON</div>
+                                    <div class="forecast-info">${names[c]}</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            currencyRatesLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
+        
+        fetchWithCache('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd', 'azinews_crypto',
+            d => { 
+                document.getElementById('btc').textContent = 'BTC: $' + d.bitcoin.usd.toLocaleString(); 
+                document.getElementById('eth').textContent = d.ethereum.usd.toLocaleString(); 
+            }, LONG_CACHE);
+        
         fetchWithCache('https://api.frankfurter.app/latest?from=EUR&to=RON', 'azinews_eur',
-            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON; });
+            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON + ' RON'; });
         fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
             d => { document.getElementById('usd').textContent = d.rates.RON; });
+
+        // Crypto - top 8 coins
+        let cryptoRatesLoaded = false;
+        function toggleCryptoRates() {
+            const el = document.getElementById('crypto-rates');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!cryptoRatesLoaded) {
+                    fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,binancecoin,solana,ripple,cardano,dogecoin,polkadot&order=market_cap_desc&sparkline=false&price_change_percentage=24h')
+                        .then(r => r.json()).then(data => {
+                            const icons = { bitcoin: '₿', ethereum: 'Ξ', binancecoin: 'B', solana: 'S', ripple: 'X', cardano: 'A', dogecoin: 'Ð', polkadot: '●' };
+                            let html = '';
+                            data.forEach(coin => {
+                                const change = coin.price_change_percentage_24h.toFixed(2);
+                                const color = change >= 0 ? '#3fb950' : '#f85149';
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${icons[coin.id]} ${coin.symbol.toUpperCase()}</div>
+                                    <div class="forecast-temp">$${coin.current_price.toLocaleString()}</div>
+                                    <div class="forecast-info" style="color:${color}">${change >= 0 ? '▲' : '▼'} ${Math.abs(change)}%</div>
+                                    <div class="forecast-info">MCap: $${(coin.market_cap/1e9).toFixed(1)}B</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            cryptoRatesLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
+
+        // Wikipedia Picture of the Day
+        const today = new Date();
+        const y = today.getFullYear();
+        const m = String(today.getMonth() + 1).padStart(2, '0');
+        const d = String(today.getDate()).padStart(2, '0');
+        fetch(`https://en.wikipedia.org/api/rest_v1/feed/featured/${y}/${m}/${d}`)
+            .then(r => r.json())
+            .then(data => {
+                // Try tfa first, then mostread, then onthisday
+                let tod = data.tfa;
+                if (!tod?.thumbnail && data.mostread?.articles) {
+                    tod = data.mostread.articles.find(a => a.thumbnail) || data.mostread.articles[0];
+                }
+                if (!tod?.thumbnail && data.onthisday) {
+                    tod = data.onthisday.find(a => a.thumbnail) || null;
+                }
+                if (tod && tod.thumbnail) {
+                    document.getElementById('pod-image').src = tod.thumbnail.source;
+                    document.getElementById('pod-image').style.display = 'block';
+                    const articleUrl = tod.content_urls?.desktop?.page || 
+                                      'https://en.wikipedia.org/wiki/' + encodeURIComponent(tod.title);
+                    document.getElementById('pod-link').href = articleUrl;
+                }
+            })
+            .catch(() => {});
 
         const audio = document.getElementById('radioPlayer');
         audio.volume = 0.15;
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Săgetător", msg: "Libertate personală" },
-            { sign: "Leu", msg: "Strălucești în orice situație" },
-            { sign: "Balanță", msg: "Relații armonioase" },
-            { sign: "Taur", msg: "Conexiuni emoționale puternice" },
-            { sign: "Pești", msg: "Compasiune profundă" },
-            { sign: "Vărsător", msg: "Viitor luminos" },
-            { sign: "Scorpion", msg: "Putere și determinare" },
-            { sign: "Gemeni", msg: "Comunicare excelentă" },
-            { sign: "Berbec", msg: "Momente favoabile în relații" },
-            { sign: "Fecioară", msg: "Analiză profundă" },
-            { sign: "Capricorn", msg: "Succes garantat" },
             { sign: "Rac", msg: "Timp prețios cu familia" },
+            { sign: "Berbec", msg: "Energie maximă, profită de ea" },
+            { sign: "Balanță", msg: "Justiție și fair-play" },
+            { sign: "Săgetător", msg: "Filozofie de viață" },
+            { sign: "Leu", msg: "Succes în afaceri" },
+            { sign: "Capricorn", msg: "Responsabilitate și disciplină" },
+            { sign: "Fecioară", msg: "Atenție la detalii" },
+            { sign: "Pești", msg: "Visatori romantici" },
+            { sign: "Taur", msg: "Progrese în carieră" },
+            { sign: "Vărsător", msg: "Viitor luminos" },
+            { sign: "Gemeni", msg: "Zi dinamică și interesantă" },
+            { sign: "Scorpion", msg: "Transformări pozitive" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
@@ -355,56 +713,56 @@
 
         // Știri Digi24 + Mediafax - actualizate zilnic de cron
         const news = [
-    { source: 'Adevarul', url: 'https://adevarul.ro/politica/usr-cere-desfiintarea-a-sase-institutii-printre-2515777.html', title: "USR cere desființarea a șase instituții, printre care Academia de Științe Medicale și Institutul Revoluției Române. Ghinea: „Sunt niște falsuri”", image: "https://cdn.adh.reperio.news/image-d/d050715e-8cd6-477d-a58e-1244e079286c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:25", content: "Parlamentarii USR au semnat şi depun şase proiecte de lege prin care solicită desfiinţarea mai multor instituţii, a anunţat luni senatorul Cristian..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/ucraina-domina-nato-exercitiu-portougalia-drone-maritime-magura-v7-5664486', title: "Soldații ucraineni au zdrobit trupele NATO folosind drone maritime Magura V7, într-un exercițiu naval", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/exercitul-nato-remus-2025-portugalia-620x349.jpg", time: "12:25", content: "Exercițiul naval NATO &#8222;REPMUS/Dynamic Messenger 2025&#8221; desfășurat în largul coastei Portugaliei a scos la iveală punctele slabe ale..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/stirile-zilei/uniunea-europeana-respinge-reluarea-acordurilor-energetice-cu-rusia-in-ciuda-cresterii-preturilor-23704602', title: "Uniunea Europeană respinge reluarea acordurilor energetice cu Rusia, în ciuda creșterii prețurilor", image: "https://www.mediafax.ro//wp-content/uploads/2026/01/8099998-hepta_mediafax_foto-dpa_hepta-1024x735.jpg", time: "10:05", content: "Șefa diplomației europene, Kaja Kallas, a anunțat că nu există deschidere din partea  blocului comunitar de a ajunge la o înțelegere energetică cu..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/reactia-ministrului-radu-miruta-dupa-amenintarile-teheranului-nu-exista-un-risc-suplimentar-exista-certitudinea-ca-scutul-de-la-deveselu-apara-romania-inclusiv-impotriva/', title: "Reacția ministrului Radu Miruță, după amenințările Teheranului: „Există certitudinea că scutul de la Deveselu apără România, inclusiv împotriva amenin", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Radu-Miruta-Inquam-Photos-George-Calin-200x200.jpg", time: "18:56", content: "Ministrul Apărării, Radu Miruță, spune că nu există informații că România ar fi în pericol după declarațiile amenințătoare făcute de ministrul de..." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/in-rusia-blocarea-retelei-telegram-se-apropie-de-80-de-ce-restrictioneaza-autoritatile-utilizarea-aplicatiei-3680543', title: "În Rusia, blocarea reţelei Telegram se apropie de 80%. De ce restricționează autoritățile utilizarea aplicației", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTMxOV8yNjQx/MzE5X1BUUTBNQ1pvWVhOb1BXUTFaalJq/Tnpsa05EUm1ZbVl4WlROaU16RXpOVEZp/TWpoaE5XUTVPRFV5X3RodW1iXy5qcGcm/aGFzaD1kNzEwZDU4Y2Y1NThjNWQwYTEyOTEwOTE1NmQyMzRlOA==.jpg", time: "12:34", content: "Blocarea reţelei de mesagerie Telegram de către autorităţile ruse se apropie deja de 80%, potrivit unui articol publicat marţi de ziarul Kommersant,..." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/politica/scandal-la-dezbaterea-bugetului-mapn-un-ales-al-opozitiei-a-dat-buzna-in-sedinta-miruta-a-facut-armata-atacuri-intre-pnl-si-psd-3680529', title: "Scandal la dezbaterea bugetului MApN. Un ales al Opoziției a dat buzna în ședință: „Miruță a făcut armata?”. Atacuri între PNL și PSD", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTM4OV8yNjQx/Mzg5X1NjcmVlbnNob3QtMjAyNi0wMy0x/Ny1hdC0xMl80Ml8wOS5wbmcmaGFzaD1i/NDQ1NTdmNTZmODM5NDI3NTVmNGE5ZTM4MjExN2IxZg==.png", time: "12:43", content: "Atmosferă tensionată la dezbaterea bugetului MApn în Parlament. Senatorul PACE Ninel Peia a mers la comisia pentru buget, unde ministrul Apărării..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/o-drona-a-militiilor-pro-iraniene-a-filmat-interiorul-ambasadei-sua-din-bagdad-dupa-seria-de-atacuri-23704591', title: "O dronă a milițiilor pro-iraniene a filmat interiorul Ambasadei SUA din Bagdad după seria de atacuri", image: "https://www.mediafax.ro//wp-content/uploads/2026/02/steag-sua-1024x685.jpg", time: "10:02", content: "Imagini video care surprind un atac cu drone la Ambasada SUA din Bagdad au fost publicate luni de către o miliție pro-iraniană, potrivit CNN." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/educatie/calendar-inscrieri-gradinita-si-cresa-2026-perioadele-anuntate-de-ministerul-educatiei-3680389', title: "Calendar înscrieri grădiniță și creșă 2026: Perioadele anunțate de Ministerul Educației", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTIyMV8yNjQx/MjIxX0luc2NyaWVyaS1ncmFkaW5pdGEt/c2ktY3Jlc2EtMjAyNi0yMDI3Xy1Gb3Rv/LUdldHR5LUltYWdlcy5qcGcmaGFzaD1h/YmNhMWY0YTZhNGFmZDdhZGU3Mjg5MWE5OTZhZDQzNw==.jpg", time: "11:51", content: "Ministerul Educației a pus în consultare publică, marți, 17 martie 2026, proiectul calendarului de înscriere la creșă, grădiniță și alte servicii de..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/iranul-sustine-ca-poate-duce-razboiul-cu-sua-si-israel-cat-timp-va-fi-necesar-purtatorul-de-cuvant-al-ministerului-iranian-de-externe-agresorul-conform-ratiunii-logicii-si-dreptului-inter/', title: "Iranul susţine că poate duce războiul cu SUA şi Israel cât timp va fi necesar. Purtătorul de cuvânt al Ministerului iranian de Externe: „Agresorul, co", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Iran-Shutterstock-1-200x200.jpg", time: "15:55", content: "Iranul a transmis luni, 16 martie, că forțele sale armate sunt hotărâte „să se apere atât timp cât va fi necesar” în conflictul actual, până când..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/cresteri-de-preturi-la-benzinarii-doar-o-data-pe-zi-si-amenzi-de-pana-la-100-000-de-euro-propune-guvernului-germaniei-pentru-a-opri-scumpirea-combustibililor/', title: "Creșteri de prețuri la benzinării doar o dată pe zi și amenzi de până la 100.000 de euro, propune Guvernului Germaniei pentru a opri scumpirea combust", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Benzinarie-combustibil-motorina-benzina-shutterstock-200x200.jpg", time: "06:25", content: "Creșteri de prețuri la benzinării doar o dată pe zi și amenzi de până la 100.000 de euro pentru cei care nu respectă acest lucru, este propunerea..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/imobiliare-ro/stiri-bucuresti-cluj-napoca-iasi-timisoara-cat-costa-un-apartament-5664513', title: "Cât costă un apartament în București, Cluj-Napoca, Iași, Timișoara și alte mari orașe din țară, în 2026", image: "https://static4.libertatea.ro/wp-content/uploads/2026/02/garsoniera-cluj-1-620x362.jpg", time: "12:12", content: "Sondajul Imobiliare.ro arată că aproape 60% dintre români caută locuințe cu un preț de cel mult 120.000 de euro. Doar 20% dintre cumpărători sunt..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/enciclopedia-britannica-da-in-judecata-openai-peste-100-000-de-articole-copiate-pentru-antrenarea-chatgpt-23704553', title: "Enciclopedia Britannica dă în judecată OpenAI. Peste 100.000 de articole, copiate pentru antrenarea ChatGPT", image: "https://www.mediafax.ro//wp-content/uploads/2025/11/8061234-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg", time: "10:05", content: "Enciclopedia Britannica și dicționarul subsidiar, Merriam Webster, au dat în judecată Open AI la Tribunalul Federal din Manhattan pentru utilizarea..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/atac-cu-drone-la-granita-cu-romania-ro-alert-in-tulcea-dupa-ce-bucati-de-drona-au-cazut-in-localitatea-plauru/', title: "Atac cu drone la granița cu România: RO-Alert în Tulcea, după ce bucăți de dronă au căzut în localitatea Plauru | AUDIO", image: "https://www.europafm.ro/wp-content/uploads/2026/03/drona-Shutterstock-200x200.jpg", time: "06:14", content: "Atac cu drone la granița cu România. Forțele ruse au lansat o nouă serie de atacuri în Ucraina, în apropierea frontierei cu România, în zona..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/razboi-iran-israel-sua-17-martie-2026-5663954', title: "Livetext Război în Iran, ziua 18. Atac la ambasada SUA din Irak / Statele din Golf cer ca Iranul să fie distrus complet. Netanyahu urează un an nou fe", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/profimedia-1083573282-e1773698864175-620x350.jpg", time: "12:11", content: "Miniștrii de externe din UE au respins solicitarea președintelui american Donald Trump de a suplimenta prezența militară în Strâmtoarea Ormuz,..." },
-    { source: 'Adevarul', url: 'https://adevarul.ro/economie/avertisment-companiile-tinta-fraudelor-2515758.html', title: "Avertisment: companiile, ținta fraudelor cibernetice. Identitatea ANAF și a băncilor, folosită abuziv", image: "https://cdn.adh.reperio.news/image-9/94008c10-8c53-4401-bacf-3e44212ba94b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:04", content: "Asociația Română a Băncilor (ARB) avertizează antreprenorii cu privire la fraudele care vizează companiile din România, prin folosirea frauduloasă a..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/economic/costurile-razboiului-si-presiunea-cheltuielilor-pentru-aparare-lovesc-infrastructura-un-mare-proiect-feroviar-al-ue-amanat-cu-10-ani-23704587', title: "Costurile războiului și presiunea cheltuielilor pentru apărare lovesc infrastructura. Un mare proiect feroviar al UE, amânat cu 10 ani", image: "https://www.mediafax.ro//wp-content/uploads/2025/09/6679088-mediafax_foto-adrian_piclisan-1024x683.jpg", time: "10:03", content: "Proiectul feroviar de mare viteză Rail Baltica, care ar trebui să lege Polonia de statele baltice, riscă să fie finalizat abia în 2040, cu un deceniu..." },
-    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/in-lume/seful-securitatii-iraniene-ali-larijani-a-fost-2515773.html', title: "Șeful securității iraniene, Ali Larijani, a fost ucis într-un atac aerian. În urmă cu două zile îi spunea lui Trump că va regreta atacarea Iranului", image: "https://cdn.adh.reperio.news/image-f/ff263d3b-44ad-4c4e-b240-0818bde1a538/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:08", content: "Forțele israeliene au anunțat marți, 17 martie, că șeful securității Iranului, Ali Larijani, a fost ucis în urma unui atac aerian desfășurat peste..." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/sport/un-schior-participant-la-cupa-mondiala-s-a-imbatat-crita-alaturi-de-fani-in-timpul-traseului-a-fost-foarte-distractiv-3680545', title: "Un schior participant la Cupa Mondială s-a îmbătat criță alături de fani în timpul traseului: „A fost foarte distractiv”", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTM0MV8yNjQx/MzQxX0dhYnJpZWwtV2dsZWRoaWwucG5n/Jmhhc2g9YmIzMjRiN2RmZWQ3NjhhMjc1YjMxZWY3Y2U3ZjZjMTI=.png", time: "12:31", content: "Nu a câștigat nicio medalie, dar cu siguranță a lăsat în urmă amintiri de neuitat. În cadrul Cupei Mondiale 2025/26 de la Holmenkollen, Norvegia, a..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/ucraina-a-primit-un-set-complet-de-criterii-de-aderare-din-partea-uniunii-europene-23704596', title: "Ucraina a primit un set complet de criterii de aderare din partea Uniunii Europene", image: "https://www.mediafax.ro//wp-content/uploads/2026/03/yulia-svyrydenko-1024x684.jpg", time: "10:21", content: "Ucraina a primit toate criteriile Uniunii Europene pentru ultimele clustere de negociere, ceea ce îi oferă setul complet de condiții pentru aderare." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/economie/agricultura/romania-va-exporta-peste-si-carne-de-pui-in-china-florin-barbu-deschidem-cea-mai-mare-piata-din-lume-pentru-produsele-romanesti-3680465', title: "România va exporta pește și carne de pui în China. Florin Barbu: „Deschidem cea mai mare piață din lume pentru produsele românești”", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTI2NF8yNjQx/MjY0X2Zsb3Jpbi1iYXJidS5qcGcmaGFz/aD02ODY4MDk1OTQyZWQwODkyYjVmN2YxYjQ1ZmI2ZTE5Mw==.jpg", time: "12:01", content: "Ministrul Agriculturii, Florin Barbu, aflat în China, a semnat împreună cu omologul său, Han Jun, un protocol privind cooperarea în domeniul..." },
-    { source: 'Adevarul', url: 'https://adevarul.ro/stil-de-viata/viata-sanatoasa/cum-pot-medicii-sa-simuleze-digital-zambetul-unui-2515788.html', title: "Cum pot medicii să simuleze digital zâmbetul unui pacient înainte de tratament", image: "https://cdn.adh.reperio.news/image-6/6acfd48b-804a-4e18-a44d-28c704c1628e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:37", content: "În ultimii ani, planificarea digitală a zâmbetului a început să schimbe modul în care sunt pregătite tratamentele estetice dentare. Dacă în trecut..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/economic/fermierii-romani-vor-putea-exporta-pe-cea-mai-mare-piata-din-lume-23704582', title: "Fermierii români vor putea exporta pe cea mai mare piață din lume", image: "https://www.mediafax.ro//wp-content/uploads/2026/03/barbu-china.jpg", time: "09:56", content: "Fermierii români vor putea exporta în China, cea mai mare piață din lume, după ce ministrul Agriculturii, Florin Barbu, a semnat marți o înțelegere..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/sofer-prins-200-km-ora-de-doua-ori-49-minute-ramas-fara-permis-masina-bulgaria-5664437', title: "Un șofer prins cu 200 km/oră de două ori în 49 de minute a rămas fără permis și fără BMW, în Bulgaria", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/sofer-prins-viteza-radar-bulgaria-620x362.jpg", time: "11:52", content: "Un șofer de 21 de ani a fost prins de două ori în mai puțin de o oră conducând cu aproape 200 km/h pe un drum cu limită de 90 km/h. Poliția i-a..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/sanatate/p-rolul-consilierii-farmacistului-in-sanatatea-familiei-3680409', title: "(P) Rolul consilierii farmacistului în sănătatea familiei", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTIyNF8yNjQx/MjI0X0ltYWdpbmUtcHJpbmNpcGFsYS5w/bmcmaGFzaD02NTk2MjU2MzU4ZmExZWZkNzEzYTg1OWEyOTYwMTc0NA==.png", time: "11:47", content: "Pentru orice părinte, sănătatea copilului reprezintă prioritatea absolută, iar primele semne ale unei afecțiuni aduc cu sine preocuparea pentru..." },
     { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/razboiul-din-orientul-mijlociu-ziua-18-serviciile-secrete-americane-cred-ca-regimul-iranian-isi-consolideaza-puterea-numarul-soldatilor-americani-raniti-in-razboiul-din-iran-a-depasit-200-in-sapte-23704340', title: "Războiul din Orientul Mijlociu, ziua 18. Israel a bombardat aseară apartamentul lui Ali Larijani, liderul iranian care-l amenințase pe Trump / Numărul", image: "https://www.mediafax.ro//wp-content/uploads/2026/03/8115348-mediafax_foto-abacapress_hepta-1024x683.jpg", time: "10:07", content: "Războiul din Orientul Mijlociu a intrat în a 18-a zi. Potrivit evaluărilor serviciilor secrete americane, regimul iranian va rămâne probabil în..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/salariile-plic-munca-negru-printre-marile-probleme-economiei-romanesti-semnalate-ocde-5664412', title: "Salariile „în plic” și munca la negru, printre marile probleme ale economiei românești, semnalate de OCDE", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/salariu-plic-620x413.jpg", time: "12:37", content: "Economia informală continuă să reprezinte o problemă majoră în România, potrivit raportului &#8222;OCDE Economic Surveys: Romania 2026&#8221;,..." },
-    { source: 'Adevarul', url: 'https://adevarul.ro/blogurile-adevarul/se-tensioneaza-fara-precedent-relatiile-intre-2515780.html', title: "Se tensionează, fără precedent, relațiile între SUA și NATO? S-a ajuns oare la punctul critic?", image: "https://cdn.adh.reperio.news/image-8/8dcac201-082c-4f80-931b-2ba1b6e74d07/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:26", content: "Războiul între SUA/Iran și Israel, declarat de Trump drept iremediabil câștigat, a intrat totuși în cea de-a patra săptămână și, din nefericire,..." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/social/ce-spun-romanii-intrebati-daca-tara-noastra-e-sigura-perceptia-asupra-securitatii-difera-puternic-intre-urban-si-rural-sondaj-3680335', title: "Ce spun românii, întrebați dacă țara noastră e sigură. Percepția asupra securității diferă puternic între urban și rural (sondaj)", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA2dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjAl/MkYwOSUyRjE2JTJGMTIyODI5OF8xMjI4/Mjk4X29hbWVuaS5qcGcmaGFzaD0xNTc4/MDFmNDc1NjFkYjI3NDg3NDMzMGY5Yjc1NzAwNQ==.jpg", time: "12:27", content: "Un procent de 51,1% dintre români consideră că România este o țară sigură din punct de vedere al securității naționale, în timp ce 46,5% o percep ca..." },
-    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-locale/constanta/trupul-adolescentei-care-a-disparut-in-ianuarie-a-2515776.html', title: "Trupul adolescentei care a dispărut în ianuarie a fost găsit în apă, în zona ecluzei de la Agigea. Se crede că s-a aruncat de pe pod", image: "https://cdn.adh.reperio.news/image-7/7e24baf7-f8a8-4a52-b4e8-4a97d75cda5c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:35", content: "Trupul adolescentei de 15 ani care a fost dată dispărută în urmă cu aproape două luni a fost recuperat de pompieri, marți, din Canalul Dunăre Marea -..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/haos-ruta-bucuresti-giurgiu-trenuri-anulate-autobuze-intarzieri-preturi-mari-5664516', title: "Haos pe ruta București-Giurgiu: bilete mai scumpe și întârzieri de ore ale autobuzelor, după ce trenurile au fost scoase de pe șine", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/tren-cfr-620x362.jpg", time: "12:12", content: "Coșmarul s-a întors pentru miile de navetiști care fac zilnic drumul între București și Giurgiu. La mai puțin de doi ani de la reluarea circulației..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/tic-tac-in-largul-europei-petrolierul-rusesc-grav-avariat-care-pluteste-in-deriva-in-mediterana-unul-dintre-cele-mai-bogate-ecosisteme-de-pe-planeta-e-intr-un-pericol-urias-23704610', title: "Tic-tac în largul Europei / Petrolierul rusesc grav avariat care plutește în derivă în Mediterană / Unul dintre cele mai bogate ecosisteme de pe plane", image: "https://www.mediafax.ro//wp-content/uploads/2026/03/petrolier-rusesc-1.jpg", time: "10:25", content: "Are la bord „doar” 900 de tone de motorină și câteva zeci de mii de tone de benzină. E avariat în urma unui atac cu drone și a fost părăsit de..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/sorin-grindeanu-ameninta-cu-alegeri-anticipate-daca-nu-ii-sunt-aprobate-masurile-sociale-propuse-in-buget-putem-decide-sa-trecem-in-opozitie-si-am-terminat/', title: "Sorin Grindeanu amenință cu alegeri anticipate dacă nu îi sunt aprobate măsurile sociale propuse în buget: „Putem decide să trecem în opoziție și am t", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Sorin-Grindeanu-Inquam-Photos-Malina-Norocea-200x200.jpg", time: "17:34", content: "Liderul PSD, Sorin Grindeanu, amenință cu alegeri anticipate dacă nu îi sunt aprobate măsurile sociale propuse în buget. În același timp, Grindeanu a..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/ministerul-sanatatii-a-primit-avizul-pentru-buget-in-comisiile-de-sanatate-reunite-din-parlament-alexandru-rogobete-ma-astept-la-o-rectificare-undeva-in-vara-sau-toamna/', title: "Bugetul Ministerului Sănătății a primit avizul în Comisiile de Sănătate reunite din Parlament. Alexandru Rogobete: „Mă aștept la o rectificare undeva ", image: "https://www.europafm.ro/wp-content/uploads/2026/02/Alexandru-Rogobete-Inquam-Photos-Virgil-Simonescu-1-200x200.jpg", time: "18:28", content: "Bugetul Ministerului Sănătății a primit avizul în Comisiile de Sănătate reunite din Parlament. Totuși, ministrul Alexandru Rogobete anunță că se..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/cresteri-spectaculoase-pret-carburanti-ministru-finante-alexandru-nazare-ingrijorare-situatie-guvern-masuri-5664572', title: "Sunt „creșteri spectaculoase” la prețul carburanților, spune ministrul Finanțelor: „Ne îngrijorează situația. Guvernul trebuie să ia niște măsuri”", image: "https://static4.libertatea.ro/wp-content/uploads/2025/08/whatsapp-image-2025-08-13-at-13-17-34-e1773742828679-620x349.jpeg", time: "12:22", content: "Ministrul Finanțelor, Alexandru Nazare, a atras atenția marți asupra scumpirii carburanților, pe care le-a descris drept &#8222;creșteri..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/autoritatile-din-hong-kong-spun-ca-fratii-tate-nu-pot-fi-extradati-fara-o-cerere-din-partea-romaniei-sau-a-regatului-unit/', title: "Autoritățile din Hong Kong spun că frații Tate nu pot fi extrădați fără o cerere din partea României sau a Regatului Unit", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Andrew-si-Tristan-Tate-Shutterstock-200x200.jpg", time: "06:49", content: "Autoritățile din Hong Kong au precizat marți, 17 martie, că executivul local nu are competențe legale pentru a-i aresta sau preda pe frații Andrew și..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/politic/rusii-baga-batul-prin-gard-kremlinul-vrea-sa-ofere-asistenta-cubei-23704609', title: "Rușii bagă bățul prin gard. Kremlinul vrea să ofere asistență Cubei", image: "https://www.mediafax.ro//wp-content/uploads/2025/12/kremlin-1024x682.jpg", time: "10:16", content: "Rușii anunță că vor să ajute Cuba care se confruntă cu o blocadă impusă de americani. Rusia este pregătită să ofere toată asistența posibilă Cubei,..." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/moldova/trimisul-lui-putin-la-chisinau-a-fost-convocat-de-mae-moldovenesc-nu-comentez-3680463', title: "Trimisul lui Putin la Chișinău a fost convocat de MAE moldovenesc: „Nu comentez”", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTI1NF8yNjQx/MjU0X2JvdS1ydXMuanBnJmhhc2g9ZmU4/ZDM0MmYyODNmODM1ZjIzMDRkOTE1MDk1YzQ5OTE=.jpg", time: "12:02", content: "Ministerul Afacerilor Externe al Republicii Moldova l-a convocat pe ambasadorul Federației Ruse în Republica Moldova pentru a-i transmite o notă de..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/ali-larijani-si-comandantul-militiei-basij-au-fost-ucisi-anunta-israelul-5664570', title: "Ali Larijani și comandantul miliției Basij au fost uciși, anunță Israelul", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/ali-larijani-probabil-cel-mai-influent-lider-iranian-dupa-uciderea-ghidului-suprem-ali-khamenei-foto-hepta-scaled-e1773173668573-620x349.jpg", time: "12:23", content: "Ministrul israelian al apărării, Israel Katz, a revendicat marți &#8222;eliminarea&#8221; lui Ali Larijani, șeful Consiliului Suprem de Securitate..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/semn-rutier-aparut-2020-care-aduce-amenzi-150-euro-soferi-care-nu-observa-5664527', title: "Semnul rutier apărut în 2020 care le aduce amenzi de 150 de euro șoferilor dacă nu îl observă", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/geminigeneratedimagefq46hrfq46hrfq46-620x346.png", time: "12:26", content: "În fiecare zi au loc numeroase depășiri pe drumurile din Germania. Pentru ca acestea să fie sigure, șoferii trebuie să păstreze o distanță suficientă..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/noi-scumpiri-ale-carburantilor-in-benzinariile-din-romania-un-litru-de-motorina-standard-se-vinde-intre-910-lei-si-924-lei-pe-litru/', title: "Noi scumpiri ale carburanților în benzinăriile din România. Un litru de motorină standard se vinde între 9,10 lei și 9,24 lei pe litru | AUDIO", image: "https://www.europafm.ro/wp-content/uploads/2026/03/combustibil-petrol-pompa-motorina-Shutterstock-1-200x200.jpg", time: "06:34", content: "Carburanții s-au scumpit din nou în benzinăriile din România. Prețul unui litru de benzină s-a majorat astăzi, în medie, cu peste 10 bani pe litru...." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/politica/sanctiunea-primita-de-trei-parlamentari-pentru-scandalul-facut-la-dezbaterea-din-plen-privind-cererea-sua-3680449', title: "Sancțiunea primită de trei parlamentari pentru scandalul făcut la dezbaterea din plen privind cererea SUA", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTI3OF8yNjQx/Mjc4X0lEMzM2Mzk2X0lOUVVBTV9QaG90/b3NfTWFsaW5hX05vcm9jZWEuanBnJmhh/c2g9YTFmMWEzMWFiNWZhMDI5YzBiOWU0YWMxODJiNzhjMzk=.jpg", time: "12:32", content: "Trei parlamentari care au făcut scandal în plenul reunit la dezbaterea privind cererea SUA de a trimite noi forțe în România, strigând şi suflând în..." },
-    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-locale/piatra-neamt/peste-10-hectare-de-vegetatie-mistuite-de-flacari-2515769.html', title: "Peste 10 hectare de vegetație, mistuite de flăcări în județele Neamț și Iași, în ultimele 24 de ore", image: "https://cdn.adh.reperio.news/image-2/2d3a51a9-7a87-42f0-b74f-ee2a88468ba9/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:08", content: "Pompierii Inspectoratului pentru Situaţii de Urgenţă (ISU) Neamţ au intervenit, în ultimele 24 de ore, la patru incendii care au afectat peste 10..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/cum-surprinzi-un-peisaj-perfect-cu-telefonul-fotograful-mihai-moiceanu-testeaza-honor-magic8-pro-in-natura-5664544', title: "Cum surprinzi un peisaj perfect cu telefonul: fotograful Mihai Moiceanu testează HONOR Magic8 Pro în natură", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/cum-surprinzi-un-peisaj-perfect-cu-telefonul-fotograful-mihai-moiceanu-testeaza-honor-magic8-pro-in-natura-620x413.jpg", time: "12:01", content: "Foto: www.honor.com/ro În fotografia outdoor și de natură, magia se întâmplă în câteva secunde. Lumina se schimbă constant, norii transformă..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/arhiepiscopia-tomisului-a-dat-in-judecata-primaria-constanta-pentru-a-deveni-proprietara-vilei-arhieresti-arhiepiscopul-teodosie-am-gasit-si-la-arhivele-din-bucuresti-niste-documente/', title: "Arhiepiscopia Tomisului a dat în judecată Primăria Constanța pentru a deveni proprietara vilei arhierești. Arhiepiscopul Teodosie: „Am găsit și la arh", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Arhiepiscopul-Teodosie-Sursa-Fb-Arhiepiscopia-Tomisului-200x200.jpg", time: "18:17", content: "Conflict juridic la Constanța, între Arhiepiscopia Tomisului și primărie, din cauza vilei arhierești. Imobilul, reședința arhiepiscopului Teodosie,..." },
-    { source: 'Adevarul', url: 'https://adevarul.ro/interviurile-adevarul/poate-lipsa-banilor-sa-distruga-iubirea-2514850.html', title: "Poate lipsa banilor să distrugă iubirea? Psihologia banilor în cuplu explicată de Constantin Tui, psihoterapeut", image: "https://cdn.adh.reperio.news/image-5/511f1751-4346-436a-bd21-3adc947ccef2/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:03", content: "În cel mai nou episod din Adevărul despre bani vorbim despre o temă care apare în aproape fiecare relație, dar despre care se vorbește încă foarte..." },
-    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/in-lume/garzile-revolutionare-din-iran-ameninta-companiile-2515781.html', title: "Gărzile Revoluționare din Iran amenință companiile americane din Orientul Mijlociu. Sunt vizate Lockheed Martin și Amazon", image: "https://cdn.adh.reperio.news/image-f/f3e00ac7-b830-46ef-8ea2-6567e97655a3/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:28", content: "Gărzile Revoluționare din Iran (IRGC) au amenințat că vor viza până la 15 companii americane din Orientul Mijlociu, solicitând angajaților să..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/modificarile-programului-de-vaccinare-din-sua-au-fost-blocate-de-instanta-23704622', title: "Modificările programului de vaccinare din SUA au fost blocate de instanță", image: "https://www.mediafax.ro//wp-content/uploads/2025/06/7943915-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg", time: "10:42", content: "Un tribunal federal a emis luni o ordonanță care oprește temporar modificările controversate aduse de secretarul american al sănătății, Robert F...." },
-    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/economie/inca-un-pas-spre-ocde-romania-a-obtinut-ultimul-aviz-necesar-ministerului-finantelor-nazare-cel-mai-dificil-pas-a-fost-inchis-3680413', title: "Încă un pas spre OCDE: România a obținut ultimul aviz necesar Ministerului Finanțelor. Nazare: „Cel mai dificil pas a fost închis”", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI1JTJGMjYwNjI0M18yNjA2/MjQzXzY0MzM3NDkxOF8zNzE1MDUzMzIx/OTU4ODM0XzEwODA2MTM0MTk1MTQ2NTkw/MjRfbi5qcGcmaGFzaD00OGIwNDBjZDY4ZTczYmIyMmNlMGJlNTcxOTQyOTg2OQ==.jpg", time: "11:51", content: "Ministerul Finanţelor a obţinut al treilea şi ultimul aviz formal necesar în procesul de aderare la Organizaţia pentru Cooperare şi Dezvoltare..." },
-    { source: 'Mediafax', url: 'https://www.mediafax.ro/comunicate/cair-cere-guvernului-consultari-cu-antreprenorii-romani-dupa-concluziile-studiului-ocde-este-necesara-schimbarea-modelului-economic-pentru-a-relansa-productivitatea-comunicat-23704613', title: "CAIR cere Guvernului consultări cu antreprenorii români după concluziile studiului OCDE: este necesară schimbarea modelului economic pentru a relansa ", image: "https://www.mediafax.ro//wp-content/uploads/2025/08/pexels-jakubzerdzicki-27641079-1-1024x683.jpg", time: "10:17", content: "Confederația Antreprenorilor și Investitorilor din România (CAIR) avertizează că principalele concluzii ale Studiului Economic 2026 pentru România..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/social/incendiu-la-o-locomotiva-in-oradea-interventie-rapida-a-pompierilor-in-gara-episcopia-23704579', title: "Incendiu la o locomotivă în Oradea. Intervenție rapidă a pompierilor în Gara Episcopia", image: "https://www.mediafax.ro//wp-content/uploads/2026/03/whatsapp-image-2026-03-17-at-11-44-17-1024x768.jpeg", time: "10:01", content: "Un incendiu a izbucnit luni seară la o locomotivă aflată în Gara Episcopia din Oradea, mobilizând de urgență echipajele de pompieri. Intervenția..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/china/china-trimite-ajutoare-umanitare-de-urgenta-in-2515759.html', title: "China trimite ajutoare umanitare de urgență în Iran și în alte state din Orientul Mijlociu, afectate de conflict", image: "https://cdn.adh.reperio.news/image-8/8dc89f3e-c47c-435d-b616-009c9f1aa1e8/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "09:29", content: "China a anunțat marți, 17 martie, că a trimis ajutoare umanitare de urgenţă în patru ţări din Orientul Mijlociu, mai exact Iran, Iordania, Liban şi..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/enciclopedia-britannica-da-in-judecata-openai-peste-100-000-de-articole-copiate-pentru-antrenarea-chatgpt-23704553', title: "Enciclopedia Britannica dă în judecată OpenAI. Peste 100.000 de articole, copiate pentru antrenarea ChatGPT", image: "https://www.mediafax.ro//wp-content/uploads/2025/11/8061234-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg", time: "10:05", content: "Enciclopedia Britannica și dicționarul subsidiar, Merriam Webster, au dat în judecată Open AI la Tribunalul Federal din Manhattan pentru utilizarea..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/politica/bugetul-de-stat-pe-anul-2026-in-dezbaterea-comisiilor-de-buget-finante-din-parlament-3680367', title: "Bugetul de stat pe anul 2026, în dezbaterea comisiilor de buget-finanţe din Parlament", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjE1JTJGMjI1OTYwOV8yMjU5/NjA5X3NodXR0ZXJzdG9ja18yNTQ3OTI5/MTczLmpwZyZoYXNoPWFiMDYzN2ZmMWRjZGQ0NTdkM2I0YTYyYjQzMzY5NzQy.jpg", time: "11:36", content: "Proiectul legii bugetului de stat pe anul 2026 a intrat marţi în dezbaterea Comisiilor reunite de buget-finanţe de la Camera Deputaţilor şi Senat,..." },
     { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/un-afacerist-implicat-in-contractul-cu-mapn-pentru-cobra-ii-a-fost-partener-de-afaceri-cu-finantatorul-unitatii-de-asasini-din-rusia-3680375', title: "Un afacerist implicat în contractul cu MApN pentru Cobra II a fost partener de afaceri cu finanțatorul unității de asasini din Rusia", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjA1JTJGMjYyNTYyN18yNjI1/NjI3XzY0NTQ5NTU2Ml8xMjM3MjM4NDE4/NTMxMjYwXzI1MDgxNTU3ODQwMzA5MzA0/MzBfbi5qcGcmaGFzaD0zNWJlMDIzNDZkNWI0NWVjYTc4N2Y1OWE0YTFhZWJjZQ==.jpg", time: "12:09", content: "Acționarul unei companii implicate într-un contract de achiziție de blindate cu Ministerul Apărării din România, Serghei Glinka, a fost în trecut..." },
-    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/pensionari-germania-cer-240-miliarde-euro-de-la-guvern-plangere-constitutionala-5664507', title: "Pensionarii din Germania cer 240 de miliarde de euro de la guvern, printr-o plângere constituțională", image: "https://static4.libertatea.ro/wp-content/uploads/2026/02/ptnpvkf5koofttaffuot4zxfe7oeqj40batonc29-620x465.webp", time: "12:35", content: "O plângere depusă la Curtea Constituțională din Germania pe 24 februarie 2026 solicită statului returnarea a 240 miliarde de euro către fondul de..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/arhiepiscopia-tomisului-a-dat-in-judecata-primaria-constanta-pentru-a-deveni-proprietara-vilei-arhieresti-arhiepiscopul-teodosie-am-gasit-si-la-arhivele-din-bucuresti-niste-documente/', title: "Arhiepiscopia Tomisului a dat în judecată Primăria Constanța pentru a deveni proprietara vilei arhierești. Arhiepiscopul Teodosie: „Am găsit și la arh", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Arhiepiscopul-Teodosie-Sursa-Fb-Arhiepiscopia-Tomisului-200x200.jpg", time: "18:17", content: "Conflict juridic la Constanța, între Arhiepiscopia Tomisului și primărie, din cauza vilei arhierești. Imobilul, reședința arhiepiscopului Teodosie,..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/masini-sub-15-000-euro-disparut-aproape-complet-europa-ce-s-a-intamplat-masini-ieftine-5664431', title: "Mașinile sub 15.000 de euro au dispărut aproape complet din Europa. Ce s-a întâmplat cu „mașinile ieftine”", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/dacia-sandero-foto-shutterstock-620x362.png", time: "11:56", content: "În urmă cu 10-15 ani, o mașină nouă putea fi cumpărată în Europa chiar și cu mai puțin de10.000 de euro. Astăzi, modelele sub 15.000 de euro au..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/aproape-un-milion-masini-inmatriculate-ilegal-franta-cum-a-pierdut-statul-bani-taxe-amenzi-5664461', title: "Aproape un milion de mașini au fost înmatriculate ilegal în Franța. Cum a pierdut statul sute de milioane de euro din taxe și amenzi", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/masini-franta-paris-foto-envato-620x362.png", time: "12:00", content: "Un scandal uriaș lovește sistemul de înmatriculare auto din Franța. Aproape un milion de vehicule ar circula pe șosele cu documente obținute ilegal,..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/ilan-laufer-lovit-masina-bucuresti-alaturi-gemeni-5-ani-erau-pe-trotineta-5664490', title: "Ilan Laufer, lovit de mașină în București alături de gemenii săi de 5 ani, în timp ce se aflau pe trotinetă", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/ilan-laufer-lovit-masina-bucuresti-alaturi-gemeni-5-ani-erau-pe-trotineta-e1773740301135-620x349.jpg", time: "11:44", content: "Fostul ministru Ilan Laufer a fost implicat într-un accident rutier marți dimineață, în București, în timp ce mergea pe trotinetă alături de cei doi..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/imobiliare-ro/stiri-bucuresti-cluj-napoca-iasi-timisoara-cat-costa-un-apartament-5664513', title: "Cât costă un apartament în București, Cluj-Napoca, Iași, Timișoara și alte mari orașe din țară, în 2026", image: "https://static4.libertatea.ro/wp-content/uploads/2026/02/garsoniera-cluj-1-620x362.jpg", time: "12:12", content: "Sondajul Imobiliare.ro arată că aproape 60% dintre români caută locuințe cu un preț de cel mult 120.000 de euro. Doar 20% dintre cumpărători sunt..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/razboi-iran-israel-sua-17-martie-2026-5663954', title: "Livetext Război în Iran, ziua 18. Atac la ambasada SUA din Irak / Statele din Golf cer ca Iranul să fie distrus complet. Netanyahu urează un an nou fe", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/profimedia-1083573282-e1773698864175-620x350.jpg", time: "12:11", content: "Miniștrii de externe din UE au respins solicitarea președintelui american Donald Trump de a suplimenta prezența militară în Strâmtoarea Ormuz,..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/cum-surprinzi-un-peisaj-perfect-cu-telefonul-fotograful-mihai-moiceanu-testeaza-honor-magic8-pro-in-natura-5664544', title: "Cum surprinzi un peisaj perfect cu telefonul: fotograful Mihai Moiceanu testează HONOR Magic8 Pro în natură", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/cum-surprinzi-un-peisaj-perfect-cu-telefonul-fotograful-mihai-moiceanu-testeaza-honor-magic8-pro-in-natura-620x413.jpg", time: "12:01", content: "Foto: www.honor.com/ro În fotografia outdoor și de natură, magia se întâmplă în câteva secunde. Lumina se schimbă constant, norii transformă..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/stirile-zilei/uniunea-europeana-respinge-reluarea-acordurilor-energetice-cu-rusia-in-ciuda-cresterii-preturilor-23704602', title: "Uniunea Europeană respinge reluarea acordurilor energetice cu Rusia, în ciuda creșterii prețurilor", image: "https://www.mediafax.ro//wp-content/uploads/2026/01/8099998-hepta_mediafax_foto-dpa_hepta-1024x735.jpg", time: "10:05", content: "Șefa diplomației europene, Kaja Kallas, a anunțat că nu există deschidere din partea  blocului comunitar de a ajunge la o înțelegere energetică cu..." },
     { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/europa/un-nou-tip-de-razboi-se-deruleaza-in-ucraina-2515603.html', title: "Un nou tip de război se derulează în Ucraina: mașinile încep să ia decizii pe câmpul de luptă", image: "https://cdn.adh.reperio.news/image-b/b2edbc10-f82b-45e7-81e3-dc493694e29d/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:00", content: "Războiul autonom nu va începe cu armate de roboți mărșăluind pe câmpul de luptă. În realitate, el a început deja — discret, dar inevitabil — pe..." },
-    { source: 'Europa FM', url: 'https://www.europafm.ro/presedintele-asociatiei-pentru-depolitizarea-educatiei-zeno-daniel-sustac-este-o-ruptura-gigantica-intre-profesori-si-sindicate-de-ce-au-boicotat-cadrele-didactice-simularea-evaluarii-nati/', title: "Președintele Asociației pentru Depolitizarea Educației, Zeno Daniel Sustac: „Este o ruptură gigantică între profesori și sindicate”. De ce au boicotat", image: "https://www.europafm.ro/wp-content/uploads/2026/03/examen-scoala-elevi-Shutterstock-200x200.jpg", time: "17:50", content: "La începutul acestei săptămâni, elevii clasei a VIII-a ar fi trebuit să susțină simularea examenelor naționale. O parte dintre profesorii din țară au..." }
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-locale/piatra-neamt/peste-10-hectare-de-vegetatie-mistuite-de-flacari-2515769.html', title: "Peste 10 hectare de vegetație, mistuite de flăcări în județele Neamț și Iași, în ultimele 24 de ore", image: "https://cdn.adh.reperio.news/image-2/2d3a51a9-7a87-42f0-b74f-ee2a88468ba9/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:08", content: "Pompierii Inspectoratului pentru Situaţii de Urgenţă (ISU) Neamţ au intervenit, în ultimele 24 de ore, la patru incendii care au afectat peste 10..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/economie/agricultura/romania-va-exporta-peste-si-carne-de-pui-in-china-florin-barbu-deschidem-cea-mai-mare-piata-din-lume-pentru-produsele-romanesti-3680465', title: "România va exporta pește și carne de pui în China. Florin Barbu: „Deschidem cea mai mare piață din lume pentru produsele românești”", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTI2NF8yNjQx/MjY0X2Zsb3Jpbi1iYXJidS5qcGcmaGFz/aD02ODY4MDk1OTQyZWQwODkyYjVmN2YxYjQ1ZmI2ZTE5Mw==.jpg", time: "12:01", content: "Ministrul Agriculturii, Florin Barbu, aflat în China, a semnat împreună cu omologul său, Han Jun, un protocol privind cooperarea în domeniul..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/economie/cifre-record-romanii-scot-acum-peste-9-lei-pentru-2515748.html', title: "Cifre record: românii scot acum din buzunar peste 9 lei pentru un litru de motorină „obișnuită”", image: "https://cdn.adh.reperio.news/image-0/092eff78-5e68-4c43-a164-98cd69d919f4/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "09:22", content: "Motorina standard nu se mai vinde marți sub 9 lei/litru, în ciuda faptului că prețul petrolului Brent a crescut infim față de ziua precedentă,..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/moldova/trimisul-lui-putin-la-chisinau-a-fost-convocat-de-mae-moldovenesc-nu-comentez-3680463', title: "Trimisul lui Putin la Chișinău a fost convocat de MAE moldovenesc: „Nu comentez”", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTI1NF8yNjQx/MjU0X2JvdS1ydXMuanBnJmhhc2g9ZmU4/ZDM0MmYyODNmODM1ZjIzMDRkOTE1MDk1YzQ5OTE=.jpg", time: "12:02", content: "Ministerul Afacerilor Externe al Republicii Moldova l-a convocat pe ambasadorul Federației Ruse în Republica Moldova pentru a-i transmite o notă de..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/social/accident-mortal-in-judetul-constanta-soferul-unui-autoturism-a-murit-dupa-ce-masina-s-a-lovit-cu-un-camion-23704578', title: "Accident mortal în județul Constanța. Șoferul unui autoturism a murit după ce mașina s-a lovit cu un camion", image: "https://www.mediafax.ro//wp-content/uploads/2025/11/7762925-mediafax_foto-emanuel_titus_iliesi-1024x683.jpg", time: "09:59", content: "Un grav accident rutier s-a produs marți, în județul Constanța între localitățile Movilița și Topraisar. În eveniment au fost implicate două..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/noi-scumpiri-ale-carburantilor-in-benzinariile-din-romania-un-litru-de-motorina-standard-se-vinde-intre-910-lei-si-924-lei-pe-litru/', title: "Noi scumpiri ale carburanților în benzinăriile din România. Un litru de motorină standard se vinde între 9,10 lei și 9,24 lei pe litru | AUDIO", image: "https://www.europafm.ro/wp-content/uploads/2026/03/combustibil-petrol-pompa-motorina-Shutterstock-1-200x200.jpg", time: "06:34", content: "Carburanții s-au scumpit din nou în benzinăriile din România. Prețul unui litru de benzină s-a majorat astăzi, în medie, cu peste 10 bani pe litru...." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/imobiliare-ro/cum-arat-locuinta-ideala-in-2026-sub-120-de-mii-de-euro-cu-2-camere-5664423', title: "Cum arată locuința ideală în 2026: sub 120.000 de euro, cu două camere sau curte la periferie. 3 din 10 români vor să cumpere o casă anul acesta", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/cp-martie-2026g2-copy-29-1-620x349.jpg", time: "11:38", content: "Românii continuă să prioritizeze prețul în alegerea unei locuințe, orientându-se în 2026 mai ales spre proprietăți vechi sau case situate la..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/iranul-sustine-ca-poate-duce-razboiul-cu-sua-si-israel-cat-timp-va-fi-necesar-purtatorul-de-cuvant-al-ministerului-iranian-de-externe-agresorul-conform-ratiunii-logicii-si-dreptului-inter/', title: "Iranul susţine că poate duce războiul cu SUA şi Israel cât timp va fi necesar. Purtătorul de cuvânt al Ministerului iranian de Externe: „Agresorul, co", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Iran-Shutterstock-1-200x200.jpg", time: "15:55", content: "Iranul a transmis luni, 16 martie, că forțele sale armate sunt hotărâte „să se apere atât timp cât va fi necesar” în conflictul actual, până când..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/in-lume/razboiul-din-golf-reduce-drastic-cererea-de-2515764.html', title: "Războiul din Golf reduce drastic cererea de zboruri în regiune. Avioanele Emirates către Dubai zboară aproape goale", image: "https://cdn.adh.reperio.news/image-8/8d016b9a-30a2-4b65-9e4a-45d9e9d83ec8/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.129%252C1%252C0.871%26f%3Djpeg&file=image.jpeg", time: "09:37", content: "Compania aeriană Emirates operează zboruri către Dubai care sunt aproape goale în unele cazuri, deoarece călătorii evită Golful Persic, o dovadă a..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/economie/inca-un-pas-spre-ocde-romania-a-obtinut-ultimul-aviz-necesar-ministerului-finantelor-nazare-cel-mai-dificil-pas-a-fost-inchis-3680413', title: "Încă un pas spre OCDE: România a obținut ultimul aviz necesar Ministerului Finanțelor. Nazare: „Cel mai dificil pas a fost închis”", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI1JTJGMjYwNjI0M18yNjA2/MjQzXzY0MzM3NDkxOF8zNzE1MDUzMzIx/OTU4ODM0XzEwODA2MTM0MTk1MTQ2NTkw/MjRfbi5qcGcmaGFzaD00OGIwNDBjZDY4ZTczYmIyMmNlMGJlNTcxOTQyOTg2OQ==.jpg", time: "11:51", content: "Ministerul Finanţelor a obţinut al treilea şi ultimul aviz formal necesar în procesul de aderare la Organizaţia pentru Cooperare şi Dezvoltare..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/sorin-grindeanu-ameninta-cu-alegeri-anticipate-daca-nu-ii-sunt-aprobate-masurile-sociale-propuse-in-buget-putem-decide-sa-trecem-in-opozitie-si-am-terminat/', title: "Sorin Grindeanu amenință cu alegeri anticipate dacă nu îi sunt aprobate măsurile sociale propuse în buget: „Putem decide să trecem în opoziție și am t", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Sorin-Grindeanu-Inquam-Photos-Malina-Norocea-200x200.jpg", time: "17:34", content: "Liderul PSD, Sorin Grindeanu, amenință cu alegeri anticipate dacă nu îi sunt aprobate măsurile sociale propuse în buget. În același timp, Grindeanu a..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/cresteri-de-preturi-la-benzinarii-doar-o-data-pe-zi-si-amenzi-de-pana-la-100-000-de-euro-propune-guvernului-germaniei-pentru-a-opri-scumpirea-combustibililor/', title: "Creșteri de prețuri la benzinării doar o dată pe zi și amenzi de până la 100.000 de euro, propune Guvernului Germaniei pentru a opri scumpirea combust", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Benzinarie-combustibil-motorina-benzina-shutterstock-200x200.jpg", time: "06:25", content: "Creșteri de prețuri la benzinării doar o dată pe zi și amenzi de până la 100.000 de euro pentru cei care nu respectă acest lucru, este propunerea..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/educatie/calendar-inscrieri-gradinita-si-cresa-2026-perioadele-anuntate-de-ministerul-educatiei-3680389', title: "Calendar înscrieri grădiniță și creșă 2026: Perioadele anunțate de Ministerul Educației", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTIyMV8yNjQx/MjIxX0luc2NyaWVyaS1ncmFkaW5pdGEt/c2ktY3Jlc2EtMjAyNi0yMDI3Xy1Gb3Rv/LUdldHR5LUltYWdlcy5qcGcmaGFzaD1h/YmNhMWY0YTZhNGFmZDdhZGU3Mjg5MWE5OTZhZDQzNw==.jpg", time: "11:51", content: "Ministerul Educației a pus în consultare publică, marți, 17 martie 2026, proiectul calendarului de înscriere la creșă, grădiniță și alte servicii de..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/ministerul-sanatatii-a-primit-avizul-pentru-buget-in-comisiile-de-sanatate-reunite-din-parlament-alexandru-rogobete-ma-astept-la-o-rectificare-undeva-in-vara-sau-toamna/', title: "Bugetul Ministerului Sănătății a primit avizul în Comisiile de Sănătate reunite din Parlament. Alexandru Rogobete: „Mă aștept la o rectificare undeva ", image: "https://www.europafm.ro/wp-content/uploads/2026/02/Alexandru-Rogobete-Inquam-Photos-Virgil-Simonescu-1-200x200.jpg", time: "18:28", content: "Bugetul Ministerului Sănătății a primit avizul în Comisiile de Sănătate reunite din Parlament. Totuși, ministrul Alexandru Rogobete anunță că se..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/life-inedit/consumul-de-alcool-interzis-in-restaurantele-si-cluburile-de-noapte-din-capitala-siriei-23704567', title: "Consumul de alcool, interzis în restaurantele și cluburile de noapte din capitala Siriei", image: "https://www.mediafax.ro//wp-content/uploads/2026/03/alcool-1024x683.jpg", time: "09:49", content: "Consumul și comerțul cu alcool au fost interzise în toate restaurantele și cluburile de noapte din capitala Siriei. Decizia aparține autorităților..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/autoritatile-din-hong-kong-spun-ca-fratii-tate-nu-pot-fi-extradati-fara-o-cerere-din-partea-romaniei-sau-a-regatului-unit/', title: "Autoritățile din Hong Kong spun că frații Tate nu pot fi extrădați fără o cerere din partea României sau a Regatului Unit", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Andrew-si-Tristan-Tate-Shutterstock-200x200.jpg", time: "06:49", content: "Autoritățile din Hong Kong au precizat marți, 17 martie, că executivul local nu are competențe legale pentru a-i aresta sau preda pe frații Andrew și..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/sua/trump-spune-ca-se-pregateste-de-preluarea-cubei-2515751.html', title: "Trump spune că se pregătește de preluarea Cubei după ce blocada petrolieră a SUA a lăsat țara în întuneric: „Cred că pot face orice vreau cu ea”", image: "https://cdn.adh.reperio.news/image-1/18e782f4-7892-49d6-b61d-016c164dff84/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "09:14", content: "Donald Trump a declarat că se așteaptă să aibă „onoarea de a prelua Cuba”, după ce o blocadă petrolieră impusă de SUA a aruncat țara în întuneric,..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/in-lume/seful-securitatii-iraniene-ali-larijani-a-fost-2515773.html', title: "Șeful securității iraniene, Ali Larijani, a fost ucis într-un atac aerian. În urmă cu două zile îi spunea lui Trump că va regreta atacarea Iranului", image: "https://cdn.adh.reperio.news/image-f/ff263d3b-44ad-4c4e-b240-0818bde1a538/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:08", content: "Forțele israeliene au anunțat marți, 17 martie, că șeful securității Iranului, Ali Larijani, a fost ucis în urma unui atac aerian desfășurat peste..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/interviurile-adevarul/poate-lipsa-banilor-sa-distruga-iubirea-2514850.html', title: "Poate lipsa banilor să distrugă iubirea? Psihologia banilor în cuplu explicată de Constantin Tui, psihoterapeut", image: "https://cdn.adh.reperio.news/image-5/511f1751-4346-436a-bd21-3adc947ccef2/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:03", content: "În cel mai nou episod din Adevărul despre bani vorbim despre o temă care apare în aproape fiecare relație, dar despre care se vorbește încă foarte..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/reactia-ministrului-radu-miruta-dupa-amenintarile-teheranului-nu-exista-un-risc-suplimentar-exista-certitudinea-ca-scutul-de-la-deveselu-apara-romania-inclusiv-impotriva/', title: "Reacția ministrului Radu Miruță, după amenințările Teheranului: „Există certitudinea că scutul de la Deveselu apără România, inclusiv împotriva amenin", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Radu-Miruta-Inquam-Photos-George-Calin-200x200.jpg", time: "18:56", content: "Ministrul Apărării, Radu Miruță, spune că nu există informații că România ar fi în pericol după declarațiile amenințătoare făcute de ministrul de..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/haos-ruta-bucuresti-giurgiu-trenuri-anulate-autobuze-intarzieri-preturi-mari-5664516', title: "Haos pe ruta București-Giurgiu: bilete mai scumpe și întârzieri de ore ale autobuzelor, după ce trenurile au fost scoase de pe șine", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/tren-cfr-620x362.jpg", time: "12:12", content: "Coșmarul s-a întors pentru miile de navetiști care fac zilnic drumul între București și Giurgiu. La mai puțin de doi ani de la reluarea circulației..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/politica/sanctiunea-primita-de-trei-parlamentari-pentru-scandalul-facut-la-dezbaterea-din-plen-privind-cererea-sua-3680449', title: "Sancțiunea primită de trei parlamentari pentru scandalul făcut la dezbaterea din plen privind cererea SUA", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE3JTJGMjY0MTI3OF8yNjQx/Mjc4X0lEMzM2Mzk2X0lOUVVBTV9QaG90/b3NfTWFsaW5hX05vcm9jZWEuanBnJmhh/c2g9YTFmMWEzMWFiNWZhMDI5YzBiOWU0YWMxODJiNzhjMzk=.jpg", time: "12:16", content: "Trei parlamentari care au făcut scandal în plenul reunit la dezbaterea privind utilizarea bazelor militare de către SUA, strigând şi suflând în..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/politic/liderul-senatorilor-psd-atac-dur-la-adresa-lui-ilie-bolojan-el-se-pozitioneaza-in-afara-guvernarii-23704575', title: "Liderul senatorilor PSD, atac dur la adresa lui Ilie Bolojan: El se poziționează în afara guvernării", image: "https://www.mediafax.ro//wp-content/uploads/2025/10/8034723-mediafax_foto-andreea_alexandru-1024x683.jpg", time: "09:59", content: "Liderul senatorilor PSD, Daniel Zamfir, a afirmat marți, la RFI, că măsurile de austeritate adoptate de Executiv nu au avut efecte. Acesta se declară..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/presedintele-asociatiei-pentru-depolitizarea-educatiei-zeno-daniel-sustac-este-o-ruptura-gigantica-intre-profesori-si-sindicate-de-ce-au-boicotat-cadrele-didactice-simularea-evaluarii-nati/', title: "Președintele Asociației pentru Depolitizarea Educației, Zeno Daniel Sustac: „Este o ruptură gigantică între profesori și sindicate”. De ce au boicotat", image: "https://www.europafm.ro/wp-content/uploads/2026/03/examen-scoala-elevi-Shutterstock-200x200.jpg", time: "17:50", content: "La începutul acestei săptămâni, elevii clasei a VIII-a ar fi trebuit să susțină simularea examenelor naționale. O parte dintre profesorii din țară au..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/social/ilan-laufer-si-gemenii-sai-de-5-ani-au-fost-loviti-de-o-masina-cand-traversau-strada-pe-trotineta-in-bucuresti-3680371', title: "Ilan Laufer şi gemenii săi de 5 ani au fost loviți de o mașină când traversau strada pe trotinetă, în București", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTcl/MkYxMiUyRjEzJTJGODU1Mzg3Xzg1NTM4/N19JTEFOLUxBVUZFUi0xNzA2MjlfQVVE/SUVSSV9HVVZFUk5fVFVET1NFXzA2X0lO/UVVBTV9QaG90b3NfT2N0YXZfR2FuZWEu/anBnJmhhc2g9MzRkNDhlMzdiNGYzYzk0NzQ0YmMyNTYxNDM2MmExYWE=.jpg", time: "12:07", content: "Fostul ministru pentru Mediul de Afaceri Ilan Laufer și gemenii săi în vârstă de 5 ani au fost implicați, marți dimineață, într-un accident rutier pe..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/economie/avertisment-companiile-tinta-fraudelor-2515758.html', title: "Avertisment: companiile, ținta fraudelor cibernetice. Identitatea ANAF și a băncilor, folosită abuziv", image: "https://cdn.adh.reperio.news/image-9/94008c10-8c53-4401-bacf-3e44212ba94b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "10:04", content: "Asociația Română a Băncilor (ARB) avertizează antreprenorii cu privire la fraudele care vizează companiile din România, prin folosirea frauduloasă a..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/atac-spital-kabul-morti-raniti-pakistan-neaga-bombardament-5664240', title: "Cel puțin 400 de oameni au murit și 250 au fost răniți după ce un spital a fost bombardat în Kabul: „Când am ajuns, totul ardea. Oamenii ardeau”", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/atac-kabul-620x362.jpg", time: "11:43", content: "Cel puțin 400 de oameni au murit și aproximativ 250 au fost răniți după un atac aerian atribuit Pakistanului asupra unui spital din Kabul, capitala..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/sport/csm-bucuresti-faliment-in-campionatul-intern-2515772.html', title: "CSM București, faliment în campionatul intern. Antrenoarea și-a jignit jucătoarele: „Sunteți proaste?”", image: "https://cdn.adh.reperio.news/image-3/307308f2-a6d9-4e08-a949-35d3d19b0d9b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0.05%252C0.101%252C0.814%252C0.352%26f%3Djpeg&file=image.jpeg", time: "09:56", content: "Campioana în exercițiu nu le-a făcut față ardelencelor de la Bistrița." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/atac-cu-drone-la-granita-cu-romania-ro-alert-in-tulcea-dupa-ce-bucati-de-drona-au-cazut-in-localitatea-plauru/', title: "Atac cu drone la granița cu România: RO-Alert în Tulcea, după ce bucăți de dronă au căzut în localitatea Plauru | AUDIO", image: "https://www.europafm.ro/wp-content/uploads/2026/03/drona-Shutterstock-200x200.jpg", time: "06:14", content: "Atac cu drone la granița cu România. Forțele ruse au lansat o nouă serie de atacuri în Ucraina, în apropierea frontierei cu România, în zona..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/o-drona-a-militiilor-pro-iraniene-a-filmat-interiorul-ambasadei-sua-din-bagdad-dupa-seria-de-atacuri-23704591', title: "O dronă a milițiilor pro-iraniene a filmat interiorul Ambasadei SUA din Bagdad după seria de atacuri", image: "https://www.mediafax.ro//wp-content/uploads/2026/02/steag-sua-1024x685.jpg", time: "10:02", content: "Imagini video care surprind un atac cu drone la Ambasada SUA din Bagdad au fost publicate luni de către o miliție pro-iraniană, potrivit CNN." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/mapamond/razboi-in-orientul-mijlociu-ziua-18-seful-parlamentului-iranian-avem-rezerve-suficiente-de-rachete-si-drone-3679885', title: "Război în Orientul Mijlociu, ziua 18. Petrolul din Orientul Mijlociu devine cel mai scump din lume", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE2JTJGMjY0MDgwMV8yNjQw/ODAxX2lyYW4tNC5qcGcmaGFzaD04NWI2/ZDg0MTRhYzg2MGIxODQwMjkxM2Y4YzJjZGZiNg==.jpg", time: "12:09", content: "Războiul în Orientul Mijlociu continuă și în cea de-a 18-a zi. Comandamentul Central al SUA (CENTCOM) a anunțat luni, 16 martie, că aproximativ 7.000..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/economic/costurile-razboiului-si-presiunea-cheltuielilor-pentru-aparare-lovesc-infrastructura-un-mare-proiect-feroviar-al-ue-amanat-cu-10-ani-23704587', title: "Costurile războiului și presiunea cheltuielilor pentru apărare lovesc infrastructura. Un mare proiect feroviar al UE, amânat cu 10 ani", image: "https://www.mediafax.ro//wp-content/uploads/2025/09/6679088-mediafax_foto-adrian_piclisan-1024x683.jpg", time: "10:03", content: "Proiectul feroviar de mare viteză Rail Baltica, care ar trebui să lege Polonia de statele baltice, riscă să fie finalizat abia în 2040, cu un deceniu..." }
 ];
 
         function toggleNews(card) {
@@ -486,6 +844,99 @@
             document.body.classList.add('light-mode');
             document.querySelector('.theme-toggle').textContent = '☀️';
         }
+
+        // Menu functions
+        let currentFilter = { type: null, value: null };
+        
+        function toggleMenu() {
+            const menu = document.getElementById('menuDropdown');
+            const btn = document.querySelector('.menu-toggle');
+            menu.classList.toggle('show');
+            btn.classList.toggle('active');
+        }
+
+        function filterNews(type, value, element) {
+            currentFilter = { type, value };
+            
+            // Update active state
+            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
+            if (element) element.classList.add('active');
+            
+            // Close menu
+            document.getElementById('menuDropdown').classList.remove('show');
+            document.querySelector('.menu-toggle').classList.remove('active');
+            
+            // Filter news
+            const newsCards = document.querySelectorAll('.news-card');
+            let visibleCount = 0;
+            
+            newsCards.forEach(card => {
+                const sourceEl = card.querySelector('.news-source');
+                const source = sourceEl ? sourceEl.textContent.trim() : '';
+                const title = card.querySelector('.news-title').textContent.toLowerCase();
+                const content = (card.querySelector('.news-content')?.textContent || '').toLowerCase();
+                const text = (title + ' ' + content).toLowerCase();
+                
+                let show = true;
+                
+                if (type === 'source') {
+                    // Partial match - e.g., "Adevarul" matches "Adevărul"
+                    show = source.toLowerCase().includes(value.toLowerCase());
+                } else if (type === 'category') {
+                    // Simple category detection based on keywords
+                    const categoryKeywords = {
+                        'politic': ['guvern', 'parlament', 'președinte', 'premier', 'alegeri', 'partid', 'opoziție', 'coaliție', 'lege', 'ordonanță', 'minister', 'ministru', 'demisie', 'moțiune', 'parlamentari', 'senat', 'deputați', 'campanie electorală', 'reformă', 'constituție', 'consiliu', 'ambasadă', 'diplomație', 'politician', 'negocieri', 'administrație', 'protest', 'comisie', 'justiție', 'vot', 'decizie politică', 'corupție', 'lider', 'alianță', 'funcție publică', 'decret', 'referendum', 'ședință guvern', 'legislativ', 'executiv', 'campanie politică', 'lider de partid', 'promisiuni electorale', 'transparență', 'administrație locală', 'primărie', 'consiliu local', 'prefectură', 'anchetă', 'guvernare', 'intervenție stat', 'decret prezidențial', 'inițiativă legislativă', 'negocieri internaționale', 'integrare europeană', 'bruxelles', 'nato', 'politica externă', 'securitate națională', 'interes public', 'sprijin politic', 'reformă constituțională', 'alegeri locale', 'alegeri parlamentare', 'alegeri prezidențiale', 'mandat', 'putere executivă', 'stat de drept', 'diplomație internațională', 'sancțiuni', 'relații bilaterale'],
+                        'sport': ['fotbal', 'tenis', 'baschet', 'handbal', 'volei', 'formula 1', 'echipă', 'scor', 'meci', 'campionat', 'turneu', 'antrenor', 'jucător', 'gol', 'arbitru', 'cupă', 'victorie', 'înfrângere', 'transfer', 'lot', 'selecționer', 'performanță', 'stadion', 'trofeu', 'clasament', 'competiție', 'liga', 'campioană', 'record', 'penalty', 'adversar', 'titlu', 'calificare', 'sportiv', 'federație', 'olimpiadă', 'medalii', 'antenament', 'campionat mondial', 'campionat european', 'strategie', 'performanță sportivă', 'transfer internațional', 'accidentare', 'revenire', 'echipament sportiv', 'sponsor', 'suporter', 'galerie', 'arbitraj', 'ligă națională', 'competiție internațională', 'jucător vedetă', 'antrenor principal', 'scor final', 'prelungiri', 'repriză', 'trofeu câștigat', 'supercupă', 'titlu național', 'carieră sportivă', 'federație sportivă', 'decizie arbitrală', 'doping', 'pregătire fizică', 'cantonament', 'sport individual', 'sport de echipă', 'club sportiv'],
+                        'economic': ['economie', 'inflație', 'pib', 'bursă', 'acțiuni', 'investiții', 'dobânzi', 'bancă', 'credit', 'datorie', 'fiscalitate', 'impozit', 'buget', 'comerț', 'exporturi', 'importuri', 'industrie', 'salarii', 'pensii', 'șomaj', 'profit', 'pierdere', 'companie', 'afaceri', 'startup', 'piață', 'curs valutar', 'euro', 'dolar', 'energie', 'petrol', 'gaze', 'finanțe', 'fmi', 'bnr', 'producție', 'agricultură', 'transporturi', 'logistică', 'criză economică', 'piață financiară', 'acțiuni bursiere', 'profit net', 'analiză economică', 'capital', 'dezvoltare economică', 'creștere economică', 'deficit bugetar', 'investiții străine', 'fonduri europene', 'salariu minim', 'costuri de producție', 'restructurare', 'exportator', 'importator', 'taxa pe valoare adăugată', 'sistem bancar', 'credit ipotecar', 'digitalizare economică', 'economie globală', 'antreprenoriat', 'piață muncii', 'inovație economică', 'recesiune', 'putere de cumpărare', 'fonduri de investiții', 'audit', 'contabilitate', 'strategie financiară', 'competiție economică', 'transport internațional', 'comerț online', 'piață imobiliară', 'prețuri', 'energie regenerabilă'],
+                        'tech': ['tehnologie', 'gadget', 'smartphone', 'telefon', 'calculator', 'software', 'hardware', 'internet', 'ai', 'inteligență artificială', 'robot', 'cloud', 'server', 'criptomonedă', 'blockchain', 'aplicație', 'sistem', 'programare', 'rețea', 'cibernetic', 'securitate', 'date', 'social media', 'platformă', 'startup tech', 'google', 'apple', 'microsoft', 'inovare', 'dezvoltatori', 'openai', 'automatizare', 'vr', 'ar', 'dronă', 'update', 'hacking', 'semiconductori', 'știință și tehnologie', 'procesor', 'gpu', 'rețea neurală', 'machine learning', 'deep learning', 'inovație digitală', 'tehnologie de ultimă generație', 'update software', 'lansare produs', 'tehnologie 5g', 'satelit', 'robotizare', 'ai generativ', 'open source', 'cod sursă', 'dezvoltare web', 'api', 'containerizare', 'cloud computing', 'big data', 'iot', 'internet of things', 'securitate cibernetică', 'atac informatic', 'breșă de date', 'criptare', 'streaming', 'platformă digitală', 'aplicație mobilă', 'ecosistem digital', 'metaverse', 'integrare inteligentă', 'tehnologie verde', 'energie tehnologică', 'inovație hardware'],
+                        'social': ['educație', 'sănătate', 'cultură', 'comunitate', 'familie', 'tineret', 'eveniment', 'caritate', 'voluntariat', 'ong', 'școală', 'universitate', 'spital', 'medic', 'profesor', 'societate', 'elev', 'inegalitate', 'sărăcie', 'discriminare', 'drepturi', 'femeie', 'copil', 'muncă', 'religie', 'biserică', 'demografie', 'migrație', 'tradiție', 'festival', 'artă', 'mediu', 'ecologie', 'comportament', 'stil de viață', 'bărbat', 'educație online', 'sănătate publică', 'asistență socială', 'drepturile omului', 'protecția copilului', 'violență domestică', 'incluziune socială', 'diversitate', 'acces la educație', 'salarii profesori', 'reformă educațională', 'sistem medical', 'spitale private', 'sănătate mentală', 'campanie umanitară', 'donare de sânge', 'persoane cu dizabilități', 'sprijin comunitar', 'activism civic', 'viață cotidiană', 'familie modernă', 'tineri', 'pensionari', 'condiții de trai', 'mediu urban', 'poluare', 'reciclare', 'inițiative locale', 'festival cultural', 'artă modernă', 'teatru', 'film', 'muzică', 'tradiții', 'patrimoniu', 'evenimente sociale', 'participare civică']
+                    };
+                    
+                    const keywords = categoryKeywords[value] || [];
+                    show = keywords.some(kw => text.toLowerCase().includes(kw.toLowerCase()));
+                }
+                
+                card.style.display = show ? 'block' : 'none';
+                if (show) visibleCount++;
+            });
+            
+            // Update header to show filter
+            const sectionTitle = document.querySelector('.news-section h2');
+            if (sectionTitle) {
+                if (currentFilter.type === 'source') {
+                    sectionTitle.textContent = `Știri - ${value}`;
+                } else if (currentFilter.type === 'category') {
+                    sectionTitle.textContent = `Știri - ${value.charAt(0).toUpperCase() + value.slice(1)}`;
+                }
+            }
+        }
+
+        function resetFilters() {
+            currentFilter = { type: null, value: null };
+            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
+            
+            document.querySelectorAll('.news-card').forEach(card => {
+                card.style.display = 'block';
+            });
+            
+            const sectionTitle = document.querySelector('.news-section h2');
+            if (sectionTitle) {
+                sectionTitle.textContent = 'Știri din România';
+            }
+            
+            document.getElementById('menuDropdown').classList.remove('show');
+            document.querySelector('.menu-toggle').classList.remove('active');
+        }
+
+        // Close menu when clicking outside
+        document.addEventListener('click', function(e) {
+            const menu = document.getElementById('menuDropdown');
+            const btn = document.querySelector('.menu-toggle');
+            if (!menu.contains(e.target) && !btn.contains(e.target)) {
+                menu.classList.remove('show');
+                btn.classList.remove('active');
+            }
+        });
     </script>
 
     <script>
