@@ -771,7 +771,7 @@
             if (!wasExpanded) card.classList.add('expanded');
         }
 
-        news.forEach(n => {
+        console.log("Rendering news:", news.length, "items"); news.forEach(n => {
             document.getElementById('newsGrid').innerHTML += `
                 <div class="news-card" onclick="toggleNews(this)">
                     <img src="${n.image}" alt="${n.title}" class="news-image" onerror="this.style.display='none'">
