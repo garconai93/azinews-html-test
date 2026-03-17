@@ -1,5 +1,5 @@
 // Service Worker for AziNews PWA
-const CACHE_NAME = 'azinews-v3';
+const CACHE_NAME = 'azinews-v4';
 const urlsToCache = [
   '/',
   '/index.html'
