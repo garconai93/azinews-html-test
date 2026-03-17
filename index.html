@@ -873,9 +873,6 @@
             newsCards.forEach(card => {
                 const sourceEl = card.querySelector('.news-source');
                 const source = sourceEl ? sourceEl.textContent.trim() : '';
-                // Debug pentru toate
-                console.log('Filter:', value, '| Source:', source, '| Match:', source.toLowerCase().includes(value.toLowerCase()));
-                }
                 const title = card.querySelector('.news-title').textContent.toLowerCase();
                 const content = (card.querySelector('.news-content')?.textContent || '').toLowerCase();
                 const text = (title + ' ' + content).toLowerCase();
