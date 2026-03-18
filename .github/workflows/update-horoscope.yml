@@ -35,4 +35,4 @@ jobs:
           git pull origin gh-pages --allow-unrelated-histories || true
           git add .
           git diff --staged --quiet || git commit -m "Horoscop zilnic $(date +%Y-%m-%d)"
-          git push origin master:gh-pages --force
+          git push origin master:master --force
