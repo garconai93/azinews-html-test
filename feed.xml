@@ -5,44 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 18 Mar 2026 20:00:41 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 21:00:40 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Centura verde a planetei se deplasează spre nord-vest din cauza încălzirii globale</title>
-        <link>https://www.mediafax.ro/meteo/centura-verde-a-planetei-se-deplaseaza-spre-nord-vest-din-cauza-incalzirii-globale-23705782</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/meteo/centura-verde-a-planetei-se-deplaseaza-spre-nord-vest-din-cauza-incalzirii-globale-23705782</guid>
-    </item>
-    <item>
-        <title>De ce nu vrea Trump să asigure Strâmtoarea Ormuz cu americani? „5.000 de militari, insuficienți pentru cucerirea insulelor”</title>
-        <link>https://adevarul.ro/stiri-externe/de-ce-nu-vrea-trump-sa-asigure-stramtoarea-ormuz-2515923.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/de-ce-nu-vrea-trump-sa-asigure-stramtoarea-ormuz-2515923.html</guid>
-    </item>
-    <item>
-        <title>George Simion explică poziția AUR față de buget: „Pentru asta ne-au trimis românii aici, nu să fim complice cu PSD-ul sau cu USR-ul”</title>
-        <link>https://adevarul.ro/politica/george-simion-explica-pozitia-aur-fata-de-buget-2516231.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/george-simion-explica-pozitia-aur-fata-de-buget-2516231.html</guid>
-    </item>
-    <item>
-        <title>Unde s-a rupt înțelegerea dintre PSD și AUR pe bugetul de stat. Petrișor Peiu: „Am cerut să ne susținem împreună amendamente similare. Inițial au spus</title>
-        <link>https://www.europafm.ro/liderul-senatorilor-aur-petrisor-peiu-explica-de-ce-a-picat-intelegerea-cu-psd-eu-personal-nu-am-nicio-asteptare-de-la-psd/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/liderul-senatorilor-aur-petrisor-peiu-explica-de-ce-a-picat-intelegerea-cu-psd-eu-personal-nu-am-nicio-asteptare-de-la-psd/</guid>
-    </item>
-    <item>
-        <title>Forțele Navale Române intervin în sprijinul operațiunilor de căutare a celor patru marinari dați dispăruți după ce un remorcher s-a răsturnat în zona </title>
-        <link>https://www.europafm.ro/un-remorcher-s-a-scufundat-in-apropiere-de-portul-midia-patru-persoane-sunt-cautate/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/un-remorcher-s-a-scufundat-in-apropiere-de-portul-midia-patru-persoane-sunt-cautate/</guid>
-    </item>
-    <item>
-        <title>Alexandru Nazare, despre criza bugetului: „Ilie Bolojan a fost informat de tot ce s-a întâmplat. Sper să să ajungă în această seară o concluzie bună p</title>
-        <link>https://adevarul.ro/politica/alexandru-nazare-despre-criza-bugetului-ilie-2516225.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/alexandru-nazare-despre-criza-bugetului-ilie-2516225.html</guid>
-    </item>
     <item>
         <title>S-a suspendat ședința comisiilor reunite de buget-finanțe din Parlament. Se așteaptă acordul liderilor politici după ce PSD a amenințat că blochează b</title>
         <link>https://www.europafm.ro/s-a-suspendat-sedinta-comisiilor-reunite-de-buget-finante-din-parlament-se-asteapta-acordul-liderilor-politici-dupa-ce-psd-a-amenintat-ca-blocheaza-bugetul-daca-parlamentarii-nu-aproba-ajutoarele-s/</link>
@@ -50,22 +14,58 @@
         <guid isPermaLink="true">https://www.europafm.ro/s-a-suspendat-sedinta-comisiilor-reunite-de-buget-finante-din-parlament-se-asteapta-acordul-liderilor-politici-dupa-ce-psd-a-amenintat-ca-blocheaza-bugetul-daca-parlamentarii-nu-aproba-ajutoarele-s/</guid>
     </item>
     <item>
-        <title>Poliția Română, acuzată că întârzie amendarea șoferilor în baza filmărilor din trafic: În dulcele stil birocratic, mai trebuie o hârtie</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politia-romana-acuzata-ca-intarzie-amendarea-soferilor-in-baza-filmarilor-din-trafic-in-dulcele-stil-birocratic-mai-trebuie-o-hartie-3683701</link>
+        <title>Crește numărul cazurilor de meningită în focarul epidemic din Anglia: 20 de cazuri diagnosticate. Doi tineri au murit în Canterbury</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/creste-numarul-cazurilor-de-meningita-in-focarul-epidemic-din-anglia-20-de-cazuri-diagnosticate-doi-tineri-au-murit-in-canterbury-3683793</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politia-romana-acuzata-ca-intarzie-amendarea-soferilor-in-baza-filmarilor-din-trafic-in-dulcele-stil-birocratic-mai-trebuie-o-hartie-3683701</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/creste-numarul-cazurilor-de-meningita-in-focarul-epidemic-din-anglia-20-de-cazuri-diagnosticate-doi-tineri-au-murit-in-canterbury-3683793</guid>
     </item>
     <item>
-        <title>Măsuri în Austria pentru scăderea prețurilor la pompă. În cazul României, reducerea accizelor sau a TVA este ultima soluție, spune ministrul Finanțelo</title>
-        <link>https://www.europafm.ro/masuri-in-austria-pentru-scaderea-preturilor-la-pompa-in-cazul-romaniei-reducerea-accizelor-sau-a-tva-este-ultima-solutie-spune-ministrul-finantelor/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/masuri-in-austria-pentru-scaderea-preturilor-la-pompa-in-cazul-romaniei-reducerea-accizelor-sau-a-tva-este-ultima-solutie-spune-ministrul-finantelor/</guid>
+        <title>Cum intenționează Chișinăul să reintegreze regiunea separatistă Transnistria</title>
+        <link>https://adevarul.ro/stiri-externe/republica-moldova/cum-intentioneaza-chisinaul-sa-reintegreze-2516242.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/cum-intentioneaza-chisinaul-sa-reintegreze-2516242.html</guid>
     </item>
     <item>
-        <title>Primele reacții ale liderilor politici după ce unul dintre amendamentele PSD nu a trecut în ședințele reunite de buget-finanțe. Secretarul general al </title>
-        <link>https://www.europafm.ro/primele-reactii-ale-liderilor-politici-dupa-ce-unul-dintre-amendamentele-psd-nu-a-trecut-in-sedintele-reunite-de-buget-finante-secretarul-general-al-pnl-psd-risca-sa-arunce-in-aer-tot-ceea/</link>
+        <title>Horoscop joi, 19 martie. Zodia care primește vești bune la locul de muncă. Ce nativi sunt tratați regește</title>
+        <link>https://adevarul.ro/stil-de-viata/horoscop/horoscop-joi-19-martie-zodia-care-primeste-vesti-2516240.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/horoscop/horoscop-joi-19-martie-zodia-care-primeste-vesti-2516240.html</guid>
+    </item>
+    <item>
+        <title>Moartea ayatollahului și jocurile de noroc: scandal în lumea piețelelor de predicție după uciderea lui Ali Khamenei</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/moartea-ayatollahului-si-jocurile-de-noroc-scandal-in-lumea-pietelelor-de-predictie-dupa-uciderea-lui-ali-khamenei-3683697</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/moartea-ayatollahului-si-jocurile-de-noroc-scandal-in-lumea-pietelelor-de-predictie-dupa-uciderea-lui-ali-khamenei-3683697</guid>
+    </item>
+    <item>
+        <title>Dinamo anunță că va sesiza UEFA după controversa din derbiul cu Rapid, în lipsa unei „reacții prompte și temeinice” a CCA</title>
+        <link>https://www.mediafax.ro/sport/dinamo-anunta-ca-va-sesiza-uefa-dupa-controversa-din-derbiul-cu-rapid-in-lipsa-unei-reactii-prompte-si-temeinice-a-cca-23705810</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/dinamo-anunta-ca-va-sesiza-uefa-dupa-controversa-din-derbiul-cu-rapid-in-lipsa-unei-reactii-prompte-si-temeinice-a-cca-23705810</guid>
+    </item>
+    <item>
+        <title>Tragedie în Alpii elvețieni: o femeie a murit după prăbușirea unei telecabine în stațiunea Engelberg. Cum s-a produs accidentul</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/tragedie-in-alpii-elvetieni-o-femeie-a-murit-dupa-prabusirea-unei-telecabine-in-statiunea-engelberg-cum-s-a-produs-accidentul-3683753</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/tragedie-in-alpii-elvetieni-o-femeie-a-murit-dupa-prabusirea-unei-telecabine-in-statiunea-engelberg-cum-s-a-produs-accidentul-3683753</guid>
+    </item>
+    <item>
+        <title>CNAS își propune să lanseze o aplicație de programare a pacienților în sistemul public de sănătate. Vicepreședinta Larisa Mezinu-Bălan: „Este responsa</title>
+        <link>https://www.europafm.ro/cnas-isi-propune-sa-lanseze-o-aplicatie-de-programare-a-pacientilor-in-sistemul-public-de-sanatate-larisa-mezinu-balan-este-responsabilitatea-noastra-sa-cream-aceasta-facilitate/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/primele-reactii-ale-liderilor-politici-dupa-ce-unul-dintre-amendamentele-psd-nu-a-trecut-in-sedintele-reunite-de-buget-finante-secretarul-general-al-pnl-psd-risca-sa-arunce-in-aer-tot-ceea/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/cnas-isi-propune-sa-lanseze-o-aplicatie-de-programare-a-pacientilor-in-sistemul-public-de-sanatate-larisa-mezinu-balan-este-responsabilitatea-noastra-sa-cream-aceasta-facilitate/</guid>
+    </item>
+    <item>
+        <title>Aliații NATO discută pentru a găsi cea mai bună cale de a redeschide strâmtoarea Ormuz, a declarat Secretarul General al Alianței: „Toți lucrează împr</title>
+        <link>https://www.europafm.ro/aliatii-nato-discuta-pentru-a-gasi-cea-mai-buna-cale-de-a-redeschide-stramtoarea-ormuz-a-declarat-secretarul-general-al-aliantei-toti-lucreaza-impreuna/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/aliatii-nato-discuta-pentru-a-gasi-cea-mai-buna-cale-de-a-redeschide-stramtoarea-ormuz-a-declarat-secretarul-general-al-aliantei-toti-lucreaza-impreuna/</guid>
+    </item>
+    <item>
+        <title>Strategia SUA și a Israelului de a-i elimina pe liderii iranieni riscă să întărească rezistența: „Doar câștigă timp”</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/strategia-sua-si-a-israelului-de-a-i-elimina-pe-liderii-iranieni-risca-sa-intareasca-rezistenta-doar-castiga-timp-3683787</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/strategia-sua-si-a-israelului-de-a-i-elimina-pe-liderii-iranieni-risca-sa-intareasca-rezistenta-doar-castiga-timp-3683787</guid>
     </item>
 </channel>
 </rss>
