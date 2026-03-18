@@ -5,20 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 18 Mar 2026 21:21:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:00:42 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Temeri vechi se reaprind în Europa. O nouă criză a migrației ar putea porni de la Teheran</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/temeri-vechi-se-reaprind-in-europa-o-noua-criza-a-migratiei-ar-putea-porni-de-la-teheran-3683737</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/temeri-vechi-se-reaprind-in-europa-o-noua-criza-a-migratiei-ar-putea-porni-de-la-teheran-3683737</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 19. Prima reacție a lui Mojtaba Khamenei după moartea lui Ali Larijiani / 3 avioane de pe aeroportul Ben Gurion, lovite </title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-18-martie-2026-5665470</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-18-martie-2026-5665470</guid>
-    </item>
     <item>
         <title>Ludovic Orban: „PSD a încasat-o astăzi”. „A rămas cu ochii în soare și s-a făcut de râs că a negociat cu AUR ca să-și treacă amendamentele” | VIDEO</title>
         <link>https://www.europafm.ro/ludovic-orban-psd-a-incasat-o-astazi-a-ramas-cu-ochii-in-soare-si-s-a-facut-de-ras-ca-a-negociat-cu-aur-ca-sa-si-treaca-amendamentele/</link>
@@ -26,46 +14,58 @@
         <guid isPermaLink="true">https://www.europafm.ro/ludovic-orban-psd-a-incasat-o-astazi-a-ramas-cu-ochii-in-soare-si-s-a-facut-de-ras-ca-a-negociat-cu-aur-ca-sa-si-treaca-amendamentele/</guid>
     </item>
     <item>
-        <title>Meloni reduce accizele la carburanți în Italia</title>
-        <link>https://www.mediafax.ro/externe/meloni-reduce-accizele-la-carburanti-in-italia-23705795</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/meloni-reduce-accizele-la-carburanti-in-italia-23705795</guid>
+        <title>Ciucu, întâlnire cu companiile de utilităţi: Este obligatorie coordonarea. Nu e posibil să încheiem o lucrare, apoi veniţi să spargeți</title>
+        <link>https://www.digi24.ro/stiri/actualitate/ciucu-intalnire-cu-companiile-de-utilitati-este-obligatorie-coordonarea-nu-e-posibil-sa-incheiem-o-lucrare-apoi-veniti-sa-spargeti-3683911</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/ciucu-intalnire-cu-companiile-de-utilitati-este-obligatorie-coordonarea-nu-e-posibil-sa-incheiem-o-lucrare-apoi-veniti-sa-spargeti-3683911</guid>
     </item>
     <item>
-        <title>S-a suspendat ședința comisiilor reunite de buget-finanțe din Parlament. Se așteaptă acordul liderilor politici după ce PSD a amenințat că blochează b</title>
-        <link>https://www.europafm.ro/s-a-suspendat-sedinta-comisiilor-reunite-de-buget-finante-din-parlament-se-asteapta-acordul-liderilor-politici-dupa-ce-psd-a-amenintat-ca-blocheaza-bugetul-daca-parlamentarii-nu-aproba-ajutoarele-s/</link>
+        <title>Măsuri în Austria pentru scăderea prețurilor la pompă. În cazul României, reducerea accizelor sau a TVA este ultima soluție, spune ministrul Finanțelo</title>
+        <link>https://www.europafm.ro/masuri-in-austria-pentru-scaderea-preturilor-la-pompa-in-cazul-romaniei-reducerea-accizelor-sau-a-tva-este-ultima-solutie-spune-ministrul-finantelor/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/s-a-suspendat-sedinta-comisiilor-reunite-de-buget-finante-din-parlament-se-asteapta-acordul-liderilor-politici-dupa-ce-psd-a-amenintat-ca-blocheaza-bugetul-daca-parlamentarii-nu-aproba-ajutoarele-s/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/masuri-in-austria-pentru-scaderea-preturilor-la-pompa-in-cazul-romaniei-reducerea-accizelor-sau-a-tva-este-ultima-solutie-spune-ministrul-finantelor/</guid>
+    </item>
+    <item>
+        <title>Erori, diplomație neconvențională și suspiciune: Cum s-au prăbușit negocierile SUA-Iran privind programul nuclear</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/erori-diplomatie-neconventionala-si-suspiciune-2516248.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/erori-diplomatie-neconventionala-si-suspiciune-2516248.html</guid>
+    </item>
+    <item>
+        <title>Crește numărul cazurilor de meningită în focarul epidemic din Anglia: 20 de cazuri diagnosticate. Doi tineri au murit în Canterbury</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/creste-numarul-cazurilor-de-meningita-in-focarul-epidemic-din-anglia-20-de-cazuri-diagnosticate-doi-tineri-au-murit-in-canterbury-3683793</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/creste-numarul-cazurilor-de-meningita-in-focarul-epidemic-din-anglia-20-de-cazuri-diagnosticate-doi-tineri-au-murit-in-canterbury-3683793</guid>
+    </item>
+    <item>
+        <title>Consumul de cafea sau ceai zilnic poate proteja creierul</title>
+        <link>https://www.mediafax.ro/life-inedit/consumul-de-cafea-sau-ceai-zilnic-poate-proteja-creierul-23705841</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/consumul-de-cafea-sau-ceai-zilnic-poate-proteja-creierul-23705841</guid>
+    </item>
+    <item>
+        <title>Viktor Orban reacționează la scrisoarea trimisă de fostul președinte ucrainean: „Țara împotriva căreia luptați nu este dușmanul Ungariei”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/viktor-orban-reactioneaza-la-scrisoarea-trimisa-de-2516256.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/viktor-orban-reactioneaza-la-scrisoarea-trimisa-de-2516256.html</guid>
+    </item>
+    <item>
+        <title>Dinamo anunță că va sesiza UEFA după controversa din derbiul cu Rapid, în lipsa unei „reacții prompte și temeinice” a CCA</title>
+        <link>https://www.mediafax.ro/sport/dinamo-anunta-ca-va-sesiza-uefa-dupa-controversa-din-derbiul-cu-rapid-in-lipsa-unei-reactii-prompte-si-temeinice-a-cca-23705810</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/dinamo-anunta-ca-va-sesiza-uefa-dupa-controversa-din-derbiul-cu-rapid-in-lipsa-unei-reactii-prompte-si-temeinice-a-cca-23705810</guid>
+    </item>
+    <item>
+        <title>Forțele Navale Române intervin în sprijinul operațiunilor de căutare a celor patru marinari dați dispăruți după ce un remorcher s-a răsturnat în zona </title>
+        <link>https://www.europafm.ro/un-remorcher-s-a-scufundat-in-apropiere-de-portul-midia-patru-persoane-sunt-cautate/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/un-remorcher-s-a-scufundat-in-apropiere-de-portul-midia-patru-persoane-sunt-cautate/</guid>
     </item>
     <item>
         <title>Tragedie în Alpii elvețieni: o femeie a murit după prăbușirea unei telecabine în stațiunea Engelberg. Cum s-a produs accidentul</title>
         <link>https://www.digi24.ro/stiri/externe/ue/tragedie-in-alpii-elvetieni-o-femeie-a-murit-dupa-prabusirea-unei-telecabine-in-statiunea-engelberg-cum-s-a-produs-accidentul-3683753</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/tragedie-in-alpii-elvetieni-o-femeie-a-murit-dupa-prabusirea-unei-telecabine-in-statiunea-engelberg-cum-s-a-produs-accidentul-3683753</guid>
-    </item>
-    <item>
-        <title>Horoscop 19 martie 2026. Scorpioniii au ajuns la concluzia că nu mai pot salva mare lucru dintr-o relație sau mai multe, poate la fel de importante</title>
-        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-19-martie-2026-5665338</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-19-martie-2026-5665338</guid>
-    </item>
-    <item>
-        <title>Remorcher scufundat la Midia: După căpitanul navei, scafandrii militari au recuperat încă un trup. Mai sunt căutați trei marinari</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/remorcher-scufundat-in-portul-midia-o-persoana-este-resuscitata-alte-cinci-ar-putea-fi-la-bord-3682119</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/remorcher-scufundat-in-portul-midia-o-persoana-este-resuscitata-alte-cinci-ar-putea-fi-la-bord-3682119</guid>
-    </item>
-    <item>
-        <title>Primele reacții ale liderilor politici după ce unul dintre amendamentele PSD nu a trecut în ședințele reunite de buget-finanțe. Secretarul general al </title>
-        <link>https://www.europafm.ro/primele-reactii-ale-liderilor-politici-dupa-ce-unul-dintre-amendamentele-psd-nu-a-trecut-in-sedintele-reunite-de-buget-finante-secretarul-general-al-pnl-psd-risca-sa-arunce-in-aer-tot-ceea/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/primele-reactii-ale-liderilor-politici-dupa-ce-unul-dintre-amendamentele-psd-nu-a-trecut-in-sedintele-reunite-de-buget-finante-secretarul-general-al-pnl-psd-risca-sa-arunce-in-aer-tot-ceea/</guid>
-    </item>
-    <item>
-        <title>Peste 150.000 de decese neînregistrate cauzate de COVID-19 au avut loc la începutul pandemiei – studiu</title>
-        <link>https://www.mediafax.ro/externe/peste-150-000-de-decese-neinregistrate-cauzate-de-covid-19-au-avut-loc-la-inceputul-pandemiei-studiu-23705821</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/peste-150-000-de-decese-neinregistrate-cauzate-de-covid-19-au-avut-loc-la-inceputul-pandemiei-studiu-23705821</guid>
     </item>
 </channel>
 </rss>
