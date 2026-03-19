@@ -5,19 +5,43 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 19 Mar 2026 21:56:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 22:00:42 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>De ce culturile de rapiță devin un pilon strategic al agriculturii ucrainene: planuri de extindere și creștere a producției pentru biodiesel</title>
-        <link>https://adevarul.ro/stiri-externe/europa/de-ce-culturile-de-rapita-devin-un-pilon-strategic-2516537.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/de-ce-culturile-de-rapita-devin-un-pilon-strategic-2516537.html</guid>
+        <title>Premierul slovac amenință cu „măsuri suplimentare” împotriva Ucrainei privind conducta Drujba. Fico: „Avem dreptul la petrol rusesc”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/premierul-slovac-ameninta-cu-masuri-suplimentare-impotriva-ucrainei-privind-conducta-drujba-fico-avem-dreptul-la-petrol-rusesc-3686017</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/premierul-slovac-ameninta-cu-masuri-suplimentare-impotriva-ucrainei-privind-conducta-drujba-fico-avem-dreptul-la-petrol-rusesc-3686017</guid>
     </item>
     <item>
-        <title>Firme înființate online, în maximum 48 de ore, cu costuri sub 100 de euro și fără cerințe minime de capital social – propunerea Comisiei Europene | AU</title>
-        <link>https://www.europafm.ro/firme-infiintate-online-in-maximum-48-de-ore-cu-costuri-sub-100-de-euro-si-fara-cerinte-minime-de-capital-social-propunerea-comisiei-europene/</link>
+        <title>Marinarii români blocați în zona de conflict din Golful Persic, fără hrană și apă, sunt sfătuiți să contacteze SLN pentru repatriere, anunță liderul s</title>
+        <link>https://www.europafm.ro/marinarii-romani-blocati-in-zona-de-conflict-din-golful-persic-fara-hrana-si-apa-sunt-sfatuiti-sa-contacteze-sln-pentru-repatriere-anunta-liderul-sindicatului-adrian-mihalcioiu/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/firme-infiintate-online-in-maximum-48-de-ore-cu-costuri-sub-100-de-euro-si-fara-cerinte-minime-de-capital-social-propunerea-comisiei-europene/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/marinarii-romani-blocati-in-zona-de-conflict-din-golful-persic-fara-hrana-si-apa-sunt-sfatuiti-sa-contacteze-sln-pentru-repatriere-anunta-liderul-sindicatului-adrian-mihalcioiu/</guid>
+    </item>
+    <item>
+        <title>Iranul vrea ca Germania să „clarifice” rolul bazei americane de la Ramstein în război</title>
+        <link>https://www.digi24.ro/stiri/externe/iranul-vrea-ca-germania-sa-clarifice-rolul-bazei-americane-de-la-ramstein-in-razboi-3686025</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/iranul-vrea-ca-germania-sa-clarifice-rolul-bazei-americane-de-la-ramstein-in-razboi-3686025</guid>
+    </item>
+    <item>
+        <title>Cum arată Lili Jurcă din „La Bloc” în 2026. Actrița Mariana Dănescu revine la PRO TV după aproape 20 de ani: Ce rol are în serialul „Tătuțu’”</title>
+        <link>https://www.libertatea.ro/entertainment/mariana-danescu-revine-pro-tv-dupa-20-de-ani-actrita-lili-jurca-la-bloc-joaca-tatutu-exclusiv-5666436</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/mariana-danescu-revine-pro-tv-dupa-20-de-ani-actrita-lili-jurca-la-bloc-joaca-tatutu-exclusiv-5666436</guid>
+    </item>
+    <item>
+        <title>Rusia lansează un nou apel pentru încetarea ostilităților din Golf</title>
+        <link>https://www.mediafax.ro/externe/rusia-lanseaza-un-nou-apel-pentru-incetarea-ostilitatilor-din-golf-23706638</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/rusia-lanseaza-un-nou-apel-pentru-incetarea-ostilitatilor-din-golf-23706638</guid>
+    </item>
+    <item>
+        <title>Dinamo nu se oprește din vrie și iese din lupta la titlu. Craiova câștigă în 10 oameni, după un meci cu scântei</title>
+        <link>https://adevarul.ro/sport/dinamo-nu-se-opreste-din-vrie-si-iese-din-lupta-2516535.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/dinamo-nu-se-opreste-din-vrie-si-iese-din-lupta-2516535.html</guid>
     </item>
     <item>
         <title>FBI a deschis o anchetă împotriva fostului șef al Centrului pentru Combaterea Terorismului, Joe Kent, care și-a dat demisia și a criticat războiul din</title>
@@ -26,46 +50,22 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/fbi-a-deschis-o-ancheta-impotriva-fostului-sef-al-centrului-pentru-combaterea-terorismului-joe-kent-care-si-a-dat-demisia-si-a-criticat-razboiul-din-iran-5667469</guid>
     </item>
     <item>
-        <title>Înalta Curte de Casație și Justiție reacționează după decizia Coaliției de a amâna plata drepturilor câștigate în instanță de magistrați: Statul de dr</title>
-        <link>https://www.europafm.ro/inalta-curte-de-casatie-si-justitie-reactioneaza-dupa-decizia-coalitiei-de-a-amana-plata-drepturilor-castigate-in-instanta-de-magistrati-iccj-statul-de-drept-nu-este-negociabil/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/inalta-curte-de-casatie-si-justitie-reactioneaza-dupa-decizia-coalitiei-de-a-amana-plata-drepturilor-castigate-in-instanta-de-magistrati-iccj-statul-de-drept-nu-este-negociabil/</guid>
-    </item>
-    <item>
-        <title>Topul domeniilor în care a crescut numărul de joburi față de anul trecut: asigurările, financiar/bancar și transport/logistică sunt sectoarele care au</title>
-        <link>https://www.libertatea.ro/stiri/topul-domeniilor-in-care-a-crescut-numarul-de-joburi-fata-de-anul-trecut-5667482</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/topul-domeniilor-in-care-a-crescut-numarul-de-joburi-fata-de-anul-trecut-5667482</guid>
-    </item>
-    <item>
-        <title>Premierul slovac amenință cu „măsuri suplimentare” împotriva Ucrainei privind conducta Drujba. Fico: „Avem dreptul la petrol rusesc”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/premierul-slovac-ameninta-cu-masuri-suplimentare-impotriva-ucrainei-privind-conducta-drujba-fico-avem-dreptul-la-petrol-rusesc-3686017</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/premierul-slovac-ameninta-cu-masuri-suplimentare-impotriva-ucrainei-privind-conducta-drujba-fico-avem-dreptul-la-petrol-rusesc-3686017</guid>
-    </item>
-    <item>
-        <title>Gestul de frondă al premierului maghiar Viktor Orban în timpul discursului lui Zelenski, la Consiliul European</title>
-        <link>https://adevarul.ro/stiri-externe/europa/gestul-de-fronda-al-premierului-maghiar-viktor-2516525.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/gestul-de-fronda-al-premierului-maghiar-viktor-2516525.html</guid>
-    </item>
-    <item>
-        <title>Alimentarea cu apă se reia în unele localități din R. Moldova pe fondul poluării Nistrului cauzate de Kremlin</title>
-        <link>https://adevarul.ro/stiri-externe/republica-moldova/alimentarea-cu-apa-se-reia-in-unele-localitati-din-2516523.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/alimentarea-cu-apa-se-reia-in-unele-localitati-din-2516523.html</guid>
-    </item>
-    <item>
-        <title>Cea mai lungă scară rulantă din lume are 905 metri și urcă 242 de metri, echivalentul unui zgârie-nori cu 80 de etaje</title>
-        <link>https://www.libertatea.ro/stiri/cea-mai-lunga-scara-rulanta-din-lume-china-905-metri-5667373</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cea-mai-lunga-scara-rulanta-din-lume-china-905-metri-5667373</guid>
-    </item>
-    <item>
         <title>Ionuț Radu se califică în sferturile Europa League, după victoria lui Celta Vigo cu Lyon / Răzvan Marin, în sferturile Conference League cu AEK Atena</title>
         <link>https://www.mediafax.ro/sport/ionut-radu-se-califica-in-sferturile-europa-league-dupa-victoria-lui-celta-vigo-cu-lyon-razvan-marin-in-sferturile-conference-league-cu-aek-atena-23706585</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/sport/ionut-radu-se-califica-in-sferturile-europa-league-dupa-victoria-lui-celta-vigo-cu-lyon-razvan-marin-in-sferturile-conference-league-cu-aek-atena-23706585</guid>
+    </item>
+    <item>
+        <title>Scenariul care dă fiori: o țară din Europa analizează măsuri fără precedent. Raționalizarea benzinei și limitarea vitezei pe drumurile publice</title>
+        <link>https://adevarul.ro/stiri-externe/europa/scenariul-care-da-fiori-o-tara-din-europa-2516531.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/scenariul-care-da-fiori-o-tara-din-europa-2516531.html</guid>
+    </item>
+    <item>
+        <title>Netanyahu anunță haos total în conducerea de la Teheran</title>
+        <link>https://www.mediafax.ro/externe/netanyahu-anunta-haos-total-in-conducerea-de-la-teheran-23706620</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/netanyahu-anunta-haos-total-in-conducerea-de-la-teheran-23706620</guid>
     </item>
 </channel>
 </rss>
