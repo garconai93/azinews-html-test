@@ -5,50 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 19 Mar 2026 20:00:42 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:04:16 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>FBI îl anchetează pe Joe Kent, fostul șef al departamentului antiterorism din SUA, care a demisionat pe fondul războiului din Iran</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/fbi-il-ancheteaza-pe-joe-kent-fostul-sef-al-departamentului-antiterorism-din-sua-care-a-demisionat-pe-fondul-razboiului-din-iran-3685741</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/fbi-il-ancheteaza-pe-joe-kent-fostul-sef-al-departamentului-antiterorism-din-sua-care-a-demisionat-pe-fondul-razboiului-din-iran-3685741</guid>
-    </item>
-    <item>
-        <title>Continuă protestele minerilor în fața Complexului Energetic Oltenia și pe străzile din Târgu Jiu. Săptămâna viitoare, un miting autorizat va avea loc </title>
-        <link>https://www.europafm.ro/continua-protestele-minerilor-in-fata-complexului-energetic-oltenia-si-pe-strazile-din-targu-jiu-saptamana-viitoare-un-miting-autorizat-va-avea-loc-in-fata-guvernului/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/continua-protestele-minerilor-in-fata-complexului-energetic-oltenia-si-pe-strazile-din-targu-jiu-saptamana-viitoare-un-miting-autorizat-va-avea-loc-in-fata-guvernului/</guid>
-    </item>
-    <item>
-        <title>Ilie Bolojan, la dezbaterea bugetului: „Până acum, bugetele au reflectat confortul politic al guvernanților. Să nu respirăm ușurați”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-la-dezbaterea-bugetului-pana-acum-bugetele-au-reflectat-confortul-politic-al-guvernantilor-sa-nu-respiram-usurati-3685821</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-la-dezbaterea-bugetului-pana-acum-bugetele-au-reflectat-confortul-politic-al-guvernantilor-sa-nu-respiram-usurati-3685821</guid>
-    </item>
-    <item>
-        <title>Gestul de frondă al premierului maghiar Viktor Orban în timpul discursului lui Zelenski, la Consiliul European</title>
-        <link>https://adevarul.ro/stiri-externe/europa/gestul-de-fronda-al-premierului-maghiar-viktor-2516525.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/gestul-de-fronda-al-premierului-maghiar-viktor-2516525.html</guid>
-    </item>
-    <item>
-        <title>Kevin Spacey a ajuns la o înţelegere cu trei bărbaţi care îl acuzau de agresiuni sexuale şi evită astfel un nou proces</title>
-        <link>https://www.digi24.ro/magazin/timp-liber/showbiz/kevin-spacey-a-ajuns-la-o-intelegere-cu-trei-barbati-care-il-acuzau-de-agresiuni-sexuale-si-evita-astfel-un-nou-proces-3685773</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/showbiz/kevin-spacey-a-ajuns-la-o-intelegere-cu-trei-barbati-care-il-acuzau-de-agresiuni-sexuale-si-evita-astfel-un-nou-proces-3685773</guid>
-    </item>
-    <item>
-        <title>Bolojan: „Cea mai gravă greșeală ar fi să ne relaxăm și să respirăm ușurați”</title>
-        <link>https://www.mediafax.ro/politic/bolojan-cea-mai-grava-greseala-ar-fi-sa-ne-relaxam-si-sa-respiram-usurati-23706567</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/bolojan-cea-mai-grava-greseala-ar-fi-sa-ne-relaxam-si-sa-respiram-usurati-23706567</guid>
-    </item>
-    <item>
-        <title>Asaltul românilor asupra benzinăriilor din Bulgaria. „O să fim din ce în ce mai mulţi pe aici, dacă mai cresc puţin preţurile”</title>
-        <link>https://www.libertatea.ro/stiri/asaltul-romanilor-asupra-benzinariilor-din-bulgaria-o-sa-fim-din-ce-in-ce-mai-multi-pe-aici-daca-mai-cresc-putin-preturile-5667161</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/asaltul-romanilor-asupra-benzinariilor-din-bulgaria-o-sa-fim-din-ce-in-ce-mai-multi-pe-aici-daca-mai-cresc-putin-preturile-5667161</guid>
-    </item>
     <item>
         <title>Vecinul tău ar putea fi spion. Cum recrutează Rusia cetățeni obișnuiți în Europa</title>
         <link>https://adevarul.ro/stiri-externe/rusia/vecinul-tau-ar-putea-fi-spion-cum-recruteaza-2516064.html</link>
@@ -56,16 +14,58 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/vecinul-tau-ar-putea-fi-spion-cum-recruteaza-2516064.html</guid>
     </item>
     <item>
-        <title>Kristen Stewart o va interpreta pe Sally Ride, prima femeie din SUA care a ajuns în spațiu</title>
-        <link>https://www.mediafax.ro/life-entertaiment/kristen-stewart-o-va-interpreta-pe-sally-ride-prima-femeie-din-sua-care-a-ajuns-in-spatiu-23706541</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/kristen-stewart-o-va-interpreta-pe-sally-ride-prima-femeie-din-sua-care-a-ajuns-in-spatiu-23706541</guid>
+        <title>Liderul senatorilor AUR, Petrișor Peiu: „Coaliția de guvernare și-a trădat din nou propriul popor”. „A renunțat să mai susțină scutirea de CASS pentru</title>
+        <link>https://www.europafm.ro/liderul-senatorilor-aur-petrisor-peiu-coalitia-de-guvernare-si-a-tradat-din-nou-propriul-popor-a-renuntat-sa-mai-sustina-scutirea-de-cass-pentru-mamele-aflate-in-concediu/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/liderul-senatorilor-aur-petrisor-peiu-coalitia-de-guvernare-si-a-tradat-din-nou-propriul-popor-a-renuntat-sa-mai-sustina-scutirea-de-cass-pentru-mamele-aflate-in-concediu/</guid>
     </item>
     <item>
-        <title>Pentagonul vrea să dubleze producția pentru bombardierele strategice de generația a șasea B-21</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/pentagonul-vrea-sa-dubleze-productia-pentru-bombardierele-strategice-de-generatia-a-sasea-b-21-3685859</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/pentagonul-vrea-sa-dubleze-productia-pentru-bombardierele-strategice-de-generatia-a-sasea-b-21-3685859</guid>
+        <title>Lucrări intense la ceas de seară pe Autostrada Moldovei A7, între Adjud și Bacău. De ce constructorul a intensificat ritmul</title>
+        <link>https://adevarul.ro/economie/lucrari-intense-la-ceas-de-seara-pe-autostrada-2516520.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/lucrari-intense-la-ceas-de-seara-pe-autostrada-2516520.html</guid>
+    </item>
+    <item>
+        <title>Soțul unei deputate USR a vândut o companie tech unui gigant american. Tranzacție importantă pe Nasdaq</title>
+        <link>https://adevarul.ro/politica/sotul-unei-deputate-usr-a-vandut-o-companie-tech-2516516.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/sotul-unei-deputate-usr-a-vandut-o-companie-tech-2516516.html</guid>
+    </item>
+    <item>
+        <title>CSM Oradea câștigă clar la Craiova, în etapa a 24-a din Liga Națională de baschet masculin</title>
+        <link>https://www.mediafax.ro/sport/csm-oradea-castiga-clar-la-craiova-in-etapa-a-24-a-din-liga-nationala-de-baschet-masculin-23706555</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/csm-oradea-castiga-clar-la-craiova-in-etapa-a-24-a-din-liga-nationala-de-baschet-masculin-23706555</guid>
+    </item>
+    <item>
+        <title>Care a fost cel mai mare risc pe care și l-a asumat Adelina Pestrițu în carieră. „M-am autoeducat, am luat notițe importante”</title>
+        <link>https://www.libertatea.ro/entertainment/care-a-fost-cel-mai-mare-risc-pe-care-si-l-a-asumat-adelina-pestritu-in-cariera-5667415</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/care-a-fost-cel-mai-mare-risc-pe-care-si-l-a-asumat-adelina-pestritu-in-cariera-5667415</guid>
+    </item>
+    <item>
+        <title>ONU cere un coridor maritim sigur pentru evacuarea marinarilor din Golful Persic</title>
+        <link>https://www.mediafax.ro/externe/onu-cere-un-coridor-maritim-sigur-pentru-evacuarea-marinarilor-din-golful-persic-23706540</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/onu-cere-un-coridor-maritim-sigur-pentru-evacuarea-marinarilor-din-golful-persic-23706540</guid>
+    </item>
+    <item>
+        <title>Chuck Norris a ajuns de urgență la spital</title>
+        <link>https://www.mediafax.ro/externe/chuck-norris-a-ajuns-de-urgenta-la-spital-23706558</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/chuck-norris-a-ajuns-de-urgenta-la-spital-23706558</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan anunță decizia coaliției pentru buget: banii pentru pensionari se iau de la magistrați</title>
+        <link>https://www.libertatea.ro/stiri/ilie-bolojan-anunta-decizia-coalitiei-pentru-buget-se-ia-de-la-magistrati-se-da-la-pensionari-5667512</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ilie-bolojan-anunta-decizia-coalitiei-pentru-buget-se-ia-de-la-magistrati-se-da-la-pensionari-5667512</guid>
+    </item>
+    <item>
+        <title>Compania Midia Marine Terminal a deschis o anchetă internă pentru a stabili cauza scufundării remorcherului Astana în apropiere de portul Midia</title>
+        <link>https://www.europafm.ro/compania-midia-marine-terminal-a-deschis-o-ancheta-interna-pentru-a-stabili-cauza-scufundarii-remorcherului-astana-in-apropiere-de-portul-midia/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/compania-midia-marine-terminal-a-deschis-o-ancheta-interna-pentru-a-stabili-cauza-scufundarii-remorcherului-astana-in-apropiere-de-portul-midia/</guid>
     </item>
 </channel>
 </rss>
