@@ -30,18 +30,27 @@ def extract_existing_news():
         if not match:
             return existing
         
-        # Simple regex to parse news items
+        # Simple regex to parse news items - extract all fields
         news_text = match.group(1)
-        # Match each news item
-        item_pattern = r"\{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\""
+        
+        # Match each news item with all fields
+        item_pattern = r"\{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\"(?:, image: \"([^\"]+)\")?(?:, time: \"([^\"]+)\")?(?:, content: \"([^\"]+)\")? \}"
         for m in re.finditer(item_pattern, news_text):
             source = m.group(1)
             if source in existing:
-                existing[source].append({
+                news_item = {
                     'source': source,
                     'url': m.group(2),
                     'title': m.group(3)
-                })
+                }
+                # Add optional fields if they exist
+                if m.group(4):  # image
+                    news_item['image'] = m.group(4)
+                if m.group(5):  # time
+                    news_item['time'] = m.group(5)
+                if m.group(6):  # content
+                    news_item['content'] = m.group(6)
+                existing[source].append(news_item)
     except Exception as e:
         print(f"  ⚠ Nu am putut extrage știrile existente: {e}")
     
