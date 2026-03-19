@@ -5,13 +5,49 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 19 Mar 2026 10:08:15 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:00:43 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Theodor Stolojan, la „Interviurile Adevărul” - Cum poate Guvernul să stăvilească șocul scumpirii carburanților</title>
-        <link>https://adevarul.ro/interviurile-adevarul/theodor-stolojan-la-interviurile-adevarul-cum-2516316.html</link>
+        <title>Cum arată Lili Jurcă din „La Bloc” în 2026. Actrița Mariana Dănescu revine la PRO TV după aproape 20 de ani: Ce rol are în serialul „Tătuțu’”</title>
+        <link>https://www.libertatea.ro/entertainment/mariana-danescu-revine-pro-tv-dupa-20-de-ani-actrita-lili-jurca-la-bloc-joaca-tatutu-exclusiv-5666436</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/mariana-danescu-revine-pro-tv-dupa-20-de-ani-actrita-lili-jurca-la-bloc-joaca-tatutu-exclusiv-5666436</guid>
+    </item>
+    <item>
+        <title>S-a suspendat ședința comisiilor reunite de buget-finanțe din Parlament. Se așteaptă acordul liderilor politici după ce PSD a amenințat că blochează b</title>
+        <link>https://www.europafm.ro/s-a-suspendat-sedinta-comisiilor-reunite-de-buget-finante-din-parlament-se-asteapta-acordul-liderilor-politici-dupa-ce-psd-a-amenintat-ca-blocheaza-bugetul-daca-parlamentarii-nu-aproba-ajutoarele-s/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/s-a-suspendat-sedinta-comisiilor-reunite-de-buget-finante-din-parlament-se-asteapta-acordul-liderilor-politici-dupa-ce-psd-a-amenintat-ca-blocheaza-bugetul-daca-parlamentarii-nu-aproba-ajutoarele-s/</guid>
+    </item>
+    <item>
+        <title>Profesorii din Brăila declară război păcănelelor: „Adolescenții sunt ușor influențabili”</title>
+        <link>https://www.libertatea.ro/stiri/stiri-braila-profesorii-declara-razboi-pacanelelor-5666975</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-braila-profesorii-declara-razboi-pacanelelor-5666975</guid>
+    </item>
+    <item>
+        <title>FBI a deschis o anchetă împotriva fostului șef al Centrului pentru Combaterea Terorismului, Joe Kent, care și-a dat demisia și a criticat războiul din</title>
+        <link>https://www.libertatea.ro/stiri/fbi-a-deschis-o-ancheta-impotriva-fostului-sef-al-centrului-pentru-combaterea-terorismului-joe-kent-care-si-a-dat-demisia-si-a-criticat-razboiul-din-iran-5667469</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/fbi-a-deschis-o-ancheta-impotriva-fostului-sef-al-centrului-pentru-combaterea-terorismului-joe-kent-care-si-a-dat-demisia-si-a-criticat-razboiul-din-iran-5667469</guid>
+    </item>
+    <item>
+        <title>Iancu Guda, taxat de Răzvan Pascu pentru postările despre Orientul Mijlociu: „Varză în capul lui! Păcăliciul experților, dat afară și de la Antena!”</title>
+        <link>https://adevarul.ro/stiri-interne/societate/iancu-guda-taxat-de-razvan-pascu-pentru-postarile-2516339.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/interviurile-adevarul/theodor-stolojan-la-interviurile-adevarul-cum-2516316.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/iancu-guda-taxat-de-razvan-pascu-pentru-postarile-2516339.html</guid>
+    </item>
+    <item>
+        <title>Alerte de securitate: drone neidentificate au survolat baza militară unde locuiesc Marco Rubio și Pete Hegseth</title>
+        <link>https://adevarul.ro/stiri-externe/sua/alerte-de-securitate-drone-neidentificate-au-2516355.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/alerte-de-securitate-drone-neidentificate-au-2516355.html</guid>
+    </item>
+    <item>
+        <title>Un oposum, găsit ascuns printre jucării de pluș, într-un magazin de suveniruri din Tasmania</title>
+        <link>https://www.mediafax.ro/life-inedit/un-oposum-gasit-ascuns-printre-jucarii-de-plus-intr-un-magazin-de-suverniruri-din-tasmania-23706175</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/un-oposum-gasit-ascuns-printre-jucarii-de-plus-intr-un-magazin-de-suverniruri-din-tasmania-23706175</guid>
     </item>
     <item>
         <title>Judecata de Joi, cu Cristian Tudor Popescu: PSD din Coaliție, Trump din NATO</title>
@@ -20,52 +56,16 @@
         <guid isPermaLink="true">https://www.europafm.ro/judecata-de-joi-cu-cristian-tudor-popescu-psd-din-coalitie-trump-din-nato/</guid>
     </item>
     <item>
-        <title>Samsung investește 73 miliarde dolari în semiconductori pentru inteligența artificială</title>
-        <link>https://www.mediafax.ro/economic/samsung-investeste-73-miliarde-dolari-in-semiconductori-pentru-inteligenta-artificiala-23706116</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/samsung-investeste-73-miliarde-dolari-in-semiconductori-pentru-inteligenta-artificiala-23706116</guid>
-    </item>
-    <item>
-        <title>Război în Orientul Mijlociu, ziua 20. 12 țări îndeamnă Iranul să „înceteze imediat atacurile” / Qatarul afirmă că Iranul a depășit „liniile roșii” / T</title>
-        <link>https://www.mediafax.ro/externe/razboi-in-orientul-mijlociu-ziua-20-emiratele-arabe-unite-califica-atacurile-asupra-instalatiei-de-gaze-drept-o-escaladare-periculoasa-qatarul-afirma-ca-iranul-a-depasit-l-23705884</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/razboi-in-orientul-mijlociu-ziua-20-emiratele-arabe-unite-califica-atacurile-asupra-instalatiei-de-gaze-drept-o-escaladare-periculoasa-qatarul-afirma-ca-iranul-a-depasit-l-23705884</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan s-a întâlnit cu Mark Rutte, la sediul NATO. „România se poate baza pe NATO”. Cum sunt interpretate amenințările Iranului</title>
-        <link>https://www.libertatea.ro/stiri/nicusor-dan-s-a-intalnit-cu-mark-rutte-la-sediul-nato-romania-se-poate-baza-pe-nato-cum-sunt-interpretate-amenintarile-iranului-5667399</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/nicusor-dan-s-a-intalnit-cu-mark-rutte-la-sediul-nato-romania-se-poate-baza-pe-nato-cum-sunt-interpretate-amenintarile-iranului-5667399</guid>
-    </item>
-    <item>
-        <title>Șefii serviciilor de informații americane, încrezători că SUA se pot descura și cu războiul din Iran și cu cel din Ucraina</title>
-        <link>https://adevarul.ro/stiri-externe/sua/sefii-serviciilor-de-informatii-americane-2516351.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/sefii-serviciilor-de-informatii-americane-2516351.html</guid>
-    </item>
-    <item>
-        <title>«Nu știu dacă ce învăț e suficient» — Ce spun 600 de medici rezidenți despre pregătirea pentru examenul de specialitate</title>
-        <link>https://adevarul.ro/stiri-interne/educatie/nu-stiu-daca-ce-invat-e-suficient-ce-spun-600-2516336.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/nu-stiu-daca-ce-invat-e-suficient-ce-spun-600-2516336.html</guid>
-    </item>
-    <item>
-        <title>Ludovic Orban: „PSD a încasat-o astăzi”. „A rămas cu ochii în soare și s-a făcut de râs că a negociat cu AUR ca să-și treacă amendamentele” | VIDEO</title>
-        <link>https://www.europafm.ro/ludovic-orban-psd-a-incasat-o-astazi-a-ramas-cu-ochii-in-soare-si-s-a-facut-de-ras-ca-a-negociat-cu-aur-ca-sa-si-treaca-amendamentele/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ludovic-orban-psd-a-incasat-o-astazi-a-ramas-cu-ochii-in-soare-si-s-a-facut-de-ras-ca-a-negociat-cu-aur-ca-sa-si-treaca-amendamentele/</guid>
-    </item>
-    <item>
-        <title>Urgența în care un blocaj împiedică eliminarea urinei</title>
-        <link>https://www.digi24.ro/sanatate-digimatinal/urgenta-in-care-un-blocaj-impiedica-eliminarea-urinei-3678505</link>
+        <title>Olguța Vasilescu ceartă pensionarii pentru că nu au votat cu PSD: „Vezi ce votezi că poate ți se taie pensia”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/olguta-vasilescu-cearta-pensionarii-pentru-ca-nu-au-votat-cu-psd-vezi-ce-votezi-ca-poate-ti-se-taie-pensia-3684419</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/sanatate-digimatinal/urgenta-in-care-un-blocaj-impiedica-eliminarea-urinei-3678505</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/olguta-vasilescu-cearta-pensionarii-pentru-ca-nu-au-votat-cu-psd-vezi-ce-votezi-ca-poate-ti-se-taie-pensia-3684419</guid>
     </item>
     <item>
-        <title>Cum sa alegi lungimea potrivită pentru un trench dama modern?</title>
-        <link>https://www.libertatea.ro/lifestyle/cum-sa-alegi-lungimea-potrivita-pentru-un-trench-dama-modern-5667357</link>
+        <title>Cum să profiți de echinocțiul de primăvară în 2026: ritualul simplu pentru un nou început</title>
+        <link>https://www.libertatea.ro/lifestyle/echinoctiul-de-primavara-2026-cum-profiti-ritualul-simplu-un-nou-inceput-5667406</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/cum-sa-alegi-lungimea-potrivita-pentru-un-trench-dama-modern-5667357</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/echinoctiul-de-primavara-2026-cum-profiti-ritualul-simplu-un-nou-inceput-5667406</guid>
     </item>
 </channel>
 </rss>
