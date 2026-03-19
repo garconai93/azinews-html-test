@@ -5,7 +5,7 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 19 Mar 2026 17:44:41 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:00:42 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
         <title>Război în Orientul Mijlociu, ziua 20. 12 țări îndeamnă Iranul să „înceteze imediat atacurile” / Qatarul afirmă că Iranul a depășit „liniile roșii” / T</title>
@@ -14,16 +14,10 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/razboi-in-orientul-mijlociu-ziua-20-emiratele-arabe-unite-califica-atacurile-asupra-instalatiei-de-gaze-drept-o-escaladare-periculoasa-qatarul-afirma-ca-iranul-a-depasit-l-23705884</guid>
     </item>
     <item>
-        <title>Alegeri în Ungaria: îngrijorări privind rolul fostei interprete a lui Vladimir Putin în monitorizarea scrutinului</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/alegeri-in-ungaria-ingrijorari-privind-rolul-fostei-interprete-a-lui-vladimir-putin-in-monitorizarea-scrutinului-3685607</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/alegeri-in-ungaria-ingrijorari-privind-rolul-fostei-interprete-a-lui-vladimir-putin-in-monitorizarea-scrutinului-3685607</guid>
-    </item>
-    <item>
-        <title>Liderul senatorilor AUR, Petrișor Peiu: „Coaliția de guvernare și-a trădat din nou propriul popor”. „A renunțat să mai susțină scutirea de CASS pentru</title>
-        <link>https://www.europafm.ro/liderul-senatorilor-aur-petrisor-peiu-coalitia-de-guvernare-si-a-tradat-din-nou-propriul-popor-a-renuntat-sa-mai-sustina-scutirea-de-cass-pentru-mamele-aflate-in-concediu/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/liderul-senatorilor-aur-petrisor-peiu-coalitia-de-guvernare-si-a-tradat-din-nou-propriul-popor-a-renuntat-sa-mai-sustina-scutirea-de-cass-pentru-mamele-aflate-in-concediu/</guid>
+        <title>MAI avertizează asupra e-mailurilor false care folosesc identitatea instituțiilor de ordine publică: „O secundă în plus de atenție”</title>
+        <link>https://adevarul.ro/stiri-interne/societate/mai-avertizeaza-asupra-e-mailurilor-false-care-2516492.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/mai-avertizeaza-asupra-e-mailurilor-false-care-2516492.html</guid>
     </item>
     <item>
         <title>Argeș: Bărbatul prins sub un mal de pământ, extras de pompieri. Acesta prezintă semne incompatibile cu viața</title>
@@ -32,40 +26,46 @@
         <guid isPermaLink="true">https://www.europafm.ro/arges-mal-de-pamant-a-cazut-peste-un-tanar-la-bascov-pompierii-intervin-de-urgenta/</guid>
     </item>
     <item>
+        <title>Trump: SUA au nevoie de fonduri suplimentare pentru războiul cu Iranul</title>
+        <link>https://www.mediafax.ro/externe/trump-sua-au-nevoie-de-fonduri-suplimentare-pentru-razboiul-cu-iranul-23706499</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-sua-au-nevoie-de-fonduri-suplimentare-pentru-razboiul-cu-iranul-23706499</guid>
+    </item>
+    <item>
+        <title>Echinocțiul de primăvară 2026. Explicația pentru care primăvara nu mai vine pe 21 martie</title>
+        <link>https://www.mediafax.ro/life-entertaiment/echinoctiul-de-primavara-2026-explicatia-pentru-care-primavara-nu-mai-vine-pe-21-martie-23706518</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/echinoctiul-de-primavara-2026-explicatia-pentru-care-primavara-nu-mai-vine-pe-21-martie-23706518</guid>
+    </item>
+    <item>
+        <title>Remorcherul scufundat în Portul Midia: când i-a fost făcută ultima inspecție și prin ce alte procese de revizie a trecut</title>
+        <link>https://www.digi24.ro/stiri/actualitate/remorcherul-scufundat-in-portul-midia-cand-i-a-fost-facuta-ultima-inspectie-si-prin-ce-alte-procese-de-revizie-a-trecut-3685593</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/remorcherul-scufundat-in-portul-midia-cand-i-a-fost-facuta-ultima-inspectie-si-prin-ce-alte-procese-de-revizie-a-trecut-3685593</guid>
+    </item>
+    <item>
+        <title>Cum să profiți de echinocțiul de primăvară în 2026: ritualul simplu pentru un nou început</title>
+        <link>https://www.libertatea.ro/lifestyle/echinoctiul-de-primavara-2026-cum-profiti-ritualul-simplu-un-nou-inceput-5667406</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/echinoctiul-de-primavara-2026-cum-profiti-ritualul-simplu-un-nou-inceput-5667406</guid>
+    </item>
+    <item>
+        <title>Italia și Austria reduc taxele pe combustibil</title>
+        <link>https://www.mediafax.ro/stirile-zilei/italia-si-austria-reduc-taxele-pe-combustibil-23706502</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/italia-si-austria-reduc-taxele-pe-combustibil-23706502</guid>
+    </item>
+    <item>
         <title>Alertă europeană: Calitatea aerului se va degrada semnificativ din cauza unui val de particule fine</title>
         <link>https://adevarul.ro/stiri-externe/europa/alerta-europeana-calitatea-aerului-se-va-degrada-2516506.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/alerta-europeana-calitatea-aerului-se-va-degrada-2516506.html</guid>
     </item>
     <item>
-        <title>Câți bani a încasat Rusia de pe urma celor două săptămâni de război din Iran: veniturile Moscovei din combustibili fosili</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/cati-bani-a-incasat-rusia-de-pe-urma-celor-doua-saptamani-de-razboi-din-iran-veniturile-moscovei-din-combustibili-fosili-3685623</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/cati-bani-a-incasat-rusia-de-pe-urma-celor-doua-saptamani-de-razboi-din-iran-veniturile-moscovei-din-combustibili-fosili-3685623</guid>
-    </item>
-    <item>
-        <title>Teroare într-un supermarket din Cluj: un bărbat înarmat cu un cuțit a amenințat clienții și a atacat un paznic</title>
-        <link>https://adevarul.ro/stiri-locale/cluj-napoca/teroare-intr-un-supermarket-din-cluj-un-barbat-2516498.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/cluj-napoca/teroare-intr-un-supermarket-din-cluj-un-barbat-2516498.html</guid>
-    </item>
-    <item>
-        <title>„Masterclass Managementul Destinației”, dedicat specialiștilor din turism</title>
-        <link>https://adevarul.ro/stil-de-viata/calatorii/masterclass-managementul-destinatiei-dedicat-2516508.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/calatorii/masterclass-managementul-destinatiei-dedicat-2516508.html</guid>
-    </item>
-    <item>
-        <title>Profesorii din Brăila declară război păcănelelor: „Adolescenții sunt ușor influențabili”</title>
-        <link>https://www.libertatea.ro/stiri/stiri-braila-profesorii-declara-razboi-pacanelelor-5666975</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-braila-profesorii-declara-razboi-pacanelelor-5666975</guid>
-    </item>
-    <item>
-        <title>Liderii din zece țări, printre care și Nicușor Dan, cer UE să prelungească termenul pentru reducerea emisiilor de dioxid de carbon din industrie | AUD</title>
-        <link>https://www.europafm.ro/liderii-din-zece-tari-printre-care-si-nicusor-dan-cer-ue-sa-prelungeasca-termenul-pentru-reducerea-emisiilor-de-dioxid-de-carbon-din-industrie/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/liderii-din-zece-tari-printre-care-si-nicusor-dan-cer-ue-sa-prelungeasca-termenul-pentru-reducerea-emisiilor-de-dioxid-de-carbon-din-industrie/</guid>
+        <title>Guvernul pregătește intervenția statului în companiile strategice și schimbă regulile pentru consumatori și agricultori</title>
+        <link>https://www.mediafax.ro/politic/guvernul-pregateste-interventia-statului-in-companiile-strategice-si-schimba-regulile-pentru-consumatori-si-agricultori-23706505</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/guvernul-pregateste-interventia-statului-in-companiile-strategice-si-schimba-regulile-pentru-consumatori-si-agricultori-23706505</guid>
     </item>
 </channel>
 </rss>
