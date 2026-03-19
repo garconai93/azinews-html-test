@@ -5,6 +5,7 @@ import requests
 import xml.etree.ElementTree as ET
 import re
 import os
+import json
 from datetime import datetime
 import random
 
@@ -15,6 +16,36 @@ SOURCES = [
     ("Libertatea", "https://www.libertatea.ro/rss"),
     ("Adevarul", "https://adevarul.ro/rss"),
 ]
+
+def extract_existing_news():
+    """Extract existing news from index.html to use as fallback"""
+    existing = {name: [] for name, _ in SOURCES}
+    try:
+        with open('index.html', 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Find news array
+        import re
+        match = re.search(r'const news = \[(.*?)\];', content, re.DOTALL)
+        if not match:
+            return existing
+        
+        # Simple regex to parse news items
+        news_text = match.group(1)
+        # Match each news item
+        item_pattern = r"\{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\""
+        for m in re.finditer(item_pattern, news_text):
+            source = m.group(1)
+            if source in existing:
+                existing[source].append({
+                    'source': source,
+                    'url': m.group(2),
+                    'title': m.group(3)
+                })
+    except Exception as e:
+        print(f"  ⚠ Nu am putut extrage știrile existente: {e}")
+    
+    return existing
 
 def fetch_news(source_name, url):
     """Fetch news from RSS feed"""
@@ -141,11 +172,20 @@ def update_index_html(all_news):
 def main():
     print(f"[{datetime.now().strftime('%H:%M')}] Actualizare știri...")
     
+    # Extrage știrile existente pentru fallback
+    existing_news = extract_existing_news()
+    
     all_news = []
     for name, url in SOURCES:
         print(f"Preia {name}...")
         news = fetch_news(name, url)
         print(f"  -> {len(news)} știri")
+        
+        # Fallback la știrile vechi dacă nu s-au găsit știri noi
+        if len(news) == 0 and len(existing_news.get(name, [])) > 0:
+            print(f"  ⚠ Folosesc {len(existing_news[name])} știri vechi pentru {name}")
+            news = existing_news[name]
+        
         all_news.extend(news)
     
     # Amestecă știrile
