@@ -5,43 +5,25 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 20 Mar 2026 11:00:41 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:51:50 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Simulare Bacalaureat 2026. În aproape 5% dintre licee testarea va fi boicotată</title>
-        <link>https://www.libertatea.ro/educatie/simulare-bacalaureat-2026-boicotata-5668709</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/educatie/simulare-bacalaureat-2026-boicotata-5668709</guid>
-    </item>
-    <item>
-        <title>Analiză la pompă: de ce s-a scumpit atât de mult motorina la OMV. Explicațiile unui expert în energie</title>
-        <link>https://adevarul.ro/economie/analiza-la-pompa-de-ce-s-a-scumpit-atat-de-mult-2516349.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/analiza-la-pompa-de-ce-s-a-scumpit-atat-de-mult-2516349.html</guid>
-    </item>
-    <item>
-        <title>Trafic blocat pe DN1, în zona Voila, după ce o automacara a luat foc în mers</title>
-        <link>https://www.europafm.ro/trafic-blocat-pe-dn1-in-zona-voila-dupa-ce-o-automacara-a-luat-foc/</link>
+        <title>Patru persoane, rănite într-un accident rutier produs pe centura ocolitoare a municipiului Suceava. Traficul este blocat</title>
+        <link>https://www.europafm.ro/patru-persoane-ranite-intr-un-accident-rutier-produs-pe-centura-ocolitoare-a-municipiului-suceava-traficul-este-blocat/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/trafic-blocat-pe-dn1-in-zona-voila-dupa-ce-o-automacara-a-luat-foc/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/patru-persoane-ranite-intr-un-accident-rutier-produs-pe-centura-ocolitoare-a-municipiului-suceava-traficul-este-blocat/</guid>
     </item>
     <item>
-        <title>Avioanele americane de realimentare, staționate la București, au efectuat primele misiuni la sud de Cipru</title>
-        <link>https://www.mediafax.ro/externe/avioanele-americane-de-realimentare-stationate-la-bucuresti-au-efectuat-primele-misiuni-la-sud-de-cipru-23706896</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/avioanele-americane-de-realimentare-stationate-la-bucuresti-au-efectuat-primele-misiuni-la-sud-de-cipru-23706896</guid>
-    </item>
-    <item>
-        <title>Sute de controale în asistența socială, finalizate cu amenzi de peste 500.000 de lei. Ce nereguli au găsit autoritățile</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/sute-de-controale-in-asistenta-sociala-finalizate-2516605.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/sute-de-controale-in-asistenta-sociala-finalizate-2516605.html</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 21. Iranul vrea „blocadă selectivă” în Strâmtoarea Ormuz. Prețul petrolului ar putea crește peste 180 de dolari pe baril</title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-20-martie-2026-5668501</link>
+        <title>Pericol pentru turiști în Brașov, la Pietrele lui Solomon: alunecare de teren masivă și risc de prăbușire a copacilor</title>
+        <link>https://www.libertatea.ro/stiri/stiri-brasov-pericol-pentru-turisti-la-pietrele-lui-solomon-5668696</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-20-martie-2026-5668501</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-brasov-pericol-pentru-turisti-la-pietrele-lui-solomon-5668696</guid>
+    </item>
+    <item>
+        <title>DEȘTEPTAREA: Birdwatching-ul, secretul unui creier tânăr</title>
+        <link>https://www.europafm.ro/desteptarea-birdwatching-ul-secretul-unui-creier-tanar/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/desteptarea-birdwatching-ul-secretul-unui-creier-tanar/</guid>
     </item>
     <item>
         <title>O firmă va fi amendată după ce a tăiat rădăcinile a șapte copaci în Parcul Carol. Primăria Capitalei: „Nu aveau documente din care să reiasă că lucrar</title>
@@ -50,22 +32,40 @@
         <guid isPermaLink="true">https://www.europafm.ro/o-firma-va-fi-amendata-dupa-ce-a-taiat-radacinile-a-sapte-copaci-in-parcul-carol-primaria-capitalei-nu-aveau-documente-din-care-sa-reiasa-ca-lucrarea-era-avizata-de-noi/</guid>
     </item>
     <item>
-        <title>„Shahedul polonez” prinde contur: Centru strategic pentru drone, inaugurat la periferia Varșoviei</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/shahedul-polonez-prinde-contur-centru-strategic-pentru-drone-inaugurat-la-periferia-varsoviei-3686635</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/shahedul-polonez-prinde-contur-centru-strategic-pentru-drone-inaugurat-la-periferia-varsoviei-3686635</guid>
-    </item>
-    <item>
-        <title>Preț record la carburanți în România, după scumpiri repetate. Sorin Grindeanu: „Guvernul să se ocupe de acest lucru”</title>
-        <link>https://www.digi24.ro/stiri/economie/transporturi/pret-record-la-carburanti-in-romania-dupa-scumpiri-repetate-sorin-grindeanu-guvernul-sa-se-ocupe-de-acest-lucru-3686721</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/transporturi/pret-record-la-carburanti-in-romania-dupa-scumpiri-repetate-sorin-grindeanu-guvernul-sa-se-ocupe-de-acest-lucru-3686721</guid>
-    </item>
-    <item>
-        <title>Trista poveste a lui Bolojan-Valjean și alte necazuri</title>
-        <link>https://www.libertatea.ro/opinii/andrei-craciun-trista-poveste-a-lui-bolojan-valjean-si-alte-necazuri-5666169</link>
+        <title>Cum se simte Alina Pușcaș după ce a avut burnout și infecție la rinichi. Vedeta s-a îngrășat 10 kilograme. „Un an foarte greu”</title>
+        <link>https://www.libertatea.ro/entertainment/cum-se-simte-alina-puscas-dupa-ce-a-avut-burnout-si-infectie-la-rinichi-5668725</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/opinii/andrei-craciun-trista-poveste-a-lui-bolojan-valjean-si-alte-necazuri-5666169</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/cum-se-simte-alina-puscas-dupa-ce-a-avut-burnout-si-infectie-la-rinichi-5668725</guid>
+    </item>
+    <item>
+        <title>UPDATE Grindeanu, despre prețurile la motorină și benzină: Somez să fie prioriotate pentru Guvern</title>
+        <link>https://www.mediafax.ro/politic/grindeanu-despre-preturile-la-motorina-si-benzina-somez-sa-fie-prioriotate-pentru-guvern-23706928</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/grindeanu-despre-preturile-la-motorina-si-benzina-somez-sa-fie-prioriotate-pentru-guvern-23706928</guid>
+    </item>
+    <item>
+        <title>Mult după miezul nopții, parlamentarii au votat să dea bani de la buget pentru o asociație anti-avort: „Nu am știut ce votăm”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/mult-dupa-miezul-noptii-parlamentarii-au-votat-sa-dea-bani-de-la-buget-pentru-o-asociatie-anti-avort-nu-am-stiut-ce-votam-3686623</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/mult-dupa-miezul-noptii-parlamentarii-au-votat-sa-dea-bani-de-la-buget-pentru-o-asociatie-anti-avort-nu-am-stiut-ce-votam-3686623</guid>
+    </item>
+    <item>
+        <title>Tarifele Andrei pentru concerte private în 2026. Cât plătesc mirii pentru un show</title>
+        <link>https://adevarul.ro/showbiz/vedete/tarifele-andrei-pentru-concerte-private-in-2026-2516656.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/vedete/tarifele-andrei-pentru-concerte-private-in-2026-2516656.html</guid>
+    </item>
+    <item>
+        <title>Cu ei atacăm Cupa Mondială! Mircea Lucescu a anunțat lotul României pentru barajul cu Turcia</title>
+        <link>https://adevarul.ro/sport/cu-ei-atacam-cupa-mondiala-mircea-lucescu-a-2516667.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/cu-ei-atacam-cupa-mondiala-mircea-lucescu-a-2516667.html</guid>
+    </item>
+    <item>
+        <title>UE va găsi soluții pentru ca Ucraina să primească, în cele din urmă, împrumutul promis de 90 de miliarde de euro, anunță șefa Comisiei Europene | AUDI</title>
+        <link>https://www.europafm.ro/ue-va-gasi-solutii-pentru-ca-ucraina-sa-primeasca-in-cele-din-urma-imprumutul-promis-de-90-de-miliarde-de-euro-anunta-sefa-comisiei-europene/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ue-va-gasi-solutii-pentru-ca-ucraina-sa-primeasca-in-cele-din-urma-imprumutul-promis-de-90-de-miliarde-de-euro-anunta-sefa-comisiei-europene/</guid>
     </item>
 </channel>
 </rss>
