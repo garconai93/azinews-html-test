@@ -5,20 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 20 Mar 2026 10:09:45 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 09:00:42 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Conferință Economedia &amp; G4Food: „România în noul context global. Oportunități și riscuri economice, agricole și comerciale”</title>
-        <link>https://www.mediafax.ro/economic/conferinta-economedia-g4food-romania-in-noul-context-global-oportunitati-si-riscuri-economice-agricole-si-comerciale-23706746</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/conferinta-economedia-g4food-romania-in-noul-context-global-oportunitati-si-riscuri-economice-agricole-si-comerciale-23706746</guid>
-    </item>
-    <item>
-        <title>Cinci state europene și Japonia sunt pregătite să colaboreze pentru deblocarea Strâmtorii Ormuz | AUDIO</title>
-        <link>https://www.europafm.ro/cinci-state-europene-si-japonia-sunt-pregatite-sa-colaboreze-pentru-deblocarea-stramtorii-ormuz/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/cinci-state-europene-si-japonia-sunt-pregatite-sa-colaboreze-pentru-deblocarea-stramtorii-ormuz/</guid>
-    </item>
     <item>
         <title>Alertă meteo: regiunile vizate de cod galben de vânt și de ninsori slabe</title>
         <link>https://adevarul.ro/stiri-interne/meteo/alerta-meteo-regiunile-vizate-de-cod-galben-de-2516573.html</link>
@@ -26,46 +14,58 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/meteo/alerta-meteo-regiunile-vizate-de-cod-galben-de-2516573.html</guid>
     </item>
     <item>
-        <title>Pericol pentru turiști în Brașov, la Pietrele lui Solomon: alunecare de teren masivă și risc de prăbușire a copacilor</title>
-        <link>https://www.libertatea.ro/stiri/stiri-brasov-pericol-pentru-turisti-la-pietrele-lui-solomon-5668696</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-brasov-pericol-pentru-turisti-la-pietrele-lui-solomon-5668696</guid>
-    </item>
-    <item>
-        <title>Cel mai bătrân om din lume a fost descoperit din greșeală. Are 118 ani și bea zilnic trei cafele:  „Trăiește bine! Merită!”</title>
-        <link>https://www.libertatea.ro/stiri/cel-mai-batran-om-din-lume-luiz-carlos-dos-santos-118-ani-brazilia-descoperit-azil-5668671</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cel-mai-batran-om-din-lume-luiz-carlos-dos-santos-118-ani-brazilia-descoperit-azil-5668671</guid>
-    </item>
-    <item>
-        <title>Primele misiuni de realimentare aeriană ale avioanelor americane staționate la București. În ce au constat acestea</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/primele-misiuni-de-realimentare-aeriana-ale-avioanelor-americane-stationate-la-bucuresti-in-ce-au-constat-acestea-3686395</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/primele-misiuni-de-realimentare-aeriana-ale-avioanelor-americane-stationate-la-bucuresti-in-ce-au-constat-acestea-3686395</guid>
-    </item>
-    <item>
-        <title>Război în Orientul Mijlociu, ziua 21. Kuweitul închide anumite secțiuni ale rafinăriei Al Ahmadi în urma unui atac cu drone</title>
+        <title>SUA lansează o ofensivă pentru deblocarea Strâmtorii Ormuz: Avioane de luptă și elicoptere vânează drone și nave militare iraniene</title>
         <link>https://www.digi24.ro/stiri/externe/mapamond/razboi-in-orientul-mijlociu-ziua-21-benjamin-netanyahu-sustine-ca-iranul-este-mai-slab-ca-niciodata-noi-castigam-3686031</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/razboi-in-orientul-mijlociu-ziua-21-benjamin-netanyahu-sustine-ca-iranul-este-mai-slab-ca-niciodata-noi-castigam-3686031</guid>
     </item>
     <item>
-        <title>Gabriela Firea: „1 din 5 cupluri din România suferă de infertilitate, iar anul trecut s-a atins un record negativ de nașteri”. Apel pentru sprijinirea</title>
-        <link>https://www.mediafax.ro/economic/gabriela-firea-1-din-5-cupluri-din-romania-sufera-de-infertilitate-iar-anul-trecut-s-a-atins-un-record-negativ-de-nasteri-apel-pentru-sprijinirea-familiilor-23706727</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/gabriela-firea-1-din-5-cupluri-din-romania-sufera-de-infertilitate-iar-anul-trecut-s-a-atins-un-record-negativ-de-nasteri-apel-pentru-sprijinirea-familiilor-23706727</guid>
+        <title>Trista poveste a lui Bolojan-Valjean și alte necazuri</title>
+        <link>https://www.libertatea.ro/opinii/andrei-craciun-trista-poveste-a-lui-bolojan-valjean-si-alte-necazuri-5666169</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/opinii/andrei-craciun-trista-poveste-a-lui-bolojan-valjean-si-alte-necazuri-5666169</guid>
     </item>
     <item>
-        <title>Explozie a prețurilor la gaze naturale în urma atacului de la Ras Laffan. În ce măsură va fi afectată România</title>
-        <link>https://adevarul.ro/economie/explozie-a-preturilor-la-gaze-naturale-in-urma-2516478.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/explozie-a-preturilor-la-gaze-naturale-in-urma-2516478.html</guid>
+        <title>Fiica adolescentă a liderului nord-coreean Kim Jong Un a condus un tanc la un exercițiu militar</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/fiica-adolescenta-a-liderului-nord-coreean-kim-jong-un-a-condus-un-tanc-la-un-exercitiu-militar-3686323</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/fiica-adolescenta-a-liderului-nord-coreean-kim-jong-un-a-condus-un-tanc-la-un-exercitiu-militar-3686323</guid>
     </item>
     <item>
         <title>Buget 2026. În plenul Parlamentului au început dezbaterile pe articole</title>
         <link>https://www.europafm.ro/buget-2026-in-plenul-parlamentului-au-inceput-dezbaterile-pe-articole/</link>
         <description>Europa FM</description>
         <guid isPermaLink="true">https://www.europafm.ro/buget-2026-in-plenul-parlamentului-au-inceput-dezbaterile-pe-articole/</guid>
+    </item>
+    <item>
+        <title>Secretul unei recolte bune stă în sol — pași simpli pentru refacerea și fertilizarea lui (P)</title>
+        <link>https://www.mediafax.ro/social/secretul-unei-recolte-bune-sta-in-sol-pasi-simpli-pentru-refacerea-si-fertilizarea-lui-p-23706830</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/secretul-unei-recolte-bune-sta-in-sol-pasi-simpli-pentru-refacerea-si-fertilizarea-lui-p-23706830</guid>
+    </item>
+    <item>
+        <title>Buget 2026. George Simion, în plenul Parlamentului: Robin Hood, care ia de la bogați și dă la săraci, în realitatea din România este reprezentat de Gr</title>
+        <link>https://www.europafm.ro/buget-2026-george-simion-in-plenul-parlamentului-robin-hood-care-ia-de-la-bogati-si-da-la-saraci-in-realitatea-din-romania-este-reprezentat-de-grindeanu-baba-si-cei-40-de-hoti/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/buget-2026-george-simion-in-plenul-parlamentului-robin-hood-care-ia-de-la-bogati-si-da-la-saraci-in-realitatea-din-romania-este-reprezentat-de-grindeanu-baba-si-cei-40-de-hoti/</guid>
+    </item>
+    <item>
+        <title>Premierul Bulgariei se distanțează de „Consiliul de Pace”: „A fost decizia unui singur oligarh”</title>
+        <link>https://www.mediafax.ro/externe/premierul-bulgariei-se-distanteaza-de-consiliul-de-pace-a-fost-decizia-unui-singur-oligarh-23706792</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/premierul-bulgariei-se-distanteaza-de-consiliul-de-pace-a-fost-decizia-unui-singur-oligarh-23706792</guid>
+    </item>
+    <item>
+        <title>Pâinea s-ar putea scumpi în această lună, din cauza creșterii prețurilor la gaze și combustibil. Rompan cere intervenția Guvernului</title>
+        <link>https://www.libertatea.ro/stiri/painea-se-poate-scumpi-martie-dupa-crestere-pret-gaze-combustibil-rompan-5668684</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/painea-se-poate-scumpi-martie-dupa-crestere-pret-gaze-combustibil-rompan-5668684</guid>
+    </item>
+    <item>
+        <title>Cum reducem consumul de carburant. Recomandările AIE: de la munca de acasă la plitele electrice</title>
+        <link>https://adevarul.ro/economie/cum-reducem-consumul-de-carburant-recomandarile-2516599.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/cum-reducem-consumul-de-carburant-recomandarile-2516599.html</guid>
     </item>
 </channel>
 </rss>
