@@ -5,13 +5,55 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 21 Mar 2026 12:00:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 13:00:43 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Mesajele transmise de cinci țări arabe după atacurile israeliene în Siria. Damascul a denunțat „pretexte false și argumente inventate”</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/mesajele-transmise-de-cinci-tari-arabe-dupa-2516842.html</link>
+        <title>Un autocar plin cu pasageri din Republica Moldova s-a răsturnat în județul Galați. O persoană a murit și alte 15 au fost grav rănite | GALERIE FOTO</title>
+        <link>https://www.europafm.ro/un-autocar-plin-cu-pasageri-din-republica-moldova-s-a-rasturnat-in-judetul-galaii/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/un-autocar-plin-cu-pasageri-din-republica-moldova-s-a-rasturnat-in-judetul-galaii/</guid>
+    </item>
+    <item>
+        <title>„Democraţia europeană este pe moarte”. Viktor Orban acuză Bruxelles-ul și Ucraina că încearcă să influențeze alegerile din Ungaria</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/democratia-europeana-este-pe-moarte-viktor-orban-acuza-bruxelles-ul-si-ucraina-ca-incearca-sa-influenteze-alegerile-din-ungaria-3688637</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/democratia-europeana-este-pe-moarte-viktor-orban-acuza-bruxelles-ul-si-ucraina-ca-incearca-sa-influenteze-alegerile-din-ungaria-3688637</guid>
+    </item>
+    <item>
+        <title>Sute de germani au mers să vadă operele lui Constantin Brâncuși, expuse la Berlin din martie până în luna august | AUDIO</title>
+        <link>https://www.europafm.ro/sute-de-germani-au-mers-sa-vada-operele-lui-constantin-brancusi-expuse-la-berlin/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/sute-de-germani-au-mers-sa-vada-operele-lui-constantin-brancusi-expuse-la-berlin/</guid>
+    </item>
+    <item>
+        <title>Spectacol pe cerul Europei. O furtună geomagnetică aduce aurora boreală la latitudini neobișnuite</title>
+        <link>https://adevarul.ro/stiri-externe/europa/spectacol-pe-cerul-europei-o-furtuna-geomagnetica-2516877.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/mesajele-transmise-de-cinci-tari-arabe-dupa-2516842.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/spectacol-pe-cerul-europei-o-furtuna-geomagnetica-2516877.html</guid>
+    </item>
+    <item>
+        <title>Românii sunt nemulțumiți de Guvernul Bolojan: 79% spun că România merge în direcția greșită – Sondaj Avangarde</title>
+        <link>https://www.libertatea.ro/stiri/sondaj-avangarde-romanii-sunt-nemultumiti-de-guvernul-bolojan-tara-directie-gresita-martie-2026-5670246</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/sondaj-avangarde-romanii-sunt-nemultumiti-de-guvernul-bolojan-tara-directie-gresita-martie-2026-5670246</guid>
+    </item>
+    <item>
+        <title>Acuzații ale familiilor marinarilor după scufundarea remorcherului Astana: Nava nu era autorizată pentru manevră</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/acuzatii-ale-familiilor-marinarilor-dupa-scufundarea-remorcherului-astana-nava-nu-era-autorizata-pentru-manevra-3688625</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/acuzatii-ale-familiilor-marinarilor-dupa-scufundarea-remorcherului-astana-nava-nu-era-autorizata-pentru-manevra-3688625</guid>
+    </item>
+    <item>
+        <title>Istoria Casei Alléon din Constanța, de la cămin de nefamiliști la sediu pentru instanța de judecată. Restaurarea, ratată la termenul din 2024</title>
+        <link>https://www.libertatea.ro/stiri/istoria-casei-alleon-din-constanta-de-la-camin-de-nefamilisti-la-sediul-pentru-instanta-de-judecata-restaurarea-ratata-la-termenul-din-2024-5667166</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/istoria-casei-alleon-din-constanta-de-la-camin-de-nefamilisti-la-sediul-pentru-instanta-de-judecata-restaurarea-ratata-la-termenul-din-2024-5667166</guid>
+    </item>
+    <item>
+        <title>Friedrich Merz intenționează să-l invite pe Donald Trump în Germania: „Nu este tocmai în relații bune cu mine”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/friedrich-merz-intentioneaza-sa-l-invite-pe-donald-trump-in-germania-nu-este-tocmai-in-relatii-bune-cu-mine-3688631</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/friedrich-merz-intentioneaza-sa-l-invite-pe-donald-trump-in-germania-nu-este-tocmai-in-relatii-bune-cu-mine-3688631</guid>
     </item>
     <item>
         <title>Atacul iranian asupra bazei Diego Garcia: minciunile Teheranului și implicațiile asupra Europei. Scutul de la Deveselu, esențial</title>
@@ -20,52 +62,10 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/atacul-iranian-asupra-bazei-diego-garcia-minciunile-teheranului-si-implicatiile-asupra-europei-scutul-de-la-deveselu-esential-3688567</guid>
     </item>
     <item>
-        <title>Beneficii ale postului. Dr. Mihaela Bilic: „Scade inflamația din organism, se reglează tot ce înseamnă metabolism”. Ce spune medicul despre rolul mișc</title>
-        <link>https://www.europafm.ro/beneficii-ale-postului-dr-mihaela-bilic-scade-inflamatia-din-organism-se-regleaza-tot-ce-inseamna-metabolism-ce-spune-medicul-despre-rolul-miscarii-in-perioada-postului/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/beneficii-ale-postului-dr-mihaela-bilic-scade-inflamatia-din-organism-se-regleaza-tot-ce-inseamna-metabolism-ce-spune-medicul-despre-rolul-miscarii-in-perioada-postului/</guid>
-    </item>
-    <item>
-        <title>Dominik Paris obține al 25-lea succes în Cupa Mondială de schi alpin, la coborârea de la Kvitfjell. Al doilea schior din istorie la numărul de victori</title>
-        <link>https://www.mediafax.ro/sport/dominik-paris-obtine-al-25-lea-succes-in-cupa-mondiala-de-schi-alpin-la-coborarea-de-la-kvitfjell-al-doilea-schior-din-istorie-la-numarul-de-victorii-in-proba-de-coborare-23707380</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/dominik-paris-obtine-al-25-lea-succes-in-cupa-mondiala-de-schi-alpin-la-coborarea-de-la-kvitfjell-al-doilea-schior-din-istorie-la-numarul-de-victorii-in-proba-de-coborare-23707380</guid>
-    </item>
-    <item>
         <title>Ce înseamnă expresia „a se face că plouă”</title>
         <link>https://www.libertatea.ro/lifestyle/ce-inseamna-expresia-a-se-face-ca-ploua-5662121</link>
         <description>Libertatea</description>
         <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/ce-inseamna-expresia-a-se-face-ca-ploua-5662121</guid>
-    </item>
-    <item>
-        <title>Factura la electricitate crește și nu știți de ce. Aparatul vinovat funcționează în tăcere, non-stop</title>
-        <link>https://www.mediafax.ro/social/factura-la-electricitate-creste-si-nu-stiti-de-ce-aparatul-vinovat-functioneaza-in-tacere-non-stop-23707370</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/factura-la-electricitate-creste-si-nu-stiti-de-ce-aparatul-vinovat-functioneaza-in-tacere-non-stop-23707370</guid>
-    </item>
-    <item>
-        <title>„Românii au talent”, 20 martie 2026. Ea este Anastasia Horbatsevych, fetița de 8 ani care a primit Golden Buzz și a ajuns direct în semifinală după ce</title>
-        <link>https://www.libertatea.ro/entertainment/romanii-au-talent-20-martie-2026-anastasia-horbatsevych-bolgen-buzz-5670217</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/romanii-au-talent-20-martie-2026-anastasia-horbatsevych-bolgen-buzz-5670217</guid>
-    </item>
-    <item>
-        <title>Șocul și durerea provocate de focarul de meningită din Marea Britanie: cum s-a răspândit boala până la Londra</title>
-        <link>https://www.digi24.ro/stiri/actualitate/sanatate/socul-si-durerea-provocate-de-focarul-de-meningita-din-marea-britanie-cum-s-a-raspandit-boala-pana-la-londra-3688521</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/socul-si-durerea-provocate-de-focarul-de-meningita-din-marea-britanie-cum-s-a-raspandit-boala-pana-la-londra-3688521</guid>
-    </item>
-    <item>
-        <title>Un nou reper mondial în proba de 60 m garduri la heptatlon, stabilit de elvețianul Simon Ehammer</title>
-        <link>https://www.mediafax.ro/sport/un-nou-reper-mondial-in-proba-de-60-m-garduri-la-heptatlon-stabilit-de-elvetianul-simon-ehammer-23707374</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/un-nou-reper-mondial-in-proba-de-60-m-garduri-la-heptatlon-stabilit-de-elvetianul-simon-ehammer-23707374</guid>
-    </item>
-    <item>
-        <title>Japonia câștigă Cupa Asiei la fotbal feminin după o finală dramatică împotriva Australiei. Număr record de spectatori</title>
-        <link>https://www.mediafax.ro/sport/japonia-castiga-cupa-asiei-la-fotbal-feminin-dupa-o-finala-dramatica-impotriva-australiei-numar-record-de-spectatori-23707388</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/japonia-castiga-cupa-asiei-la-fotbal-feminin-dupa-o-finala-dramatica-impotriva-australiei-numar-record-de-spectatori-23707388</guid>
     </item>
 </channel>
 </rss>
