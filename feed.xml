@@ -5,20 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 21 Mar 2026 15:44:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 16:00:41 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Reacția CSM după ce coaliția de guvernare a decis să amâne o serie de drepturi salariale ale magistraților, pentru a putea finanța pachetul de solidar</title>
-        <link>https://www.europafm.ro/reactia-csm-dupa-ce-coalitia-de-guvernare-a-decis-sa-amane-o-serie-de-drepturi-salariale-ale-magistratilor-pentru-a-putea-finanta-pachetul-de-solidaritate/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/reactia-csm-dupa-ce-coalitia-de-guvernare-a-decis-sa-amane-o-serie-de-drepturi-salariale-ale-magistratilor-pentru-a-putea-finanta-pachetul-de-solidaritate/</guid>
-    </item>
-    <item>
-        <title>Reacția Rusiei, după ce instalația nucleară Natanz a fost lovită de SUA și Israel</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/reactia-rusiei-dupa-ce-instalatia-nucleara-natanz-a-fost-lovita-de-sua-si-israel-o-incalcare-flagranta-a-dreptului-international-3688717</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/reactia-rusiei-dupa-ce-instalatia-nucleara-natanz-a-fost-lovita-de-sua-si-israel-o-incalcare-flagranta-a-dreptului-international-3688717</guid>
-    </item>
     <item>
         <title>De ce a eșuat planul inițial al SUA pentru Iran. Analiza lui George Friedman: „Fără trupe la sol, războiul nu poate fi câștigat”</title>
         <link>https://adevarul.ro/stiri-externe/de-ce-a-esuat-planul-initial-al-sua-pentru-iran-2515787.html</link>
@@ -26,46 +14,58 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/de-ce-a-esuat-planul-initial-al-sua-pentru-iran-2515787.html</guid>
     </item>
     <item>
-        <title>Beneficii ale postului. Dr. Mihaela Bilic: „Scade inflamația din organism, se reglează tot ce înseamnă metabolism”. Ce spune medicul despre rolul mișc</title>
-        <link>https://www.europafm.ro/beneficii-ale-postului-dr-mihaela-bilic-scade-inflamatia-din-organism-se-regleaza-tot-ce-inseamna-metabolism-ce-spune-medicul-despre-rolul-miscarii-in-perioada-postului/</link>
+        <title>Un mesaj trimis de pe coasta Canadei, într-o sticlă, a „călătorit” 4.300 de kilometri peste Atlantic. Cum a ajuns capsula în lăbuțele unui labrador di</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/un-mesaj-trimis-de-pe-coasta-canadei-intr-o-2516916.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/un-mesaj-trimis-de-pe-coasta-canadei-intr-o-2516916.html</guid>
+    </item>
+    <item>
+        <title>Donald Trump spune că SUA iau în considerare „reducerea treptată” a operaţiunilor militare din Orientul Mijlociu</title>
+        <link>https://www.libertatea.ro/stiri/donald-trump-sua-ia-considerare-reducere-treptata-operatiuni-militare-orientul-mijlociu-5670251</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-sua-ia-considerare-reducere-treptata-operatiuni-militare-orientul-mijlociu-5670251</guid>
+    </item>
+    <item>
+        <title>Frații Mocanu, aduși în țară din Italia, sub escorta Poliției Române | AUDIO</title>
+        <link>https://www.europafm.ro/fratii-mocanu-adusi-in-tara-din-italia-sub-escorta-politiei-romane/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/beneficii-ale-postului-dr-mihaela-bilic-scade-inflamatia-din-organism-se-regleaza-tot-ce-inseamna-metabolism-ce-spune-medicul-despre-rolul-miscarii-in-perioada-postului/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/fratii-mocanu-adusi-in-tara-din-italia-sub-escorta-politiei-romane/</guid>
     </item>
     <item>
-        <title>Război în Orientul Mijlociu, ziua 22. Trump: „Suntem foarte aproape de obiective”/ Paradoxal, SUA au ridicat sancțiunile pe petrolul iranian/Armata SU</title>
-        <link>https://www.mediafax.ro/externe/razboi-in-orientul-mijlociu-ziua-22-trump-suntem-foarte-aproape-de-obiective-paradoxal-sua-au-ridicat-sanctiunile-pe-petrolul-iranian-armata-sua-sustine-ca-influenta-iranului-in-stramt-23707256</link>
+        <title>Spionaj în favoarea Iranului: O româncă, acuzată de pătrunderea într-o bază de submarine din Marea Britanie</title>
+        <link>https://www.mediafax.ro/externe/spionaj-in-favoarea-iranului-o-romanca-acuzata-de-patrunderea-intr-o-baza-de-submarine-din-marea-britanie-23707455</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/razboi-in-orientul-mijlociu-ziua-22-trump-suntem-foarte-aproape-de-obiective-paradoxal-sua-au-ridicat-sanctiunile-pe-petrolul-iranian-armata-sua-sustine-ca-influenta-iranului-in-stramt-23707256</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/spionaj-in-favoarea-iranului-o-romanca-acuzata-de-patrunderea-intr-o-baza-de-submarine-din-marea-britanie-23707455</guid>
     </item>
     <item>
-        <title>Camătă și șantaj în Arad. Persoane suspectate că își presau și amenințau victimele</title>
-        <link>https://www.mediafax.ro/social/camata-si-santaj-in-arad-persoane-suspectate-ca-isi-presau-si-amenintau-victimele-23707449</link>
+        <title>Ucraina a atacat Rusia cu 283 de drone. Au fost lovite căi de acces către Moscova și instalații strategice din Saratov</title>
+        <link>https://www.libertatea.ro/stiri/ucraina-atac-rusia-drone-lovit-cai-acces-moscova-5670260</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ucraina-atac-rusia-drone-lovit-cai-acces-moscova-5670260</guid>
+    </item>
+    <item>
+        <title>Nu te lăsa păcălit de oglindă: poți face infarct chiar dacă ești slab și ai un stil de viață activ. Un cardiolog demontează cele mai mari mituri despr</title>
+        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/nu-te-lasa-pacalit-de-oglinda-poti-face-infarct-2516903.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/nu-te-lasa-pacalit-de-oglinda-poti-face-infarct-2516903.html</guid>
+    </item>
+    <item>
+        <title>Javier Milei, la Budapesta, ca să-l susțină pe Orban înaintea alegerilor decisive. Trump transmite, printr-un nou mesaj, că îl susține „necondiționat”</title>
+        <link>https://www.mediafax.ro/stirile-zilei/javier-milei-la-budapesta-ca-sa-l-sustina-pe-orban-inaintea-alegerilor-decisive-trump-transmite-printr-un-nou-mesaj-ca-il-sustine-neconditionat-23707424</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/camata-si-santaj-in-arad-persoane-suspectate-ca-isi-presau-si-amenintau-victimele-23707449</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/javier-milei-la-budapesta-ca-sa-l-sustina-pe-orban-inaintea-alegerilor-decisive-trump-transmite-printr-un-nou-mesaj-ca-il-sustine-neconditionat-23707424</guid>
     </item>
     <item>
-        <title>Diana Buzoianu: Pădurea Băneasa poate fi parc natural, arie protejată. Când vom avea documentele, Ministerul Mediului va face acest pas</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/diana-buzoianu-padurea-baneasa-poate-fi-parc-natural-arie-protejata-cand-vom-avea-documentele-ministerul-va-face-acest-pas-3688679</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/diana-buzoianu-padurea-baneasa-poate-fi-parc-natural-arie-protejata-cand-vom-avea-documentele-ministerul-va-face-acest-pas-3688679</guid>
+        <title>Fotbal: A fost decis lotul care va juca împotriva Turciei în play-off-ul Cupei Mondiale 2026, pe 26 martie | AUDIO</title>
+        <link>https://www.europafm.ro/fotbal-a-fost-decis-lotul-care-va-juca-impotriva-turciei-in-play-off-ul-cupei-mondiale-2026-pe-26-martie/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/fotbal-a-fost-decis-lotul-care-va-juca-impotriva-turciei-in-play-off-ul-cupei-mondiale-2026-pe-26-martie/</guid>
     </item>
     <item>
-        <title>Trump învins de presă? Un judecător a decis ca postul radio Vocea Americii să revină la viață</title>
-        <link>https://www.mediafax.ro/externe/trump-invins-de-presa-un-judecator-a-decis-ca-postul-radio-vocea-americii-sa-revina-la-viata-23707444</link>
+        <title>„Cel mai mare atac naval de la al Doilea Război Mondial”: Armata americană afirmă că a „redus” amenințarea iraniană în Strâmtoarea Ormuz</title>
+        <link>https://www.mediafax.ro/externe/cel-mai-mare-atac-naval-de-la-al-doilea-razboi-mondial-armata-americana-afirma-ca-a-redus-amenintarea-iraniana-in-stramtoarea-ormuz-23707446</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-invins-de-presa-un-judecator-a-decis-ca-postul-radio-vocea-americii-sa-revina-la-viata-23707444</guid>
-    </item>
-    <item>
-        <title>„Locul unde cămilele se tem să meargă”: 200 de schelete au fost descoperite într-un cimitir preistoric din deșertul Sahara</title>
-        <link>https://www.mediafax.ro/life-inedit/locul-unde-camilele-se-tem-sa-mearga-200-de-schelete-au-fost-descoperite-intr-un-cimitir-preistoric-din-desertul-sahara-23707437</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/locul-unde-camilele-se-tem-sa-mearga-200-de-schelete-au-fost-descoperite-intr-un-cimitir-preistoric-din-desertul-sahara-23707437</guid>
-    </item>
-    <item>
-        <title>Primele reacții după ce SUA au suspendat temporar sancțiunile asupra petrolului iranian aflat pe mare</title>
-        <link>https://www.digi24.ro/stiri/externe/primele-reactii-dupa-ce-sua-au-suspendat-temporar-sanctiunile-asupra-petrolului-iranian-aflat-pe-mare-3688751</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/primele-reactii-dupa-ce-sua-au-suspendat-temporar-sanctiunile-asupra-petrolului-iranian-aflat-pe-mare-3688751</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/cel-mai-mare-atac-naval-de-la-al-doilea-razboi-mondial-armata-americana-afirma-ca-a-redus-amenintarea-iraniana-in-stramtoarea-ormuz-23707446</guid>
     </item>
 </channel>
 </rss>
