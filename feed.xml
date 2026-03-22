@@ -5,14 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 22 Mar 2026 07:48:30 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 08:00:44 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Elon Musk, despre procurorii francezi: „înapoiți mintal”. Ce l-a supărat pe miliardar</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/elon-musk-despre-procurorii-francezii-inapoiti-mintal-ce-l-a-suparat-pe-miliardar-3689297</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/elon-musk-despre-procurorii-francezii-inapoiti-mintal-ce-l-a-suparat-pe-miliardar-3689297</guid>
-    </item>
     <item>
         <title>O rachetă Patriot implicată în explozia din Bahrain ar fi fost probabil operată de SUA</title>
         <link>https://www.mediafax.ro/externe/o-racheta-patriot-implicata-in-explozia-din-bahrain-ar-fi-fost-probabil-operata-de-sua-23707593</link>
@@ -20,52 +14,58 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/o-racheta-patriot-implicata-in-explozia-din-bahrain-ar-fi-fost-probabil-operata-de-sua-23707593</guid>
     </item>
     <item>
-        <title>Sute de germani au mers să vadă operele lui Constantin Brâncuși, expuse la Berlin din martie până în luna august | AUDIO</title>
-        <link>https://www.europafm.ro/sute-de-germani-au-mers-sa-vada-operele-lui-constantin-brancusi-expuse-la-berlin/</link>
+        <title>Simulare Bacalaureat 2026: Reguli stricte pentru elevi. Ce greșeli duc la eliminarea din examen</title>
+        <link>https://www.digi24.ro/stiri/actualitate/educatie/simulare-bacalaureat-2026-reguli-stricte-pentru-elevi-ce-greseli-duc-la-eliminarea-din-examen-3687285</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/educatie/simulare-bacalaureat-2026-reguli-stricte-pentru-elevi-ce-greseli-duc-la-eliminarea-din-examen-3687285</guid>
+    </item>
+    <item>
+        <title>Echipa lui Trump pregătește strategia pentru posibilele negocieri cu Iranul. Oficial: SUA vor ca Teheranul să-și asume șase angajamente</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/echipa-lui-trump-pregateste-strategia-pentru-posibilele-negocieri-cu-iranul-oficial-sua-vor-ca-teheranul-sa-si-asume-sase-angajamente-3689261</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/echipa-lui-trump-pregateste-strategia-pentru-posibilele-negocieri-cu-iranul-oficial-sua-vor-ca-teheranul-sa-si-asume-sase-angajamente-3689261</guid>
+    </item>
+    <item>
+        <title>Proiect: Subvenții de la stat pentru angajarea tinerilor</title>
+        <link>https://www.europafm.ro/proiect-subventii-de-la-stat-pentru-angajarea-tinerilor/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/sute-de-germani-au-mers-sa-vada-operele-lui-constantin-brancusi-expuse-la-berlin/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/proiect-subventii-de-la-stat-pentru-angajarea-tinerilor/</guid>
     </item>
     <item>
-        <title>Beneficii ale postului. Dr. Mihaela Bilic: „Scade inflamația din organism, se reglează tot ce înseamnă metabolism”. Ce spune medicul despre rolul mișc</title>
-        <link>https://www.europafm.ro/beneficii-ale-postului-dr-mihaela-bilic-scade-inflamatia-din-organism-se-regleaza-tot-ce-inseamna-metabolism-ce-spune-medicul-despre-rolul-miscarii-in-perioada-postului/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/beneficii-ale-postului-dr-mihaela-bilic-scade-inflamatia-din-organism-se-regleaza-tot-ce-inseamna-metabolism-ce-spune-medicul-despre-rolul-miscarii-in-perioada-postului/</guid>
-    </item>
-    <item>
-        <title>Doi copii de 2 și 4 ani au fost găsiți legați de calorifer într-un apartament. Poliția venise să aplaneze un conflict domestic</title>
-        <link>https://adevarul.ro/stiri-locale/satu-mare/doi-copii-de-2-si-4-ani-au-fost-gasiti-legati-de-2516969.html</link>
+        <title>Zi specială pentru Mirel Rădoi! Tehnicianul FCSB împlinește, astăzi, 45 de ani. Mesajul inedit primit de la fiul său</title>
+        <link>https://adevarul.ro/sport/zi-speciala-pentru-mirel-radoi-tehnicianul-fcsb-2516974.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/satu-mare/doi-copii-de-2-si-4-ani-au-fost-gasiti-legati-de-2516969.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/sport/zi-speciala-pentru-mirel-radoi-tehnicianul-fcsb-2516974.html</guid>
     </item>
     <item>
-        <title>Ce lege ar fi încălcat românca arestată alături de un iranian în apropierea submarinelor nucleare britanice. Explicațiile MAE</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/mae-anunta-ca-romanca-arestata-in-marea-britanie-2516970.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/mae-anunta-ca-romanca-arestata-in-marea-britanie-2516970.html</guid>
-    </item>
-    <item>
-        <title>„Cârtița” care a marcat golul anului în Croația! Mingea s-a lovit de „mușuroiul” de pe teren și a decis soarta partidei</title>
-        <link>https://adevarul.ro/sport/cartita-care-a-marcat-golul-anului-in-croatia-2516909.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/cartita-care-a-marcat-golul-anului-in-croatia-2516909.html</guid>
-    </item>
-    <item>
-        <title>Reacția CSM după ce coaliția de guvernare a decis să amâne o serie de drepturi salariale ale magistraților, pentru a putea finanța pachetul de solidar</title>
-        <link>https://www.europafm.ro/reactia-csm-dupa-ce-coalitia-de-guvernare-a-decis-sa-amane-o-serie-de-drepturi-salariale-ale-magistratilor-pentru-a-putea-finanta-pachetul-de-solidaritate/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/reactia-csm-dupa-ce-coalitia-de-guvernare-a-decis-sa-amane-o-serie-de-drepturi-salariale-ale-magistratilor-pentru-a-putea-finanta-pachetul-de-solidaritate/</guid>
-    </item>
-    <item>
-        <title>Un robot care culege fructe a câștigat un premiu național</title>
-        <link>https://www.mediafax.ro/life-inedit/un-robot-care-culege-fructe-a-castigat-un-premiu-national-23707597</link>
+        <title>Iranul afirmă că strâmtoarea Ormuz este deschisă tuturor navelor, cu excepția celor „afiliate inamicului”</title>
+        <link>https://www.mediafax.ro/externe/iranul-afirma-ca-stramtoarea-ormuz-este-deschisa-tuturor-navelor-cu-exceptia-celor-afiliate-inamicului-23707603</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/un-robot-care-culege-fructe-a-castigat-un-premiu-national-23707597</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/iranul-afirma-ca-stramtoarea-ormuz-este-deschisa-tuturor-navelor-cu-exceptia-celor-afiliate-inamicului-23707603</guid>
     </item>
     <item>
-        <title>Metoda simplă pentru păstrarea sănătății inimii. Ce recomandă cardiologii</title>
-        <link>https://www.mediafax.ro/sanatate/metoda-simpla-pentru-pastrarea-sanatatii-inimii-ce-recomanda-cardiologii-23706207</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/metoda-simpla-pentru-pastrarea-sanatatii-inimii-ce-recomanda-cardiologii-23706207</guid>
+        <title>Hidroelectrica caută director general și director financiar. România a pierdut 12 milioane de euro anul trecut, din cauză că nu a respectat termenul-l</title>
+        <link>https://www.europafm.ro/hidroelectrica-cauta-director-general-si-director-financiar-romania-a-pierdut-12-milioane-de-euro-anul-trecut-din-cauza-ca-nu-a-respectat-termenul-limita-de-numire-a-unei-noi-conduceri/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/hidroelectrica-cauta-director-general-si-director-financiar-romania-a-pierdut-12-milioane-de-euro-anul-trecut-din-cauza-ca-nu-a-respectat-termenul-limita-de-numire-a-unei-noi-conduceri/</guid>
+    </item>
+    <item>
+        <title>Donald Trump amenință cu trimiterea agenților ICE în aeroporturi, în timp ce Elon Musk se oferă să plătească salariile agenților de securitate, pe fon</title>
+        <link>https://www.libertatea.ro/stiri/donald-trump-ameninta-cu-trimiterea-agentilor-ice-in-aeroporturi-in-timp-ce-elon-musk-se-ofera-sa-plateasca-salariile-agentilor-de-securitate-pe-fondul-unei-paralizii-bugetare-partiale-5670657</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-ameninta-cu-trimiterea-agentilor-ice-in-aeroporturi-in-timp-ce-elon-musk-se-ofera-sa-plateasca-salariile-agentilor-de-securitate-pe-fondul-unei-paralizii-bugetare-partiale-5670657</guid>
+    </item>
+    <item>
+        <title>Rezultate LOTO - Duminică, 22 martie 2026: Report la Joker de peste 11,66 milioane de euro. La 6/49 este de 1,72 milioane de euro</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-duminica-22-martie-2026-report-la-joker-de-peste-1166-milioane-de-euro-la-6-49-este-de-172-milioane-de-euro-3687839</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-duminica-22-martie-2026-report-la-joker-de-peste-1166-milioane-de-euro-la-6-49-este-de-172-milioane-de-euro-3687839</guid>
+    </item>
+    <item>
+        <title>Horoscop 22 martie 2026. Leilor li se potrivește perfect energia acestei zile, în special pentru că îi invită la gesturi frumoase</title>
+        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-22-martie-2026-5670221</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-22-martie-2026-5670221</guid>
     </item>
 </channel>
 </rss>
