@@ -5,25 +5,55 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 23 Mar 2026 08:00:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 09:00:41 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Carlos Alcaraz, în cădere liberă. Liderul mondial a părăsit devreme turneul de la Miami</title>
-        <link>https://adevarul.ro/sport/carlos-alcaraz-in-cadere-libera-liderul-mondial-2517150.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/carlos-alcaraz-in-cadere-libera-liderul-mondial-2517150.html</guid>
-    </item>
-    <item>
-        <title>UPDATE: Accident pe pista aeroportului LaGuardia din New York. Piloții avionului implicat în accident au murit. Traficul aerian a fost oprit</title>
-        <link>https://www.mediafax.ro/stirile-zilei/update-accident-pe-pista-aeroportului-laguardia-din-new-york-pilotii-avionului-implicat-in-accident-au-murit-traficul-aerian-a-fost-oprit-23707917</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/update-accident-pe-pista-aeroportului-laguardia-din-new-york-pilotii-avionului-implicat-in-accident-au-murit-traficul-aerian-a-fost-oprit-23707917</guid>
-    </item>
-    <item>
-        <title>Guvernul ar putea decide în zilele următoare măsurile pentru a ține sub control prețurile carburanților. Variantele luate în calcul</title>
-        <link>https://www.digi24.ro/stiri/economie/energie/guvernul-ar-putea-decide-in-zilele-urmatoare-masurile-pentru-a-tine-sub-control-preturile-carburantilor-variantele-luate-in-calcul-3690237</link>
+        <title>Spectacol de striptease cu tricolorul la Circul Metropolitan din București. Reacția Primăriei Capitalei</title>
+        <link>https://www.digi24.ro/stiri/actualitate/spectacol-de-striptease-cu-tricolorul-la-circul-metropolitan-din-bucuresti-reactia-primariei-capitalei-3690401</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/guvernul-ar-putea-decide-in-zilele-urmatoare-masurile-pentru-a-tine-sub-control-preturile-carburantilor-variantele-luate-in-calcul-3690237</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/spectacol-de-striptease-cu-tricolorul-la-circul-metropolitan-din-bucuresti-reactia-primariei-capitalei-3690401</guid>
+    </item>
+    <item>
+        <title>Interul lui Chivu a uitat să câștige, iar lupta în Seria A s-a reaprins. Rivalele AC Milan și Napoli s-au apropiat amenințător de lider</title>
+        <link>https://adevarul.ro/sport/interul-lui-chivu-a-uitat-sa-castige-iar-lupta-in-2517157.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/interul-lui-chivu-a-uitat-sa-castige-iar-lupta-in-2517157.html</guid>
+    </item>
+    <item>
+        <title>Războiul din Iran lovește fabricile Europei. O companie germană veche de 165 de ani ține ședințe zilnice de criză. Proprietara se descarcă pe sacul de</title>
+        <link>https://www.mediafax.ro/externe/razboiul-din-iran-loveste-fabricile-europei-o-companie-germana-veche-de-165-de-ani-tine-sedinte-zilnice-de-criza-proprietara-se-descarca-pe-sacul-de-box-23708015</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/razboiul-din-iran-loveste-fabricile-europei-o-companie-germana-veche-de-165-de-ani-tine-sedinte-zilnice-de-criza-proprietara-se-descarca-pe-sacul-de-box-23708015</guid>
+    </item>
+    <item>
+        <title>Proiect: Subvenții de la stat pentru angajarea tinerilor</title>
+        <link>https://www.europafm.ro/proiect-subventii-de-la-stat-pentru-angajarea-tinerilor/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/proiect-subventii-de-la-stat-pentru-angajarea-tinerilor/</guid>
+    </item>
+    <item>
+        <title>Proiectul care interzice aducerea de deșeuri în România cu etichetă de haine second-hand, lansat în dezbatere publică</title>
+        <link>https://www.europafm.ro/proiectul-care-interzice-aducerea-de-deseuri-in-romania-cu-eticheta-de-haine-second-hand-lansat-in-dezbatere-publica/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/proiectul-care-interzice-aducerea-de-deseuri-in-romania-cu-eticheta-de-haine-second-hand-lansat-in-dezbatere-publica/</guid>
+    </item>
+    <item>
+        <title>China cere oprirea conflictului din Strâmtoarea Ormuz: „Dacă ostilitățile vor continua, întreaga regiune va fi cufundată în haos”</title>
+        <link>https://adevarul.ro/stiri-externe/china/china-cere-oprirea-conflictului-din-stramtoarea-2517176.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/china/china-cere-oprirea-conflictului-din-stramtoarea-2517176.html</guid>
+    </item>
+    <item>
+        <title>Raidul asupra mașinii ucrainene de transport de valori ar fi fost organizat de serviciile secrete ungare pentru a provoca o confruntare</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/raidul-asupra-masinii-ucrainene-de-transport-de-valori-ar-fi-fost-organizat-de-serviciile-secrete-ungare-pentru-a-provoca-o-confruntare-3690281</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/raidul-asupra-masinii-ucrainene-de-transport-de-valori-ar-fi-fost-organizat-de-serviciile-secrete-ungare-pentru-a-provoca-o-confruntare-3690281</guid>
+    </item>
+    <item>
+        <title>Hidroelectrica caută director general și director financiar. România a pierdut 12 milioane de euro anul trecut, din cauză că nu a respectat termenul-l</title>
+        <link>https://www.europafm.ro/hidroelectrica-cauta-director-general-si-director-financiar-romania-a-pierdut-12-milioane-de-euro-anul-trecut-din-cauza-ca-nu-a-respectat-termenul-limita-de-numire-a-unei-noi-conduceri/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/hidroelectrica-cauta-director-general-si-director-financiar-romania-a-pierdut-12-milioane-de-euro-anul-trecut-din-cauza-ca-nu-a-respectat-termenul-limita-de-numire-a-unei-noi-conduceri/</guid>
     </item>
     <item>
         <title>Șeful armatei israeliene avertizează Berlin, Paris și Roma despre pericolul rachetelor iraniene: „Sunteți în raza de amenințare directă. Vă pot lovi!”</title>
@@ -32,40 +62,10 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/seful-armatei-israeliene-avertizeaza-berlin-paris-si-roma-despre-pericolul-rachetelor-iraniene-5670798</guid>
     </item>
     <item>
-        <title>Cum își rotunjesc veniturile încasate de la buget șefii din Ministerul Agriculturii și soțiile lor. Ministrul Florin Barbu încasează chirie pe o propr</title>
-        <link>https://www.libertatea.ro/stiri/cum-isi-rotunjesc-veniturile-incasate-de-la-buget-sefii-din-ministerul-agriculturii-si-sotiile-lor-ministrul-florin-barbu-incaseaza-chirie-pe-o-proprietate-neidentificata-5667702</link>
+        <title>Șoferii erau să se bușească și s-au luat la ceartă, la coadă la o benzinărie care a greșit prețul, în Germania. Cu cât era mai ieftină motorina</title>
+        <link>https://www.libertatea.ro/stiri/soferii-erau-sa-se-buseasca-si-s-au-luat-la-cearta-la-coada-la-o-benzinarie-care-a-gresit-pretul-in-germania-5670785</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cum-isi-rotunjesc-veniturile-incasate-de-la-buget-sefii-din-ministerul-agriculturii-si-sotiile-lor-ministrul-florin-barbu-incaseaza-chirie-pe-o-proprietate-neidentificata-5667702</guid>
-    </item>
-    <item>
-        <title>Beneficii ale postului. Dr. Mihaela Bilic: „Scade inflamația din organism, se reglează tot ce înseamnă metabolism”. Ce spune medicul despre rolul mișc</title>
-        <link>https://www.europafm.ro/beneficii-ale-postului-dr-mihaela-bilic-scade-inflamatia-din-organism-se-regleaza-tot-ce-inseamna-metabolism-ce-spune-medicul-despre-rolul-miscarii-in-perioada-postului/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/beneficii-ale-postului-dr-mihaela-bilic-scade-inflamatia-din-organism-se-regleaza-tot-ce-inseamna-metabolism-ce-spune-medicul-despre-rolul-miscarii-in-perioada-postului/</guid>
-    </item>
-    <item>
-        <title>Cum va muri Universul. Scenarii științifice pentru sfârșitul spațiului și timpului: „Atunci Soarele va înghiți Pământul”</title>
-        <link>https://www.libertatea.ro/stiri/cum-va-muri-universul-5670826</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cum-va-muri-universul-5670826</guid>
-    </item>
-    <item>
-        <title>Ziua Mondială a Teatrului aduce spectacole speciale în București. Unde poți merge în aceste zile</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ziua-mondiala-a-teatrului-aduce-spectacole-speciale-in-bucuresti-unde-poti-merge-in-aceste-zile-23707946</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ziua-mondiala-a-teatrului-aduce-spectacole-speciale-in-bucuresti-unde-poti-merge-in-aceste-zile-23707946</guid>
-    </item>
-    <item>
-        <title>Un autocar plin cu pasageri din Republica Moldova s-a răsturnat în județul Galați. O persoană a murit și alte 15 au fost grav rănite | GALERIE FOTO</title>
-        <link>https://www.europafm.ro/un-autocar-plin-cu-pasageri-din-republica-moldova-s-a-rasturnat-in-judetul-galaii/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/un-autocar-plin-cu-pasageri-din-republica-moldova-s-a-rasturnat-in-judetul-galaii/</guid>
-    </item>
-    <item>
-        <title>Navigația pe brațul Măcin al Dunării va fi închisă: exerciții cu muniție de război timp de două zile</title>
-        <link>https://www.digi24.ro/stiri/actualitate/navigatia-pe-bratul-macin-al-dunarii-va-fi-inchisa-exercitii-cu-munitie-de-razboi-timp-de-doua-zile-3690185</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/navigatia-pe-bratul-macin-al-dunarii-va-fi-inchisa-exercitii-cu-munitie-de-razboi-timp-de-doua-zile-3690185</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/soferii-erau-sa-se-buseasca-si-s-au-luat-la-cearta-la-coada-la-o-benzinarie-care-a-gresit-pretul-in-germania-5670785</guid>
     </item>
 </channel>
 </rss>
