@@ -5,55 +5,49 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 23 Mar 2026 22:00:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:00:46 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Intervenție de urgență pe coasta Mării Baltice pentru salvarea unei balene eșuate, în nordul Germaniei</title>
-        <link>https://www.digi24.ro/stiri/externe/interventie-de-urgenta-pe-coasta-marii-baltice-pentru-salvarea-unei-balene-esuate-in-nordul-germaniei-3692139</link>
+        <title>Întâlnirea cu o pisică sălbatică, filmată într-o pădure la Ocolul Silvic Broșteni. În Parcul Natural Apuseni, pădurarii au fotografiat Ciuvica, cea ma</title>
+        <link>https://www.europafm.ro/intalnirea-cu-o-pisica-salbatica-filmata-intr-o-padure-la-ocolul-silvic-brosteni-in-parcul-natural-apuseni-padurarii-au-fotografiat-ciuvica-cea-mai-mica-bufnita-de-pe-continent/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/intalnirea-cu-o-pisica-salbatica-filmata-intr-o-padure-la-ocolul-silvic-brosteni-in-parcul-natural-apuseni-padurarii-au-fotografiat-ciuvica-cea-mai-mica-bufnita-de-pe-continent/</guid>
+    </item>
+    <item>
+        <title>Cine este Bekesi Csaba Lajos, noul șef al Autorităţii Naţionale pentru Protecţia Consumatorilor</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/bekesi-csaba-lajos-este-noul-sef-al-autoritatii-2517412.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/bekesi-csaba-lajos-este-noul-sef-al-autoritatii-2517412.html</guid>
+    </item>
+    <item>
+        <title>Turcia-România, barajul pentru CM 2026. Răsturnare de situație în cazul lui Ionuț Radu: Va ajunge în cantonamentul naționalei</title>
+        <link>https://www.digi24.ro/stiri/sport/fotbal/turcia-romania-barajul-pentru-cm-2026-rasturnare-de-situatie-in-cazul-lui-ionut-radu-va-ajunge-in-cantonamentul-nationalei-3692077</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/interventie-de-urgenta-pe-coasta-marii-baltice-pentru-salvarea-unei-balene-esuate-in-nordul-germaniei-3692139</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/fotbal/turcia-romania-barajul-pentru-cm-2026-rasturnare-de-situatie-in-cazul-lui-ionut-radu-va-ajunge-in-cantonamentul-nationalei-3692077</guid>
     </item>
     <item>
-        <title>Un avion militar columbian care avea la bord 110 soldați s-a prăbușit la granița cu Peru / Opt persoane au fost ucise și alte 83 au fost rănite</title>
-        <link>https://www.mediafax.ro/externe/un-avion-militar-columbian-care-avea-la-bord-110-soldati-s-a-prabusit-la-granita-cu-peru-23708475</link>
+        <title>Miruță: Avioanele se ridică doar când este necesar. MApN primește frecvent alerte aeriene, dar nu toate ajung la populație</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/miruta-avioanele-se-ridica-doar-cand-este-necesar-mapn-primeste-frecvent-alerte-aeriene-dar-nu-toate-ajung-la-populatie-3692187</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/miruta-avioanele-se-ridica-doar-cand-este-necesar-mapn-primeste-frecvent-alerte-aeriene-dar-nu-toate-ajung-la-populatie-3692187</guid>
+    </item>
+    <item>
+        <title>Ministrul Apărării: Avioanele militare americane sosite în România „nu au voie să plece cu încărcătură explozivă”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/ministrul-apararii-avioanele-militare-americane-sosite-in-romania-nu-au-voie-sa-plece-cu-incarcatura-exploziva-3692179</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/ministrul-apararii-avioanele-militare-americane-sosite-in-romania-nu-au-voie-sa-plece-cu-incarcatura-exploziva-3692179</guid>
+    </item>
+    <item>
+        <title>Cum pot tinerii din România să-și spună cuvântul în privința legilor și reglementărilor care stau la baza politicii UE</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/cum-pot-tinerii-din-romania-sa-si-spuna-cuvantul-in-privinta-legilor-si-reglementarilor-care-stau-la-baza-politicii-ue-3692119</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/cum-pot-tinerii-din-romania-sa-si-spuna-cuvantul-in-privinta-legilor-si-reglementarilor-care-stau-la-baza-politicii-ue-3692119</guid>
+    </item>
+    <item>
+        <title>Bill Cosby a fost găsit vinovat de agresiune sexuală și obligat să plătească 19,25 milioane de dolari</title>
+        <link>https://www.mediafax.ro/externe/bill-cosby-a-fost-gasit-vinovat-de-agresiune-sexuala-si-obligat-sa-plateasca-1925-milioane-de-dolari-23708592</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-avion-militar-columbian-care-avea-la-bord-110-soldati-s-a-prabusit-la-granita-cu-peru-23708475</guid>
-    </item>
-    <item>
-        <title>De ce tot mai mulți adulți se comportă ca adolescenții. Explicația care îi pune pe gânduri pe specialiști</title>
-        <link>https://adevarul.ro/dezvoltare-personala/spiritualitate/de-ce-tot-mai-multi-adulti-se-comporta-ca-2517352.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/spiritualitate/de-ce-tot-mai-multi-adulti-se-comporta-ca-2517352.html</guid>
-    </item>
-    <item>
-        <title>O femeie a dat o petrecere de divorț, după 9 ani de căsătorie, cu 90 de invitați: „Mai bună decât nunta”</title>
-        <link>https://www.libertatea.ro/stiri/divort-sarbatorit-cu-o-petrecere-mai-mare-decat-nunta-nouazeci-de-invitati-si-un-tort-spectaculos-5672500</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/divort-sarbatorit-cu-o-petrecere-mai-mare-decat-nunta-nouazeci-de-invitati-si-un-tort-spectaculos-5672500</guid>
-    </item>
-    <item>
-        <title>Noul ambasador al SUA la București, primul mesaj pentru români: „Parteneriatul dintre SUA şi România n-a fost niciodată mai important”</title>
-        <link>https://adevarul.ro/politica/noul-ambasador-al-sua-la-bucuresti-primul-mesaj-2517393.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/noul-ambasador-al-sua-la-bucuresti-primul-mesaj-2517393.html</guid>
-    </item>
-    <item>
-        <title>Pe 20 aprilie, social-democrații se vor întâlni pentru a dezbate dacă vor rămâne sau nu la guvernare, a anunțat Sorin Grindeanu. Înainte vor fi opt în</title>
-        <link>https://www.europafm.ro/pe-20-aprilie-social-democratii-se-vor-intalni-pentru-a-dezbate-daca-vor-ramane-sau-nu-la-guvernare-a-anuntat-sorin-grindeanu-inainte-vor-fi-opt-intalniri-regionale/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/pe-20-aprilie-social-democratii-se-vor-intalni-pentru-a-dezbate-daca-vor-ramane-sau-nu-la-guvernare-a-anuntat-sorin-grindeanu-inainte-vor-fi-opt-intalniri-regionale/</guid>
-    </item>
-    <item>
-        <title>Iași: Trei copii, suspecți de malarie după o călătorie într-o zonă endemică din Africa</title>
-        <link>https://www.europafm.ro/iasi-trei-copii-suspecti-de-malarie-dupa-o-calatorie-intr-o-zona-endemica-din-africa/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/iasi-trei-copii-suspecti-de-malarie-dupa-o-calatorie-intr-o-zona-endemica-din-africa/</guid>
-    </item>
-    <item>
-        <title>Superliga de fotbal. Unirea Slobozia câștigă trei puncte uriașe în lupta pentru evitarea retrogradării</title>
-        <link>https://www.mediafax.ro/sport/superliga-de-fotbal-unirea-slobozia-castiga-trei-puncte-uriase-in-lupta-pentru-evitarea-retrogradarii-23708582</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/superliga-de-fotbal-unirea-slobozia-castiga-trei-puncte-uriase-in-lupta-pentru-evitarea-retrogradarii-23708582</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/bill-cosby-a-fost-gasit-vinovat-de-agresiune-sexuala-si-obligat-sa-plateasca-1925-milioane-de-dolari-23708592</guid>
     </item>
     <item>
         <title>Afacere anulată. Administrația Trump va plăti aproximativ 1 miliard de dolari unei companii franceze</title>
@@ -62,10 +56,16 @@
         <guid isPermaLink="true">https://www.mediafax.ro/economic/afacere-anulata-administratia-trump-va-plati-aproximativ-1-miliard-de-dolari-unei-companii-franceze-23708588</guid>
     </item>
     <item>
-        <title>Un oraș cu 6.800 de locuitori își schimbă numele pentru a atrage cât mai mulți turiști, în Italia. Cum se va numi de acum înainte</title>
-        <link>https://www.libertatea.ro/stiri/locuitorii-orasului-vallecrosia-au-votat-prin-referendum-schimbarea-numelui-localitatii-pentru-a-atrage-turisti-5672453</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/locuitorii-orasului-vallecrosia-au-votat-prin-referendum-schimbarea-numelui-localitatii-pentru-a-atrage-turisti-5672453</guid>
+        <title>24 martie, ziua în care NATO a început bombardamentele asupra Iugoslaviei. Atacurile au avut loc fără aprobarea Consiliului de Securitate ONU</title>
+        <link>https://adevarul.ro/istoria-zilei/24-martie-ziua-in-care-nato-a-inceput-2516718.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/24-martie-ziua-in-care-nato-a-inceput-2516718.html</guid>
+    </item>
+    <item>
+        <title>Rusia trimite pe câmpul de luptă infanterie navală și trupe mobilizate din Crimeea</title>
+        <link>https://adevarul.ro/stiri-externe/europa/rusia-trimite-pe-campul-de-lupta-infanterie-navala-2517421.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/rusia-trimite-pe-campul-de-lupta-infanterie-navala-2517421.html</guid>
     </item>
 </channel>
 </rss>
