@@ -628,10 +628,37 @@
                 document.getElementById('eth').textContent = d.ethereum.usd.toLocaleString(); 
             }, LONG_CACHE);
         
+        // EUR Rate
         fetchWithCache('https://api.frankfurter.app/latest?from=EUR&to=RON', 'azinews_eur',
-            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON + ' RON'; });
+            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON + ' RON'; },
+            30 * 60 * 1000);
+        
+        // USD Rate - with fallback
         fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
-            d => { document.getElementById('usd').textContent = d.rates.RON; });
+            d => { document.getElementById('usd').textContent = d.rates.RON; },
+            30 * 60 * 1000);
+        
+        // Fallback: try alternative API if main fails
+        setTimeout(() => {
+            if (document.getElementById('usd').textContent === '--') {
+                fetch('https://api.exchangerate.host/latest?base=USD&symbols=RON')
+                    .then(r => r.json())
+                    .then(d => {
+                        if (d.success && d.rates.RON) {
+                            document.getElementById('usd').textContent = d.rates.RON.toFixed(2);
+                        }
+                    }).catch(() => {});
+            }
+            if (document.getElementById('eur').textContent === '€ -- RON') {
+                fetch('https://api.exchangerate.host/latest?base=EUR&symbols=RON')
+                    .then(r => r.json())
+                    .then(d => {
+                        if (d.success && d.rates.RON) {
+                            document.getElementById('eur').textContent = '€ ' + d.rates.RON.toFixed(2) + ' RON';
+                        }
+                    }).catch(() => {});
+            }
+        }, 3000);
 
         // Crypto - top 8 coins
         let cryptoRatesLoaded = false;
