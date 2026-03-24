@@ -5,25 +5,55 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 24 Mar 2026 14:00:38 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 15:00:48 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Clinica Oanei Zăvoranu, golită de executori. Lovitură dură pentru vedetă la câțiva ani după ce a pornit afacerea</title>
-        <link>https://www.libertatea.ro/entertainment/clinica-oanei-zavoranu-golita-de-executori-lovitura-dura-pentru-vedeta-5673310</link>
+        <title>Casa din paie și lut care rezistă 300 de ani: nu arde și „se întreține singură”</title>
+        <link>https://www.libertatea.ro/stiri/casa-din-paie-si-lut-care-rezista-300-de-ani-nu-arde-si-se-intretine-singura-5673059</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/clinica-oanei-zavoranu-golita-de-executori-lovitura-dura-pentru-vedeta-5673310</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/casa-din-paie-si-lut-care-rezista-300-de-ani-nu-arde-si-se-intretine-singura-5673059</guid>
     </item>
     <item>
-        <title>DNSC avertizează asupra unei campanii de influențare cu personaje AI care se dau drept polițiști sau jandarmi: „Exploatează emoţiile”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/dnsc-avertizeaza-asupra-unei-campanii-de-influentare-cu-personaje-ai-care-se-dau-drept-politisti-sau-jandarmi-exploateaza-emotiile-3693069</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/dnsc-avertizeaza-asupra-unei-campanii-de-influentare-cu-personaje-ai-care-se-dau-drept-politisti-sau-jandarmi-exploateaza-emotiile-3693069</guid>
+        <title>Preşedintele Germaniei compară mandatul lui Trump cu impactul invadării Ucrainei. „Nu va exista o revenire la relaţiile de dinainte”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/presedintele-germaniei-compara-mandatul-lui-trump-2517585.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/presedintele-germaniei-compara-mandatul-lui-trump-2517585.html</guid>
     </item>
     <item>
-        <title>Ministerul Mediului lansează o hartă digitală unde toți cetățenii pot să verifice autorizațiile balastierelor</title>
-        <link>https://www.mediafax.ro/politic/ministerul-mediului-lanseaza-o-harta-digitala-unde-toti-cetatenii-pot-sa-verifice-autorizatiile-balastierelor-23708969</link>
+        <title>Minerii din Gorj protestează în fața Guvernului. Ce nemulțumiri au aceștia</title>
+        <link>https://www.mediafax.ro/social/minerii-din-gorj-protesteaza-in-fata-guvernului-ce-nemultumiri-au-acestia-23709047</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/ministerul-mediului-lanseaza-o-harta-digitala-unde-toti-cetatenii-pot-sa-verifice-autorizatiile-balastierelor-23708969</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/minerii-din-gorj-protesteaza-in-fata-guvernului-ce-nemultumiri-au-acestia-23709047</guid>
+    </item>
+    <item>
+        <title>Mihai Fifor acuză: PNL și AUR joacă în aceeași echipă. „Ce vedem la Arad se pregătește la nivel național”</title>
+        <link>https://www.mediafax.ro/politic/mihai-fifor-acuza-pnl-si-aur-joaca-in-aceeasi-echipa-ce-vedem-la-arad-se-pregateste-la-nivel-national-23709064</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/mihai-fifor-acuza-pnl-si-aur-joaca-in-aceeasi-echipa-ce-vedem-la-arad-se-pregateste-la-nivel-national-23709064</guid>
+    </item>
+    <item>
+        <title>Celine Dion ar urma să revină pe scenă în această toamnă | AUDIO</title>
+        <link>https://www.europafm.ro/celine-dion-ar-urma-sa-revina-pe-scena-la-paris-in-aceasta-toamna/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/celine-dion-ar-urma-sa-revina-pe-scena-la-paris-in-aceasta-toamna/</guid>
+    </item>
+    <item>
+        <title>Guvernul a amânat ședința de azi în care trebuia să adopte ordonanța de urgență pentru limitarea adaosului comercial la carburanți</title>
+        <link>https://www.digi24.ro/stiri/guvernul-a-amanat-sedinta-de-azi-in-care-trebuia-sa-adopte-ordonanta-de-urgenta-pentru-limitarea-adaosului-comercial-la-carburanti-3693115</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/guvernul-a-amanat-sedinta-de-azi-in-care-trebuia-sa-adopte-ordonanta-de-urgenta-pentru-limitarea-adaosului-comercial-la-carburanti-3693115</guid>
+    </item>
+    <item>
+        <title>Poate un agent AI să facă optimizare SEO de la A la Z?</title>
+        <link>https://www.libertatea.ro/publicitate-advertorial/poate-un-agent-ai-sa-faca-optimizare-seo-de-la-a-la-z-5673285</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/publicitate-advertorial/poate-un-agent-ai-sa-faca-optimizare-seo-de-la-a-la-z-5673285</guid>
+    </item>
+    <item>
+        <title>Planul diabolic al unui bărbat din Vaslui: și-a filmat copilul cu un ștreang la gât pentru a forța revenirea soției în țară</title>
+        <link>https://adevarul.ro/stiri-locale/vaslui/planul-diabolic-al-unui-barbat-din-vaslui-si-a-2517612.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/vaslui/planul-diabolic-al-unui-barbat-din-vaslui-si-a-2517612.html</guid>
     </item>
     <item>
         <title>Chinezii investesc și ei masiv în AI: suma uriașă pe care Xiaomi o pune la bătaie pentru viitorul Inteligenței Artificiale</title>
@@ -32,40 +62,10 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/chinezii-investitie-masiva-ai-suma-uriasa-xiaomi-viitor-5673170</guid>
     </item>
     <item>
-        <title>Catolicii pot primi transplanturi de organe de la animale, conform unui anunţ făcut de Vatican. „Îndrumări etice” pe 88 de pagini</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/catolicii-pot-primi-transplanturi-de-organe-de-la-animale-conform-unui-anunt-facut-de-vatican-indrumari-etice-pe-88-de-pagini-3692991</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/catolicii-pot-primi-transplanturi-de-organe-de-la-animale-conform-unui-anunt-facut-de-vatican-indrumari-etice-pe-88-de-pagini-3692991</guid>
-    </item>
-    <item>
-        <title>Lukas Istvan: Investitorii români revin la valori reale după febra AI</title>
-        <link>https://adevarul.ro/stil-de-viata/tehnologie/lukas-istvan-investitorii-romani-revin-la-valori-2517591.html</link>
+        <title>Tensiuni în PNL: „PSD este un partid mort”. Stenogramele care pun sub semnul întrebării viitorul Coaliției</title>
+        <link>https://adevarul.ro/politica/tensiuni-in-pnl-psd-este-un-partid-mort-2517608.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/tehnologie/lukas-istvan-investitorii-romani-revin-la-valori-2517591.html</guid>
-    </item>
-    <item>
-        <title>Europarlamentarul Daniel Buda: Stabilitatea guvernamentală este vitală, iar PNL ar putea părăsi coaliția dacă PSD provoacă o criză</title>
-        <link>https://www.mediafax.ro/politic/europarlamentarul-daniel-buda-stabilitatea-guvernamentala-este-vitala-iar-pnl-ar-putea-parasi-coalitia-daca-psd-provoaca-o-criza-23709026</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/europarlamentarul-daniel-buda-stabilitatea-guvernamentala-este-vitala-iar-pnl-ar-putea-parasi-coalitia-daca-psd-provoaca-o-criza-23709026</guid>
-    </item>
-    <item>
-        <title>Amendă de 100.000 de lei pentru o firmă din Buzău. Garda de Mediu a găsit deșeuri periculoase depozitate ilegal</title>
-        <link>https://www.digi24.ro/stiri/economie/amenda-de-100-000-de-lei-pentru-o-firma-din-buzau-garda-de-mediu-a-gasit-deseuri-periculoase-depozitate-ilegal-3693101</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/amenda-de-100-000-de-lei-pentru-o-firma-din-buzau-garda-de-mediu-a-gasit-deseuri-periculoase-depozitate-ilegal-3693101</guid>
-    </item>
-    <item>
-        <title>Ședința de Guvern pentru criza carburanților, amânată: măsurile privind prețurile și exporturile întârzie</title>
-        <link>https://www.mediafax.ro/economic/sedinta-de-guvern-pentru-criza-carburantilor-amanata-masurile-privind-preturile-si-exporturile-intarzie-23709017</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/sedinta-de-guvern-pentru-criza-carburantilor-amanata-masurile-privind-preturile-si-exporturile-intarzie-23709017</guid>
-    </item>
-    <item>
-        <title>Mesajul unei filiale a PSD înainte de decizia privind participarea la guvernare: „NuMaiPotCuBolojan”</title>
-        <link>https://www.mediafax.ro/politic/mesajul-unei-filiale-a-psd-inainte-de-decizia-privind-participarea-la-guvernare-numaipotcubolojan-23709022</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/mesajul-unei-filiale-a-psd-inainte-de-decizia-privind-participarea-la-guvernare-numaipotcubolojan-23709022</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/tensiuni-in-pnl-psd-este-un-partid-mort-2517608.html</guid>
     </item>
 </channel>
 </rss>
