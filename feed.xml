@@ -5,67 +5,67 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 25 Mar 2026 14:00:48 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 15:00:49 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Rusia anunță primele măsuri după blocajul din Strâmtoarea Ormuz: Ne vom concentra către „vecinii cei mai apropiaţi”</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia-anunta-primele-masuri-dupa-blocajul-din-stramtoarea-ormuz-ne-vom-concentra-catre-vecinii-cei-mai-apropiati-3694879</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia-anunta-primele-masuri-dupa-blocajul-din-stramtoarea-ormuz-ne-vom-concentra-catre-vecinii-cei-mai-apropiati-3694879</guid>
+    </item>
+    <item>
+        <title>Înalta Curte de Casație și Justiție a suspendat, definitiv, decizia de constituirea a Comitetului pentru analiza și revizuirea legislației din domeniu</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/inalta-curte-de-casatie-si-justitie-a-suspendat-2517910.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/inalta-curte-de-casatie-si-justitie-a-suspendat-2517910.html</guid>
+    </item>
+    <item>
+        <title>Simulare Bacalaureat 2026. Elevii pot consulta baremele de corectare pentru proba la alegere, susținută astăzi</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/simulare-bacalaureat-2026-elevii-pot-consulta-2517904.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/simulare-bacalaureat-2026-elevii-pot-consulta-2517904.html</guid>
+    </item>
+    <item>
+        <title>Bisericile fortificate din Transilvania au atras anul trecut peste un milion de turiști | AUDIO</title>
+        <link>https://www.europafm.ro/bisericile-fortificate-din-transilvania-au-atras-anul-trecut-peste-un-milion-de-turisti/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/bisericile-fortificate-din-transilvania-au-atras-anul-trecut-peste-un-milion-de-turisti/</guid>
+    </item>
+    <item>
+        <title>O dronă s-a prăbușit și a explodat în Letonia. Ministrul Apărării se întoarce de urgență din Ucraina</title>
+        <link>https://www.libertatea.ro/stiri/drona-prabusit-explodat-letonia-5675067</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/drona-prabusit-explodat-letonia-5675067</guid>
+    </item>
+    <item>
+        <title>Cum va funcționa noua formulă de împărțire a bugetului între Primăria Generală și sectoare</title>
+        <link>https://adevarul.ro/politica/cum-va-functiona-noua-formula-de-impartire-a-2517235.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/cum-va-functiona-noua-formula-de-impartire-a-2517235.html</guid>
+    </item>
+    <item>
+        <title>Klintensiv: Într-un context global instabil, prevenția trebuie să rămână accesibilă – COMUNICAT</title>
+        <link>https://www.mediafax.ro/comunicate/klintensiv-intr-un-context-global-instabil-preventia-trebuie-sa-ramana-accesibila-comunicat-23709856</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/comunicate/klintensiv-intr-un-context-global-instabil-preventia-trebuie-sa-ramana-accesibila-comunicat-23709856</guid>
+    </item>
+    <item>
+        <title>„Legea femicidului”, adoptată de Parlament. România va defini, în premieră, juridic, femicidul ca formă de violență bazată pe gen | AUDIO</title>
+        <link>https://www.europafm.ro/legea-femicidului-adoptata-de-parlament-romania-va-defini-in-premiera-juridic-femicidul-ca-forma-de-violenta-bazata-pe-gen/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/legea-femicidului-adoptata-de-parlament-romania-va-defini-in-premiera-juridic-femicidul-ca-forma-de-violenta-bazata-pe-gen/</guid>
+    </item>
+    <item>
+        <title>Avertisment NATO: Aliații trebuie să găsească urgent noi arme pentru a se apăra de Rusia și Iran</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/avertisment-nato-aliatii-trebuie-sa-gaseasca-urgent-noi-arme-pentru-a-se-apara-de-rusia-si-iran-3694917</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/avertisment-nato-aliatii-trebuie-sa-gaseasca-urgent-noi-arme-pentru-a-se-apara-de-rusia-si-iran-3694917</guid>
+    </item>
     <item>
         <title>Fraudă cu stupi de albine, în valoare de 1,3 milioane de euro. Parchetul European anchetează mai multe persoane care au accesat ilegal fonduri, mințin</title>
         <link>https://www.europafm.ro/frauda-cu-stupi-de-albine-in-valoare-de-13-milioane-de-euro-parchetul-european-ancheteaza-mai-multe-persoane-care-au-accesat-ilegal-fonduri-mintind-ca-lucreaza-in-apicultura/</link>
         <description>Europa FM</description>
         <guid isPermaLink="true">https://www.europafm.ro/frauda-cu-stupi-de-albine-in-valoare-de-13-milioane-de-euro-parchetul-european-ancheteaza-mai-multe-persoane-care-au-accesat-ilegal-fonduri-mintind-ca-lucreaza-in-apicultura/</guid>
-    </item>
-    <item>
-        <title>115 milioane de euro pentru inovare flexibilă și rapidă în domeniul apărării (AGILE)</title>
-        <link>https://www.mediafax.ro/externe/115-milioane-de-euro-pentru-inovare-flexibila-si-rapida-in-domeniul-apararii-agile-23709793</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/115-milioane-de-euro-pentru-inovare-flexibila-si-rapida-in-domeniul-apararii-agile-23709793</guid>
-    </item>
-    <item>
-        <title>Barajul Turcia - România, joi, ora 19:00. Montella abia așteaptă ciocnirea cu Lucescu</title>
-        <link>https://adevarul.ro/sport/barajul-turcia-romania-joi-ora-1900-montella-2517897.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/barajul-turcia-romania-joi-ora-1900-montella-2517897.html</guid>
-    </item>
-    <item>
-        <title>Turcia-România, barajul pentru CM 2026. Mircea Lucescu, meci cu demisia pe masă</title>
-        <link>https://www.digi24.ro/stiri/sport/turcia-romania-barajul-pentru-cm-2026-mircea-lucescu-meci-cu-demisia-pe-masa-3694655</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/turcia-romania-barajul-pentru-cm-2026-mircea-lucescu-meci-cu-demisia-pe-masa-3694655</guid>
-    </item>
-    <item>
-        <title>Sute de persoane au fost evacuate după ce un incendiu a afectat un hotel de lux din Paris</title>
-        <link>https://www.mediafax.ro/externe/sute-de-persoane-au-fost-evacuate-dupa-ce-un-incendiu-a-afectat-un-hotel-de-lux-din-paris-23709790</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/sute-de-persoane-au-fost-evacuate-dupa-ce-un-incendiu-a-afectat-un-hotel-de-lux-din-paris-23709790</guid>
-    </item>
-    <item>
-        <title>Când și unde va fi o nouă pietonală cu terase în Ploiești: „Mai e mult până departe”</title>
-        <link>https://www.libertatea.ro/stiri/stiri-ploiesti-cand-si-unde-va-fi-o-noua-pietonala-cu-terase-5674991</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-ploiesti-cand-si-unde-va-fi-o-noua-pietonala-cu-terase-5674991</guid>
-    </item>
-    <item>
-        <title>Simulare Bacalaureat 2026. Subiectele și baremul de corectare la Biologie vegetală</title>
-        <link>https://www.libertatea.ro/educatie/simulare-bacalaureat-2026-subiectele-si-baremul-de-corectare-la-biologie-vegetala-5675091</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/educatie/simulare-bacalaureat-2026-subiectele-si-baremul-de-corectare-la-biologie-vegetala-5675091</guid>
-    </item>
-    <item>
-        <title>Teodora Tompea, despre viața din spatele platoului TV: „Îmi găsesc echilibrul în lucruri simple”</title>
-        <link>https://adevarul.ro/showbiz/vedete/teodora-tompea-despre-viata-din-spatele-2517903.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/vedete/teodora-tompea-despre-viata-din-spatele-2517903.html</guid>
-    </item>
-    <item>
-        <title>Italia este disperată să meargă la Campionatul Mondial de fotbal: „În ultimele luni, am vorbit mai mult cu Gattuso decât cu mama”</title>
-        <link>https://adevarul.ro/sport/italia-este-disperata-sa-mearga-la-campionatul-2517889.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/italia-este-disperata-sa-mearga-la-campionatul-2517889.html</guid>
-    </item>
-    <item>
-        <title>Transilvania, unul dintre cele mai dinamice poluri economice ale României</title>
-        <link>https://adevarul.ro/economie/transilvania-unul-dintre-cele-mai-dinamice-poluri-2517841.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/transilvania-unul-dintre-cele-mai-dinamice-poluri-2517841.html</guid>
     </item>
 </channel>
 </rss>
