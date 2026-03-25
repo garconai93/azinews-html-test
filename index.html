@@ -599,7 +599,7 @@
             if (el.style.display === 'none') {
                 el.style.display = 'grid';
                 if (!currencyRatesLoaded) {
-                    fetch('https://api.frankfurter.app/latest?from=RON&to=EUR,USD,GBP,CHF,HUF,PLN,CZK,TRY')
+                    fetch('https://open.er-api.com/v6/latest/RON')
                         .then(r => r.json()).then(data => {
                             const flags = { EUR: '🇪🇺', USD: '🇺🇸', GBP: '🇬🇧', CHF: '🇨🇭', HUF: '🇭🇺', PLN: '🇵🇱', CZK: '🇨🇿', TRY: '🇹🇷' };
                             const names = { EUR: 'Euro', USD: 'Dolar', GBP: 'Lira', CHF: 'Franco', HUF: 'Forint', PLN: 'Zlot', CZK: 'Coroana', TRY: 'Lira' };
@@ -629,31 +629,31 @@
             }, LONG_CACHE);
         
         // EUR Rate
-        fetchWithCache('https://api.frankfurter.app/latest?from=EUR&to=RON', 'azinews_eur',
+        fetchWithCache('https://open.er-api.com/v6/latest/EUR', 'azinews_eur',
             d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON + ' RON'; },
             30 * 60 * 1000);
         
         // USD Rate - with fallback
-        fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
+        fetchWithCache('https://open.er-api.com/v6/latest/USD', 'azinews_usd',
             d => { document.getElementById('usd').textContent = d.rates.RON; },
             30 * 60 * 1000);
         
         // Fallback: try alternative API if main fails
         setTimeout(() => {
             if (document.getElementById('usd').textContent === '--') {
-                fetch('https://api.exchangerate.host/latest?base=USD&symbols=RON')
+                fetch('https://open.er-api.com/v6/latest/USD')
                     .then(r => r.json())
                     .then(d => {
-                        if (d.success && d.rates.RON) {
+                        if (d.rates && d.rates.RON) {
                             document.getElementById('usd').textContent = d.rates.RON.toFixed(2);
                         }
                     }).catch(() => {});
             }
             if (document.getElementById('eur').textContent === '€ -- RON') {
-                fetch('https://api.exchangerate.host/latest?base=EUR&symbols=RON')
+                fetch('https://open.er-api.com/v6/latest/EUR')
                     .then(r => r.json())
                     .then(d => {
-                        if (d.success && d.rates.RON) {
+                        if (d.rates && d.rates.RON) {
                             document.getElementById('eur').textContent = '€ ' + d.rates.RON.toFixed(2) + ' RON';
                         }
                     }).catch(() => {});
