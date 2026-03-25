@@ -5,19 +5,25 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 25 Mar 2026 11:00:42 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 11:12:12 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Simion, atac la adresa PSD: Nu se va întâmpla nimic pe 20 aprilie</title>
-        <link>https://www.mediafax.ro/politic/simion-atac-la-adresa-psd-nu-se-va-intampla-nimic-pe-20-aprilie-23709626</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/simion-atac-la-adresa-psd-nu-se-va-intampla-nimic-pe-20-aprilie-23709626</guid>
+        <title>O femeie care se dădea drept broker la o bancă elvețiană a reușit să înșele 24 de persoane și a jucat o parte din bani la cazinou</title>
+        <link>https://adevarul.ro/stiri-locale/iasi/o-femeie-care-se-dadea-drept-broker-la-o-banca-2517855.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/iasi/o-femeie-care-se-dadea-drept-broker-la-o-banca-2517855.html</guid>
     </item>
     <item>
-        <title>FT: Șeful NATO irită Europa susținând războiul lui Trump în Iran</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ft-seful-nato-irita-europa-sustinand-razboiul-lui-trump-in-iran-23709647</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ft-seful-nato-irita-europa-sustinand-razboiul-lui-trump-in-iran-23709647</guid>
+        <title>Iranul pune condiții dure și clare înainte de orice negocieri, după planul în 15 puncte propus de Donald Trump</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/iranul-refuza-pune-conditii-dure-si-clare-inainte-2517837.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/iranul-refuza-pune-conditii-dure-si-clare-inainte-2517837.html</guid>
+    </item>
+    <item>
+        <title>Livetext Război în Iran, ziua 25. Trump se laudă că a primit un „cadou uriaș” din partea Iranului / SUA continuă să trimită forțe de elită în regiune</title>
+        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-24-martie-2026-5672561</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-24-martie-2026-5672561</guid>
     </item>
     <item>
         <title>„Legea femicidului” a fost adoptată de Parlament: pedepse cu ani multi de închisoare sau chiar detenție pe viață</title>
@@ -26,10 +32,16 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/legea-femicidului-a-fost-adoptata-de-parlament-59-de-femei-ucise-in-romania-anul-trecut-ce-prevede-si-despre-ce-sanctiuni-e-vorba-3694095</guid>
     </item>
     <item>
-        <title>Ilie Bolojan afirmă că, în ciuda măsurilor, Guvernul nu va putea anula creșterea de preț la carburanți: „Aceste blocaje din Golf legate de transportul</title>
-        <link>https://www.europafm.ro/ilie-bolojan-afirma-ca-in-ciuda-masurilor-guvernul-nu-va-putea-anula-cresterea-de-pret-la-carburanti-aceste-blocaje-din-golf-legate-de-transportul-de-titei-si-de-motorina-are-un-impact-glo/</link>
+        <title>Statele Unite propun Iranului un plan în 15 puncte pentru a încheia războiul. Primele cinci solicitări vizează sectorul nuclear | AUDIO</title>
+        <link>https://www.europafm.ro/statele-unite-propun-iranului-un-plan-in-15-puncte-pentru-a-incheia-razboiul-primele-cinci-solicitari-vizeaza-sectorul-nuclear/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ilie-bolojan-afirma-ca-in-ciuda-masurilor-guvernul-nu-va-putea-anula-cresterea-de-pret-la-carburanti-aceste-blocaje-din-golf-legate-de-transportul-de-titei-si-de-motorina-are-un-impact-glo/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/statele-unite-propun-iranului-un-plan-in-15-puncte-pentru-a-incheia-razboiul-primele-cinci-solicitari-vizeaza-sectorul-nuclear/</guid>
+    </item>
+    <item>
+        <title>Incendiu într-un bloc în construcție din Tunari, lângă Capitală: fumul negru se vede de la kilometri depărtare</title>
+        <link>https://www.digi24.ro/stiri/incendiu-intr-un-bloc-in-constructie-din-tunari-langa-capitala-fumul-negru-se-vede-de-la-kilometri-departare-3694211</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/incendiu-intr-un-bloc-in-constructie-din-tunari-langa-capitala-fumul-negru-se-vede-de-la-kilometri-departare-3694211</guid>
     </item>
     <item>
         <title>Cât câștigă un mecanic de locomotivă la Carpatica Feroviar, noua companie de stat. Salariul se dublează cu sporuri și beneficii</title>
@@ -38,34 +50,22 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/statul-e-generos-pentru-a-atrage-mecanici-la-carpatica-feroviar-la-cat-ajunge-salariul-5674051</guid>
     </item>
     <item>
-        <title>Meciul România-Turcia. Fotbaliștii „Generației de Aur” merg la Istanbul pentru a-i susține pe tricolori. Hagi: „Cineva o să plângă la sfârșit” | AUDIO</title>
-        <link>https://www.europafm.ro/meciul-romania-turcia-fotbalistii-generatiei-de-aur-merg-la-istanbul-pentru-a-i-sustine-pe-tricolori-hagi-cineva-o-sa-planga-la-sfarsit/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/meciul-romania-turcia-fotbalistii-generatiei-de-aur-merg-la-istanbul-pentru-a-i-sustine-pe-tricolori-hagi-cineva-o-sa-planga-la-sfarsit/</guid>
+        <title>Simion, atac la adresa PSD: Nu se va întâmpla nimic pe 20 aprilie</title>
+        <link>https://www.mediafax.ro/politic/simion-atac-la-adresa-psd-nu-se-va-intampla-nimic-pe-20-aprilie-23709626</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/simion-atac-la-adresa-psd-nu-se-va-intampla-nimic-pe-20-aprilie-23709626</guid>
     </item>
     <item>
-        <title>DEȘTEPTAREA: România testează scanarea automată a numerelor. Bulgaria reduce accidentele la jumătate</title>
-        <link>https://www.europafm.ro/desteptarea-romania-testeaza-scanarea-automata-a-numerelor-bulgaria-reduce-accidentele-la-jumatate/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/desteptarea-romania-testeaza-scanarea-automata-a-numerelor-bulgaria-reduce-accidentele-la-jumatate/</guid>
-    </item>
-    <item>
-        <title>Explozie urmată de incendiu într-un bloc din Bacău: doi răniți și 22 de persoane evacuate</title>
-        <link>https://www.digi24.ro/stiri/actualitate/explozie-urmata-de-incendiu-intr-un-bloc-din-bacau-doi-raniti-si-22-de-persoane-evacuate-3694331</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/explozie-urmata-de-incendiu-intr-un-bloc-din-bacau-doi-raniti-si-22-de-persoane-evacuate-3694331</guid>
-    </item>
-    <item>
-        <title>Criza carburanților. Confederațiile sindicale nu participă la reuniunea Consiliului Național Tripartit, programată înaintea de ședința CES. Motivele i</title>
-        <link>https://www.europafm.ro/criza-carburantilor-confederatiile-sindicale-nu-participa-la-reuniunea-consiliului-national-tripartit-programata-inaintea-de-sedinta-ces-motivele-inovate-de-liderul-cartel-alfa/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/criza-carburantilor-confederatiile-sindicale-nu-participa-la-reuniunea-consiliului-national-tripartit-programata-inaintea-de-sedinta-ces-motivele-inovate-de-liderul-cartel-alfa/</guid>
-    </item>
-    <item>
-        <title>Un cuplu a divorțat la doar 3 minute de la cununie din cauza unui singur cuvânt spus de mire când mireasa s-a împiedicat</title>
-        <link>https://www.libertatea.ro/stiri/cuplu-divortat-3-minute-cununie-cuvant-spus-mire-mireasa-impiedicat-5674151</link>
+        <title>Cine este Liliana Hristache, românca de etnie romă care ocupă funcția de viceprimar în Franța</title>
+        <link>https://www.libertatea.ro/stiri/cine-este-liliana-hristache-romanca-etnie-roma-ocupa-functia-viceprimar-franta-5674137</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cuplu-divortat-3-minute-cununie-cuvant-spus-mire-mireasa-impiedicat-5674151</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cine-este-liliana-hristache-romanca-etnie-roma-ocupa-functia-viceprimar-franta-5674137</guid>
+    </item>
+    <item>
+        <title>Ce ar putea fi „cadoul uriaș” pe care Trump susține că i l-au făcut iranienii: „Are legătură cu Strâmtoarea Ormuz”</title>
+        <link>https://www.libertatea.ro/stiri/donald-trump-se-lauda-ca-a-primit-un-cadou-urias-din-partea-iranului-5674153</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-se-lauda-ca-a-primit-un-cadou-urias-din-partea-iranului-5674153</guid>
     </item>
 </channel>
 </rss>
