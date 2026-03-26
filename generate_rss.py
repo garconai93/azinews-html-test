@@ -42,6 +42,18 @@ if not news_items:
             title = escape_xml(title)
             news_items.append({'source': source, 'url': url, 'title': title})
 
+# Always check JS array as fallback
+if not news_items:
+    match = re.search(r'const news = \[(.*?)\];', content, re.DOTALL)
+    if match:
+        news_text = match.group(1)
+        item_pattern = r"{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\""
+        for m in re.finditer(item_pattern, news_text):
+            source, url, title = m.groups()
+            title = title.replace('&#8222;', '"').replace('&#8221;', '"').replace('&#8217;', "'").replace('&#8211;', '–')
+            title = escape_xml(title)
+            news_items.append({'source': source, 'url': url, 'title': title})
+
 if not news_items:
     print("No news found!")
     exit(0)  # Don't fail, just skip
@@ -58,7 +70,7 @@ rss = '''<?xml version="1.0" encoding="UTF-8"?>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
 '''.format(date=datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0200'))
 
-for i, item in enumerate(news_items[:10]):
+for i, item in enumerate(news_items[:60]):
     rss += '''    <item>
         <title>{title}</title>
         <link>{url}</link>
