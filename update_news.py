@@ -15,6 +15,7 @@ SOURCES = [
     ("Europa FM", "https://www.europafm.ro/feed/"),
     ("Libertatea", "https://www.libertatea.ro/rss"),
     ("Adevarul", "https://adevarul.ro/rss"),
+    ("G4Media", "https://www.g4media.ro/feed"),
 ]
 
 def extract_existing_news():
