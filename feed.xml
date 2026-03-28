@@ -5,13 +5,25 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 28 Mar 2026 11:48:33 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 12:00:44 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Doi copii din Constanța au obținut ordin de restricție împotriva părinților care îi băteau. Tatăl a fost reținut</title>
-        <link>https://www.mediafax.ro/social/doi-copii-din-constanta-au-obtinut-ordin-de-restrictie-impotriva-parintilor-care-ii-bateau-tatal-a-fost-retinut-23711400</link>
+        <title>Alexandru Rogobete: Fac apel la calm. Nu recomand ca oamenii să-și facă stocuri de medicamente acasă</title>
+        <link>https://www.g4media.ro/alexandru-rogobete-fac-apel-la-calm-nu-recomand-ca-oamenii-sa-si-faca-stocuri-de-medicamente-acasa.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/alexandru-rogobete-fac-apel-la-calm-nu-recomand-ca-oamenii-sa-si-faca-stocuri-de-medicamente-acasa.html</guid>
+    </item>
+    <item>
+        <title>Raiffeisen Bank cumpără Garanti BBVA România. Când este estimată încheierea tranzacției</title>
+        <link>https://www.libertatea.ro/stiri/raiffeisen-bank-cumpara-garanti-bbva-romania-cand-este-estimata-incheierea-tranzactiei-5678490</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/raiffeisen-bank-cumpara-garanti-bbva-romania-cand-este-estimata-incheierea-tranzactiei-5678490</guid>
+    </item>
+    <item>
+        <title>Alexandru Rogobete despre introducerea vaccinării anti-HPV în farmacii: „Este posibil și îmi doresc să-l extindem”. Ce declară despre vaccinarea împot</title>
+        <link>https://www.mediafax.ro/sanatate/alexandru-rogobete-despre-introducerea-vaccinarii-anti-hpv-in-farmacii-este-posibil-si-imi-doresc-sa-l-extindem-ce-declara-despre-vaccinarea-impotriva-rujeolei-23711382</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/doi-copii-din-constanta-au-obtinut-ordin-de-restrictie-impotriva-parintilor-care-ii-bateau-tatal-a-fost-retinut-23711400</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/alexandru-rogobete-despre-introducerea-vaccinarii-anti-hpv-in-farmacii-este-posibil-si-imi-doresc-sa-l-extindem-ce-declara-despre-vaccinarea-impotriva-rujeolei-23711382</guid>
     </item>
     <item>
         <title>Rețea de 25 de persoane, destructurată la Brașov: furau motorină din utilajele pentru modernizarea căii ferate</title>
@@ -20,106 +32,10 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/retea-de-25-de-persoane-destructurata-la-brasov-furau-motorina-din-utilajele-pentru-modernizarea-caii-ferate-3699561</guid>
     </item>
     <item>
-        <title>„Mănânc 30 de ouă pe zi și un ardei iute”: dieta extremă a unui bărbat care se antrenează pentru un concurs</title>
-        <link>https://adevarul.ro/stiri-externe/europa/mananc-30-de-oua-pe-zi-si-un-ardei-iute-dieta-2518634.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/mananc-30-de-oua-pe-zi-si-un-ardei-iute-dieta-2518634.html</guid>
-    </item>
-    <item>
-        <title>Mirela Vaida, ultima apariție la „Acces direct”. A explicat de ce pleacă la Asia Express 2026: „Nu e despre câștig”</title>
-        <link>https://www.libertatea.ro/entertainment/mirela-vaida-pleaca-la-asia-express-2026-ultima-aparitie-la-acces-direct-5678007</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/mirela-vaida-pleaca-la-asia-express-2026-ultima-aparitie-la-acces-direct-5678007</guid>
-    </item>
-    <item>
-        <title>Donald Trump a numit Strâmtoarea Ormuz după propriul său nume: „Redeschidem strâmtoarea Trump”</title>
-        <link>https://www.libertatea.ro/stiri/donald-trump-a-numit-stramtoarea-ormuz-dupa-propriul-sau-nume-stramtoarea-trump-5678515</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-a-numit-stramtoarea-ormuz-dupa-propriul-sau-nume-stramtoarea-trump-5678515</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 29: Prețul petrolului din Kuweit a crescut la peste 118 dolari pe baril</title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-28-martie-5678360</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-28-martie-5678360</guid>
-    </item>
-    <item>
-        <title>JD Vance promite să dezvăluie „adevărul despre extratereștri” în administrația Trump: „Sunt mai curios decât oricine altcineva. Mă obsedează”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/jd-vance-promite-sa-dezvaluie-adevarul-despre-2518631.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/jd-vance-promite-sa-dezvaluie-adevarul-despre-2518631.html</guid>
-    </item>
-    <item>
-        <title>Ministrul Sănătății: jumătate din cei care intră ajung să finalizeze examenul de rezidențiat</title>
-        <link>https://www.mediafax.ro/sanatate/ministrul-sanatatii-jumatate-din-cei-care-intra-ajung-sa-finalizeze-examenul-de-rezidentiat-23711383</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/ministrul-sanatatii-jumatate-din-cei-care-intra-ajung-sa-finalizeze-examenul-de-rezidentiat-23711383</guid>
-    </item>
-    <item>
-        <title>Război în Orientul Mijlociu, ziua 29. Militari americani, răniți în Arabia Saudită. Aeroportul din Kuweit a fost atacat cu drone</title>
-        <link>https://www.digi24.ro/stiri/externe/razboi-in-orientul-mijlociu-ziua-29-posibila-intrare-in-conflict-a-rebelilor-houthi-ar-ameninta-ruta-alternativa-prin-marea-rosie-3699257</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/razboi-in-orientul-mijlociu-ziua-29-posibila-intrare-in-conflict-a-rebelilor-houthi-ar-ameninta-ruta-alternativa-prin-marea-rosie-3699257</guid>
-    </item>
-    <item>
-        <title>Ciucu, ultimatum pentru Grindeanu: „Dacă va fi demis Guvernul Bolojan, PNL nu va mai face parte dintr-o altă coaliție cu PSD”</title>
-        <link>https://adevarul.ro/politica/ciucu-ultimatum-pentru-grindeanu-daca-va-fi-2518642.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/ciucu-ultimatum-pentru-grindeanu-daca-va-fi-2518642.html</guid>
-    </item>
-    <item>
-        <title>Ninge în zona de nord a a județului Gorj, unde statul de zăpadă a ajuns la 35 de cm | AUDIO</title>
-        <link>https://www.europafm.ro/ninge-in-zona-de-nord-a-a-judetului-gorj-unde-statul-de-zapada-a-ajuns-la-35-de-cm/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ninge-in-zona-de-nord-a-a-judetului-gorj-unde-statul-de-zapada-a-ajuns-la-35-de-cm/</guid>
-    </item>
-    <item>
-        <title>OPINIE Două piese jucate pe scena TNB mi-au arătat cum banalul poate deveni artă consistentă</title>
-        <link>https://www.g4media.ro/opinie-doua-piese-jucate-pe-scena-tnb-mi-au-aratat-cum-banalul-poate-deveni-arta-consistenta.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/opinie-doua-piese-jucate-pe-scena-tnb-mi-au-aratat-cum-banalul-poate-deveni-arta-consistenta.html</guid>
-    </item>
-    <item>
-        <title>Radu Miruță respinge zvonurile privind 800 de militari americani răniți aduși la Baza Mihail Kogălniceanu: „Există interesul de a crea confuzie și neî</title>
-        <link>https://www.europafm.ro/radu-miruta-respinge-zvonuri-800-militari-americani/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/radu-miruta-respinge-zvonuri-800-militari-americani/</guid>
-    </item>
-    <item>
-        <title>Politehnica Bucureşti organizează, sâmbătă, examen de preadmitere</title>
-        <link>https://www.europafm.ro/politehnica-bucuresti-organizeaza-sambata-examen-de-preadmitere/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/politehnica-bucuresti-organizeaza-sambata-examen-de-preadmitere/</guid>
-    </item>
-    <item>
-        <title>Derogarea SUA privind sancțiunile împotriva Iranului redirecționează fluxurile de petrol din China spre India / Scopul este de a stabiliza piața petro</title>
-        <link>https://www.g4media.ro/derogarea-sua-privind-sanctiunile-impotriva-iranului-redirectioneaza-fluxurile-de-petrol-din-china-spre-india-scopul-este-de-a-stabiliza-piata-petroliera-fara-a-renunta-insa-la-presiunea-financiara.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/derogarea-sua-privind-sanctiunile-impotriva-iranului-redirectioneaza-fluxurile-de-petrol-din-china-spre-india-scopul-este-de-a-stabiliza-piata-petroliera-fara-a-renunta-insa-la-presiunea-financiara.html</guid>
-    </item>
-    <item>
-        <title>Blocată de problemele financiare, CFR Cluj riscă să rămână fără antrenorul care a salvat echipa. Pancu: „Se mai adună câte o restanță. Nu aș avea moti</title>
-        <link>https://adevarul.ro/sport/blocata-de-problemele-financiare-cfr-cluj-risca-2518626.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/blocata-de-problemele-financiare-cfr-cluj-risca-2518626.html</guid>
-    </item>
-    <item>
         <title>Ofițerii TSA își pierd locuințele, nu își pot plăti facturile medicale și nu își permit coșuri de Paște pentru copii</title>
         <link>https://www.g4media.ro/ofiterii-tsa-isi-pierd-locuintele-nu-isi-pot-plati-facturile-medicale-si-nu-isi-permit-cosuri-de-paste-pentru-copii.html</link>
         <description>G4Media</description>
         <guid isPermaLink="true">https://www.g4media.ro/ofiterii-tsa-isi-pierd-locuintele-nu-isi-pot-plati-facturile-medicale-si-nu-isi-permit-cosuri-de-paste-pentru-copii.html</guid>
-    </item>
-    <item>
-        <title>Rebelii Houthi din Yemen s-au alăturat războiului din Orientul Mijlociu | 12 soldați americani răniți după un atac al Iranului asupra unei baze a Stat</title>
-        <link>https://www.europafm.ro/rebelii-houthi-din-yemen-s-au-alaturat-razboiului-din-orientul-mijlociu-12-soldati-americani-raniti-dupa-un-atac-al-iranului-asupra-unei-baze-a-statelor-unite-din-arabia-saudita/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/rebelii-houthi-din-yemen-s-au-alaturat-razboiului-din-orientul-mijlociu-12-soldati-americani-raniti-dupa-un-atac-al-iranului-asupra-unei-baze-a-statelor-unite-din-arabia-saudita/</guid>
-    </item>
-    <item>
-        <title>Contul de e-mail al directorului FBI, spart de hackeri cu legături în Iran. Fotografii personale și documente, publicate online | AUDIO</title>
-        <link>https://www.europafm.ro/hackerii-publica-fotografii-kash-patel/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/hackerii-publica-fotografii-kash-patel/</guid>
     </item>
     <item>
         <title>Ministrul Sănătăţii: Nu recomand stocuri de medicamente acasă. Momentan nu suntem într-o criză</title>
@@ -128,94 +44,10 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/ministrul-sanatatii-nu-recomand-stocuri-de-medicamente-acasa-momentan-nu-suntem-intr-o-criza-3699549</guid>
     </item>
     <item>
-        <title>Ce răspunde ministrul Sănătății, întrebat dacă a dat sau a luat vreodată șpagă cât a fost medic</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/ce-raspunde-ministrul-sanatatii-intrebat-daca-a-dat-sau-a-luat-vreodata-spaga-cat-a-fost-medic-3699547</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/ce-raspunde-ministrul-sanatatii-intrebat-daca-a-dat-sau-a-luat-vreodata-spaga-cat-a-fost-medic-3699547</guid>
-    </item>
-    <item>
-        <title>Reacția jurnalistului dat afară de Max Verstappen din conferința de presă. Pilotul nu uită și nu iartă</title>
-        <link>https://adevarul.ro/sport/reactia-jurnalistului-dat-afara-de-max-verstappen-2518632.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/reactia-jurnalistului-dat-afara-de-max-verstappen-2518632.html</guid>
-    </item>
-    <item>
-        <title>Pierdere importantă pentru FC Barcelona: Raphinha va lipsi mai multe săptămâni</title>
-        <link>https://www.g4media.ro/pierdere-importanta-pentru-fc-barcelona-raphinha-va-lipsi-mai-multe-saptamani.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pierdere-importanta-pentru-fc-barcelona-raphinha-va-lipsi-mai-multe-saptamani.html</guid>
-    </item>
-    <item>
-        <title>UE și SUA, discuție „extrem de pozitivă” despre taxele vamale şi mineralele rare</title>
-        <link>https://www.digi24.ro/stiri/externe/ue-si-sua-discutie-extrem-de-pozitiva-despre-taxele-vamale-si-mineralele-rare-3699517</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue-si-sua-discutie-extrem-de-pozitiva-despre-taxele-vamale-si-mineralele-rare-3699517</guid>
-    </item>
-    <item>
-        <title>Nu doar elevii folosesc ChatGPT pentru a copia: Un profesor din Tulcea, acuzat că folosește AI pentru a rezolva exercițiile la matematică</title>
-        <link>https://www.libertatea.ro/educatie/scandal-profesor-matematica-tulcea-acuzat-foloseste-chatgpt-5678475</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/educatie/scandal-profesor-matematica-tulcea-acuzat-foloseste-chatgpt-5678475</guid>
-    </item>
-    <item>
-        <title>STUDIU Durerile cronice de spate ar putea fi cauzate de fibre nervoase invazive / Cum funcționează nervii care pătrund în platourile vertebrale</title>
-        <link>https://www.g4media.ro/studiu-durerile-cronice-de-spate-ar-putea-fi-cauzate-de-fibre-nervoase-invazive-cum-functioneaza-nervii-care-patrund-in-platourile-vertebrale.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/studiu-durerile-cronice-de-spate-ar-putea-fi-cauzate-de-fibre-nervoase-invazive-cum-functioneaza-nervii-care-patrund-in-platourile-vertebrale.html</guid>
-    </item>
-    <item>
-        <title>Alexandru Rogobete: Fac apel la calm. Nu recomand ca oamenii să-și facă stocuri de medicamente acasă</title>
-        <link>https://www.g4media.ro/alexandru-rogobete-fac-apel-la-calm-nu-recomand-ca-oamenii-sa-si-faca-stocuri-de-medicamente-acasa.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/alexandru-rogobete-fac-apel-la-calm-nu-recomand-ca-oamenii-sa-si-faca-stocuri-de-medicamente-acasa.html</guid>
-    </item>
-    <item>
         <title>Ministrul Sănătății propune un master profesional pentru absolvenții de Medicină care nu intră la rezidențiat</title>
         <link>https://www.mediafax.ro/sanatate/ministrul-sanatatii-propune-un-master-profesional-pentru-absolventii-de-medicina-care-nu-intra-la-rezidentiat-23711388</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/sanatate/ministrul-sanatatii-propune-un-master-profesional-pentru-absolventii-de-medicina-care-nu-intra-la-rezidentiat-23711388</guid>
-    </item>
-    <item>
-        <title>Gata cu intrările gratuite la muzeele din Anglia. Turiștii străini vor fi puși să plătească</title>
-        <link>https://www.libertatea.ro/lifestyle/muzee-britanice-anglia-taxa-intrare-turisti-straini-5678503</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/muzee-britanice-anglia-taxa-intrare-turisti-straini-5678503</guid>
-    </item>
-    <item>
-        <title>Ora Pământului/ Iluminatul la Palatul Parlamentului oprit sâmbătă seară</title>
-        <link>https://www.europafm.ro/ora-pamantului-iluminatul-la-palatul-parlamentului-oprit-sambata-seara/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ora-pamantului-iluminatul-la-palatul-parlamentului-oprit-sambata-seara/</guid>
-    </item>
-    <item>
-        <title>Carburanții s-au scumpit la pompă pentru a 17-a oară de când a început războiul în Iran</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/carburantii-s-au-scumpit-la-pompa-pentru-a-17-a-oara-de-cand-a-inceput-razboiul-in-iran-3699487</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/carburantii-s-au-scumpit-la-pompa-pentru-a-17-a-oara-de-cand-a-inceput-razboiul-in-iran-3699487</guid>
-    </item>
-    <item>
-        <title>ANM: Vânt puternic şi ploi în întreaga ţară, în zilele următoare; la munte se depune strat consistent de zăpadă</title>
-        <link>https://www.europafm.ro/anm-vant-puternic-si-ploi-in-intreaga-tara-in-zilele-urmatoare-la-munte-se-va-depune-strat-consistent-de-zapada/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/anm-vant-puternic-si-ploi-in-intreaga-tara-in-zilele-urmatoare-la-munte-se-va-depune-strat-consistent-de-zapada/</guid>
-    </item>
-    <item>
-        <title>Vreme severă la munte: ANM a emis Cod galben și portocaliu. Rafale de până la 120 km/h și vizibilitate sub 50 m</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/vreme-severa-la-munte-anm-a-emis-cod-galben-si-portocaliu-rafale-de-pana-la-120-km-h-si-vizibilitate-sub-50-m-3699381</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/vreme-severa-la-munte-anm-a-emis-cod-galben-si-portocaliu-rafale-de-pana-la-120-km-h-si-vizibilitate-sub-50-m-3699381</guid>
-    </item>
-    <item>
-        <title>Cristi Chivu poate da lovitura cu jucătorul care a făcut istorie la Real Madrid, câștigând de 5 ori Liga Campionilor</title>
-        <link>https://adevarul.ro/sport/cristi-chivu-poate-da-lovitura-cu-jucatorul-care-a-2518627.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/cristi-chivu-poate-da-lovitura-cu-jucatorul-care-a-2518627.html</guid>
-    </item>
-    <item>
-        <title>Cine este Iosif Mândru, concurentul care a încheiat seara apoteotic la „Românii au talent” 2026. „Nu știu notele, nu știu să citesc o partitură”</title>
-        <link>https://www.libertatea.ro/entertainment/cine-este-iosif-mandru-concurentul-care-a-incheiat-seara-apoteotic-romanii-au-talent-5678540</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/cine-este-iosif-mandru-concurentul-care-a-incheiat-seara-apoteotic-romanii-au-talent-5678540</guid>
     </item>
     <item>
         <title>Floriile la catolici, pe 29 martie 2026: Tradiții, obiceiuri și diferențe față de sărbătoarea ortodoxă</title>
@@ -224,10 +56,124 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/floriile-la-catolici-pe-29-martie-2026-traditii-2518620.html</guid>
     </item>
     <item>
-        <title>Max Verstappen eliminat din Q2, Antonelli cel mai rapid la Marele Premiu al Japoniei de Formula 1</title>
-        <link>https://www.libertatea.ro/sport/max-verstappen-eliminat-din-q2-la-marele-premiu-al-japoniei-formula-1-5678498</link>
+        <title>Ora Pământului/ Iluminatul la Palatul Parlamentului oprit sâmbătă seară</title>
+        <link>https://www.europafm.ro/ora-pamantului-iluminatul-la-palatul-parlamentului-oprit-sambata-seara/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ora-pamantului-iluminatul-la-palatul-parlamentului-oprit-sambata-seara/</guid>
+    </item>
+    <item>
+        <title>Spitalele regionale din Craiova și Iași, pe drumul spre finalizare în 2028. Alexandru Rogobete: „La Cluj, din păcate, suntem în continuare în contesta</title>
+        <link>https://www.mediafax.ro/sanatate/spitalele-regionale-din-craiova-si-iasi-pe-drumul-spre-finalizare-in-2028-alexandru-rogobete-la-cluj-din-pacate-suntem-in-continuare-in-contestatie-23711392</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/spitalele-regionale-din-craiova-si-iasi-pe-drumul-spre-finalizare-in-2028-alexandru-rogobete-la-cluj-din-pacate-suntem-in-continuare-in-contestatie-23711392</guid>
+    </item>
+    <item>
+        <title>Radu Miruță respinge zvonurile privind 800 de militari americani răniți aduși la Baza Mihail Kogălniceanu: „Există interesul de a crea confuzie și neî</title>
+        <link>https://www.europafm.ro/radu-miruta-respinge-zvonuri-800-militari-americani/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/radu-miruta-respinge-zvonuri-800-militari-americani/</guid>
+    </item>
+    <item>
+        <title>ANM: Vânt puternic şi ploi în întreaga ţară, în zilele următoare; la munte se depune strat consistent de zăpadă</title>
+        <link>https://www.europafm.ro/anm-vant-puternic-si-ploi-in-intreaga-tara-in-zilele-urmatoare-la-munte-se-va-depune-strat-consistent-de-zapada/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/anm-vant-puternic-si-ploi-in-intreaga-tara-in-zilele-urmatoare-la-munte-se-va-depune-strat-consistent-de-zapada/</guid>
+    </item>
+    <item>
+        <title>Două grupări destructurate la Brașov: 25 de persoane furau motorină din utilaje feroviare / Peste 1,8 tone de combustibil descoperit</title>
+        <link>https://www.g4media.ro/doua-grupari-destructurate-la-brasov-25-de-persoane-furau-motorina-din-utilaje-feroviare-peste-18-tone-de-combustibil-descoperit.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/doua-grupari-destructurate-la-brasov-25-de-persoane-furau-motorina-din-utilaje-feroviare-peste-18-tone-de-combustibil-descoperit.html</guid>
+    </item>
+    <item>
+        <title>„Euphoria” și „Half Man”, printre cele mai așteptate seriale din aprilie 2026</title>
+        <link>https://www.g4media.ro/euphoria-si-half-man-printre-cele-mai-asteptate-seriale-din-aprilie-2026.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/euphoria-si-half-man-printre-cele-mai-asteptate-seriale-din-aprilie-2026.html</guid>
+    </item>
+    <item>
+        <title>Contul de e-mail al directorului FBI, spart de hackeri cu legături în Iran. Fotografii personale și documente, publicate online | AUDIO</title>
+        <link>https://www.europafm.ro/hackerii-publica-fotografii-kash-patel/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/hackerii-publica-fotografii-kash-patel/</guid>
+    </item>
+    <item>
+        <title>Vreme severă la munte: ANM a emis Cod galben și portocaliu. Rafale de până la 120 km/h și vizibilitate sub 50 m</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/vreme-severa-la-munte-anm-a-emis-cod-galben-si-portocaliu-rafale-de-pana-la-120-km-h-si-vizibilitate-sub-50-m-3699381</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/vreme-severa-la-munte-anm-a-emis-cod-galben-si-portocaliu-rafale-de-pana-la-120-km-h-si-vizibilitate-sub-50-m-3699381</guid>
+    </item>
+    <item>
+        <title>Sorin Grindeanu, în campanie împotriva coaliției de guvernare din care PSD face parte: „Trebuie să facem schimbări”</title>
+        <link>https://www.g4media.ro/sorin-grindeanu-in-campanie-impotriva-coalitiei-de-guvernare-din-care-psd-face-parte-trebuie-sa-facem-schimbari.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/sorin-grindeanu-in-campanie-impotriva-coalitiei-de-guvernare-din-care-psd-face-parte-trebuie-sa-facem-schimbari.html</guid>
+    </item>
+    <item>
+        <title>Politehnica Bucureşti organizează, sâmbătă, examen de preadmitere</title>
+        <link>https://www.europafm.ro/politehnica-bucuresti-organizeaza-sambata-examen-de-preadmitere/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/politehnica-bucuresti-organizeaza-sambata-examen-de-preadmitere/</guid>
+    </item>
+    <item>
+        <title>Un bărbat a tăiat un Ford în două, l-a făcut cea mai subțire mașină legală din lume și a transformat-o în Uber. Rezultatul i-a făcut pe oameni să se î</title>
+        <link>https://www.libertatea.ro/stiri/cea-mai-subtire-masina-din-lume-ford-taiat-in-jumatate-uber-5678408</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/sport/max-verstappen-eliminat-din-q2-la-marele-premiu-al-japoniei-formula-1-5678498</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cea-mai-subtire-masina-din-lume-ford-taiat-in-jumatate-uber-5678408</guid>
+    </item>
+    <item>
+        <title>Ministrul Sănătății: jumătate din cei care intră ajung să finalizeze examenul de rezidențiat</title>
+        <link>https://www.mediafax.ro/sanatate/ministrul-sanatatii-jumatate-din-cei-care-intra-ajung-sa-finalizeze-examenul-de-rezidentiat-23711383</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/ministrul-sanatatii-jumatate-din-cei-care-intra-ajung-sa-finalizeze-examenul-de-rezidentiat-23711383</guid>
+    </item>
+    <item>
+        <title>Vâlcea: Drumul spre stațiunea Vârful lui Roman a fost închis, din cauza ninsorilor abundente | VIDEO</title>
+        <link>https://www.europafm.ro/valcea-drumul-spre-statiunea-varful-lui-roman-a-fost-inchis-din-cauza-ninsorilor-abundente-video/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/valcea-drumul-spre-statiunea-varful-lui-roman-a-fost-inchis-din-cauza-ninsorilor-abundente-video/</guid>
+    </item>
+    <item>
+        <title>Cum îți actualizezi locuința pentru primăvară: intervenții rapide cu impact vizual imediat</title>
+        <link>https://www.g4media.ro/cum-iti-actualizezi-locuinta-pentru-primavara-interventii-rapide-cu-impact-vizual-imediat.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cum-iti-actualizezi-locuinta-pentru-primavara-interventii-rapide-cu-impact-vizual-imediat.html</guid>
+    </item>
+    <item>
+        <title>UE și SUA, discuție „extrem de pozitivă” despre taxele vamale şi mineralele rare</title>
+        <link>https://www.digi24.ro/stiri/externe/ue-si-sua-discutie-extrem-de-pozitiva-despre-taxele-vamale-si-mineralele-rare-3699517</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue-si-sua-discutie-extrem-de-pozitiva-despre-taxele-vamale-si-mineralele-rare-3699517</guid>
+    </item>
+    <item>
+        <title>Iran: O uzină de procesare a uraniului, vizată de atacuri aeriene americano-israeliene</title>
+        <link>https://www.europafm.ro/iran-o-uzina-de-procesare-a-uraniului-vizata-de-atacuri-aeriene-americano-israeliene/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/iran-o-uzina-de-procesare-a-uraniului-vizata-de-atacuri-aeriene-americano-israeliene/</guid>
+    </item>
+    <item>
+        <title>Rebelii Houthi din Yemen s-au alăturat războiului din Orientul Mijlociu | 12 soldați americani răniți după un atac al Iranului asupra unei baze a Stat</title>
+        <link>https://www.europafm.ro/rebelii-houthi-din-yemen-s-au-alaturat-razboiului-din-orientul-mijlociu-12-soldati-americani-raniti-dupa-un-atac-al-iranului-asupra-unei-baze-a-statelor-unite-din-arabia-saudita/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/rebelii-houthi-din-yemen-s-au-alaturat-razboiului-din-orientul-mijlociu-12-soldati-americani-raniti-dupa-un-atac-al-iranului-asupra-unei-baze-a-statelor-unite-din-arabia-saudita/</guid>
+    </item>
+    <item>
+        <title>Nu doar elevii folosesc ChatGPT pentru a copia: Un profesor din Tulcea, acuzat că folosește AI pentru a rezolva exercițiile la matematică</title>
+        <link>https://www.libertatea.ro/educatie/scandal-profesor-matematica-tulcea-acuzat-foloseste-chatgpt-5678475</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/educatie/scandal-profesor-matematica-tulcea-acuzat-foloseste-chatgpt-5678475</guid>
+    </item>
+    <item>
+        <title>Donald Trump a numit Strâmtoarea Ormuz după propriul său nume: „Redeschidem strâmtoarea Trump”</title>
+        <link>https://www.libertatea.ro/stiri/donald-trump-a-numit-stramtoarea-ormuz-dupa-propriul-sau-nume-stramtoarea-trump-5678515</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-a-numit-stramtoarea-ormuz-dupa-propriul-sau-nume-stramtoarea-trump-5678515</guid>
+    </item>
+    <item>
+        <title>„Nu ne putem juca de-a coaliţiile”. Ciucu, mesaj pentru Grindeanu: Dacă Guvernul Bolojan pică, PNL nu va mai face alianță cu PSD</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/nu-ne-putem-juca-de-a-coalitiile-ciucu-mesaj-pentru-grindeanu-daca-guvernul-bolojan-pica-pnl-nu-va-mai-face-alianta-cu-psd-3699565</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nu-ne-putem-juca-de-a-coalitiile-ciucu-mesaj-pentru-grindeanu-daca-guvernul-bolojan-pica-pnl-nu-va-mai-face-alianta-cu-psd-3699565</guid>
     </item>
     <item>
         <title>Final tragic pentru o haită de lupi dintr-un parc natural britanic: animalele vor fi eutanasiate după ce s-au atacat violent între ele</title>
@@ -236,10 +182,112 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/final-tragic-pentru-o-haita-de-lupi-dintr-un-parc-2518638.html</guid>
     </item>
     <item>
-        <title>Două grupări destructurate la Brașov: 25 de persoane furau motorină din utilaje feroviare / Peste 1,8 tone de combustibil descoperit</title>
-        <link>https://www.g4media.ro/doua-grupari-destructurate-la-brasov-25-de-persoane-furau-motorina-din-utilaje-feroviare-peste-18-tone-de-combustibil-descoperit.html</link>
+        <title>Doi copii din Constanța au obținut ordin de restricție împotriva părinților care îi băteau. Tatăl a fost reținut</title>
+        <link>https://www.mediafax.ro/social/doi-copii-din-constanta-au-obtinut-ordin-de-restrictie-impotriva-parintilor-care-ii-bateau-tatal-a-fost-retinut-23711400</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/doi-copii-din-constanta-au-obtinut-ordin-de-restrictie-impotriva-parintilor-care-ii-bateau-tatal-a-fost-retinut-23711400</guid>
+    </item>
+    <item>
+        <title>OPINIE Două piese jucate pe scena TNB mi-au arătat cum banalul poate deveni artă consistentă</title>
+        <link>https://www.g4media.ro/opinie-doua-piese-jucate-pe-scena-tnb-mi-au-aratat-cum-banalul-poate-deveni-arta-consistenta.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/doua-grupari-destructurate-la-brasov-25-de-persoane-furau-motorina-din-utilaje-feroviare-peste-18-tone-de-combustibil-descoperit.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/opinie-doua-piese-jucate-pe-scena-tnb-mi-au-aratat-cum-banalul-poate-deveni-arta-consistenta.html</guid>
+    </item>
+    <item>
+        <title>Inteligența artificială „angajează” oameni pe o platformă dedicată. Peste 600.000 de persoane s-au înscris deja: „AI are nevoie de corpul tău”</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/inteligenta-artificiala-angajeaza-oameni-pe-o-2518640.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/inteligenta-artificiala-angajeaza-oameni-pe-o-2518640.html</guid>
+    </item>
+    <item>
+        <title>SUA pregătesc un al treilea portavion pentru a se alătura Operațiunii Epic Fury</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/sua-pregatesc-un-al-treilea-portavion-pentru-a-se-2518637.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/sua-pregatesc-un-al-treilea-portavion-pentru-a-se-2518637.html</guid>
+    </item>
+    <item>
+        <title>Derogarea SUA privind sancțiunile împotriva Iranului redirecționează fluxurile de petrol din China spre India / Scopul este de a stabiliza piața petro</title>
+        <link>https://www.g4media.ro/derogarea-sua-privind-sanctiunile-impotriva-iranului-redirectioneaza-fluxurile-de-petrol-din-china-spre-india-scopul-este-de-a-stabiliza-piata-petroliera-fara-a-renunta-insa-la-presiunea-financiara.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/derogarea-sua-privind-sanctiunile-impotriva-iranului-redirectioneaza-fluxurile-de-petrol-din-china-spre-india-scopul-este-de-a-stabiliza-piata-petroliera-fara-a-renunta-insa-la-presiunea-financiara.html</guid>
+    </item>
+    <item>
+        <title>Carburanții s-au scumpit la pompă pentru a 17-a oară de când a început războiul în Iran</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/carburantii-s-au-scumpit-la-pompa-pentru-a-17-a-oara-de-cand-a-inceput-razboiul-in-iran-3699487</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/carburantii-s-au-scumpit-la-pompa-pentru-a-17-a-oara-de-cand-a-inceput-razboiul-in-iran-3699487</guid>
+    </item>
+    <item>
+        <title>Reacția jurnalistului dat afară de Max Verstappen din conferința de presă. Pilotul nu uită și nu iartă</title>
+        <link>https://adevarul.ro/sport/reactia-jurnalistului-dat-afara-de-max-verstappen-2518632.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/reactia-jurnalistului-dat-afara-de-max-verstappen-2518632.html</guid>
+    </item>
+    <item>
+        <title>Cu cât cumpără partidul lui Viktor Orban voturile maghiarilor: „Mi-e foame, tată, mamă”</title>
+        <link>https://www.libertatea.ro/stiri/ungaria-lui-viktor-orban-intre-discursuri-suveraniste-si-voturi-cumparate-cu-pachete-de-mancare-5678497</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ungaria-lui-viktor-orban-intre-discursuri-suveraniste-si-voturi-cumparate-cu-pachete-de-mancare-5678497</guid>
+    </item>
+    <item>
+        <title>Ciucu, ultimatum pentru Grindeanu: „Dacă va fi demis Guvernul Bolojan, PNL nu va mai face parte dintr-o altă coaliție cu PSD”</title>
+        <link>https://adevarul.ro/politica/ciucu-ultimatum-pentru-grindeanu-daca-va-fi-2518642.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/ciucu-ultimatum-pentru-grindeanu-daca-va-fi-2518642.html</guid>
+    </item>
+    <item>
+        <title>Război în Orientul Mijlociu, ziua 29. Militari americani, răniți în Arabia Saudită. Aeroportul din Kuweit a fost atacat cu drone</title>
+        <link>https://www.digi24.ro/stiri/externe/razboi-in-orientul-mijlociu-ziua-29-posibila-intrare-in-conflict-a-rebelilor-houthi-ar-ameninta-ruta-alternativa-prin-marea-rosie-3699257</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/razboi-in-orientul-mijlociu-ziua-29-posibila-intrare-in-conflict-a-rebelilor-houthi-ar-ameninta-ruta-alternativa-prin-marea-rosie-3699257</guid>
+    </item>
+    <item>
+        <title>Ucraina și Emiratele Arabe Unite colaborează în domeniul apărării, a anunțat Zelenski</title>
+        <link>https://www.digi24.ro/stiri/externe/ucraina-si-emiratele-arabe-unite-colaboreaza-in-domeniul-apararii-a-anuntat-zelenski-3699541</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ucraina-si-emiratele-arabe-unite-colaboreaza-in-domeniul-apararii-a-anuntat-zelenski-3699541</guid>
+    </item>
+    <item>
+        <title>Ce răspunde ministrul Sănătății, întrebat dacă a dat sau a luat vreodată șpagă cât a fost medic</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/ce-raspunde-ministrul-sanatatii-intrebat-daca-a-dat-sau-a-luat-vreodata-spaga-cat-a-fost-medic-3699547</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/ce-raspunde-ministrul-sanatatii-intrebat-daca-a-dat-sau-a-luat-vreodata-spaga-cat-a-fost-medic-3699547</guid>
+    </item>
+    <item>
+        <title>Vicepreședintele SUA este obsedat de OZN-uri: „Nu cred că sunt extratereștri, ci demoni”</title>
+        <link>https://www.digi24.ro/stiri/externe/vicepresedintele-sua-este-obsedat-de-ozn-uri-nu-cred-ca-sunt-extraterestrii-ci-demoni-3699519</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/vicepresedintele-sua-este-obsedat-de-ozn-uri-nu-cred-ca-sunt-extraterestrii-ci-demoni-3699519</guid>
+    </item>
+    <item>
+        <title>Gata cu intrările gratuite la muzeele din Anglia. Turiștii străini vor fi puși să plătească</title>
+        <link>https://www.libertatea.ro/lifestyle/muzee-britanice-anglia-taxa-intrare-turisti-straini-5678503</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/muzee-britanice-anglia-taxa-intrare-turisti-straini-5678503</guid>
+    </item>
+    <item>
+        <title>Marco Rubio: Operațiunea SUA în Iran se va încheia în câteva săptămâni. Nu este nevoie de intervenție terestră</title>
+        <link>https://www.europafm.ro/marco-rubio-sua-obiective-militare-iran-fara-trupe-terestre/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/marco-rubio-sua-obiective-militare-iran-fara-trupe-terestre/</guid>
+    </item>
+    <item>
+        <title>Furtuna care zdruncină Ucraina: rachetele rusești nu distrug doar orașele, ci induc seismicitate care afectează scoarța terestră</title>
+        <link>https://adevarul.ro/stiri-externe/europa/furtuna-care-zdruncina-ucraina-rachetele-rusesti-2518628.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/furtuna-care-zdruncina-ucraina-rachetele-rusesti-2518628.html</guid>
+    </item>
+    <item>
+        <title>„Mănânc 30 de ouă pe zi și un ardei iute”: dieta extremă a unui bărbat care se antrenează pentru un concurs</title>
+        <link>https://adevarul.ro/stiri-externe/europa/mananc-30-de-oua-pe-zi-si-un-ardei-iute-dieta-2518634.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/mananc-30-de-oua-pe-zi-si-un-ardei-iute-dieta-2518634.html</guid>
+    </item>
+    <item>
+        <title>Max Verstappen eliminat din Q2, Antonelli cel mai rapid la Marele Premiu al Japoniei de Formula 1</title>
+        <link>https://www.libertatea.ro/sport/max-verstappen-eliminat-din-q2-la-marele-premiu-al-japoniei-formula-1-5678498</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/sport/max-verstappen-eliminat-din-q2-la-marele-premiu-al-japoniei-formula-1-5678498</guid>
     </item>
     <item>
         <title>CFR: Circulația trenurilor a fost temporar suspendată la Fetești, în urma unui incident tehnic</title>
@@ -254,28 +302,34 @@
         <guid isPermaLink="true">https://www.mediafax.ro/comunicate-de-presa/hrana-care-uneste-comunitatea-sute-de-copii-sprijiniti-prin-campania-fundatiei-carmistin-ziua-meselor-scolare-23711407</guid>
     </item>
     <item>
-        <title>Vaccinarea anti-HPV ar putea fi extinsă în farmacii – ministrul Sănătății</title>
-        <link>https://www.g4media.ro/vaccinarea-anti-hpv-ar-putea-fi-extinsa-in-farmacii-ministrul-sanatatii.html</link>
+        <title>STUDIU Durerile cronice de spate ar putea fi cauzate de fibre nervoase invazive / Cum funcționează nervii care pătrund în platourile vertebrale</title>
+        <link>https://www.g4media.ro/studiu-durerile-cronice-de-spate-ar-putea-fi-cauzate-de-fibre-nervoase-invazive-cum-functioneaza-nervii-care-patrund-in-platourile-vertebrale.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/vaccinarea-anti-hpv-ar-putea-fi-extinsa-in-farmacii-ministrul-sanatatii.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/studiu-durerile-cronice-de-spate-ar-putea-fi-cauzate-de-fibre-nervoase-invazive-cum-functioneaza-nervii-care-patrund-in-platourile-vertebrale.html</guid>
     </item>
     <item>
-        <title>Furtuna care zdruncină Ucraina: rachetele rusești nu distrug doar orașele, ci induc seismicitate care afectează scoarța terestră</title>
-        <link>https://adevarul.ro/stiri-externe/europa/furtuna-care-zdruncina-ucraina-rachetele-rusesti-2518628.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/furtuna-care-zdruncina-ucraina-rachetele-rusesti-2518628.html</guid>
+        <title>Mirela Vaida, ultima apariție la „Acces direct”. A explicat de ce pleacă la Asia Express 2026: „Nu e despre câștig”</title>
+        <link>https://www.libertatea.ro/entertainment/mirela-vaida-pleaca-la-asia-express-2026-ultima-aparitie-la-acces-direct-5678007</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/mirela-vaida-pleaca-la-asia-express-2026-ultima-aparitie-la-acces-direct-5678007</guid>
     </item>
     <item>
-        <title>Iran: O uzină de procesare a uraniului, vizată de atacuri aeriene americano-israeliene</title>
-        <link>https://www.europafm.ro/iran-o-uzina-de-procesare-a-uraniului-vizata-de-atacuri-aeriene-americano-israeliene/</link>
+        <title>Livetext Război în Iran, ziua 29: Prețul petrolului din Kuweit a crescut la peste 118 dolari pe baril</title>
+        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-28-martie-5678360</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-28-martie-5678360</guid>
+    </item>
+    <item>
+        <title>Ninge în zona de nord a a județului Gorj, unde statul de zăpadă a ajuns la 35 de cm | AUDIO</title>
+        <link>https://www.europafm.ro/ninge-in-zona-de-nord-a-a-judetului-gorj-unde-statul-de-zapada-a-ajuns-la-35-de-cm/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/iran-o-uzina-de-procesare-a-uraniului-vizata-de-atacuri-aeriene-americano-israeliene/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/ninge-in-zona-de-nord-a-a-judetului-gorj-unde-statul-de-zapada-a-ajuns-la-35-de-cm/</guid>
     </item>
     <item>
-        <title>Ministrul Sănătății despre medicii care lucrează la stat și la privat: „Sunt împotriva celor care pleacă din timpul programului de lucru de la public </title>
-        <link>https://www.mediafax.ro/sanatate/ministrul-sanatatii-despre-medicii-care-lucreaza-la-stat-si-la-privat-sunt-impotriva-celor-care-pleaca-din-timpul-programului-de-lucru-de-la-public-ca-sa-profeseze-in-privat-23711386</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/ministrul-sanatatii-despre-medicii-care-lucreaza-la-stat-si-la-privat-sunt-impotriva-celor-care-pleaca-din-timpul-programului-de-lucru-de-la-public-ca-sa-profeseze-in-privat-23711386</guid>
+        <title>Cum ne afectează trecerea la ora de vară și cum ne adaptăm. Organismul resimte șocul: avem mai multă lumină, dar dormim mai puțin</title>
+        <link>https://www.g4media.ro/cum-ne-afecteaza-trecerea-la-ora-de-vara-si-cum-ne-adaptam-organismul-resimte-socul-avem-mai-multa-lumina-dar-dormim-mai-putin.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cum-ne-afecteaza-trecerea-la-ora-de-vara-si-cum-ne-adaptam-organismul-resimte-socul-avem-mai-multa-lumina-dar-dormim-mai-putin.html</guid>
     </item>
     <item>
         <title>Războiul din Orientul Mijlociu, ziua 29. Rebelii houthi intră în război, lansând primul atac asupra Israelului/ Militari americani răniți în Arabia Sa</title>
@@ -290,82 +344,28 @@
         <guid isPermaLink="true">https://www.mediafax.ro/sanatate/alexandru-rogobete-fac-apel-la-calm-nu-recomand-ca-oamenii-sa-si-faca-stocuri-de-medicamente-acasa-23711391</guid>
     </item>
     <item>
-        <title>Cu cât cumpără partidul lui Viktor Orban voturile maghiarilor: „Mi-e foame, tată, mamă”</title>
-        <link>https://www.libertatea.ro/stiri/ungaria-lui-viktor-orban-intre-discursuri-suveraniste-si-voturi-cumparate-cu-pachete-de-mancare-5678497</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ungaria-lui-viktor-orban-intre-discursuri-suveraniste-si-voturi-cumparate-cu-pachete-de-mancare-5678497</guid>
-    </item>
-    <item>
-        <title>Ucraina și Emiratele Arabe Unite colaborează în domeniul apărării, a anunțat Zelenski</title>
-        <link>https://www.digi24.ro/stiri/externe/ucraina-si-emiratele-arabe-unite-colaboreaza-in-domeniul-apararii-a-anuntat-zelenski-3699541</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ucraina-si-emiratele-arabe-unite-colaboreaza-in-domeniul-apararii-a-anuntat-zelenski-3699541</guid>
-    </item>
-    <item>
-        <title>Raiffeisen Bank cumpără Garanti BBVA România. Când este estimată încheierea tranzacției</title>
-        <link>https://www.libertatea.ro/stiri/raiffeisen-bank-cumpara-garanti-bbva-romania-cand-este-estimata-incheierea-tranzactiei-5678490</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/raiffeisen-bank-cumpara-garanti-bbva-romania-cand-este-estimata-incheierea-tranzactiei-5678490</guid>
-    </item>
-    <item>
-        <title>Vicepreședintele SUA este obsedat de OZN-uri: „Nu cred că sunt extratereștri, ci demoni”</title>
-        <link>https://www.digi24.ro/stiri/externe/vicepresedintele-sua-este-obsedat-de-ozn-uri-nu-cred-ca-sunt-extraterestrii-ci-demoni-3699519</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/vicepresedintele-sua-este-obsedat-de-ozn-uri-nu-cred-ca-sunt-extraterestrii-ci-demoni-3699519</guid>
-    </item>
-    <item>
-        <title>Marco Rubio: Operațiunea SUA în Iran se va încheia în câteva săptămâni. Nu este nevoie de intervenție terestră</title>
-        <link>https://www.europafm.ro/marco-rubio-sua-obiective-militare-iran-fara-trupe-terestre/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/marco-rubio-sua-obiective-militare-iran-fara-trupe-terestre/</guid>
-    </item>
-    <item>
-        <title>VIDEO INTERVIU: Ciprian Ciucu anunță concesionarea unor clădiri părăsite din Centru / Ce zone centrale vor avea traficul auto interzis / Concurs de so</title>
-        <link>https://www.g4media.ro/video-interviu-ciprian-ciucu-anunta-concesionarea-unor-cladiri-parasite-din-centru-ce-zone-centrale-vor-avea-traficul-auto-interzis-concurs-de-solutii-pentru-reamenajarea-bulevardelor-magheru-si.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-interviu-ciprian-ciucu-anunta-concesionarea-unor-cladiri-parasite-din-centru-ce-zone-centrale-vor-avea-traficul-auto-interzis-concurs-de-solutii-pentru-reamenajarea-bulevardelor-magheru-si.html</guid>
-    </item>
-    <item>
-        <title>Cum îți actualizezi locuința pentru primăvară: intervenții rapide cu impact vizual imediat</title>
-        <link>https://www.g4media.ro/cum-iti-actualizezi-locuinta-pentru-primavara-interventii-rapide-cu-impact-vizual-imediat.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cum-iti-actualizezi-locuinta-pentru-primavara-interventii-rapide-cu-impact-vizual-imediat.html</guid>
-    </item>
-    <item>
-        <title>Papa Leon al XIV-lea a sosit la Monaco: „Credința schimbă lumea dacă ne asumăm responsabilitățile istorice”</title>
-        <link>https://www.digi24.ro/stiri/externe/papa-leon-al-xiv-lea-la-monaco-intampinat-de-printul-albert-si-printesa-charlene-va-oficia-liturghia-pentru-15-000-de-persoane-3699475</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/papa-leon-al-xiv-lea-la-monaco-intampinat-de-printul-albert-si-printesa-charlene-va-oficia-liturghia-pentru-15-000-de-persoane-3699475</guid>
-    </item>
-    <item>
-        <title>Un bărbat a tăiat un Ford în două, l-a făcut cea mai subțire mașină legală din lume și a transformat-o în Uber. Rezultatul i-a făcut pe oameni să se î</title>
-        <link>https://www.libertatea.ro/stiri/cea-mai-subtire-masina-din-lume-ford-taiat-in-jumatate-uber-5678408</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cea-mai-subtire-masina-din-lume-ford-taiat-in-jumatate-uber-5678408</guid>
-    </item>
-    <item>
-        <title>Alexandru Rogobete despre introducerea vaccinării anti-HPV în farmacii: „Este posibil și îmi doresc să-l extindem”. Ce declară despre vaccinarea împot</title>
-        <link>https://www.mediafax.ro/sanatate/alexandru-rogobete-despre-introducerea-vaccinarii-anti-hpv-in-farmacii-este-posibil-si-imi-doresc-sa-l-extindem-ce-declara-despre-vaccinarea-impotriva-rujeolei-23711382</link>
+        <title>Ministrul Sănătății despre medicii care lucrează la stat și la privat: „Sunt împotriva celor care pleacă din timpul programului de lucru de la public </title>
+        <link>https://www.mediafax.ro/sanatate/ministrul-sanatatii-despre-medicii-care-lucreaza-la-stat-si-la-privat-sunt-impotriva-celor-care-pleaca-din-timpul-programului-de-lucru-de-la-public-ca-sa-profeseze-in-privat-23711386</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/alexandru-rogobete-despre-introducerea-vaccinarii-anti-hpv-in-farmacii-este-posibil-si-imi-doresc-sa-l-extindem-ce-declara-despre-vaccinarea-impotriva-rujeolei-23711382</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/ministrul-sanatatii-despre-medicii-care-lucreaza-la-stat-si-la-privat-sunt-impotriva-celor-care-pleaca-din-timpul-programului-de-lucru-de-la-public-ca-sa-profeseze-in-privat-23711386</guid>
     </item>
     <item>
-        <title>Vâlcea: Drumul spre stațiunea Vârful lui Roman a fost închis, din cauza ninsorilor abundente | VIDEO</title>
-        <link>https://www.europafm.ro/valcea-drumul-spre-statiunea-varful-lui-roman-a-fost-inchis-din-cauza-ninsorilor-abundente-video/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/valcea-drumul-spre-statiunea-varful-lui-roman-a-fost-inchis-din-cauza-ninsorilor-abundente-video/</guid>
-    </item>
-    <item>
-        <title>SUA pregătesc un al treilea portavion pentru a se alătura Operațiunii Epic Fury</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/sua-pregatesc-un-al-treilea-portavion-pentru-a-se-2518637.html</link>
+        <title>JD Vance promite să dezvăluie „adevărul despre extratereștri” în administrația Trump: „Sunt mai curios decât oricine altcineva. Mă obsedează”</title>
+        <link>https://adevarul.ro/stiri-externe/sua/jd-vance-promite-sa-dezvaluie-adevarul-despre-2518631.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/sua-pregatesc-un-al-treilea-portavion-pentru-a-se-2518637.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/jd-vance-promite-sa-dezvaluie-adevarul-despre-2518631.html</guid>
     </item>
     <item>
-        <title>Spitalele regionale din Craiova și Iași, pe drumul spre finalizare în 2028. Alexandru Rogobete: „La Cluj, din păcate, suntem în continuare în contesta</title>
-        <link>https://www.mediafax.ro/sanatate/spitalele-regionale-din-craiova-si-iasi-pe-drumul-spre-finalizare-in-2028-alexandru-rogobete-la-cluj-din-pacate-suntem-in-continuare-in-contestatie-23711392</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/spitalele-regionale-din-craiova-si-iasi-pe-drumul-spre-finalizare-in-2028-alexandru-rogobete-la-cluj-din-pacate-suntem-in-continuare-in-contestatie-23711392</guid>
+        <title>Blocată de problemele financiare, CFR Cluj riscă să rămână fără antrenorul care a salvat echipa. Pancu: „Se mai adună câte o restanță. Nu aș avea moti</title>
+        <link>https://adevarul.ro/sport/blocata-de-problemele-financiare-cfr-cluj-risca-2518626.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/blocata-de-problemele-financiare-cfr-cluj-risca-2518626.html</guid>
+    </item>
+    <item>
+        <title>Cine este Iosif Mândru, concurentul care a încheiat seara apoteotic la „Românii au talent” 2026. „Nu știu notele, nu știu să citesc o partitură”</title>
+        <link>https://www.libertatea.ro/entertainment/cine-este-iosif-mandru-concurentul-care-a-incheiat-seara-apoteotic-romanii-au-talent-5678540</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/cine-este-iosif-mandru-concurentul-care-a-incheiat-seara-apoteotic-romanii-au-talent-5678540</guid>
     </item>
 </channel>
 </rss>
