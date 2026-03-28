@@ -722,18 +722,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Vărsător", msg: "Schimbări benefice" },
-            { sign: "Capricorn", msg: "Disciplină de fier" },
-            { sign: "Gemeni", msg: "Flexibilitate și adaptabilitate" },
-            { sign: "Fecioară", msg: "Sănătate și bunăstare" },
-            { sign: "Taur", msg: "Zi de relaxare și reflecție" },
-            { sign: "Leu", msg: "Creativitate debordantă" },
-            { sign: "Săgetător", msg: "Filozofie de viață" },
-            { sign: "Berbec", msg: "Opportunități profesionale" },
-            { sign: "Rac", msg: "Timp prețios cu familia" },
+            { sign: "Vărsător", msg: "Comunitate și prietenie" },
+            { sign: "Rac", msg: "Sentimente reciproce" },
+            { sign: "Balanță", msg: "Echilibru în toate" },
             { sign: "Scorpion", msg: "Transformări pozitive" },
-            { sign: "Pești", msg: "Visatori romantici" },
-            { sign: "Balanță", msg: "Frumusețe și artă" },
+            { sign: "Săgetător", msg: "Călătorii benefice" },
+            { sign: "Capricorn", msg: "Disciplină de fier" },
+            { sign: "Fecioară", msg: "Perfecțiune în lucruri" },
+            { sign: "Berbec", msg: "Zi perfectă pentru inițiative noi" },
+            { sign: "Gemeni", msg: "Comunicare excelentă" },
+            { sign: "Taur", msg: "Conexiuni emoționale puternice" },
+            { sign: "Leu", msg: "Leadership natural" },
+            { sign: "Pești", msg: "Lume interioară bogată" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
