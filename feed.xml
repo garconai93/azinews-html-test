@@ -5,265 +5,13 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 02 Apr 2026 21:06:08 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 22:00:43 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Piața Victoriei. Ce plan are Bolojan? Demisionează sau luptă până la capăt cu PSD? Premierul României vine la Europa FM</title>
-        <link>https://www.europafm.ro/piata-victoriei-ce-plan-are-bolojan-demisioneaza-sau-lupta-pana-la-capat-cu-psd-premierul-romaniei-vine-la-europa-fm/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/piata-victoriei-ce-plan-are-bolojan-demisioneaza-sau-lupta-pana-la-capat-cu-psd-premierul-romaniei-vine-la-europa-fm/</guid>
-    </item>
-    <item>
-        <title>Deputați proruși și proeuropeni din R. Moldova, deplasare controversată în Georgia. Printre ei și omul lui George Simion</title>
-        <link>https://adevarul.ro/stiri-externe/republica-moldova/deputati-prorusi-si-proeuropeni-din-r-moldova-2519980.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/deputati-prorusi-si-proeuropeni-din-r-moldova-2519980.html</guid>
-    </item>
-    <item>
-        <title>Geantă din colagen de dinozaur, prezentată la Amsterdam. Ce spune comunitatea științifică despre pielea cu „ADN de T-rex” crescută în laborator</title>
-        <link>https://adevarul.ro/stiri-externe/europa/geanta-din-colagen-de-dinozaur-prezentata-la-2520035.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/geanta-din-colagen-de-dinozaur-prezentata-la-2520035.html</guid>
-    </item>
-    <item>
-        <title>Protest pe biciclete la Havana / Cubanezii cer ridicarea embargoului american</title>
-        <link>https://www.g4media.ro/protest-pe-biciclete-la-havana-cubanezii-cer-ridicarea-embargoului-american.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/protest-pe-biciclete-la-havana-cubanezii-cer-ridicarea-embargoului-american.html</guid>
-    </item>
-    <item>
-        <title>Rusia solicită armistițiu în Iran pentru evacuarea de urgență a specialiștilor de la centrala nucleară Bushehr</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/rusia-solicita-armistitiu-in-iran-pentru-evacuarea-2519974.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/rusia-solicita-armistitiu-in-iran-pentru-evacuarea-2519974.html</guid>
-    </item>
-    <item>
-        <title>Cea mai bună soluție pentru ploșnițe: tratamentul termic elimină infestarea complet (P)</title>
-        <link>https://www.europafm.ro/cea-mai-buna-solutie-pentru-plosnite-tratamentul-termic-elimina-infestarea-complet-p/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/cea-mai-buna-solutie-pentru-plosnite-tratamentul-termic-elimina-infestarea-complet-p/</guid>
-    </item>
-    <item>
-        <title>Hanoracul, noul element-cheie din stilul masculin modern (P)</title>
-        <link>https://www.europafm.ro/hanoracul-noul-element-cheie-din-stilul-masculin-modern-p/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/hanoracul-noul-element-cheie-din-stilul-masculin-modern-p/</guid>
-    </item>
-    <item>
-        <title>Ucrainenii preiau AMTP Roman, un producător de țevi din oțel fără sudură / Fabrica din Roman devine platformă-cheie de producție în UE</title>
-        <link>https://www.g4media.ro/ucrainenii-preiau-amtp-roman-un-producator-de-tevi-din-otel-fara-sudura-fabrica-din-roman-devine-platforma-cheie-de-productie-in-ue.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ucrainenii-preiau-amtp-roman-un-producator-de-tevi-din-otel-fara-sudura-fabrica-din-roman-devine-platforma-cheie-de-productie-in-ue.html</guid>
-    </item>
-    <item>
-        <title>Reprezentanții MApN discută cu firme ucrainene despre o colaborare privind producția de drone. Radu Miruță: „Urmează, în câteva zile, să facem o selec</title>
-        <link>https://www.europafm.ro/romania-colaborare-drone-ucraina-safe/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/romania-colaborare-drone-ucraina-safe/</guid>
-    </item>
-    <item>
-        <title>Șoferii cu mașini hibride pierd accesul gratuit în parcările Primăriei Capitalei începând cu 1 mai. Ciprian Ciucu: „Politica de parcare nu mai este su</title>
-        <link>https://www.europafm.ro/masini-hibride-fara-parcare-gratuita-bucuresti/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/masini-hibride-fara-parcare-gratuita-bucuresti/</guid>
-    </item>
-    <item>
-        <title>Doi disidenți iranieni sunt în pericol de execuție după un proces „extrem de nedrept”, avertizează organizațiile pentru drepturile omului</title>
-        <link>https://www.mediafax.ro/externe/doi-disidenti-iranieni-sunt-in-pericol-de-executie-dupa-un-proces-extrem-de-nedrept-avertizeaza-organizatiile-pentru-drepturile-omului-23714277</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/doi-disidenti-iranieni-sunt-in-pericol-de-executie-dupa-un-proces-extrem-de-nedrept-avertizeaza-organizatiile-pentru-drepturile-omului-23714277</guid>
-    </item>
-    <item>
-        <title>FOTOGALERIE Două piațete din centrul Bucureștiului, eliberate de mașini și redate pietonilor: Piața Ion Rațiu și Piața Italiană</title>
-        <link>https://www.g4media.ro/fotogalerie-doua-piatete-din-centrul-bucurestiului-eliberate-de-masini-si-redate-pietonilor-piata-ion-ratiu-si-piata-italiana.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/fotogalerie-doua-piatete-din-centrul-bucurestiului-eliberate-de-masini-si-redate-pietonilor-piata-ion-ratiu-si-piata-italiana.html</guid>
-    </item>
-    <item>
-        <title>Mărturii cutremurătoare din Iran, după o lună de război: „Nu am dormit de câteva zile și nopți la rând. Nu ne permitem nici măcar alimente”</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/marturii-cutremuratoare-din-iran-dupa-o-luna-de-2520003.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/marturii-cutremuratoare-din-iran-dupa-o-luna-de-2520003.html</guid>
-    </item>
-    <item>
-        <title>Zeci de țări cer „redeschiderea imediată și necondiționată” a strâmtorii Ormuz, după reuniunea virtuală organizată de Marea Britanie</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/ministrii-de-externe-din-zeci-de-state-discuta-redeschiderea-stramtorii-ormuz-intr-o-reuniune-virtuala-organizata-de-marea-britanie-3706803</link>
+        <title>Autoritățile bulgare au confiscat peste o jumătate de milion de euro destinați cumpărării de voturi la alegerile din 19 aprilie</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/autoritatile-bulgare-au-confiscat-peste-jumatate-de-milion-de-euro-destinate-cumpararii-de-voturi-la-alegerile-din-19-aprilie-3707995</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/ministrii-de-externe-din-zeci-de-state-discuta-redeschiderea-stramtorii-ormuz-intr-o-reuniune-virtuala-organizata-de-marea-britanie-3706803</guid>
-    </item>
-    <item>
-        <title>Rogobete ia în calcul un troc cu Pfizer: medicamente inovative în schimbul celor 700 de milioane de euro datorate</title>
-        <link>https://adevarul.ro/stiri-interne/sanatate/rogobete-ia-in-calcul-un-troc-cu-pfizer-2520025.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/rogobete-ia-in-calcul-un-troc-cu-pfizer-2520025.html</guid>
-    </item>
-    <item>
-        <title>Rogobete: Un scenariu ar fi să compensăm suma de trei miliarde de lei către Pfizer cu alte medicamente. Adică să luăm alte produse</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/rogobete-un-scenariu-ar-fi-sa-compensam-suma-de-trei-miliarde-de-lei-catre-pfizer-cu-alte-medicamente-adica-sa-luam-alte-produse-3707989</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/rogobete-un-scenariu-ar-fi-sa-compensam-suma-de-trei-miliarde-de-lei-catre-pfizer-cu-alte-medicamente-adica-sa-luam-alte-produse-3707989</guid>
-    </item>
-    <item>
-        <title>Ministrul Apărării acuză producătorii de muniţie că au majorat cu 30% preţurile iniţiale pentru proiectele SAFE: „Nu vom negocia cu aceste companii cu</title>
-        <link>https://www.europafm.ro/ministrul-apararii-acuza-producatorii-de-munitie-ca-au-majorat-cu-30-preturile-initiale-pentru-proiectele-safe-nu-vom-negocia-cu-aceste-companii-cu-mainile-intoarse-la-spate/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ministrul-apararii-acuza-producatorii-de-munitie-ca-au-majorat-cu-30-preturile-initiale-pentru-proiectele-safe-nu-vom-negocia-cu-aceste-companii-cu-mainile-intoarse-la-spate/</guid>
-    </item>
-    <item>
-        <title>Grecia se pregătește să interzică rețelele de socializare copiilor sub 15 ani</title>
-        <link>https://www.g4media.ro/grecia-se-pregateste-sa-interzica-retelele-de-socializare-copiilor-sub-15-ani.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/grecia-se-pregateste-sa-interzica-retelele-de-socializare-copiilor-sub-15-ani.html</guid>
-    </item>
-    <item>
-        <title>Oficial: JD Vance ajunge la Budapesta, cu câteva zile înainte de alegerile cruciale, ca să-l susțină pe Viktor Orban</title>
-        <link>https://www.mediafax.ro/stirile-zilei/oficial-jd-vance-ajunge-la-budapesta-cu-cateva-zile-inainte-de-alegerile-cruciale-ca-sa-l-sustina-pe-viktor-orban-23714304</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/oficial-jd-vance-ajunge-la-budapesta-cu-cateva-zile-inainte-de-alegerile-cruciale-ca-sa-l-sustina-pe-viktor-orban-23714304</guid>
-    </item>
-    <item>
-        <title>Constantin Toma confirmă că e „bolojenist” și critică „jocul periculos” al lui Grindeanu: „Există posibilitatea ca PSD să iasă de la guvernare și să n</title>
-        <link>https://adevarul.ro/politica/constantin-toma-confirma-ca-e-bolojenist-si-2520015.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/constantin-toma-confirma-ca-e-bolojenist-si-2520015.html</guid>
-    </item>
-    <item>
-        <title>Guvernul anunță bani în plus pentru pensionarii cu venituri mici și pentru familiile cu copii. Florin Manole: „Aceste beneficii vor rămâne indexate și</title>
-        <link>https://www.europafm.ro/ajutoare-pensionari-familii-2026/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ajutoare-pensionari-familii-2026/</guid>
-    </item>
-    <item>
-        <title>Rogobete, despre plata pe performanță: Va fi primită foarte greu în spitalele cu mai mulți șefi de secție decât pacienți</title>
-        <link>https://www.mediafax.ro/politic/rogobete-despre-plata-pe-performanta-va-fi-primita-foarte-greu-in-spitalele-cu-mai-multi-sefi-de-sectie-decat-pacienti-23714278</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/rogobete-despre-plata-pe-performanta-va-fi-primita-foarte-greu-in-spitalele-cu-mai-multi-sefi-de-sectie-decat-pacienti-23714278</guid>
-    </item>
-    <item>
-        <title>Un adolescent de 17 ani din Norvegia a donat Ucrainei tot premiul său, câștigat la un concurs de matematică</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/un-adolescent-de-17-ani-din-norvegia-a-donat-ucrainei-tot-premiul-sau-castigat-la-un-concurs-de-matematica-3707937</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/un-adolescent-de-17-ani-din-norvegia-a-donat-ucrainei-tot-premiul-sau-castigat-la-un-concurs-de-matematica-3707937</guid>
-    </item>
-    <item>
-        <title>România, la un pas de aderarea la OCDE. „Un proces transformator pentru România”, afirmă Oana Țoiu</title>
-        <link>https://www.digi24.ro/stiri/actualitate/romania-la-un-pas-de-aderarea-la-ocde-un-proces-transformator-pentru-romania-afirma-oana-toiu-3707945</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/romania-la-un-pas-de-aderarea-la-ocde-un-proces-transformator-pentru-romania-afirma-oana-toiu-3707945</guid>
-    </item>
-    <item>
-        <title>Patronat: Restaurantele din România vor mai mult”local” în farfurie / 98% dintre unităţi vor să colaboreze cu producători locali</title>
-        <link>https://www.g4media.ro/patronat-restaurantele-din-romania-vor-mai-multlocal-in-farfurie-98-dintre-unitati-vor-sa-colaboreze-cu-producatori-locali.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/patronat-restaurantele-din-romania-vor-mai-multlocal-in-farfurie-98-dintre-unitati-vor-sa-colaboreze-cu-producatori-locali.html</guid>
-    </item>
-    <item>
-        <title>Un studiu realizat de chinezi arată că citricele ne influențează starea de spirit</title>
-        <link>https://www.mediafax.ro/stirile-zilei/un-studiu-realizat-de-chinezi-arata-ca-citricele-ne-influenteaza-starea-de-spirit-23714306</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/un-studiu-realizat-de-chinezi-arata-ca-citricele-ne-influenteaza-starea-de-spirit-23714306</guid>
-    </item>
-    <item>
-        <title>Horoscop 3 aprilie 2026. Gemenii ar fi bine să își propună să aibă o zi senină, să caute preocupări frumoase și să trăiască altfel</title>
-        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-3-aprilie-2026-5684488</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-3-aprilie-2026-5684488</guid>
-    </item>
-    <item>
-        <title>Donald Trump și termenul de „2-3 săptămâni”: când a mai folosit liderul SUA acest interval. Senator american: „Un semn de slăbiciune”</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/donald-trump-si-termenul-de-2-3-saptamani-cand-a-mai-folosit-liderul-sua-acest-interval-senator-american-un-semn-de-slabiciune-3707997</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/donald-trump-si-termenul-de-2-3-saptamani-cand-a-mai-folosit-liderul-sua-acest-interval-senator-american-un-semn-de-slabiciune-3707997</guid>
-    </item>
-    <item>
-        <title>Italienii au destructurat banda „Alfa 159” / E o grupare de hoți români care a dat zeci de spargeri în magazinele de lux din Roma și Florența / Numele</title>
-        <link>https://www.g4media.ro/italienii-au-destructurat-banda-alfa-159-e-o-grupare-de-hoti-romani-care-a-dat-zeci-de-spargeri-in-magazinele-de-lux-din-roma-si-florenta-numele-vine-de-la-un-model-auto-folosit.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/italienii-au-destructurat-banda-alfa-159-e-o-grupare-de-hoti-romani-care-a-dat-zeci-de-spargeri-in-magazinele-de-lux-din-roma-si-florenta-numele-vine-de-la-un-model-auto-folosit.html</guid>
-    </item>
-    <item>
-        <title>Eurodeputata Rima Hassan, reținută într-o anchetă privind „apologia terorismului”, după un mesaj postat pe rețelele sociale</title>
-        <link>https://adevarul.ro/stiri-externe/europa/eurodeputata-rima-hassan-retinuta-intr-o-ancheta-2520002.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/eurodeputata-rima-hassan-retinuta-intr-o-ancheta-2520002.html</guid>
-    </item>
-    <item>
-        <title>UNESCO, în „breaking good news”: scoate Coiful de la Coțofenești din Muzeul Virtual al Obiectelor Culturale Furate. Extaz în presa internațională</title>
-        <link>https://www.mediafax.ro/stirile-zilei/unesco-in-breaking-good-news-scoate-coiful-de-la-cotofenesti-din-muzeul-virtual-al-obiectelor-culturale-furate-extaz-in-presa-internationala-23714292</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/unesco-in-breaking-good-news-scoate-coiful-de-la-cotofenesti-din-muzeul-virtual-al-obiectelor-culturale-furate-extaz-in-presa-internationala-23714292</guid>
-    </item>
-    <item>
-        <title>Imagini cu „cel mai mare pod din Iran” distrus, publicate de Donald Trump. Reacția Iranului: Transmite doar înfrângerea inamicului</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/imagini-cu-cel-mai-mare-pod-din-iran-distrus-publicate-de-donald-trump-reactia-iranului-transmite-doar-infrangerea-inamicului-3708061</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/imagini-cu-cel-mai-mare-pod-din-iran-distrus-publicate-de-donald-trump-reactia-iranului-transmite-doar-infrangerea-inamicului-3708061</guid>
-    </item>
-    <item>
-        <title>29 de italieni dintr-o grupare de extremă dreapta, achitați după ce au făcut ”salutul roman”, copiat și de către naziști / Judecător: „Nu există riscu</title>
-        <link>https://www.g4media.ro/29-de-italieni-dintr-o-grupare-de-extrema-dreapta-achitati-dupa-ce-au-facut-salutul-roman-copiat-si-de-catre-nazisti-judecator-nu-exista-riscul-reconstituirii-partidulu.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/29-de-italieni-dintr-o-grupare-de-extrema-dreapta-achitati-dupa-ce-au-facut-salutul-roman-copiat-si-de-catre-nazisti-judecator-nu-exista-riscul-reconstituirii-partidulu.html</guid>
-    </item>
-    <item>
-        <title>UE va monitoriza centrele de date: consumul de energie ar putea exploda până în 2030 din cauza inteligenței artificiale</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ue-va-monitoriza-centrele-de-date-consumul-de-energie-ar-putea-exploda-pana-in-2030-din-cauza-inteligentei-artificiale-23714294</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ue-va-monitoriza-centrele-de-date-consumul-de-energie-ar-putea-exploda-pana-in-2030-din-cauza-inteligentei-artificiale-23714294</guid>
-    </item>
-    <item>
-        <title>Papa Leon a spălat picioarele a 12 preoți și le-a cerut catolicilor să-i ajute pe cei oprimați</title>
-        <link>https://www.mediafax.ro/externe/papa-leon-a-spalat-picioarele-a-12-preoti-si-le-a-cerut-catolicilor-sa-i-ajute-pe-cei-oprimati-23714272</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/papa-leon-a-spalat-picioarele-a-12-preoti-si-le-a-cerut-catolicilor-sa-i-ajute-pe-cei-oprimati-23714272</guid>
-    </item>
-    <item>
-        <title>”Ce naiba a spus?” Republicanii, tot mai îngrijorați de Trump înainte de alegerile parțiale din noiembrie</title>
-        <link>https://www.g4media.ro/ce-naiba-a-spus-republicanii-tot-mai-ingrijorati-de-trump-inainte-de-alegerile-partiale-din-noiembrie.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ce-naiba-a-spus-republicanii-tot-mai-ingrijorati-de-trump-inainte-de-alegerile-partiale-din-noiembrie.html</guid>
-    </item>
-    <item>
-        <title>3 aprilie, ziua care a schimbat comunicarea: 53 de ani de la primul apel efectuat de pe un telefon mobil</title>
-        <link>https://adevarul.ro/istoria-zilei/3-aprilie-ziua-care-a-schimbat-comunicarea-53-de-2518980.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/3-aprilie-ziua-care-a-schimbat-comunicarea-53-de-2518980.html</guid>
-    </item>
-    <item>
-        <title>Maia Sandu, în Parlamentul Letoniei: „Ceea ce este astăzi Republica Moldova a fost rupt din România”</title>
-        <link>https://www.libertatea.ro/stiri/maia-sandu-ceea-ce-este-astazi-republica-moldova-a-fost-rupt-din-romania-5686071</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/maia-sandu-ceea-ce-este-astazi-republica-moldova-a-fost-rupt-din-romania-5686071</guid>
-    </item>
-    <item>
-        <title>Un elefant moare la cinci luni după ce a fost vopsit roz pentru o ședință foto / Polemică în jurul fotografei: autoarea, o rusoaică, a primit amenință</title>
-        <link>https://www.g4media.ro/un-elefant-moare-la-cinci-luni-dupa-ce-a-fost-vopsit-roz-pentru-o-sedinta-foto-polemica-in-jurul-fotografei-autoarea-o-rusoaica-a-primit-amenintari-dar-a-respins-acuzatiile-vopseaua-e.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/un-elefant-moare-la-cinci-luni-dupa-ce-a-fost-vopsit-roz-pentru-o-sedinta-foto-polemica-in-jurul-fotografei-autoarea-o-rusoaica-a-primit-amenintari-dar-a-respins-acuzatiile-vopseaua-e.html</guid>
-    </item>
-    <item>
-        <title>Ministrul de Externe: România a obținut al 24-lea aviz din cele 25 necesare pentru aderarea la OCDE</title>
-        <link>https://www.g4media.ro/ministrul-de-externe-romania-a-obtinut-al-24-lea-aviz-din-cele-25-necesare-pentru-aderarea-la-ocde.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ministrul-de-externe-romania-a-obtinut-al-24-lea-aviz-din-cele-25-necesare-pentru-aderarea-la-ocde.html</guid>
-    </item>
-    <item>
-        <title>Pete Hegseth i-a cerut demisia șefului Statului Major al Armatei, generalul Randy George (CBS)</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/pete-hegseth-i-a-cerut-demisia-sefului-statului-major-al-armatei-generalul-randy-george-cbs-3708049</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/pete-hegseth-i-a-cerut-demisia-sefului-statului-major-al-armatei-generalul-randy-george-cbs-3708049</guid>
-    </item>
-    <item>
-        <title>Protest pe biciclete la Havana. Cubanezii cer ridicarea embargoului american</title>
-        <link>https://www.mediafax.ro/stirile-zilei/protest-pe-biciclete-la-havana-cubanezii-cer-ridicarea-embargoului-american-23714288</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/protest-pe-biciclete-la-havana-cubanezii-cer-ridicarea-embargoului-american-23714288</guid>
-    </item>
-    <item>
-        <title>5 știri – Filme și seriale. Zendaya, Sophie Turner, Elijah Wood și o reuniune care rupe internetul</title>
-        <link>https://www.libertatea.ro/entertainment/5-stiri-filme-seriale-zendaya-sophie-turner-elijah-wood-reuniune-care-rupe-internetul-5686065</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/5-stiri-filme-seriale-zendaya-sophie-turner-elijah-wood-reuniune-care-rupe-internetul-5686065</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/autoritatile-bulgare-au-confiscat-peste-jumatate-de-milion-de-euro-destinate-cumpararii-de-voturi-la-alegerile-din-19-aprilie-3707995</guid>
     </item>
     <item>
         <title>Șoferii de mașini hibride și jurnaliștii pierd parcarea gratuită în București, începând de la 1 mai. Decizia PMB cu privire la vehiculele electrice</title>
@@ -272,88 +20,16 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/masini-hibride-jurnalisti-pierd-gratuitate-parcare-bucuresti-masini-electrice-pastreaza-facilitate-final-an-5686040</guid>
     </item>
     <item>
-        <title>Trump a distribuit imagini cu distrugerea „celui mare pod din Iran”: „E timpul să încheie un acord înainte să nu mai rămână nimic”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/trump-a-distribuit-imagini-cu-distrugerea-celui-2520029.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/trump-a-distribuit-imagini-cu-distrugerea-celui-2520029.html</guid>
-    </item>
-    <item>
-        <title>Turiști care încercau să urce pe muntele Everest erau otrăviți de ghizi și apoi convinși să plătească pentru a fi salvați cu elicopterul: rețea de 20 </title>
-        <link>https://www.libertatea.ro/stiri/turisti-de-pe-everest-erau-otraviti-de-ghizi-si-apoi-plateau-sa-fie-salvati-cu-elicopterul-5685899</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/turisti-de-pe-everest-erau-otraviti-de-ghizi-si-apoi-plateau-sa-fie-salvati-cu-elicopterul-5685899</guid>
-    </item>
-    <item>
-        <title>Horoscop 3 aprilie: zodiile care trebuie să fie atente la decizii și cele care primesc semne clare despre viitor</title>
-        <link>https://www.mediafax.ro/stirile-zilei/horoscop-3-aprilie-zodiile-care-trebuie-sa-fie-atente-la-decizii-si-cele-care-primesc-semne-clare-despre-viitor-23714282</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/horoscop-3-aprilie-zodiile-care-trebuie-sa-fie-atente-la-decizii-si-cele-care-primesc-semne-clare-despre-viitor-23714282</guid>
-    </item>
-    <item>
-        <title>Diploma de la școală a unui copil, indiciul folosit de polițiști pentru a amenda o persoană care a aruncat deșeuri în loc nepermis</title>
-        <link>https://www.digi24.ro/stiri/actualitate/evenimente/diploma-de-la-scoala-a-unui-copil-indiciul-folosit-de-politisti-pentru-a-amenda-o-persoana-care-a-aruncat-deseuri-in-loc-nepermis-3708035</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/diploma-de-la-scoala-a-unui-copil-indiciul-folosit-de-politisti-pentru-a-amenda-o-persoana-care-a-aruncat-deseuri-in-loc-nepermis-3708035</guid>
-    </item>
-    <item>
-        <title>Spitalul Armonia din Constanța a fost închis din nou. DSP a descoperit că a continuat să funcționeze fără autorizație, e cel în care a murit o tânără </title>
-        <link>https://www.libertatea.ro/stiri/spital-armonia-constanta-inchis-din-nou-dsp-5686068</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/spital-armonia-constanta-inchis-din-nou-dsp-5686068</guid>
-    </item>
-    <item>
         <title>Ilie Bolojan: „Nu iau în calcul demisia. Cei care generează crizele trebuie să-și asume consecințele”. Ce spune premierul despre o posibilă candidatur</title>
         <link>https://www.europafm.ro/live-text-premierul-ilie-bolojan-trebuie-sa-luam-cat-mai-repede-legatura-cu-pfizer-trebuie-sa-incepem-o-negociere/</link>
         <description>Europa FM</description>
         <guid isPermaLink="true">https://www.europafm.ro/live-text-premierul-ilie-bolojan-trebuie-sa-luam-cat-mai-repede-legatura-cu-pfizer-trebuie-sa-incepem-o-negociere/</guid>
     </item>
     <item>
-        <title>Demeter Andras, despre recuperarea coifului de la Coţofeneşti: „E o victorie, e o bucurie. Este ceea ce am sperat”. „Coiful a suferit foarte, foarte m</title>
-        <link>https://www.europafm.ro/coiful-cotofenesti-bratari-dacice-returnate/</link>
+        <title>Reprezentanții MApN discută cu firme ucrainene despre o colaborare privind producția de drone. Radu Miruță: „Urmează, în câteva zile, să facem o selec</title>
+        <link>https://www.europafm.ro/romania-colaborare-drone-ucraina-safe/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/coiful-cotofenesti-bratari-dacice-returnate/</guid>
-    </item>
-    <item>
-        <title>ICCJ a respins cererea lui Dominic Fritz de revizuire a deciziei în dosarul în care este acuzat de conflict de interese. Decizia instanței este defini</title>
-        <link>https://www.europafm.ro/dominic-fritz-conflict-de-interese-proces/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/dominic-fritz-conflict-de-interese-proces/</guid>
-    </item>
-    <item>
-        <title>Hegseth îl demite pe șeful Statului Major al Armatei, generalul Randy George, în plin război în Iran</title>
-        <link>https://www.mediafax.ro/stirile-zilei/hegseth-il-demite-pe-seful-statului-major-al-armatei-generalul-randy-george-in-plin-razboi-in-iran-23714300</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/hegseth-il-demite-pe-seful-statului-major-al-armatei-generalul-randy-george-in-plin-razboi-in-iran-23714300</guid>
-    </item>
-    <item>
-        <title>Autoritățile bulgare au confiscat peste o jumătate de milion de euro destinați cumpărării de voturi la alegerile din 19 aprilie</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/autoritatile-bulgare-au-confiscat-peste-jumatate-de-milion-de-euro-destinate-cumpararii-de-voturi-la-alegerile-din-19-aprilie-3707995</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/autoritatile-bulgare-au-confiscat-peste-jumatate-de-milion-de-euro-destinate-cumpararii-de-voturi-la-alegerile-din-19-aprilie-3707995</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 34: Trump publică imagini cu prăbușirea unui pod din Iran și insistă pentru un acord / Țările din Golf cer la ONU o inte</title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-2-aprilie-2026-5684656</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-2-aprilie-2026-5684656</guid>
-    </item>
-    <item>
-        <title>Pam Bondi a fost demisă din funcția de procuror general al SUA. Donald Trump: „Va trece la un loc de muncă în sectorul privat”</title>
-        <link>https://www.libertatea.ro/stiri/pam-bondi-demisa-din-functia-de-procuror-general-al-sua-anunta-donald-trump-5686035</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/pam-bondi-demisa-din-functia-de-procuror-general-al-sua-anunta-donald-trump-5686035</guid>
-    </item>
-    <item>
-        <title>Maia Sandu, în Letonia: Pactul Ribbentrop–Molotov a trasat linii prin vieţi. Ceea ce e azi Republica Moldova a fost rupt din România</title>
-        <link>https://www.digi24.ro/stiri/externe/moldova/maia-sandu-in-letonia-pactul-ribbentrop-molotov-a-trasat-linii-prin-vieti-ceea-ce-e-azi-republica-moldova-a-fost-rupt-din-romania-3707911</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/moldova/maia-sandu-in-letonia-pactul-ribbentrop-molotov-a-trasat-linii-prin-vieti-ceea-ce-e-azi-republica-moldova-a-fost-rupt-din-romania-3707911</guid>
-    </item>
-    <item>
-        <title>Horoscop vineri, 3 aprilie: Taurii pun pe primul loc interesele proprii, Gemenii investesc în viitor</title>
-        <link>https://adevarul.ro/stil-de-viata/horoscop/horoscop-vineri-3-aprilie-taurii-pun-pe-primul-2520021.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/horoscop/horoscop-vineri-3-aprilie-taurii-pun-pe-primul-2520021.html</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/romania-colaborare-drone-ucraina-safe/</guid>
     </item>
     <item>
         <title>Mesajul emoționant al unui medic care a fost „coleg și prieten” cu Cristian Staicu: „Împreună am schimbat destine”</title>
@@ -362,10 +38,334 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/mesaj-emotionant-medic-coleg-prieten-cristian-staicu-ucis-incendiat-bucuresti-5686098</guid>
     </item>
     <item>
+        <title>Rogobete, despre plata pe performanță: Va fi primită foarte greu în spitalele cu mai mulți șefi de secție decât pacienți</title>
+        <link>https://www.mediafax.ro/politic/rogobete-despre-plata-pe-performanta-va-fi-primita-foarte-greu-in-spitalele-cu-mai-multi-sefi-de-sectie-decat-pacienti-23714278</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/rogobete-despre-plata-pe-performanta-va-fi-primita-foarte-greu-in-spitalele-cu-mai-multi-sefi-de-sectie-decat-pacienti-23714278</guid>
+    </item>
+    <item>
+        <title>Cea mai bună soluție pentru ploșnițe: tratamentul termic elimină infestarea complet (P)</title>
+        <link>https://www.europafm.ro/cea-mai-buna-solutie-pentru-plosnite-tratamentul-termic-elimina-infestarea-complet-p/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/cea-mai-buna-solutie-pentru-plosnite-tratamentul-termic-elimina-infestarea-complet-p/</guid>
+    </item>
+    <item>
+        <title>Italienii au destructurat banda „Alfa 159” / E o grupare de hoți români care a dat zeci de spargeri în magazinele de lux din Roma și Florența / Numele</title>
+        <link>https://www.g4media.ro/italienii-au-destructurat-banda-alfa-159-e-o-grupare-de-hoti-romani-care-a-dat-zeci-de-spargeri-in-magazinele-de-lux-din-roma-si-florenta-numele-vine-de-la-un-model-auto-folosit.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/italienii-au-destructurat-banda-alfa-159-e-o-grupare-de-hoti-romani-care-a-dat-zeci-de-spargeri-in-magazinele-de-lux-din-roma-si-florenta-numele-vine-de-la-un-model-auto-folosit.html</guid>
+    </item>
+    <item>
+        <title>”Ce naiba a spus?” Republicanii, tot mai îngrijorați de Trump înainte de alegerile parțiale din noiembrie</title>
+        <link>https://www.g4media.ro/ce-naiba-a-spus-republicanii-tot-mai-ingrijorati-de-trump-inainte-de-alegerile-partiale-din-noiembrie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ce-naiba-a-spus-republicanii-tot-mai-ingrijorati-de-trump-inainte-de-alegerile-partiale-din-noiembrie.html</guid>
+    </item>
+    <item>
+        <title>Patronat: Restaurantele din România vor mai mult”local” în farfurie / 98% dintre unităţi vor să colaboreze cu producători locali</title>
+        <link>https://www.g4media.ro/patronat-restaurantele-din-romania-vor-mai-multlocal-in-farfurie-98-dintre-unitati-vor-sa-colaboreze-cu-producatori-locali.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/patronat-restaurantele-din-romania-vor-mai-multlocal-in-farfurie-98-dintre-unitati-vor-sa-colaboreze-cu-producatori-locali.html</guid>
+    </item>
+    <item>
+        <title>Pam Bondi a fost demisă din funcția de procuror general al SUA. Donald Trump: „Va trece la un loc de muncă în sectorul privat”</title>
+        <link>https://www.libertatea.ro/stiri/pam-bondi-demisa-din-functia-de-procuror-general-al-sua-anunta-donald-trump-5686035</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/pam-bondi-demisa-din-functia-de-procuror-general-al-sua-anunta-donald-trump-5686035</guid>
+    </item>
+    <item>
+        <title>Spitalul Armonia din Constanța a fost închis din nou. DSP a descoperit că a continuat să funcționeze fără autorizație, e cel în care a murit o tânără </title>
+        <link>https://www.libertatea.ro/stiri/spital-armonia-constanta-inchis-din-nou-dsp-5686068</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/spital-armonia-constanta-inchis-din-nou-dsp-5686068</guid>
+    </item>
+    <item>
+        <title>Guvernul anunță bani în plus pentru pensionarii cu venituri mici și pentru familiile cu copii. Florin Manole: „Aceste beneficii vor rămâne indexate și</title>
+        <link>https://www.europafm.ro/ajutoare-pensionari-familii-2026/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ajutoare-pensionari-familii-2026/</guid>
+    </item>
+    <item>
+        <title>3 aprilie, ziua care a schimbat comunicarea: 53 de ani de la primul apel efectuat de pe un telefon mobil</title>
+        <link>https://adevarul.ro/istoria-zilei/3-aprilie-ziua-care-a-schimbat-comunicarea-53-de-2518980.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/3-aprilie-ziua-care-a-schimbat-comunicarea-53-de-2518980.html</guid>
+    </item>
+    <item>
+        <title>Protest pe biciclete la Havana. Cubanezii cer ridicarea embargoului american</title>
+        <link>https://www.mediafax.ro/stirile-zilei/protest-pe-biciclete-la-havana-cubanezii-cer-ridicarea-embargoului-american-23714288</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/protest-pe-biciclete-la-havana-cubanezii-cer-ridicarea-embargoului-american-23714288</guid>
+    </item>
+    <item>
+        <title>29 de italieni dintr-o grupare de extremă dreapta, achitați după ce au făcut ”salutul roman”, copiat și de către naziști / Judecător: „Nu există riscu</title>
+        <link>https://www.g4media.ro/29-de-italieni-dintr-o-grupare-de-extrema-dreapta-achitati-dupa-ce-au-facut-salutul-roman-copiat-si-de-catre-nazisti-judecator-nu-exista-riscul-reconstituirii-partidulu.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/29-de-italieni-dintr-o-grupare-de-extrema-dreapta-achitati-dupa-ce-au-facut-salutul-roman-copiat-si-de-catre-nazisti-judecator-nu-exista-riscul-reconstituirii-partidulu.html</guid>
+    </item>
+    <item>
+        <title>Turiști care încercau să urce pe muntele Everest erau otrăviți de ghizi și apoi convinși să plătească pentru a fi salvați cu elicopterul: rețea de 20 </title>
+        <link>https://www.libertatea.ro/stiri/turisti-de-pe-everest-erau-otraviti-de-ghizi-si-apoi-plateau-sa-fie-salvati-cu-elicopterul-5685899</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/turisti-de-pe-everest-erau-otraviti-de-ghizi-si-apoi-plateau-sa-fie-salvati-cu-elicopterul-5685899</guid>
+    </item>
+    <item>
+        <title>Maia Sandu, în Parlamentul Letoniei: „Ceea ce este astăzi Republica Moldova a fost rupt din România”</title>
+        <link>https://www.libertatea.ro/stiri/maia-sandu-ceea-ce-este-astazi-republica-moldova-a-fost-rupt-din-romania-5686071</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/maia-sandu-ceea-ce-este-astazi-republica-moldova-a-fost-rupt-din-romania-5686071</guid>
+    </item>
+    <item>
+        <title>Rusia solicită armistițiu în Iran pentru evacuarea de urgență a specialiștilor de la centrala nucleară Bushehr</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/rusia-solicita-armistitiu-in-iran-pentru-evacuarea-2519974.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/rusia-solicita-armistitiu-in-iran-pentru-evacuarea-2519974.html</guid>
+    </item>
+    <item>
+        <title>UE va monitoriza centrele de date: consumul de energie ar putea exploda până în 2030 din cauza inteligenței artificiale</title>
+        <link>https://www.mediafax.ro/stirile-zilei/ue-va-monitoriza-centrele-de-date-consumul-de-energie-ar-putea-exploda-pana-in-2030-din-cauza-inteligentei-artificiale-23714294</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ue-va-monitoriza-centrele-de-date-consumul-de-energie-ar-putea-exploda-pana-in-2030-din-cauza-inteligentei-artificiale-23714294</guid>
+    </item>
+    <item>
+        <title>Trump a distribuit imagini cu distrugerea „celui mare pod din Iran”: „E timpul să încheie un acord înainte să nu mai rămână nimic”</title>
+        <link>https://adevarul.ro/stiri-externe/sua/trump-a-distribuit-imagini-cu-distrugerea-celui-2520029.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/trump-a-distribuit-imagini-cu-distrugerea-celui-2520029.html</guid>
+    </item>
+    <item>
+        <title>Eurodeputata Rima Hassan, reținută într-o anchetă privind „apologia terorismului”, după un mesaj postat pe rețelele sociale</title>
+        <link>https://adevarul.ro/stiri-externe/europa/eurodeputata-rima-hassan-retinuta-intr-o-ancheta-2520002.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/eurodeputata-rima-hassan-retinuta-intr-o-ancheta-2520002.html</guid>
+    </item>
+    <item>
+        <title>Ucrainenii preiau AMTP Roman, un producător de țevi din oțel fără sudură / Fabrica din Roman devine platformă-cheie de producție în UE</title>
+        <link>https://www.g4media.ro/ucrainenii-preiau-amtp-roman-un-producator-de-tevi-din-otel-fara-sudura-fabrica-din-roman-devine-platforma-cheie-de-productie-in-ue.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ucrainenii-preiau-amtp-roman-un-producator-de-tevi-din-otel-fara-sudura-fabrica-din-roman-devine-platforma-cheie-de-productie-in-ue.html</guid>
+    </item>
+    <item>
+        <title>FOTOGALERIE Două piațete din centrul Bucureștiului, eliberate de mașini și redate pietonilor: Piața Ion Rațiu și Piața Italiană</title>
+        <link>https://www.g4media.ro/fotogalerie-doua-piatete-din-centrul-bucurestiului-eliberate-de-masini-si-redate-pietonilor-piata-ion-ratiu-si-piata-italiana.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/fotogalerie-doua-piatete-din-centrul-bucurestiului-eliberate-de-masini-si-redate-pietonilor-piata-ion-ratiu-si-piata-italiana.html</guid>
+    </item>
+    <item>
+        <title>Grecia se pregătește să interzică rețelele de socializare copiilor sub 15 ani</title>
+        <link>https://www.g4media.ro/grecia-se-pregateste-sa-interzica-retelele-de-socializare-copiilor-sub-15-ani.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/grecia-se-pregateste-sa-interzica-retelele-de-socializare-copiilor-sub-15-ani.html</guid>
+    </item>
+    <item>
+        <title>Hegseth îl demite pe șeful Statului Major al Armatei, generalul Randy George, în plin război în Iran</title>
+        <link>https://www.mediafax.ro/stirile-zilei/hegseth-il-demite-pe-seful-statului-major-al-armatei-generalul-randy-george-in-plin-razboi-in-iran-23714300</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/hegseth-il-demite-pe-seful-statului-major-al-armatei-generalul-randy-george-in-plin-razboi-in-iran-23714300</guid>
+    </item>
+    <item>
+        <title>ICCJ a respins cererea lui Dominic Fritz de revizuire a deciziei în dosarul în care este acuzat de conflict de interese. Decizia instanței este defini</title>
+        <link>https://www.europafm.ro/dominic-fritz-conflict-de-interese-proces/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/dominic-fritz-conflict-de-interese-proces/</guid>
+    </item>
+    <item>
+        <title>De ce nu reușești să economisești, chiar dacă îți propui să faci asta lunar</title>
+        <link>https://adevarul.ro/dezvoltare-personala/leadership/de-ce-nu-reusesti-sa-economisesti-chiar-daca-iti-2519692.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/leadership/de-ce-nu-reusesti-sa-economisesti-chiar-daca-iti-2519692.html</guid>
+    </item>
+    <item>
+        <title>5 știri – Filme și seriale. Zendaya, Sophie Turner, Elijah Wood și o reuniune care rupe internetul</title>
+        <link>https://www.libertatea.ro/entertainment/5-stiri-filme-seriale-zendaya-sophie-turner-elijah-wood-reuniune-care-rupe-internetul-5686065</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/5-stiri-filme-seriale-zendaya-sophie-turner-elijah-wood-reuniune-care-rupe-internetul-5686065</guid>
+    </item>
+    <item>
+        <title>Hanoracul, noul element-cheie din stilul masculin modern (P)</title>
+        <link>https://www.europafm.ro/hanoracul-noul-element-cheie-din-stilul-masculin-modern-p/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/hanoracul-noul-element-cheie-din-stilul-masculin-modern-p/</guid>
+    </item>
+    <item>
+        <title>Diploma de la școală a unui copil, indiciul folosit de polițiști pentru a amenda o persoană care a aruncat deșeuri în loc nepermis</title>
+        <link>https://www.digi24.ro/stiri/actualitate/evenimente/diploma-de-la-scoala-a-unui-copil-indiciul-folosit-de-politisti-pentru-a-amenda-o-persoana-care-a-aruncat-deseuri-in-loc-nepermis-3708035</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/diploma-de-la-scoala-a-unui-copil-indiciul-folosit-de-politisti-pentru-a-amenda-o-persoana-care-a-aruncat-deseuri-in-loc-nepermis-3708035</guid>
+    </item>
+    <item>
+        <title>Papa Leon a spălat picioarele a 12 preoți și le-a cerut catolicilor să-i ajute pe cei oprimați</title>
+        <link>https://www.mediafax.ro/externe/papa-leon-a-spalat-picioarele-a-12-preoti-si-le-a-cerut-catolicilor-sa-i-ajute-pe-cei-oprimati-23714272</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/papa-leon-a-spalat-picioarele-a-12-preoti-si-le-a-cerut-catolicilor-sa-i-ajute-pe-cei-oprimati-23714272</guid>
+    </item>
+    <item>
+        <title>Șoferii cu mașini hibride pierd accesul gratuit în parcările Primăriei Capitalei începând cu 1 mai. Ciprian Ciucu: „Politica de parcare nu mai este su</title>
+        <link>https://www.europafm.ro/masini-hibride-fara-parcare-gratuita-bucuresti/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/masini-hibride-fara-parcare-gratuita-bucuresti/</guid>
+    </item>
+    <item>
+        <title>Ministrul de Externe: România a obținut al 24-lea aviz din cele 25 necesare pentru aderarea la OCDE</title>
+        <link>https://www.g4media.ro/ministrul-de-externe-romania-a-obtinut-al-24-lea-aviz-din-cele-25-necesare-pentru-aderarea-la-ocde.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ministrul-de-externe-romania-a-obtinut-al-24-lea-aviz-din-cele-25-necesare-pentru-aderarea-la-ocde.html</guid>
+    </item>
+    <item>
+        <title>Deputați proruși și proeuropeni din R. Moldova, deplasare controversată în Georgia. Printre ei și omul lui George Simion</title>
+        <link>https://adevarul.ro/stiri-externe/republica-moldova/deputati-prorusi-si-proeuropeni-din-r-moldova-2519980.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/deputati-prorusi-si-proeuropeni-din-r-moldova-2519980.html</guid>
+    </item>
+    <item>
+        <title>Un adolescent de 17 ani din Norvegia a donat Ucrainei tot premiul său, câștigat la un concurs de matematică</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/un-adolescent-de-17-ani-din-norvegia-a-donat-ucrainei-tot-premiul-sau-castigat-la-un-concurs-de-matematica-3707937</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/un-adolescent-de-17-ani-din-norvegia-a-donat-ucrainei-tot-premiul-sau-castigat-la-un-concurs-de-matematica-3707937</guid>
+    </item>
+    <item>
+        <title>Zeci de țări cer „redeschiderea imediată și necondiționată” a strâmtorii Ormuz, după reuniunea virtuală organizată de Marea Britanie</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/ministrii-de-externe-din-zeci-de-state-discuta-redeschiderea-stramtorii-ormuz-intr-o-reuniune-virtuala-organizata-de-marea-britanie-3706803</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/ministrii-de-externe-din-zeci-de-state-discuta-redeschiderea-stramtorii-ormuz-intr-o-reuniune-virtuala-organizata-de-marea-britanie-3706803</guid>
+    </item>
+    <item>
+        <title>Maia Sandu, în Letonia: Pactul Ribbentrop–Molotov a trasat linii prin vieţi. Ceea ce e azi Republica Moldova a fost rupt din România</title>
+        <link>https://www.digi24.ro/stiri/externe/moldova/maia-sandu-in-letonia-pactul-ribbentrop-molotov-a-trasat-linii-prin-vieti-ceea-ce-e-azi-republica-moldova-a-fost-rupt-din-romania-3707911</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/moldova/maia-sandu-in-letonia-pactul-ribbentrop-molotov-a-trasat-linii-prin-vieti-ceea-ce-e-azi-republica-moldova-a-fost-rupt-din-romania-3707911</guid>
+    </item>
+    <item>
+        <title>România, la un pas de aderarea la OCDE. „Un proces transformator pentru România”, afirmă Oana Țoiu</title>
+        <link>https://www.digi24.ro/stiri/actualitate/romania-la-un-pas-de-aderarea-la-ocde-un-proces-transformator-pentru-romania-afirma-oana-toiu-3707945</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/romania-la-un-pas-de-aderarea-la-ocde-un-proces-transformator-pentru-romania-afirma-oana-toiu-3707945</guid>
+    </item>
+    <item>
         <title>Vladimir Putin își șantajează „vechiul aliat” cu arma energetică, înainte de alegeri, și îl amenință în cazul continuării apropierii de UE</title>
         <link>https://www.libertatea.ro/stiri/vladimir-putin-isi-santajeaza-vechiul-aliat-cu-arma-energetica-inainte-de-alegeri-si-il-ameninta-in-cazul-continuarii-apropierii-de-ue-5686009</link>
         <description>Libertatea</description>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/vladimir-putin-isi-santajeaza-vechiul-aliat-cu-arma-energetica-inainte-de-alegeri-si-il-ameninta-in-cazul-continuarii-apropierii-de-ue-5686009</guid>
+    </item>
+    <item>
+        <title>Un studiu realizat de chinezi arată că citricele ne influențează starea de spirit</title>
+        <link>https://www.mediafax.ro/stirile-zilei/un-studiu-realizat-de-chinezi-arata-ca-citricele-ne-influenteaza-starea-de-spirit-23714306</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/un-studiu-realizat-de-chinezi-arata-ca-citricele-ne-influenteaza-starea-de-spirit-23714306</guid>
+    </item>
+    <item>
+        <title>O nouă speranță pentru pacienții cu diabet de tip 1. Cercetătorii au vindecat șoareci cu această boală prin crearea unui sistem imunitar „hibrid”</title>
+        <link>https://adevarul.ro/stil-de-viata/stiinta/o-noua-speranta-pentru-pacientii-cu-diabet-de-tip-2520036.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/stiinta/o-noua-speranta-pentru-pacientii-cu-diabet-de-tip-2520036.html</guid>
+    </item>
+    <item>
+        <title>Livetext Război în Iran, ziua 34: Trump publică imagini cu prăbușirea unui pod din Iran și insistă pentru un acord / Țările din Golf cer la ONU o inte</title>
+        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-2-aprilie-2026-5684656</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-2-aprilie-2026-5684656</guid>
+    </item>
+    <item>
+        <title>UNESCO, în „breaking good news”: scoate Coiful de la Coțofenești din Muzeul Virtual al Obiectelor Culturale Furate. Extaz în presa internațională</title>
+        <link>https://www.mediafax.ro/stirile-zilei/unesco-in-breaking-good-news-scoate-coiful-de-la-cotofenesti-din-muzeul-virtual-al-obiectelor-culturale-furate-extaz-in-presa-internationala-23714292</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/unesco-in-breaking-good-news-scoate-coiful-de-la-cotofenesti-din-muzeul-virtual-al-obiectelor-culturale-furate-extaz-in-presa-internationala-23714292</guid>
+    </item>
+    <item>
+        <title>Ministrul Apărării acuză producătorii de muniţie că au majorat cu 30% preţurile iniţiale pentru proiectele SAFE: „Nu vom negocia cu aceste companii cu</title>
+        <link>https://www.europafm.ro/ministrul-apararii-acuza-producatorii-de-munitie-ca-au-majorat-cu-30-preturile-initiale-pentru-proiectele-safe-nu-vom-negocia-cu-aceste-companii-cu-mainile-intoarse-la-spate/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ministrul-apararii-acuza-producatorii-de-munitie-ca-au-majorat-cu-30-preturile-initiale-pentru-proiectele-safe-nu-vom-negocia-cu-aceste-companii-cu-mainile-intoarse-la-spate/</guid>
+    </item>
+    <item>
+        <title>Oficial: JD Vance ajunge la Budapesta, cu câteva zile înainte de alegerile cruciale, ca să-l susțină pe Viktor Orban</title>
+        <link>https://www.mediafax.ro/stirile-zilei/oficial-jd-vance-ajunge-la-budapesta-cu-cateva-zile-inainte-de-alegerile-cruciale-ca-sa-l-sustina-pe-viktor-orban-23714304</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/oficial-jd-vance-ajunge-la-budapesta-cu-cateva-zile-inainte-de-alegerile-cruciale-ca-sa-l-sustina-pe-viktor-orban-23714304</guid>
+    </item>
+    <item>
+        <title>Pete Hegseth i-a cerut demisia șefului Statului Major al Armatei, generalul Randy George (CBS)</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/pete-hegseth-i-a-cerut-demisia-sefului-statului-major-al-armatei-generalul-randy-george-cbs-3708049</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/pete-hegseth-i-a-cerut-demisia-sefului-statului-major-al-armatei-generalul-randy-george-cbs-3708049</guid>
+    </item>
+    <item>
+        <title>Un elefant moare la cinci luni după ce a fost vopsit roz pentru o ședință foto / Polemică în jurul fotografei: autoarea, o rusoaică, a primit amenință</title>
+        <link>https://www.g4media.ro/un-elefant-moare-la-cinci-luni-dupa-ce-a-fost-vopsit-roz-pentru-o-sedinta-foto-polemica-in-jurul-fotografei-autoarea-o-rusoaica-a-primit-amenintari-dar-a-respins-acuzatiile-vopseaua-e.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/un-elefant-moare-la-cinci-luni-dupa-ce-a-fost-vopsit-roz-pentru-o-sedinta-foto-polemica-in-jurul-fotografei-autoarea-o-rusoaica-a-primit-amenintari-dar-a-respins-acuzatiile-vopseaua-e.html</guid>
+    </item>
+    <item>
+        <title>Rogobete: Un scenariu ar fi să compensăm suma de trei miliarde de lei către Pfizer cu alte medicamente. Adică să luăm alte produse</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/rogobete-un-scenariu-ar-fi-sa-compensam-suma-de-trei-miliarde-de-lei-catre-pfizer-cu-alte-medicamente-adica-sa-luam-alte-produse-3707989</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/rogobete-un-scenariu-ar-fi-sa-compensam-suma-de-trei-miliarde-de-lei-catre-pfizer-cu-alte-medicamente-adica-sa-luam-alte-produse-3707989</guid>
+    </item>
+    <item>
+        <title>Geantă din colagen de dinozaur, prezentată la Amsterdam. Ce spune comunitatea științifică despre pielea cu „ADN de T-rex” crescută în laborator</title>
+        <link>https://adevarul.ro/stiri-externe/europa/geanta-din-colagen-de-dinozaur-prezentata-la-2520035.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/geanta-din-colagen-de-dinozaur-prezentata-la-2520035.html</guid>
+    </item>
+    <item>
+        <title>Imagini cu „cel mai mare pod din Iran” distrus, publicate de Donald Trump. Reacția Iranului: Transmite doar înfrângerea inamicului</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/imagini-cu-cel-mai-mare-pod-din-iran-distrus-publicate-de-donald-trump-reactia-iranului-transmite-doar-infrangerea-inamicului-3708061</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/imagini-cu-cel-mai-mare-pod-din-iran-distrus-publicate-de-donald-trump-reactia-iranului-transmite-doar-infrangerea-inamicului-3708061</guid>
+    </item>
+    <item>
+        <title>Protest pe biciclete la Havana / Cubanezii cer ridicarea embargoului american</title>
+        <link>https://www.g4media.ro/protest-pe-biciclete-la-havana-cubanezii-cer-ridicarea-embargoului-american.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/protest-pe-biciclete-la-havana-cubanezii-cer-ridicarea-embargoului-american.html</guid>
+    </item>
+    <item>
+        <title>Donald Trump și termenul de „2-3 săptămâni”: când a mai folosit liderul SUA acest interval. Senator american: „Un semn de slăbiciune”</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/donald-trump-si-termenul-de-2-3-saptamani-cand-a-mai-folosit-liderul-sua-acest-interval-senator-american-un-semn-de-slabiciune-3707997</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/donald-trump-si-termenul-de-2-3-saptamani-cand-a-mai-folosit-liderul-sua-acest-interval-senator-american-un-semn-de-slabiciune-3707997</guid>
+    </item>
+    <item>
+        <title>Horoscop 3 aprilie: zodiile care trebuie să fie atente la decizii și cele care primesc semne clare despre viitor</title>
+        <link>https://www.mediafax.ro/stirile-zilei/horoscop-3-aprilie-zodiile-care-trebuie-sa-fie-atente-la-decizii-si-cele-care-primesc-semne-clare-despre-viitor-23714282</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/horoscop-3-aprilie-zodiile-care-trebuie-sa-fie-atente-la-decizii-si-cele-care-primesc-semne-clare-despre-viitor-23714282</guid>
+    </item>
+    <item>
+        <title>Piața Victoriei. Ce plan are Bolojan? Demisionează sau luptă până la capăt cu PSD? Premierul României vine la Europa FM</title>
+        <link>https://www.europafm.ro/piata-victoriei-ce-plan-are-bolojan-demisioneaza-sau-lupta-pana-la-capat-cu-psd-premierul-romaniei-vine-la-europa-fm/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/piata-victoriei-ce-plan-are-bolojan-demisioneaza-sau-lupta-pana-la-capat-cu-psd-premierul-romaniei-vine-la-europa-fm/</guid>
+    </item>
+    <item>
+        <title>Demeter Andras, despre recuperarea coifului de la Coţofeneşti: „E o victorie, e o bucurie. Este ceea ce am sperat”. „Coiful a suferit foarte, foarte m</title>
+        <link>https://www.europafm.ro/coiful-cotofenesti-bratari-dacice-returnate/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/coiful-cotofenesti-bratari-dacice-returnate/</guid>
+    </item>
+    <item>
+        <title>Doi disidenți iranieni sunt în pericol de execuție după un proces „extrem de nedrept”, avertizează organizațiile pentru drepturile omului</title>
+        <link>https://www.mediafax.ro/externe/doi-disidenti-iranieni-sunt-in-pericol-de-executie-dupa-un-proces-extrem-de-nedrept-avertizeaza-organizatiile-pentru-drepturile-omului-23714277</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/doi-disidenti-iranieni-sunt-in-pericol-de-executie-dupa-un-proces-extrem-de-nedrept-avertizeaza-organizatiile-pentru-drepturile-omului-23714277</guid>
+    </item>
+    <item>
+        <title>Rogobete ia în calcul un troc cu Pfizer: medicamente inovative în schimbul celor 700 de milioane de euro datorate</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/rogobete-ia-in-calcul-un-troc-cu-pfizer-2520025.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/rogobete-ia-in-calcul-un-troc-cu-pfizer-2520025.html</guid>
+    </item>
+    <item>
+        <title>Jaful celor 12 tone de batoane KitKat. Cum a ajuns furtul miilor de napolitane deliciul internauților</title>
+        <link>https://adevarul.ro/stiri-interne/societate/jaful-celor-12-tone-de-batoane-kitkat-cum-a-ajuns-2519916.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/jaful-celor-12-tone-de-batoane-kitkat-cum-a-ajuns-2519916.html</guid>
+    </item>
+    <item>
+        <title>Horoscop 3 aprilie 2026. Gemenii ar fi bine să își propună să aibă o zi senină, să caute preocupări frumoase și să trăiască altfel</title>
+        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-3-aprilie-2026-5684488</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-3-aprilie-2026-5684488</guid>
     </item>
 </channel>
 </rss>
