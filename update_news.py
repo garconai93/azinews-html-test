@@ -134,8 +134,10 @@ def fetch_news(source_name, url):
 
 def update_index_html(all_news):
     """Update index.html with ALL news from JSON"""
-    # Display ALL news
-    display_news = all_news
+    import random
+    # Display ALL news shuffled (random order from all sources)
+    display_news = all_news.copy()
+    random.shuffle(display_news)
     
     # Build news array for JavaScript
     news_js = "const news = [\n"
