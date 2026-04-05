@@ -105,11 +105,11 @@ def fetch_news(source_name, url):
                 content_str = ""
                 if desc_elem is not None and desc_elem.text:
                     cleaned = re.sub(r'<[^>]+>', '', desc_elem.text).strip()
-                    if len(cleaned) > 150:
-                        # Find last space before 150 chars
-                        cut = cleaned[:150]
+                    if len(cleaned) > 500:
+                        # Find last space before 500 chars
+                        cut = cleaned[:500]
                         last_space = cut.rfind(' ')
-                        if last_space > 100:
+                        if last_space > 400:
                             content_str = cut[:last_space] + "..."
                         else:
                             content_str = cut + "..."
