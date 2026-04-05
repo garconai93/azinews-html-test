@@ -19,7 +19,7 @@ SOURCES = [
 ]
 
 NEWS_JSON_FILE = "all_news.json"
-MAX_DISPLAY_NEWS = 100  # Câte știri să afișăm în site (restul rămân în JSON)
+# MAX_DISPLAY_NEWS = None  # Afișăm TOATE știrile (Varianta A)
 
 def load_existing_news():
     """Load existing news from all_news.json if it exists"""
@@ -133,9 +133,9 @@ def fetch_news(source_name, url):
     return news
 
 def update_index_html(all_news):
-    """Update index.html with news from JSON (display only recent ones)"""
-    # Display only the most recent news
-    display_news = all_news[:MAX_DISPLAY_NEWS]
+    """Update index.html with ALL news from JSON"""
+    # Display ALL news
+    display_news = all_news
     
     # Build news array for JavaScript
     news_js = "const news = [\n"
@@ -169,16 +169,15 @@ def update_index_html(all_news):
     
     # Update timestamp and show total count
     total = len(all_news)
-    shown = len(display_news)
     new_content = new_content.replace(
         'Ultimele știri din România',
-        f'Ultimele știri din România • {datetime.now().strftime("%d %b %H:%M")} ({shown}/{total} afișate)'
+        f'Ultimele știri din România • {datetime.now().strftime("%d %b %H:%M")} ({total} știri)'
     )
     
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write(new_content)
     
-    print(f"✅ Actualizat cu {shown} știri (din {total} totale în arhivă)")
+    print(f"✅ Actualizat cu {total} știri în site")
 
 def main():
     print(f"[{datetime.now().strftime('%H:%M')}] Actualizare știri...")
