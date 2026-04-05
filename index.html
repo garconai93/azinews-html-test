@@ -191,6 +191,25 @@
             font-weight: 600;
         }
 
+        .news-search-input {
+            width: 100%;
+            padding: 8px 12px;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            background: var(--bg);
+            color: var(--text);
+            font-size: 0.875rem;
+            outline: none;
+        }
+
+        .news-search-input:focus {
+            border-color: var(--accent);
+        }
+
+        .menu-section {
+            margin-bottom: 12px;
+        }
+
         .menu-options {
             display: flex;
             flex-wrap: wrap;
@@ -351,6 +370,10 @@
                 <div class="menu-option" data-source="Adevarul" onclick="filterNews('source', 'Adevarul', this)">Adevărul</div>
                 <div class="menu-option" data-source="G4Media" onclick="filterNews('source', 'G4Media', this)">G4Media</div>
             </div>
+        </div>
+        <div class="menu-section">
+            <div class="menu-section-title">Caută</div>
+            <input type="text" id="news-search" class="news-search-input" placeholder="Ex: economie, fotbal, politică..." oninput="searchNews(this.value)" onkeypress="if(event.key==='Enter') searchNews(this.value)">
         </div>
         <div class="menu-option menu-reset" onclick="resetFilters()">🔄 Arată toate știrile</div>
     </div>
@@ -991,9 +1014,49 @@
             }
         }
 
+        function searchNews(query) {
+            if (!query || query.trim().length < 2) {
+                if (currentFilter.type === 'search') {
+                    resetFilters();
+                }
+                return;
+            }
+            
+            query = query.toLowerCase().trim();
+            currentFilter = { type: 'search', value: query };
+            
+            // Remove active from all menu options
+            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
+            
+            // Filter news cards
+            const newsCards = document.querySelectorAll('.news-card');
+            let visibleCount = 0;
+            
+            newsCards.forEach(card => {
+                const title = card.querySelector('.news-title').textContent.toLowerCase();
+                const content = (card.querySelector('.news-content')?.textContent || '').toLowerCase();
+                const source = (card.querySelector('.news-source')?.textContent || '').toLowerCase();
+                const text = title + ' ' + content + ' ' + source;
+                
+                const show = text.includes(query);
+                card.style.display = show ? 'block' : 'none';
+                if (show) visibleCount++;
+            });
+            
+            // Update header
+            const sectionTitle = document.querySelector('.news-section h2');
+            if (sectionTitle) {
+                sectionTitle.textContent = `Rezultate: "${query}" (${visibleCount})`;
+            }
+        }
+
         function resetFilters() {
             currentFilter = { type: null, value: null };
             document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
+            
+            // Clear search input
+            const searchInput = document.getElementById('news-search');
+            if (searchInput) searchInput.value = '';
             
             document.querySelectorAll('.news-card').forEach(card => {
                 card.style.display = 'block';
