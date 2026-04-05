@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update AziNews HTML with news from RSS feeds"""
+"""Update AziNews HTML with news from RSS feeds - WITH HISTORICAL PERSISTENCE"""
 
 import requests
 import xml.etree.ElementTree as ET
@@ -18,44 +18,30 @@ SOURCES = [
     ("G4Media", "https://www.g4media.ro/feed"),
 ]
 
-def extract_existing_news():
-    """Extract existing news from index.html to use as fallback"""
-    existing = {name: [] for name, _ in SOURCES}
+NEWS_JSON_FILE = "all_news.json"
+MAX_DISPLAY_NEWS = 100  # Câte știri să afișăm în site (restul rămân în JSON)
+
+def load_existing_news():
+    """Load existing news from all_news.json if it exists"""
+    if os.path.exists(NEWS_JSON_FILE):
+        try:
+            with open(NEWS_JSON_FILE, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                if isinstance(data, list):
+                    print(f"  📂 Încarc {len(data)} știri existente din JSON")
+                    return data
+        except Exception as e:
+            print(f"  ⚠ Nu am putut încărca {NEWS_JSON_FILE}: {e}")
+    return []
+
+def save_all_news(news_list):
+    """Save all news to all_news.json"""
     try:
-        with open('index.html', 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        # Find news array
-        import re
-        match = re.search(r'const news = \[(.*?)\];', content, re.DOTALL)
-        if not match:
-            return existing
-        
-        # Simple regex to parse news items - extract all fields
-        news_text = match.group(1)
-        
-        # Match each news item with all fields
-        item_pattern = r"\{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\"(?:, image: \"([^\"]+)\")?(?:, time: \"([^\"]+)\")?(?:, content: \"([^\"]+)\")? \}"
-        for m in re.finditer(item_pattern, news_text):
-            source = m.group(1)
-            if source in existing:
-                news_item = {
-                    'source': source,
-                    'url': m.group(2),
-                    'title': m.group(3)
-                }
-                # Add optional fields if they exist
-                if m.group(4):  # image
-                    news_item['image'] = m.group(4)
-                if m.group(5):  # time
-                    news_item['time'] = m.group(5)
-                if m.group(6):  # content
-                    news_item['content'] = m.group(6)
-                existing[source].append(news_item)
+        with open(NEWS_JSON_FILE, 'w', encoding='utf-8') as f:
+            json.dump(news_list, f, ensure_ascii=False, indent=2)
+        print(f"  💾 Salvate {len(news_list)} știri în {NEWS_JSON_FILE}")
     except Exception as e:
-        print(f"  ⚠ Nu am putut extrage știrile existente: {e}")
-    
-    return existing
+        print(f"  ⚠ Nu am putut salva {NEWS_JSON_FILE}: {e}")
 
 def fetch_news(source_name, url):
     """Fetch news from RSS feed"""
@@ -100,6 +86,7 @@ def fetch_news(source_name, url):
                 
                 # Parse time from pubDate
                 time_str = ""
+                date_str = ""
                 if pubdate_elem is not None and pubdate_elem.text:
                     try:
                         pubdate = pubdate_elem.text
@@ -107,6 +94,10 @@ def fetch_news(source_name, url):
                         time_match = re.search(r'(\d{1,2}:\d{2})', pubdate)
                         if time_match:
                             time_str = time_match.group(1)
+                        # Extract date
+                        date_match = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})', pubdate)
+                        if date_match:
+                            date_str = f"{date_match.group(1)} {date_match.group(2)}"
                     except:
                         pass
                 
@@ -131,7 +122,9 @@ def fetch_news(source_name, url):
                     "title": title[:150],
                     "image": image_url,
                     "time": time_str,
-                    "content": content_str
+                    "date": date_str,
+                    "content": content_str,
+                    "fetched_at": datetime.now().isoformat()  # Când a fost adăugată
                 })
                 
     except Exception as e:
@@ -140,20 +133,26 @@ def fetch_news(source_name, url):
     return news
 
 def update_index_html(all_news):
-    """Update index.html with new news"""
+    """Update index.html with news from JSON (display only recent ones)"""
+    # Display only the most recent news
+    display_news = all_news[:MAX_DISPLAY_NEWS]
+    
     # Build news array for JavaScript
     news_js = "const news = [\n"
-    for item in all_news:
+    for item in display_news:
         title_escaped = item['title'].replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
         content_escaped = item.get('content', '').replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
         image = item.get('image', '')
         time_str = item.get('time', '')
+        date_str = item.get('date', '')
         
         news_item = f"    {{ source: '{item['source']}', url: '{item['url']}', title: \"{title_escaped}\""
         if image:
             news_item += f', image: "{image}"'
         if time_str:
             news_item += f', time: "{time_str}"'
+        if date_str:
+            news_item += f', date: "{date_str}"'
         if content_escaped:
             news_item += f', content: "{content_escaped}"'
         news_item += " },\n"
@@ -168,43 +167,56 @@ def update_index_html(all_news):
     pattern = r'const news = \[.*?\];'
     new_content = re.sub(pattern, news_js, content, flags=re.DOTALL)
     
-    # Update timestamp
+    # Update timestamp and show total count
+    total = len(all_news)
+    shown = len(display_news)
     new_content = new_content.replace(
         'Ultimele știri din România',
-        f'Ultimele știri din România • {datetime.now().strftime("%d %b %H:%M")}'
+        f'Ultimele știri din România • {datetime.now().strftime("%d %b %H:%M")} ({shown}/{total} afișate)'
     )
     
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write(new_content)
     
-    print(f"✅ Actualizat cu {len(all_news)} știri")
+    print(f"✅ Actualizat cu {shown} știri (din {total} totale în arhivă)")
 
 def main():
     print(f"[{datetime.now().strftime('%H:%M')}] Actualizare știri...")
     
-    # Extrage știrile existente pentru fallback
-    existing_news = extract_existing_news()
+    # Load existing news from JSON
+    all_news = load_existing_news()
     
-    all_news = []
+    # Fetch new news from RSS feeds
+    new_news_by_source = {}
     for name, url in SOURCES:
         print(f"Preia {name}...")
         news = fetch_news(name, url)
-        print(f"  -> {len(news)} știri")
-        
-        # Fallback la știrile vechi dacă nu s-au găsit știri noi
-        if len(news) == 0 and len(existing_news.get(name, [])) > 0:
-            print(f"  ⚠ Folosesc {len(existing_news[name])} știri vechi pentru {name}")
-            news = existing_news[name]
-        
-        all_news.extend(news)
+        print(f"  -> {len(news)} știri noi")
+        new_news_by_source[name] = news
     
-    # Amestecă știrile
-    random.shuffle(all_news)
+    # Add new news to the beginning of the list (most recent first)
+    # Group by source to maintain some structure
+    for name, url in SOURCES:
+        if new_news_by_source[name]:
+            # Prepend new news for this source
+            existing_for_source = [n for n in all_news if n['source'] == name]
+            all_news = new_news_by_source[name] + [n for n in all_news if n['source'] != name]
     
+    # If no new news fetched, keep existing
+    total_new = sum(len(v) for v in new_news_by_source.values())
+    if total_new == 0:
+        print("⚠ Nu s-au găsit știri noi, păstrez cele existente")
+    else:
+        print(f"📰 {total_new} știri noi adăugate")
+    
+    # Save all news to JSON (persistent storage)
+    save_all_news(all_news)
+    
+    # Update index.html with recent news
     if all_news:
         update_index_html(all_news)
     else:
-        print("⚠ Nu s-au găsit știri!")
+        print("⚠ Nu există știri de afișat!")
 
 if __name__ == "__main__":
     main()
