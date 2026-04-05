@@ -194,19 +194,21 @@ def main():
         new_news_by_source[name] = news
     
     # Add new news to the beginning of the list (most recent first)
-    # Group by source to maintain some structure
+    # Build set of existing URLs to avoid duplicates
+    existing_urls = set(n['url'] for n in all_news)
+    
     for name, url in SOURCES:
         if new_news_by_source[name]:
-            # Prepend new news for this source
-            existing_for_source = [n for n in all_news if n['source'] == name]
-            all_news = new_news_by_source[name] + [n for n in all_news if n['source'] != name]
+            # Add only news that aren't already in the list
+            for news_item in new_news_by_source[name]:
+                if news_item['url'] not in existing_urls:
+                    all_news.insert(0, news_item)
+                    existing_urls.add(news_item['url'])
     
-    # If no new news fetched, keep existing
-    total_new = sum(len(v) for v in new_news_by_source.values())
-    if total_new == 0:
-        print("⚠ Nu s-au găsit știri noi, păstrez cele existente")
-    else:
-        print(f"📰 {total_new} știri noi adăugate")
+    # Report total
+    total = len(all_news)
+    if total > 0:
+        print(f"📰 Total {total} știri în arhivă")
     
     # Save all news to JSON (persistent storage)
     save_all_news(all_news)
