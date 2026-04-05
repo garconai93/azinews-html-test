@@ -7,11 +7,10 @@
     'use strict';
 
     // ============================================
-    // CONFIGURAȚIE - citește din env.js
+    // CONFIGURAȚIE - Cloudflare Worker
     // ============================================
-    const HF_TOKEN = window.AZINEWS_CONFIG?.HF_TOKEN || '';
-    const HF_API_URL = window.AZINEWS_CONFIG?.HF_API_URL || 'https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2';
-    const SYSTEM_PROMPT = window.AZINEWS_CONFIG?.SYSTEM_PROMPT || 'Ești un asistent AI pentru site-ul de știri românesc AziNews. Răspunzi prietenos, în limba română, despre știrile din context.';
+    const WORKER_URL = 'https://azinews-chatbot.garconai93.workers.dev';
+    const SYSTEM_PROMPT = 'Ești un asistent AI pentru site-ul de știri românesc AziNews. Răspunzi prietenos, în limba română, despre știrile din context. Nu inventa informații. Răspunzi scurt și la obiect.';
 
     // ============================================
     // CSS STILURI
@@ -584,74 +583,43 @@
         }
 
         async getAIResponse(userMessage) {
+            // Get news context from the page
+            const newsItems = document.querySelectorAll('.news-card, .news-item, article');
+            let newsContext = 'Nu am informații despre știri momentan.';
+            if (newsItems.length > 0) {
+                newsContext = Array.from(newsItems).slice(0, 10).map(item => {
+                    const title = item.querySelector('h3, h2, .title')?.textContent?.trim() || '';
+                    const desc = item.querySelector('.description, .content, p')?.textContent?.trim()?.substring(0, 200) || '';
+                    return title ? `• ${title}: ${desc}` : '';
+                }).filter(Boolean).join('\n');
+            }
+
             // Build prompt with context
-            const prompt = `<system>
-${SYSTEM_PROMPT}
+            const prompt = `${SYSTEM_PROMPT}\n\nIată știrile disponibile:\n${newsContext}\n\nÎntrebare: ${userMessage}`;
 
-Iată știrile disponibile:
-${newsContext}
-</system>
-
-<user>
-${userMessage}
-</user>
-
-<assistant>`;
-
-            const response = await fetch(HF_API_URL, {
+            const response = await fetch(WORKER_URL, {
                 method: 'POST',
                 headers: {
-                    'Authorization': `Bearer ${HF_TOKEN}`,
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                    inputs: prompt,
-                    parameters: {
-                        max_new_tokens: 512,
-                        temperature: 0.7,
-                        top_p: 0.9,
-                        do_sample: true,
-                        return_full_text: false
-                    }
+                    message: userMessage,
+                    context: newsContext
                 })
             });
 
             if (!response.ok) {
                 const errorData = await response.json().catch(() => ({}));
-                
-                if (response.status === 503) {
-                    // Model is loading
-                    const estimatedTime = errorData.estimated_time || 10;
-                    throw new Error(`Modelul se încarcă... Te rog așteaptă ${Math.ceil(estimatedTime)} secunde și încearcă din nou.`);
-                }
-                
-                if (response.status === 401) {
-                    throw new Error('Eroare de autentificare. Contactează administratorul.');
-                }
-                
-                throw new Error(`Eroare API: ${response.status}`);
+                throw new Error(errorData.error || `Eroare: ${response.status}`);
             }
 
             const data = await response.json();
             
-            if (Array.isArray(data) && data[0]?.generated_text) {
-                // Clean response
-                let answer = data[0].generated_text;
-                
-                // Remove the prompt/echo if present
-                answer = answer.replace(prompt, '').trim();
-                
-                // Remove any residual tags
-                answer = answer.replace(/<\/?user>|<<\/?system>>|<\/?assistant>/g, '').trim();
-                
-                return answer;
+            if (data.response) {
+                return data.response;
             }
             
-            if (data.generated_text) {
-                return data.generated_text;
-            }
-            
-            throw new Error('Răspuns invalid de la API');
+            throw new Error('Răspuns invalid de la server');
         }
 
         addMessage(content, type) {
