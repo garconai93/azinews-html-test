@@ -134,7 +134,6 @@ def fetch_news(source_name, url):
 
 def update_index_html(all_news):
     """Update index.html with mixed news: old in order, new shuffled"""
-    import random
     from datetime import datetime, timedelta
     
     # Split: old (over 2 hours) vs new (last 2 hours)
@@ -220,13 +219,23 @@ def main():
     # Build set of existing URLs to avoid duplicates
     existing_urls = set(n['url'] for n in all_news)
     
+    # Collect all new news first, then shuffle them before inserting
+    new_news_list = []
+    
     for name, url in SOURCES:
         if new_news_by_source[name]:
             # Add only news that aren't already in the list
             for news_item in new_news_by_source[name]:
                 if news_item['url'] not in existing_urls:
-                    all_news.insert(0, news_item)
+                    new_news_list.append(news_item)
                     existing_urls.add(news_item['url'])
+    
+    # Shuffle new news so they get mixed from different sources
+    random.shuffle(new_news_list)
+    
+    # Insert shuffled new news at the beginning
+    for news_item in new_news_list:
+        all_news.insert(0, news_item)
     
     # Report total
     total = len(all_news)
