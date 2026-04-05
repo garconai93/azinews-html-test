@@ -33,8 +33,6 @@ jobs:
         run: |
           git config --local user.email "garconaibot@gmail.com"
           git config --local user.name "GitHub Actions"
-          git fetch origin gh-pages
-          git pull origin gh-pages --allow-unrelated-histories || true
           git add .
           git diff --staged --quiet || git commit -m "Auto-update: $(date)"
-          git push origin master:master --force
+          git push ${{ github.token }}@github.com/garconai93/azinews-html-test.git master:master
