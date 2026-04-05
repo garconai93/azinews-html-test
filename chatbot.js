@@ -583,15 +583,23 @@
         }
 
         async getAIResponse(userMessage) {
-            // Get news context from the page
-            const newsItems = document.querySelectorAll('.news-card, .news-item, article');
+            // Fetch news from all_news.json
             let newsContext = 'Nu am informații despre știri momentan.';
-            if (newsItems.length > 0) {
-                newsContext = Array.from(newsItems).slice(0, 10).map(item => {
-                    const title = item.querySelector('h3, h2, .title')?.textContent?.trim() || '';
-                    const desc = item.querySelector('.description, .content, p')?.textContent?.trim()?.substring(0, 200) || '';
-                    return title ? `• ${title}: ${desc}` : '';
-                }).filter(Boolean).join('\n');
+            try {
+                const response = await fetch('all_news.json');
+                if (response.ok) {
+                    const news = await response.json();
+                    if (news && news.length > 0) {
+                        newsContext = news.slice(0, 20).map(n => {
+                            const title = n.title || '';
+                            const source = n.source || '';
+                            const content = (n.content || '').substring(0, 300);
+                            return `${source}: ${title}${content ? ' - ' + content : ''}`;
+                        }).join('\n\n');
+                    }
+                }
+            } catch (e) {
+                console.log('Could not load news:', e);
             }
 
             // Build prompt with context
