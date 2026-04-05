@@ -5,8 +5,20 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 05 Apr 2026 08:40:22 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 08:53:54 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Ouă de ciocolată cu decorațiuni și simboluri inspirate de arta lui Gaudi/ Celebrul Parc Güell, locul ineditei expoziții</title>
+        <link>https://www.g4media.ro/oua-de-ciocolata-cu-decoratiuni-si-simboluri-inspirate-de-arta-lui-gaudi-parcul-guell.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/oua-de-ciocolata-cu-decoratiuni-si-simboluri-inspirate-de-arta-lui-gaudi-parcul-guell.html</guid>
+    </item>
+    <item>
+        <title>SUA își consumă rapid arsenalul strategic în războiul cu Iranul. Rachetele pregătite pentru descurajarea Chinei, redirecționate în Orientul Mijlociu</title>
+        <link>https://adevarul.ro/stiri-externe/sua/sua-isi-consuma-rapid-arsenalul-strategic-in-2520499.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/sua-isi-consuma-rapid-arsenalul-strategic-in-2520499.html</guid>
+    </item>
     <item>
         <title>VIDEO | Gestul care a stârnit discuții în tabăra catalană: Lamine Yamal, reacție furioasă după victoria cu Atletico</title>
         <link>https://www.g4media.ro/video-gestul-care-a-starnit-discutii-in-tabara-catalana-lamine-yamal-reactie-furioasa-dupa-victoria-cu-atletico.html</link>
@@ -354,18 +366,6 @@
         <link>https://www.mediafax.ro/cultura-media/iubirea-joaca-de-a-v-ati-ascunselea-nunta-lui-figaro-pe-scena-operei-nationale-bucuresti-23715274</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/iubirea-joaca-de-a-v-ati-ascunselea-nunta-lui-figaro-pe-scena-operei-nationale-bucuresti-23715274</guid>
-    </item>
-    <item>
-        <title>De ce nu participă Europa la războiul din Iran alături de SUA. Corneliu Bjola: Europenii nu au fost consultați dar suportă consecințele</title>
-        <link>https://www.digi24.ro/stiri/externe/de-ce-nu-participa-europa-la-razboiul-din-iran-alaturi-de-sua-corneliu-bjola-europenii-nu-au-fost-consultati-dar-suporta-consecintele-3711249</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/de-ce-nu-participa-europa-la-razboiul-din-iran-alaturi-de-sua-corneliu-bjola-europenii-nu-au-fost-consultati-dar-suporta-consecintele-3711249</guid>
-    </item>
-    <item>
-        <title>Un prim suspect în cazul medicului ucis și incendiat într-un apartament din București a fost dus la audieri</title>
-        <link>https://www.digi24.ro/stiri/un-prim-suspect-in-cazul-medicului-ucis-si-incendiat-intr-un-apartament-din-bucuresti-a-fost-dus-la-audieri-3711261</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/un-prim-suspect-in-cazul-medicului-ucis-si-incendiat-intr-un-apartament-din-bucuresti-a-fost-dus-la-audieri-3711261</guid>
     </item>
 </channel>
 </rss>
