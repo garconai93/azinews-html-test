@@ -133,11 +133,32 @@ def fetch_news(source_name, url):
     return news
 
 def update_index_html(all_news):
-    """Update index.html with ALL news from JSON"""
+    """Update index.html with mixed news: old in order, new shuffled"""
     import random
-    # Display ALL news shuffled (random order from all sources)
-    display_news = all_news.copy()
-    random.shuffle(display_news)
+    from datetime import datetime, timedelta
+    
+    # Split: old (over 2 hours) vs new (last 2 hours)
+    now = datetime.now()
+    cutoff = now - timedelta(hours=2)
+    
+    old_news = []
+    new_news = []
+    
+    for item in all_news:
+        try:
+            fetched = datetime.fromisoformat(item.get('fetched_at', ''))
+            if fetched < cutoff:
+                old_news.append(item)
+            else:
+                new_news.append(item)
+        except:
+            old_news.append(item)  # If no fetched_at, treat as old
+    
+    # Old news stay in order, new news get shuffled
+    random.shuffle(new_news)
+    
+    # Combine: old first, then new shuffled
+    display_news = old_news + new_news
     
     # Build news array for JavaScript
     news_js = "const news = [\n"
