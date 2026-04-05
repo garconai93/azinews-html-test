@@ -133,31 +133,29 @@ def fetch_news(source_name, url):
     return news
 
 def update_index_html(all_news):
-    """Update index.html with mixed news: old in order, new shuffled"""
+    """New news shuffled at top, old news in order at bottom"""
+    import random
     from datetime import datetime, timedelta
     
-    # Split: old (over 2 hours) vs new (last 2 hours)
     now = datetime.now()
-    cutoff = now - timedelta(hours=2)
+    cutoff = now - timedelta(hours=4)  # 4+ hours = old
     
-    old_news = []
     new_news = []
+    old_news = []
     
     for item in all_news:
         try:
-            fetched = datetime.fromisoformat(item.get('fetched_at', ''))
-            if fetched < cutoff:
-                old_news.append(item)
-            else:
+            fetched = datetime.fromisoformat(item.get('fetched_at', '2000-01-01'))
+            if fetched >= cutoff:
                 new_news.append(item)
+            else:
+                old_news.append(item)
         except:
-            old_news.append(item)  # If no fetched_at, treat as old
+            old_news.append(item)
     
-    # Old news stay in order, new news get shuffled
+    # New shuffled at top, old in order at bottom
     random.shuffle(new_news)
-    
-    # Combine: old first, then new shuffled
-    display_news = old_news + new_news
+    display_news = new_news + old_news
     
     # Build news array for JavaScript
     news_js = "const news = [\n"
