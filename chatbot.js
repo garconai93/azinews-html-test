@@ -421,9 +421,10 @@
                     <h4>Bună! Sunt AziNews AI</h4>
                     <p>Îți pot răspunde despre știrile de azi, rezuma conținut sau explica subiecte din newsfeed.</p>
                     <div class="azinews-welcome-suggestions">
-                        <div class="azinews-welcome-suggestion" data-msg="Care sunt cele mai importante știri azi?">📰 Știri de azi</div>
-                        <div class="azinews-welcome-suggestion" data-msg="Rezumă știrile despre Rusia și Ucraina">🌍 Rezumat Rusia-Ucraina</div>
-                        <div class="azinews-welcome-suggestion" data-msg="Ce a mai fost în știri despre sport?">⚽ Știri sport</div>
+                        <div class="azinews-welcome-suggestion" data-msg="Care sunt cele mai importante știri azi?">📰 Știri importante</div>
+                        <div class="azinews-welcome-suggestion" data-msg="Rezumă știrile despre conflictul SUA și Iran">⚔️ SUA - Iran</div>
+                        <div class="azinews-welcome-suggestion" data-msg="Rezumă știrile despre economie">💹 Știri economice</div>
+                        <div class="azinews-welcome-suggestion" data-msg="Ce a mai fost în știri despre sport?">⚽ Știri sportive</div>
                     </div>
                 </div>
             </div>
