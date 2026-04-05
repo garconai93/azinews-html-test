@@ -513,6 +513,16 @@
         updateDateTime();
         setInterval(updateDateTime, 60000);
 
+        // Update "time ago" display every minute
+        setInterval(() => {
+            document.querySelectorAll('.news-time[data-fetched]').forEach(el => {
+                const fetchedAt = el.getAttribute('data-fetched');
+                if (fetchedAt) {
+                    el.textContent = getTimeAgo(fetchedAt);
+                }
+            });
+        }, 60000);
+
         // Cached API calls (1 hour)
         const CACHE_DURATION = 60 * 60 * 1000; // 1 hour
         const LONG_CACHE = 24 * 60 * 60 * 1000; // 24 ore pentru crypto
@@ -915,6 +925,32 @@
     { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/evenimente/incep-deniile-in-saptamana-mare-cum-se-desfasoara-si-ce-semnificatie-au-slujbele-patimilor-domnului-3705109', title: "Încep Deniile în Săptămâna Mare: Cum se desfășoară și ce semnificație au slujbele Patimilor Domnului", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjAxJTJGMjY2MTIyN18yNjYx/MjI3X0RlbmlpbGUtZGluLVNhcHRhbWFu/YS1NYXJlXy1JbnF1YW0tUGhvdG9zLU1h/bGluYS1Ob3JvY2VhLmpwZyZoYXNoPWUw/ZjQ1MzA2NTlmZTk3YTc3MGQzYmU1NDA3MjQ1OWE5.jpg", time: "09:00", date: "05 Apr", content: "Creștinii ortodocși intră, duminică, 5 aprilie 2026, în Săptămâna Mare, cunoscută și drept Săptămâna Patimilor, cea mai intensă perioadă de pregătire..." }
 ];
 
+        function getTimeAgo(fetchedAt) {
+            const now = new Date();
+            const fetched = new Date(fetchedAt);
+            const diffMs = now - fetched;
+            const diffSecs = Math.floor(diffMs / 1000);
+            const diffMins = Math.floor(diffSecs / 60);
+            const diffHours = Math.floor(diffMins / 60);
+            const diffDays = Math.floor(diffHours / 24);
+            
+            if (diffSecs < 60) return 'acum câteva secunde';
+            if (diffMins < 60) return `acum ${diffMins} min`;
+            if (diffHours < 24) return `acum ${diffHours} ore`;
+            if (diffDays === 1) return 'acum 1 zi';
+            if (diffDays < 7) return `acum ${diffDays} zile`;
+            if (diffDays < 30) return `acum ${Math.floor(diffDays / 7)} săptămâni`;
+            return `acum ${Math.floor(diffDays / 30)} luni`;
+        }
+
+        function formatTimeDisplay(newsItem) {
+            const fetchedAt = newsItem.fetched_at || newsItem.date + ' ' + newsItem.time;
+            if (newsItem.fetched_at) {
+                return getTimeAgo(fetchedAt);
+            }
+            return newsItem.time;
+        }
+
         function toggleNews(card) {
             const wasExpanded = card.classList.contains('expanded');
             document.querySelectorAll('.news-card').forEach(c => c.classList.remove('expanded'));
@@ -930,7 +966,7 @@
                         <div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div>
                     </div>
                         <div class="news-title">${n.title}</div>
-                        <div class="news-time">${n.time}</div>
+                        <div class="news-time" data-fetched="${n.fetched_at || ''}">${formatTimeDisplay(n)}</div>
                         <div class="news-content">
                             ${n.content}
                             <div style="margin-top: 10px;"><a href="${n.url}" target="_blank" style="color: #58a6ff; text-decoration: none;">📎 Citește pe ${n.source}</a><button class="news-share" onclick="shareNews('${n.url}', '${n.title.replace("'", "\'")}', '${n.source}')" title="Share" style="margin-left: 10px;">↗️</button></div></div>
