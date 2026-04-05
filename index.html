@@ -206,6 +206,22 @@
             border-color: var(--accent);
         }
 
+        .search-clear {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-size: 1rem;
+            line-height: 1;
+            padding: 4px;
+        }
+
+        .search-clear:hover {
+            color: var(--text);
+        }
+
         .menu-section {
             margin-bottom: 12px;
         }
@@ -373,7 +389,10 @@
         </div>
         <div class="menu-section">
             <div class="menu-section-title">Caută</div>
-            <input type="text" id="news-search" class="news-search-input" placeholder="Ex: economie, fotbal, politică..." oninput="searchNews(this.value)" onkeypress="if(event.key==='Enter') searchNews(this.value)">
+            <div style="position:relative;">
+                <input type="text" id="news-search" class="news-search-input" placeholder="Ex: economie, fotbal, politică..." oninput="searchNews(this.value)" onkeypress="if(event.key==='Enter') searchNews(this.value)">
+                <span class="search-clear" onclick="clearSearch()" style="display:none;">✕</span>
+            </div>
         </div>
         <div class="menu-option menu-reset" onclick="resetFilters()">🔄 Arată toate știrile</div>
     </div>
@@ -1042,13 +1061,26 @@
             }
         }
 
+        function clearSearch() {
+            const searchInput = document.getElementById('news-search');
+            if (searchInput) searchInput.value = '';
+            const clearBtn = document.querySelector('.search-clear');
+            if (clearBtn) clearBtn.style.display = 'none';
+            resetFilters();
+        }
+
         function searchNews(query) {
+            const clearBtn = document.querySelector('.search-clear');
+            
             if (!query || query.trim().length < 2) {
+                if (clearBtn) clearBtn.style.display = 'none';
                 if (currentFilter.type === 'search') {
                     resetFilters();
                 }
                 return;
             }
+            
+            if (clearBtn) clearBtn.style.display = 'block';
             
             query = query.toLowerCase().trim();
             currentFilter = { type: 'search', value: query };
