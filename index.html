@@ -997,8 +997,11 @@
         });
     </script>
 
-    <script>
-        async function shareNews(url, title, source) {
+    <!-- env.js TREBUIE să fie în .gitignore - conține HF_TOKEN -->
+    <script src="env.js"></script>
+    <script src="chatbot.js"></script>
+</body>
+</html>
             const shareText = `${title} - ${source}`;
             
             if (navigator.share) {
@@ -1029,5 +1032,9 @@
             }
         }
     </script>
+
+    <!-- env.js TREBUIE să fie în .gitignore - conține HF_TOKEN -->
+    <script src="env.js"></script>
+    <script src="chatbot.js"></script>
 </body>
 </html>

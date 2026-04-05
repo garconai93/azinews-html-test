@@ -6,3 +6,4 @@ secrets.py
 credentials.json
 *.key
 api_keys.py
+env.js

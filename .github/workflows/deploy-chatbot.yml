@@ -1,0 +1,46 @@
+name: Deploy to GitHub Pages with HF Token
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Create env.js with HF Token
+        run: |
+          cat > env.js << 'EOF'
+          window.AZINEWS_CONFIG = {
+              HF_TOKEN: '${{ secrets.HF_TOKEN }}',
+              HF_API_URL: 'https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2',
+              SYSTEM_PROMPT: 'Ești un asistent AI pentru site-ul de știri românesc AziNews. Răspunzi prietenos, în limba română, despre știrile din context. Nu inventa informații care nu sunt în context. Dacă nu știi răspunsul, spune sincer că nu ai informația.'
+          };
+          EOF
+        shell: bash
+
+      - name: Verify env.js
+        run: |
+          echo "=== env.js content (should show secret) ==="
+          head -5 env.js || echo "File not created"
+          echo "=== Checking if HF_TOKEN is in file ==="
+          grep -o 'hf_[a-zA-Z0-9]*' env.js || echo "No HF token found"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          user_name: 'GitHub Actions'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
