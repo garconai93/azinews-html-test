@@ -5,103 +5,25 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 08 Apr 2026 19:48:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 21:28:03 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Drumul Expres Brăila – Tulcea. Compania Națională de Investiții Rutiere a aprobat Studiul de Fezabilitate | AUDIO</title>
-        <link>https://www.europafm.ro/drumul-expres-braila-tulcea-compania-nationala-de-investitii-rutiere-a-aprobat-studiul-de-fezabilitate/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/drumul-expres-braila-tulcea-compania-nationala-de-investitii-rutiere-a-aprobat-studiul-de-fezabilitate/</guid>
-    </item>
-    <item>
-        <title>Fraudă la achizițiile de locuințe DGASPC Argeș: directori și vicepreședinte CJ Argeș, trimiși în judecată. Alături de aceștia vor fi judecate și două </title>
-        <link>https://www.europafm.ro/frauda-la-achizitiile-de-locuinte-dgaspc-arges-directori-si-vicepresedinte-cj-arges-trimisi-in-judecata-alaturi-de-acestia-vor-fi-judecate-si-doua-firme/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/frauda-la-achizitiile-de-locuinte-dgaspc-arges-directori-si-vicepresedinte-cj-arges-trimisi-in-judecata-alaturi-de-acestia-vor-fi-judecate-si-doua-firme/</guid>
-    </item>
-    <item>
-        <title>Trump amenință statele care vând arme Teheranului: „Vor fi supuse imediat unui tarif de 50%”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/trump-ameninta-statele-care-vand-arme-teheranului-2521448.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/trump-ameninta-statele-care-vand-arme-teheranului-2521448.html</guid>
-    </item>
-    <item>
-        <title>Au fost redeschise Catacombele Parisului / Situl este în continuare fragil: în coridoarele umede, cu umiditate de 90%, microorganismele se depun pe oa</title>
-        <link>https://www.g4media.ro/au-fost-redeschise-catacombele-parisului-situl-este-in-continuare-fragil-in-coridoarele-umede-cu-umiditate-de-90-microorganismele-se-depun-pe-oase-si-le-ataca.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/au-fost-redeschise-catacombele-parisului-situl-este-in-continuare-fragil-in-coridoarele-umede-cu-umiditate-de-90-microorganismele-se-depun-pe-oase-si-le-ataca.html</guid>
-    </item>
-    <item>
-        <title>Ilie Bolojan a prezentat 5 direcții strategice pentru creșterea producției de energie electrică. Eliminarea speculatorilor, pe listă</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ora-1800-ilie-bolojan-si-ministrul-energiei-vor-sustine-o-conferinta-de-presa-in-contextul-crizei-carburantilor-3717051</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ora-1800-ilie-bolojan-si-ministrul-energiei-vor-sustine-o-conferinta-de-presa-in-contextul-crizei-carburantilor-3717051</guid>
-    </item>
-    <item>
-        <title>A fost finalizat sezonul 2026 de eliberare a icrelor de șalău, în Complexul lagunar Razim–Sinoie / Șalăul e una dintre speciile de apă dulce cu cea ma</title>
-        <link>https://www.g4media.ro/a-fost-finalizat-sezonul-2026-de-eliberare-a-icrelor-de-salau-in-complexul-lagunar-razim-sinoie-salaul-e-una-dintre-speciile-de-apa-dulce-cu-cea-mai-ridicata-valoare-economica.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/a-fost-finalizat-sezonul-2026-de-eliberare-a-icrelor-de-salau-in-complexul-lagunar-razim-sinoie-salaul-e-una-dintre-speciile-de-apa-dulce-cu-cea-mai-ridicata-valoare-economica.html</guid>
-    </item>
-    <item>
-        <title>Casa Albă a confirmat: Donald Trump și Mark Rutte vor discuta despre posibila ieșire a SUA din NATO</title>
-        <link>https://adevarul.ro/stiri-externe/sua/casa-alba-a-confirmat-donald-trump-si-mark-rutte-2521512.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/casa-alba-a-confirmat-donald-trump-si-mark-rutte-2521512.html</guid>
-    </item>
-    <item>
-        <title>CAB suspendă decizia CNA de retragere a licenței Realitatea Plus</title>
-        <link>https://www.mediafax.ro/social/breaking-news-cab-suspenda-decizia-cna-de-retragere-a-licentei-realitatea-plus-23717261</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/breaking-news-cab-suspenda-decizia-cna-de-retragere-a-licentei-realitatea-plus-23717261</guid>
-    </item>
-    <item>
-        <title>Sute de victime în Liban în urma „celui mai mare atac coordonat” lansat de Israel</title>
-        <link>https://www.mediafax.ro/stirile-zilei/sute-de-victime-in-liban-in-urma-celui-mai-mare-atac-coordonat-lansat-de-israel-23717265</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/sute-de-victime-in-liban-in-urma-celui-mai-mare-atac-coordonat-lansat-de-israel-23717265</guid>
-    </item>
-    <item>
-        <title>Aliații SUA, îngroziți că depind de un partener imprevizibil, fără alternative clare</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/aliatii-sua-ingroziti-ca-depind-de-un-partener-2521124.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/aliatii-sua-ingroziti-ca-depind-de-un-partener-2521124.html</guid>
-    </item>
-    <item>
-        <title>India ar putea folosi șerpi și crocodili ca grăniceri pentru a opri imigrația ilegală | AUDIO</title>
-        <link>https://www.europafm.ro/india-ar-putea-folosi-serpi-si-crocodili-ca-graniceri-pentru-a-opri-imigratia-ilegala/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/india-ar-putea-folosi-serpi-si-crocodili-ca-graniceri-pentru-a-opri-imigratia-ilegala/</guid>
-    </item>
-    <item>
-        <title>INTERVIU Conducătorii de doctorate trebuie sancționați pentru plagiat în egală măsură cu studentul. Academia Română va cere modificarea legii – anunță</title>
-        <link>https://www.g4media.ro/interviu-conducatorii-de-doctorate-trebuie-sanctionati-pentru-plagiat-in-egala-masura-cu-studentul-academia-romana-va-cere-modificarea-legii-anunta-noul-presedinte-al-academiei-romane-mari.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/interviu-conducatorii-de-doctorate-trebuie-sanctionati-pentru-plagiat-in-egala-masura-cu-studentul-academia-romana-va-cere-modificarea-legii-anunta-noul-presedinte-al-academiei-romane-mari.html</guid>
-    </item>
-    <item>
-        <title>Noi interceptări ale discuțiilor telefonice Lavrov-Szijjártó. Cum complotau cei doi să blocheze aderarea Ucrainei la UE</title>
-        <link>https://www.digi24.ro/stiri/externe/noi-interceptari-ale-discutiilor-telefonice-lavrov-szijjarto-cum-complotau-cei-doi-sa-blocheze-aderarea-ucrainei-la-ue-3717297</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/noi-interceptari-ale-discutiilor-telefonice-lavrov-szijjarto-cum-complotau-cei-doi-sa-blocheze-aderarea-ucrainei-la-ue-3717297</guid>
-    </item>
-    <item>
-        <title>Guvernul spune că vrea înăsprirea regulamentului pus în transparență de ANRE pentru deblocarea proiectelor viabile. Termenul pentru trimiterea propune</title>
-        <link>https://www.mediafax.ro/economic/guvernul-spune-ca-vrea-inasprirea-regulamentului-pus-in-transparenta-de-anre-pentru-deblocarea-proiectelor-viabile-termenul-pentru-trimiterea-propunerilor-a-expirat-de-doua-zile-23717379</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/guvernul-spune-ca-vrea-inasprirea-regulamentului-pus-in-transparenta-de-anre-pentru-deblocarea-proiectelor-viabile-termenul-pentru-trimiterea-propunerilor-a-expirat-de-doua-zile-23717379</guid>
-    </item>
-    <item>
-        <title>Vara văzută prin ochii Ayurveda: trei practici străvechi care îți mențin echilibrul în sezonul cald</title>
-        <link>https://www.mediafax.ro/life-entertaiment/vara-vazuta-prin-ochii-ayurveda-trei-practici-stravechi-care-iti-mentin-echilibrul-in-sezonul-cald-23717223</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/vara-vazuta-prin-ochii-ayurveda-trei-practici-stravechi-care-iti-mentin-echilibrul-in-sezonul-cald-23717223</guid>
-    </item>
     <item>
         <title>Nicușor Dan: Fără discuție, dosarele Mineriadei și Revoluției sunt un eșec al justiției</title>
         <link>https://www.digi24.ro/stiri/actualitate/justitie/nicusor-dan-fara-discutie-dosarele-mineriadei-si-revolutiei-sunt-un-esec-al-justitiei-3717493</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/justitie/nicusor-dan-fara-discutie-dosarele-mineriadei-si-revolutiei-sunt-un-esec-al-justitiei-3717493</guid>
+    </item>
+    <item>
+        <title>Cum apar complicațiile suferite de antrenorul Mircea Lucescu. AVC ischemic și tromboembolismul pulmonar, „inamicii invizibili”</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/cum-apar-complicatiile-suferite-de-antrenorul-2521460.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/cum-apar-complicatiile-suferite-de-antrenorul-2521460.html</guid>
+    </item>
+    <item>
+        <title>Cum arată reforma administrației locale din R. Moldova: numărul raioanelor va fi redus de peste trei ori</title>
+        <link>https://adevarul.ro/stiri-externe/republica-moldova/cum-arata-reforma-administratiei-locale-din-r-2521509.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/cum-arata-reforma-administratiei-locale-din-r-2521509.html</guid>
     </item>
     <item>
         <title>Pregătește Guvernul un plan pentru o criză a carburanților? Bolojan: Nu sunt probleme de aprovizionare</title>
@@ -110,58 +32,10 @@
         <guid isPermaLink="true">https://www.mediafax.ro/politic/pregateste-guvernul-un-plan-pentru-o-criza-a-carburantilor-bolojan-nu-sunt-probleme-de-aprovizionare-23717335</guid>
     </item>
     <item>
-        <title>Două nave au traversat Strâmtoarea Ormuz, după ce Iran a acceptat redeschiderea rutei în urma armistițiului cu Statele Unite. Peste 800 de nave, încă </title>
-        <link>https://www.europafm.ro/stramtoarea-ormuz-redeschidere-nave-armistitiu-iran-sua/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/stramtoarea-ormuz-redeschidere-nave-armistitiu-iran-sua/</guid>
-    </item>
-    <item>
-        <title>Răzvan Lucescu, îndurerat, primește condoleanțe la catafalcul tatălui său, Mircea Lucescu</title>
-        <link>https://www.mediafax.ro/sport/razvan-lucescu-indurerat-primeste-condoleante-la-catafalcul-tatalui-sau-mircea-lucescu-23717295</link>
+        <title>Iranul vrea să taxeze navele în Strâmtoarea Ormuz. Măsura încalcă regulile internaționale</title>
+        <link>https://www.mediafax.ro/externe/iranul-vrea-sa-taxeze-navele-in-stramtoarea-ormuz-masura-incalca-regulile-internationale-23717389</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/razvan-lucescu-indurerat-primeste-condoleante-la-catafalcul-tatalui-sau-mircea-lucescu-23717295</guid>
-    </item>
-    <item>
-        <title>Echipajul misiunii Artemis 2 a observat în timp real meteoriţi care au lovit Luna. „Este pur și simplu remarcabil”</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/echipajul-misiunii-artemis-2-a-observat-in-timp-real-meteoriti-care-au-lovit-luna-este-pur-si-simplu-remarcabil-3717539</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/echipajul-misiunii-artemis-2-a-observat-in-timp-real-meteoriti-care-au-lovit-luna-este-pur-si-simplu-remarcabil-3717539</guid>
-    </item>
-    <item>
-        <title>JD Vance îl atacă pe Zelenski și preia discursul lui Viktor Orban referitor la Ucraina. „Este absolut scandalos”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/jd-vance-il-ataca-pe-zelenski-si-preia-discursul-2521469.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/jd-vance-il-ataca-pe-zelenski-si-preia-discursul-2521469.html</guid>
-    </item>
-    <item>
-        <title>Tranzacţia prin care Umbrărescu intenţionează să preia activele ArcelorMittal Hunedoara SA a fost autorizată de Consiliul Concurenţei</title>
-        <link>https://www.digi24.ro/stiri/economie/companii/tranzactia-prin-care-umbrarescu-intentioneaza-sa-preia-activele-arcelormittal-hunedoara-sa-a-fost-autorizata-de-consiliul-concurentei-3717619</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/companii/tranzactia-prin-care-umbrarescu-intentioneaza-sa-preia-activele-arcelormittal-hunedoara-sa-a-fost-autorizata-de-consiliul-concurentei-3717619</guid>
-    </item>
-    <item>
-        <title>Ioan Andone, despre Mircea Lucescu: „Și-a pus sufletul în slujba fotbalului și uite unde s-a ajuns. Trebuia să ne întâlnim, dar n-am mai apucat”</title>
-        <link>https://adevarul.ro/sport/ioan-andone-despre-mircea-lucescu-si-a-pus-2521499.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/ioan-andone-despre-mircea-lucescu-si-a-pus-2521499.html</guid>
-    </item>
-    <item>
-        <title>Bolojan: 90% din avizele tehnice de racordare la rețelele electrice sunt pentru proiecte speculative</title>
-        <link>https://www.digi24.ro/stiri/economie/energie/bolojan-90-din-avizele-tehnice-de-racordare-la-retelele-electrice-sunt-pentru-proiecte-speculative-3717391</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/bolojan-90-din-avizele-tehnice-de-racordare-la-retelele-electrice-sunt-pentru-proiecte-speculative-3717391</guid>
-    </item>
-    <item>
-        <title>Jurnaliștii Cătălin Tolontan și Radu Naum, despre Mircea Lucescu: „A ajuns unde a ajuns pentru că s-a educat. A refuzat cu îndârjire să creadă că este</title>
-        <link>https://www.europafm.ro/jurnalistii-catalin-tolontan-si-radu-naum-despre-mircea-lucescu-a-ajuns-unde-a-ajuns-pentru-ca-s-a-educat-a-refuzat-cu-indarjire-sa-creada-ca-este-predestinat-unei-vieti-marunte/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/jurnalistii-catalin-tolontan-si-radu-naum-despre-mircea-lucescu-a-ajuns-unde-a-ajuns-pentru-ca-s-a-educat-a-refuzat-cu-indarjire-sa-creada-ca-este-predestinat-unei-vieti-marunte/</guid>
-    </item>
-    <item>
-        <title>The Cube, laboratorul unde, prin inovație și știință, este construit viitorul fără fum</title>
-        <link>https://adevarul.ro/stiri-interne/alternative-fara-fum/the-cube-laboratorul-unde-prin-inovatie-si-2521489.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/alternative-fara-fum/the-cube-laboratorul-unde-prin-inovatie-si-2521489.html</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/iranul-vrea-sa-taxeze-navele-in-stramtoarea-ormuz-masura-incalca-regulile-internationale-23717389</guid>
     </item>
     <item>
         <title>Transporturile aeriene europene intră în turbulențe: 1.000 de zboruri anulate de o companie aeriană din cauza crizei kerosenului</title>
@@ -170,70 +44,28 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/transporturile-aeriene-europene-intra-in-2521474.html</guid>
     </item>
     <item>
+        <title>Ministrul Energiei: Cea mai sigură energie electrică produsă în bandă e cea nucleară / Poate asigura stabilitate în piaţă / E un moment zero de la car</title>
+        <link>https://www.g4media.ro/ministrul-energiei-cea-mai-sigura-energie-electrica-produsa-in-banda-e-cea-nucleara-poate-asigura-stabilitate-in-piata-e-un-moment-zero-de-la-care-lucrurile-se-reseteaza.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ministrul-energiei-cea-mai-sigura-energie-electrica-produsa-in-banda-e-cea-nucleara-poate-asigura-stabilitate-in-piata-e-un-moment-zero-de-la-care-lucrurile-se-reseteaza.html</guid>
+    </item>
+    <item>
+        <title>„Cea mai mare lovitură coordonată” din Liban: sute de morți și răniți după atacurile Israelului</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/cea-mai-mare-lovitura-coordonata-din-liban-sute-2521476.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/cea-mai-mare-lovitura-coordonata-din-liban-sute-2521476.html</guid>
+    </item>
+    <item>
         <title>USR: Suntem în dezacord cu opinia domnului președinte că aceste numiri nu au marca PSD</title>
         <link>https://www.mediafax.ro/politic/usr-suntem-in-dezacord-cu-opinia-domnului-presedinte-ca-aceste-numiri-nu-au-marca-psd-23717372</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/politic/usr-suntem-in-dezacord-cu-opinia-domnului-presedinte-ca-aceste-numiri-nu-au-marca-psd-23717372</guid>
     </item>
     <item>
-        <title>Libanul nu face parte din armistițiul SUA-Iran, anunță Donald Trump</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/libanul-nu-face-parte-din-armistitiul-sua-iran-2521468.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/libanul-nu-face-parte-din-armistitiul-sua-iran-2521468.html</guid>
-    </item>
-    <item>
-        <title>MAE: România se alătură declarației liderilor occidentali privind armistițiul dintre SUA și Iran</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/mae-romania-se-alatura-declaratiei-liderilor-occidentali-privind-armistitiul-dintre-sua-si-iran-3717759</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/mae-romania-se-alatura-declaratiei-liderilor-occidentali-privind-armistitiul-dintre-sua-si-iran-3717759</guid>
-    </item>
-    <item>
-        <title>Arestări în masă la Abu Dhabi. Sute de persoane, acuzate că au răspândit „informații înșelătoare”</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/arestari-in-masa-la-abu-dhabi-sute-de-persoane-2521481.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/arestari-in-masa-la-abu-dhabi-sute-de-persoane-2521481.html</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan, noi declarații în scandalul pozelor trucate din campania electorală</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ce-spune-nicusor-dan-despre-scandalul-fotografiilor-trucate-din-campania-electorala-3717637</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ce-spune-nicusor-dan-despre-scandalul-fotografiilor-trucate-din-campania-electorala-3717637</guid>
-    </item>
-    <item>
-        <title>Ilie Bolojan, conferință de presă pe tema energiei electrice. Premierul prezintă cinci direcții de îmbunătățire a sistemului energetic | LIVE TEXT | V</title>
-        <link>https://www.europafm.ro/energie-electrica-ilie-bolojan-directii/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/energie-electrica-ilie-bolojan-directii/</guid>
-    </item>
-    <item>
-        <title>Trump ameninţă cu tarife vamale pe oricine vinde arme Iranului şi vorbeşte de o schimbare de regim la Teheran</title>
-        <link>https://www.g4media.ro/trump-ameninta-cu-tarife-vamale-pe-oricine-vinde-arme-iranului-si-vorbeste-de-o-schimbare-de-regim-la-teheran.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/trump-ameninta-cu-tarife-vamale-pe-oricine-vinde-arme-iranului-si-vorbeste-de-o-schimbare-de-regim-la-teheran.html</guid>
-    </item>
-    <item>
-        <title>Serviciul de informaţii al Turciei a jucat un rol cheie în armistiţiul convenit de SUA şi Iran</title>
-        <link>https://www.digi24.ro/stiri/externe/serviciul-de-informatii-al-turciei-a-jucat-un-rol-cheie-in-armistitiul-convenit-de-sua-si-iran-3717385</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/serviciul-de-informatii-al-turciei-a-jucat-un-rol-cheie-in-armistitiul-convenit-de-sua-si-iran-3717385</guid>
-    </item>
-    <item>
-        <title>Iranul întrerupe tranzitul petrolierelor prin Strâmtoarea Ormuz după un atac masiv al Israelului asupra Libanului (presă)</title>
-        <link>https://www.g4media.ro/iranul-intrerupe-tranzitul-petrolierelor-prin-stramtoarea-ormuz-dupa-un-atac-masiv-al-israelului-asupra-libanului-presa.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/iranul-intrerupe-tranzitul-petrolierelor-prin-stramtoarea-ormuz-dupa-un-atac-masiv-al-israelului-asupra-libanului-presa.html</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan a semnat decretele pentru numirea șefilor marilor parchete. Șeful statului a explicat ce așteptări are de la nou-numiți | VIDEO</title>
-        <link>https://www.europafm.ro/nicusor-dan-a-semnat-decretele-pentru-numirea-majoritatii-sefilor-de-parchete-propusi/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/nicusor-dan-a-semnat-decretele-pentru-numirea-majoritatii-sefilor-de-parchete-propusi/</guid>
-    </item>
-    <item>
-        <title>Curtea de Apel Bucureşti a suspendat decizia CNA de retragere a licenţei postului Realitatea Plus</title>
-        <link>https://www.europafm.ro/curtea-de-apel-bucuresti-a-suspendat-decizia-cna-de-retragere-a-licentei-postului-realitatea-plus/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/curtea-de-apel-bucuresti-a-suspendat-decizia-cna-de-retragere-a-licentei-postului-realitatea-plus/</guid>
+        <title>Guvernul spune că vrea înăsprirea regulamentului pus în transparență de ANRE pentru deblocarea proiectelor viabile. Termenul pentru trimiterea propune</title>
+        <link>https://www.mediafax.ro/economic/guvernul-spune-ca-vrea-inasprirea-regulamentului-pus-in-transparenta-de-anre-pentru-deblocarea-proiectelor-viabile-termenul-pentru-trimiterea-propunerilor-a-expirat-de-doua-zile-23717379</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/guvernul-spune-ca-vrea-inasprirea-regulamentului-pus-in-transparenta-de-anre-pentru-deblocarea-proiectelor-viabile-termenul-pentru-trimiterea-propunerilor-a-expirat-de-doua-zile-23717379</guid>
     </item>
     <item>
         <title>Catacombele din Paris, redeschise după șase luni. Ce s-a schimbat în urma lucrărilor de modernizare</title>
@@ -242,22 +74,52 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/catacombele-din-paris-redeschise-dupa-sase-luni-ce-s-a-schimbat-in-urma-lucrarilor-de-modernizare-3717641</guid>
     </item>
     <item>
-        <title>Ministerul Sănătății propune modificări în sistemul de sănătate. Se introduce un nou tip de gardă, iar sălile de operații vor putea funcționa până la </title>
-        <link>https://www.europafm.ro/ministerul-sanatatii-propune-modificari-in-sistemul-de-sanatate-se-introduce-un-nou-tip-de-garda-iar-salile-de-operatii-vor-putea-functiona-pana-la-ora-2000/</link>
+        <title>Ivan: Energia nucleară este cea mai sigură, continuăm cu Unitățile 3 și 4 de la Cernavodă</title>
+        <link>https://www.digi24.ro/stiri/economie/ivan-energia-nucleara-este-cea-mai-sigura-continuam-cu-unitatile-3-si-4-de-la-cernavoda-3717571</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/ivan-energia-nucleara-este-cea-mai-sigura-continuam-cu-unitatile-3-si-4-de-la-cernavoda-3717571</guid>
+    </item>
+    <item>
+        <title>Vor crește prețurile pe pachetele de vacanță în perioada următoare / Unii operatori cer extra taxe pentru a menține vacanțele deja plătite / ”Odată ce</title>
+        <link>https://www.g4media.ro/vor-creste-preturile-pe-pachetele-de-vacanta-in-perioada-urmatoare-unii-operatori-cer-extra-taxe-pentru-a-mentine-vacantele-deja-platite-odata-ce-se-scumpeste-motorina-se-va-scumpi-absol.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/vor-creste-preturile-pe-pachetele-de-vacanta-in-perioada-urmatoare-unii-operatori-cer-extra-taxe-pentru-a-mentine-vacantele-deja-platite-odata-ce-se-scumpeste-motorina-se-va-scumpi-absol.html</guid>
+    </item>
+    <item>
+        <title>Bolojan, după acuzațiile ministrului Agriculturii: Orice ministru are disponibilitatea să mă contacteze în permanență</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/bolojan-dupa-acuzatiile-ministrului-agriculturii-orice-ministru-are-disponibilitatea-sa-ma-contacteze-in-permanenta-3717465</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/bolojan-dupa-acuzatiile-ministrului-agriculturii-orice-ministru-are-disponibilitatea-sa-ma-contacteze-in-permanenta-3717465</guid>
+    </item>
+    <item>
+        <title>Două nave au traversat Strâmtoarea Ormuz, după ce Iran a acceptat redeschiderea rutei în urma armistițiului cu Statele Unite. Peste 800 de nave, încă </title>
+        <link>https://www.europafm.ro/stramtoarea-ormuz-redeschidere-nave-armistitiu-iran-sua/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ministerul-sanatatii-propune-modificari-in-sistemul-de-sanatate-se-introduce-un-nou-tip-de-garda-iar-salile-de-operatii-vor-putea-functiona-pana-la-ora-2000/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/stramtoarea-ormuz-redeschidere-nave-armistitiu-iran-sua/</guid>
     </item>
     <item>
-        <title>CTP, reacție la numirile făcute de Nicușor Dan la parchete: „N-o să-l întreb caragialește: «Amice, ești idiot?»</title>
-        <link>https://adevarul.ro/stiri-interne/societate/ctp-reactie-la-numirile-facute-de-nicusor-dan-la-2521508.html</link>
+        <title>Nicușor Dan, noi declarații în scandalul pozelor trucate din campania electorală</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ce-spune-nicusor-dan-despre-scandalul-fotografiilor-trucate-din-campania-electorala-3717637</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ce-spune-nicusor-dan-despre-scandalul-fotografiilor-trucate-din-campania-electorala-3717637</guid>
+    </item>
+    <item>
+        <title>Iranul întrerupe tranzitul petrolierelor prin Strâmtoarea Ormuz după un atac masiv al Israelului asupra Libanului (presă)</title>
+        <link>https://www.g4media.ro/iranul-intrerupe-tranzitul-petrolierelor-prin-stramtoarea-ormuz-dupa-un-atac-masiv-al-israelului-asupra-libanului-presa.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/iranul-intrerupe-tranzitul-petrolierelor-prin-stramtoarea-ormuz-dupa-un-atac-masiv-al-israelului-asupra-libanului-presa.html</guid>
+    </item>
+    <item>
+        <title>Arestări în masă la Abu Dhabi. Sute de persoane, acuzate că au răspândit „informații înșelătoare”</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/arestari-in-masa-la-abu-dhabi-sute-de-persoane-2521481.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/ctp-reactie-la-numirile-facute-de-nicusor-dan-la-2521508.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/arestari-in-masa-la-abu-dhabi-sute-de-persoane-2521481.html</guid>
     </item>
     <item>
-        <title>Gândul acuză un asalt asupra publicației: Facebook a închis pagina ziarului cu 1 milion de urmăritori</title>
-        <link>https://www.mediafax.ro/social/gandul-acuza-un-asalt-asupra-publicatiei-facebook-a-inchis-pagina-ziarului-cu-1-milion-de-urmaritori-23717284</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/gandul-acuza-un-asalt-asupra-publicatiei-facebook-a-inchis-pagina-ziarului-cu-1-milion-de-urmaritori-23717284</guid>
+        <title>Israelul redeschide joi locurile sfinte din Ierusalim / „Sute de polițiști, agenți de frontieră și voluntari vor fi mobilizați”</title>
+        <link>https://www.g4media.ro/israelul-redeschide-joi-locurile-sfinte-din-ierusalim-sute-de-politisti-agenti-de-frontiera-si-voluntari-vor-fi-mobilizati.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/israelul-redeschide-joi-locurile-sfinte-din-ierusalim-sute-de-politisti-agenti-de-frontiera-si-voluntari-vor-fi-mobilizati.html</guid>
     </item>
     <item>
         <title>Ivan: Scăderea prețurilor se va simți la pompă cu o întârziere de câteva săptămâni</title>
@@ -266,76 +128,142 @@
         <guid isPermaLink="true">https://www.mediafax.ro/economic/ivan-scaderea-preturilor-se-va-simti-la-pompa-cu-o-intarziere-de-cateva-saptamani-23717387</guid>
     </item>
     <item>
+        <title>Nicușor Dan, despre alegerile din Ungaria: Nu fac speculații, dar blocajele din UE sunt inadmisibile</title>
+        <link>https://www.mediafax.ro/politic/nicusor-dan-despre-alegerile-din-ungaria-nu-fac-speculatii-dar-blocajele-din-ue-sunt-inadmisibile-23717350</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-despre-alegerile-din-ungaria-nu-fac-speculatii-dar-blocajele-din-ue-sunt-inadmisibile-23717350</guid>
+    </item>
+    <item>
+        <title>21 de noi stații de încărcare pentru vehicule electrice în Timișoara / Orașul e lider național în privința energiei livrate și a consumului mediu per </title>
+        <link>https://www.g4media.ro/21-de-noi-statii-de-incarcare-pentru-vehicule-electrice-in-timisoara-orasul-e-lider-national-in-privinta-energiei-livrate-si-a-consumului-mediu-per-statie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/21-de-noi-statii-de-incarcare-pentru-vehicule-electrice-in-timisoara-orasul-e-lider-national-in-privinta-energiei-livrate-si-a-consumului-mediu-per-statie.html</guid>
+    </item>
+    <item>
+        <title>Marinescu, după numirile șefilor de Parchete: La capătul acestui drum nu sunt mize personale</title>
+        <link>https://www.mediafax.ro/politic/marinescu-dupa-numirile-sefilor-de-parchete-la-capatul-acestui-drum-nu-sunt-mize-personale-23717356</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/marinescu-dupa-numirile-sefilor-de-parchete-la-capatul-acestui-drum-nu-sunt-mize-personale-23717356</guid>
+    </item>
+    <item>
         <title>Nicușor Dan critică din nou Ungaria pentru că blochează ajutorul Ucrainei: „E inadmisibil”</title>
         <link>https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-critica-din-nou-ungaria-pentru-ca-blocheaza-ajutorul-ucrainei-e-inadmisibil-3717507</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-critica-din-nou-ungaria-pentru-ca-blocheaza-ajutorul-ucrainei-e-inadmisibil-3717507</guid>
     </item>
     <item>
-        <title>Programul agențiilor LOTO în perioada Sărbătorilor de Paști. Când vor avea loc următoarele trageri</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/programul-agentiilor-loto-in-perioada-sarbatorilor-de-pasti-cand-vor-avea-loc-urmatoarele-trageri-3717219</link>
+        <title>Ivan: România nu depinde de petrolul din Golful Persic. Livrările vor ajunge prin Finlanda cu întârziere de trei săptămâni</title>
+        <link>https://www.digi24.ro/stiri/economie/ivan-romania-nu-depinde-de-petrolul-din-golful-persic-livrarile-vor-ajunge-prin-finlanda-cu-intarziere-de-trei-saptamani-3717829</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/programul-agentiilor-loto-in-perioada-sarbatorilor-de-pasti-cand-vor-avea-loc-urmatoarele-trageri-3717219</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/ivan-romania-nu-depinde-de-petrolul-din-golful-persic-livrarile-vor-ajunge-prin-finlanda-cu-intarziere-de-trei-saptamani-3717829</guid>
     </item>
     <item>
-        <title>Ivan: Energia nucleară este cea mai sigură, continuăm cu Unitățile 3 și 4 de la Cernavodă</title>
-        <link>https://www.digi24.ro/stiri/economie/ivan-energia-nucleara-este-cea-mai-sigura-continuam-cu-unitatile-3-si-4-de-la-cernavoda-3717571</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/ivan-energia-nucleara-este-cea-mai-sigura-continuam-cu-unitatile-3-si-4-de-la-cernavoda-3717571</guid>
+        <title>India ar putea folosi șerpi și crocodili ca grăniceri pentru a opri imigrația ilegală | AUDIO</title>
+        <link>https://www.europafm.ro/india-ar-putea-folosi-serpi-si-crocodili-ca-graniceri-pentru-a-opri-imigratia-ilegala/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/india-ar-putea-folosi-serpi-si-crocodili-ca-graniceri-pentru-a-opri-imigratia-ilegala/</guid>
     </item>
     <item>
-        <title>Ministrul Energiei: Cea mai sigură energie electrică produsă în bandă e cea nucleară / Poate asigura stabilitate în piaţă / E un moment zero de la car</title>
-        <link>https://www.g4media.ro/ministrul-energiei-cea-mai-sigura-energie-electrica-produsa-in-banda-e-cea-nucleara-poate-asigura-stabilitate-in-piata-e-un-moment-zero-de-la-care-lucrurile-se-reseteaza.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ministrul-energiei-cea-mai-sigura-energie-electrica-produsa-in-banda-e-cea-nucleara-poate-asigura-stabilitate-in-piata-e-un-moment-zero-de-la-care-lucrurile-se-reseteaza.html</guid>
-    </item>
-    <item>
-        <title>Bolojan: România va cere sprijinul CE în negocierile cu Pfizer. Miniştrii Sănătăţii şi Finanţelor merg săptămâna viitoare în SUA</title>
-        <link>https://www.digi24.ro/stiri/actualitate/bolojan-romania-va-cere-sprijinul-ce-in-negocierile-cu-pfizer-ministrii-sanatatii-si-finantelor-merg-saptamana-viitoare-in-sua-3717617</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/bolojan-romania-va-cere-sprijinul-ce-in-negocierile-cu-pfizer-ministrii-sanatatii-si-finantelor-merg-saptamana-viitoare-in-sua-3717617</guid>
-    </item>
-    <item>
-        <title>Premierul Ilie Bolojan anunță cinci măsuri strategice în domeniu energiei. Ivan: „Nu s-a pus problema raționalizării carburanților”</title>
-        <link>https://adevarul.ro/economie/premierul-ilie-bolojan-anunta-cinci-masuri-2521461.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/premierul-ilie-bolojan-anunta-cinci-masuri-2521461.html</guid>
-    </item>
-    <item>
-        <title>Cinci direcții pentru energie mai ieftină și sigură în România. Anunțul premierului Bolojan</title>
-        <link>https://www.mediafax.ro/politic/cinci-directii-pentru-energie-mai-ieftina-si-sigura-in-romania-anuntul-premierului-bolojan-23717293</link>
+        <title>Îi va cere Nicușor Dan premierului să recupereze banii pierduți din Pfizer? Răspunsul președintelui</title>
+        <link>https://www.mediafax.ro/politic/ii-va-cere-nicusor-dan-premierului-sa-recupereze-banii-pierduti-din-pfizer-raspunsul-presedintelui-23717351</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/cinci-directii-pentru-energie-mai-ieftina-si-sigura-in-romania-anuntul-premierului-bolojan-23717293</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ii-va-cere-nicusor-dan-premierului-sa-recupereze-banii-pierduti-din-pfizer-raspunsul-presedintelui-23717351</guid>
     </item>
     <item>
-        <title>Cum a convins Trump Iranul să cedeze înainte de ultimatum: „Când cheltuiești un miliard de dolari pe zi, nu blufezi”</title>
-        <link>https://adevarul.ro/stiri-externe/cum-a-convins-trump-iranul-sa-cedeze-inainte-de-2521496.html</link>
+        <title>Au fost redeschise Catacombele Parisului / Situl este în continuare fragil: în coridoarele umede, cu umiditate de 90%, microorganismele se depun pe oa</title>
+        <link>https://www.g4media.ro/au-fost-redeschise-catacombele-parisului-situl-este-in-continuare-fragil-in-coridoarele-umede-cu-umiditate-de-90-microorganismele-se-depun-pe-oase-si-le-ataca.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/au-fost-redeschise-catacombele-parisului-situl-este-in-continuare-fragil-in-coridoarele-umede-cu-umiditate-de-90-microorganismele-se-depun-pe-oase-si-le-ataca.html</guid>
+    </item>
+    <item>
+        <title>Casa Albă a confirmat: Donald Trump și Mark Rutte vor discuta despre posibila ieșire a SUA din NATO</title>
+        <link>https://adevarul.ro/stiri-externe/sua/casa-alba-a-confirmat-donald-trump-si-mark-rutte-2521512.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/cum-a-convins-trump-iranul-sa-cedeze-inainte-de-2521496.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/casa-alba-a-confirmat-donald-trump-si-mark-rutte-2521512.html</guid>
     </item>
     <item>
-        <title>Leonardo Badea, Prim-viceguvernator BNR: Modernizarea României prin integrare și convergență</title>
-        <link>https://www.mediafax.ro/economic/leonardo-badea-prim-viceguvernator-bnr-modernizarea-romaniei-prin-integrare-si-convergenta-23717256</link>
+        <title>Wizz Air anulează trei rute de la Sibiu: către Hamburg, Birmingham și Bergamo / „Nu au evoluat în linie cu așteptările companiei” / Conducerea aeropor</title>
+        <link>https://www.g4media.ro/wizz-air-anuleaza-trei-rute-de-la-sibiu-catre-hamburg-birmingham-si-bergamo-nu-au-evoluat-in-linie-cu-asteptarile-companiei-conducerea-aeroportului-face-apel-la-sibienii-sa-zbo.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/wizz-air-anuleaza-trei-rute-de-la-sibiu-catre-hamburg-birmingham-si-bergamo-nu-au-evoluat-in-linie-cu-asteptarile-companiei-conducerea-aeroportului-face-apel-la-sibienii-sa-zbo.html</guid>
+    </item>
+    <item>
+        <title>Iranul îl presează pe Donald Trump să-l pună la respect pe Benjamin Netanyahu: este o „condiție esențială” pentru pace</title>
+        <link>https://www.libertatea.ro/stiri/iranul-il-preseaza-pe-donald-trump-sa-l-puna-la-respect-pe-benjamin-netanyahu-este-o-conditie-esentiala-pentru-pace-5693976</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/iranul-il-preseaza-pe-donald-trump-sa-l-puna-la-respect-pe-benjamin-netanyahu-este-o-conditie-esentiala-pentru-pace-5693976</guid>
+    </item>
+    <item>
+        <title>China ar putea beneficia cel mai mult de criza energetică provocată de războiul din Iran</title>
+        <link>https://adevarul.ro/stiri-externe/china/china-ar-putea-beneficia-cel-mai-mult-de-criza-2521108.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/china/china-ar-putea-beneficia-cel-mai-mult-de-criza-2521108.html</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan s-ar putea baza pe AUR, în cazul în care PSD ar ieși de la guvernare: „Orice ipoteze de lucru, sigur, pot fi discutate ipotetic”</title>
+        <link>https://adevarul.ro/politica/ilie-bolojan-s-ar-putea-baza-pe-aur-in-cazul-in-2521483.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/ilie-bolojan-s-ar-putea-baza-pe-aur-in-cazul-in-2521483.html</guid>
+    </item>
+    <item>
+        <title>USR, partidul lui Dominic Fritz, s-a dezis de Nicușor Dan: Dezamăgitor și stupid. PSD are legătură cu numirile la DNA, DIICOT și Parchetul General</title>
+        <link>https://www.libertatea.ro/stiri/usr-partidul-lui-dominic-fritz-s-a-dezis-de-nicusor-dan-dezamagitor-si-stupid-psd-are-legatura-cu-numirile-la-dna-diicot-si-parchetul-general-5693984</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/usr-partidul-lui-dominic-fritz-s-a-dezis-de-nicusor-dan-dezamagitor-si-stupid-psd-are-legatura-cu-numirile-la-dna-diicot-si-parchetul-general-5693984</guid>
+    </item>
+    <item>
+        <title>Norvegia a dezmembrat România la handbal. Înaintea jocului, tricolorele și selecționerul debordau de optimism</title>
+        <link>https://adevarul.ro/sport/norvegia-a-dezmembrat-romania-la-handbal-inaintea-2521521.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/norvegia-a-dezmembrat-romania-la-handbal-inaintea-2521521.html</guid>
+    </item>
+    <item>
+        <title>Vara văzută prin ochii Ayurveda: trei practici străvechi care îți mențin echilibrul în sezonul cald</title>
+        <link>https://www.mediafax.ro/life-entertaiment/vara-vazuta-prin-ochii-ayurveda-trei-practici-stravechi-care-iti-mentin-echilibrul-in-sezonul-cald-23717223</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/leonardo-badea-prim-viceguvernator-bnr-modernizarea-romaniei-prin-integrare-si-convergenta-23717256</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/vara-vazuta-prin-ochii-ayurveda-trei-practici-stravechi-care-iti-mentin-echilibrul-in-sezonul-cald-23717223</guid>
     </item>
     <item>
-        <title>Procurorul reformist Claudiu Sandu, membru CSM, după  numirea procurorilor șefi de către Nicușor Dan:  Decizia este exclusiv politică / Pentru cei car</title>
-        <link>https://www.g4media.ro/procurorul-reformist-claudiu-sandu-membru-csm-dupa-numirea-procurorilor-sefi-de-catre-nicusor-dan-toti-cei-5-am-facut-maximul-pentru-a-evalua-candidatii-dar-se-pare-ca-este-degeaba-decizia.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/procurorul-reformist-claudiu-sandu-membru-csm-dupa-numirea-procurorilor-sefi-de-catre-nicusor-dan-toti-cei-5-am-facut-maximul-pentru-a-evalua-candidatii-dar-se-pare-ca-este-degeaba-decizia.html</guid>
+        <title>Se schimbă regulile de finanțare pentru secțiile ATI. Rogobete: „Au fost introduse activități noi eligibile”. Proiectul, pus în transparență deciziona</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/se-schimba-regulile-de-finantare-pentru-sectiile-2521525.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/se-schimba-regulile-de-finantare-pentru-sectiile-2521525.html</guid>
     </item>
     <item>
-        <title>O polițistă de frontieră din Oradea, prinsă că făcea propagandă pentru AUR, a fost repusă în funcție de Curtea de Apel / A spus în instanță că după ma</title>
-        <link>https://www.g4media.ro/o-politista-de-frontiera-din-oradea-prinsa-ca-facea-propaganda-pentru-aur-a-fost-repusa-in-functie-de-curtea-de-apel-a-spus-in-instanta-ca-dupa-mai-bine-de-15-ani-in-sistem-nu-stie-ce-al.html</link>
+        <title>Nicușor Dan se răfuiește cu influencerii care critică numirile la parchete: „Dacă eu greșesc, peste 4 ani o să fiu penalizat. Dar dacă formatorii de o</title>
+        <link>https://www.g4media.ro/nicusor-dan-se-rafuieste-cu-influencerii-care-critica-numirile-la-parchete-daca-eu-gresesc-peste-4-ani-o-sa-fiu-penalizat-dar-daca-formatorii-de-opinie-gresesc-pe-ei-cine-i-penalizeaza.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/o-politista-de-frontiera-din-oradea-prinsa-ca-facea-propaganda-pentru-aur-a-fost-repusa-in-functie-de-curtea-de-apel-a-spus-in-instanta-ca-dupa-mai-bine-de-15-ani-in-sistem-nu-stie-ce-al.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/nicusor-dan-se-rafuieste-cu-influencerii-care-critica-numirile-la-parchete-daca-eu-gresesc-peste-4-ani-o-sa-fiu-penalizat-dar-daca-formatorii-de-opinie-gresesc-pe-ei-cine-i-penalizeaza.html</guid>
     </item>
     <item>
-        <title>BREAKING | Curtea de Apel București a suspendat decizia CNA de ridicare a licenței postului Realitatea Plus</title>
-        <link>https://www.g4media.ro/breaking-curtea-de-apel-bucuresti-a-suspendat-decizia-cna-de-suspendare-a-emisiei-postului-realitatea-plus.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/breaking-curtea-de-apel-bucuresti-a-suspendat-decizia-cna-de-suspendare-a-emisiei-postului-realitatea-plus.html</guid>
+        <title>Bogdan Ivan, despre proiecțiile și planurile pentru creșterea producției de energie în România. „Toate investițiile prioritare merg spre stocare”</title>
+        <link>https://www.mediafax.ro/economic/bogdan-ivan-despre-proiectiile-si-planurile-pentru-cresterea-productiei-de-energie-in-romania-toate-investitiile-prioritare-merg-spre-stocare-23717361</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/bogdan-ivan-despre-proiectiile-si-planurile-pentru-cresterea-productiei-de-energie-in-romania-toate-investitiile-prioritare-merg-spre-stocare-23717361</guid>
+    </item>
+    <item>
+        <title>Nicuşor Dan: Voi merge des la şedinţele CSM. Șeful statului nu renunță la consultarea în justiție</title>
+        <link>https://www.digi24.ro/stiri/actualitate/justitie/nicusor-dan-voi-merge-des-la-sedintele-csm-seful-statului-nu-renunta-la-consultarea-in-justitie-3717675</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/justitie/nicusor-dan-voi-merge-des-la-sedintele-csm-seful-statului-nu-renunta-la-consultarea-in-justitie-3717675</guid>
+    </item>
+    <item>
+        <title>Aliații SUA, îngroziți că depind de un partener imprevizibil, fără alternative clare</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/aliatii-sua-ingroziti-ca-depind-de-un-partener-2521124.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/aliatii-sua-ingroziti-ca-depind-de-un-partener-2521124.html</guid>
+    </item>
+    <item>
+        <title>Fraudă la achizițiile de locuințe DGASPC Argeș: directori și vicepreședinte CJ Argeș, trimiși în judecată. Alături de aceștia vor fi judecate și două </title>
+        <link>https://www.europafm.ro/frauda-la-achizitiile-de-locuinte-dgaspc-arges-directori-si-vicepresedinte-cj-arges-trimisi-in-judecata-alaturi-de-acestia-vor-fi-judecate-si-doua-firme/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/frauda-la-achizitiile-de-locuinte-dgaspc-arges-directori-si-vicepresedinte-cj-arges-trimisi-in-judecata-alaturi-de-acestia-vor-fi-judecate-si-doua-firme/</guid>
+    </item>
+    <item>
+        <title>CTP, reacție la numirile făcute de Nicușor Dan la parchete: „N-o să-l întreb caragialește: «Amice, ești idiot?»</title>
+        <link>https://adevarul.ro/stiri-interne/societate/ctp-reactie-la-numirile-facute-de-nicusor-dan-la-2521508.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/ctp-reactie-la-numirile-facute-de-nicusor-dan-la-2521508.html</guid>
     </item>
     <item>
         <title>Listele cu firmele care au obținut ATR-uri vor fi publicate săptămâna viitoare, anunță Bolojan</title>
@@ -344,28 +272,100 @@
         <guid isPermaLink="true">https://adevarul.ro/politica/listele-cu-firmele-care-au-obtinut-atr-uri-vor-fi-2521505.html</guid>
     </item>
     <item>
-        <title>Iranul închide Strâmtoarea Ormuz, la câteva ore de la anunțarea armistițiului. Trump, criticat vehement în SUA: „Nu își poate controla aliații, nu poa</title>
-        <link>https://adevarul.ro/stiri-externe/sua/iranul-inchide-stramtoarea-ormuz-la-cateva-ore-de-2521479.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/iranul-inchide-stramtoarea-ormuz-la-cateva-ore-de-2521479.html</guid>
+        <title>Ce a cerut Nicușor Dan la 3 ani de când Vlad Voiculescu, Florin Cîțu și Ioana Mihăilă sunt urmăriți penal în dosarul vaccinurilor, dar totul este bloc</title>
+        <link>https://www.libertatea.ro/stiri/ce-a-cerut-nicusor-dan-la-3-ani-de-cand-vlad-voiculescu-florin-citu-si-ioana-mihaila-sunt-urmariti-penal-in-dosarul-vaccinurilor-dar-totul-este-blocat-in-justitie-5693870</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ce-a-cerut-nicusor-dan-la-3-ani-de-cand-vlad-voiculescu-florin-citu-si-ioana-mihaila-sunt-urmariti-penal-in-dosarul-vaccinurilor-dar-totul-este-blocat-in-justitie-5693870</guid>
     </item>
     <item>
-        <title>Horoscop 9 aprilie 2026: Ziua în care echilibrul contează mai mult decât viteza</title>
-        <link>https://www.mediafax.ro/horoscop/horoscop-9-aprilie-2026-ziua-in-care-echilibrul-conteaza-mai-mult-decat-viteza-23717240</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-9-aprilie-2026-ziua-in-care-echilibrul-conteaza-mai-mult-decat-viteza-23717240</guid>
+        <title>Ministerul Sănătății propune modificări în sistemul de sănătate. Se introduce un nou tip de gardă, iar sălile de operații vor putea funcționa până la </title>
+        <link>https://www.europafm.ro/ministerul-sanatatii-propune-modificari-in-sistemul-de-sanatate-se-introduce-un-nou-tip-de-garda-iar-salile-de-operatii-vor-putea-functiona-pana-la-ora-2000/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ministerul-sanatatii-propune-modificari-in-sistemul-de-sanatate-se-introduce-un-nou-tip-de-garda-iar-salile-de-operatii-vor-putea-functiona-pana-la-ora-2000/</guid>
     </item>
     <item>
-        <title>TikTok anunță o investiție suplimentară de 1 miliard de euro în Finlanda</title>
-        <link>https://www.mediafax.ro/comunicate/tiktok-anunta-o-investitie-suplimentara-de-1-miliard-de-euro-in-finlanda-23717285</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/comunicate/tiktok-anunta-o-investitie-suplimentara-de-1-miliard-de-euro-in-finlanda-23717285</guid>
-    </item>
-    <item>
-        <title>Curtea de Apel București a dat câștig de cauză firmei care deține Realitatea Plus în procesul licenței. CNA va ataca decizia (surse)</title>
-        <link>https://www.digi24.ro/stiri/actualitate/justitie/curtea-de-apel-a-admis-cererea-de-suspendare-a-deciziei-cna-depusa-de-firma-care-are-licenta-realitatea-plus-3717261</link>
+        <title>Ministrul Energiei: La fiecare creștere cu 10 dolari a barilului de petrol, litrul de motorină se scumpește cu 45 de bani</title>
+        <link>https://www.digi24.ro/stiri/economie/energie/ministrul-energiei-la-fiecare-crestere-cu-10-dolari-a-barilului-de-petrol-litrul-de-motorina-se-scumpeste-cu-45-de-bani-3717933</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/justitie/curtea-de-apel-a-admis-cererea-de-suspendare-a-deciziei-cna-depusa-de-firma-care-are-licenta-realitatea-plus-3717261</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/ministrul-energiei-la-fiecare-crestere-cu-10-dolari-a-barilului-de-petrol-litrul-de-motorina-se-scumpeste-cu-45-de-bani-3717933</guid>
+    </item>
+    <item>
+        <title>Pune un cub de gheață în pământ dacă vrei să plantezi această legumă: trucul simplu care asigură o recoltă roditoare</title>
+        <link>https://www.libertatea.ro/lifestyle/pune-un-cub-de-gheata-in-pamant-daca-vrei-sa-plantezi-aceasta-leguma-trucul-simplu-care-asigura-o-recolta-roditoare-5693943</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/pune-un-cub-de-gheata-in-pamant-daca-vrei-sa-plantezi-aceasta-leguma-trucul-simplu-care-asigura-o-recolta-roditoare-5693943</guid>
+    </item>
+    <item>
+        <title>Iranul pregătește taxe în criptomonede pentru petrolierele care traversează Strâmtoarea Ormuz</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/iranul-pregateste-taxe-in-criptomonede-pentru-2521519.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/iranul-pregateste-taxe-in-criptomonede-pentru-2521519.html</guid>
+    </item>
+    <item>
+        <title>Finanțarea ATI extinsă. Rogobete anunță noi materiale și spitale incluse</title>
+        <link>https://www.mediafax.ro/social/finantarea-ati-extinsa-rogobete-anunta-noi-materiale-si-spitale-incluse-23717370</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/finantarea-ati-extinsa-rogobete-anunta-noi-materiale-si-spitale-incluse-23717370</guid>
+    </item>
+    <item>
+        <title>Sicriul cu trupul neînsufleţit al lui Mircea Lucescu a fost depus la Arena Naţională. Suporterii, prietenii și cunoștințele îi pot aduce un ultim omag</title>
+        <link>https://www.europafm.ro/sicriul-cu-trupul-neinsufletit-al-lui-mircea-lucescu-a-fost-depus-la-arena-nationala-suporterii-prietenii-si-cunostintele-ii-pot-aduce-un-ultim-omagiu-pana-la-ora-2100/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/sicriul-cu-trupul-neinsufletit-al-lui-mircea-lucescu-a-fost-depus-la-arena-nationala-suporterii-prietenii-si-cunostintele-ii-pot-aduce-un-ultim-omagiu-pana-la-ora-2100/</guid>
+    </item>
+    <item>
+        <title>România se alătură declarației liderilor occidentali privind armistițiul SUA–Iran. Anunțul MAE</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/romania-se-alatura-declaratiei-liderilor-2521522.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/romania-se-alatura-declaratiei-liderilor-2521522.html</guid>
+    </item>
+    <item>
+        <title>Drumul Expres Brăila – Tulcea. Compania Națională de Investiții Rutiere a aprobat Studiul de Fezabilitate | AUDIO</title>
+        <link>https://www.europafm.ro/drumul-expres-braila-tulcea-compania-nationala-de-investitii-rutiere-a-aprobat-studiul-de-fezabilitate/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/drumul-expres-braila-tulcea-compania-nationala-de-investitii-rutiere-a-aprobat-studiul-de-fezabilitate/</guid>
+    </item>
+    <item>
+        <title>INTERVIU Conducătorii de doctorate trebuie sancționați pentru plagiat în egală măsură cu studentul. Academia Română va cere modificarea legii – anunță</title>
+        <link>https://www.g4media.ro/interviu-conducatorii-de-doctorate-trebuie-sanctionati-pentru-plagiat-in-egala-masura-cu-studentul-academia-romana-va-cere-modificarea-legii-anunta-noul-presedinte-al-academiei-romane-mari.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/interviu-conducatorii-de-doctorate-trebuie-sanctionati-pentru-plagiat-in-egala-masura-cu-studentul-academia-romana-va-cere-modificarea-legii-anunta-noul-presedinte-al-academiei-romane-mari.html</guid>
+    </item>
+    <item>
+        <title>Peste 50% dintre mașinile din România au deja un istoric periculos. De la avarii ușoare până la daune totale – ce ne arată studiile</title>
+        <link>https://www.libertatea.ro/stiri/peste-50-masini-romania-istoric-periculos-avarii-usoare-dauna-totala-5693953</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/peste-50-masini-romania-istoric-periculos-avarii-usoare-dauna-totala-5693953</guid>
+    </item>
+    <item>
+        <title>Rogobete anunță reorganizarea gărzilor și a blocului operator. Va fi introdusă garda intervențională</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/rogobete-anunta-reorganizarea-garzilor-si-a-blocului-operator-va-fi-introdusa-garda-interventionala-3717719</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/rogobete-anunta-reorganizarea-garzilor-si-a-blocului-operator-va-fi-introdusa-garda-interventionala-3717719</guid>
+    </item>
+    <item>
+        <title>De ce să mănânci mai puțin după 50 de ani e o greșeală, potrivit unei farmaciste specializate în îngrijirea pielii</title>
+        <link>https://www.mediafax.ro/life-entertaiment/de-ce-sa-mananci-mai-putin-dupa-50-de-ani-e-o-greseala-potrivit-unei-farmaciste-specializate-in-ingrijirea-pielii-23717229</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/de-ce-sa-mananci-mai-putin-dupa-50-de-ani-e-o-greseala-potrivit-unei-farmaciste-specializate-in-ingrijirea-pielii-23717229</guid>
+    </item>
+    <item>
+        <title>Tranzacţia prin care Umbrărescu intenţionează să preia activele ArcelorMittal Hunedoara SA a fost autorizată de Consiliul Concurenţei</title>
+        <link>https://www.digi24.ro/stiri/economie/companii/tranzactia-prin-care-umbrarescu-intentioneaza-sa-preia-activele-arcelormittal-hunedoara-sa-a-fost-autorizata-de-consiliul-concurentei-3717619</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/companii/tranzactia-prin-care-umbrarescu-intentioneaza-sa-preia-activele-arcelormittal-hunedoara-sa-a-fost-autorizata-de-consiliul-concurentei-3717619</guid>
+    </item>
+    <item>
+        <title>Cetatea Râşnov va fi restaurată / Primăria a lansat licitaţia pentru executarea lucrărilor / Va fi redeschisă publicului din anul 2028</title>
+        <link>https://www.g4media.ro/cetatea-rasnov-va-fi-restaurata-primaria-a-lansat-licitatia-pentru-executarea-lucrarilor-va-fi-redeschisa-publicului-din-anul-2028.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cetatea-rasnov-va-fi-restaurata-primaria-a-lansat-licitatia-pentru-executarea-lucrarilor-va-fi-redeschisa-publicului-din-anul-2028.html</guid>
+    </item>
+    <item>
+        <title>JD Vance îl atacă pe Zelenski și preia discursul lui Viktor Orban referitor la Ucraina. „Este absolut scandalos”</title>
+        <link>https://adevarul.ro/stiri-externe/sua/jd-vance-il-ataca-pe-zelenski-si-preia-discursul-2521469.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/jd-vance-il-ataca-pe-zelenski-si-preia-discursul-2521469.html</guid>
     </item>
 </channel>
 </rss>
