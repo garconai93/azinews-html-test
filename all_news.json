@@ -1,6 +1,416 @@
 [
   {
     "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/premierul-israelului-afirma-ca-a-ordonat-cabinetului-sa-initieze-negocieri-directe-cu-libanul-3719137",
+    "title": "Premierul Israelului afirmă că a ordonat cabinetului să inițieze „negocieri directe” cu Libanul",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNCUyRjA4JTJGMjIzMzA0N18yMjMz/MDQ3X3NodXR0ZXJzdG9ja18xMDQyNzgy/MDY3LmpwZyZoYXNoPTM3YjAwZDllOTNiNjgwM2I3ZjY5YThjZWNmMTVkN2M4.jpg",
+    "time": "18:55",
+    "date": "09 Apr",
+    "content": "Prim-ministrul israelian Benjamin Netanyahu a declarat joi că a dat instrucțiuni cabinetului să înceapă negocieri directe cu Libanul „cât mai curând posibil”, în urma solicitărilor repetate din partea Beirutului, relatează Haaretz.",
+    "fetched_at": "2026-04-09T16:50:31.580660"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stil-de-viata/magazin/un-hot-a-dat-un-ou-faberge-de-peste-2-milioane-de-2521775.html",
+    "title": "Un hoț a dat un Ou Fabergé de peste 2 milioane de lire sterline pe câteva doze de droguri. Habar nu avea ce furase",
+    "image": "https://cdn.adh.reperio.news/image-f/f9569620-a63b-4fd1-a6bd-479d3d8858f7/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:38",
+    "date": "09 Apr",
+    "content": "Un bărbat care a furat o geantă de lux în Soho nu și-a dat seama decât după ce a fost prins că printre obiectele din ea se afla un ou Fabergé și un ceas Fabergé, ambele extrem de rare, care valorează peste 2 milioane de lire sterline, pe care le-a dat pentru câteva doze de droguri.",
+    "fetched_at": "2026-04-09T16:50:33.827349"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sport/restrictii-rutiere-in-bucuresti-pentru-inmormantarea-lui-mircea-lucescu-23717931",
+    "title": "Restricții rutiere în București pentru înmormântarea lui Mircea Lucescu",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/whatsapp-image-2026-04-08-at-17-49-07-1-1-1024x483.jpeg",
+    "time": "16:02",
+    "date": "09 Apr",
+    "content": "Pentru deplasarea cortegiului funerar vor fi restricții în traficul rutier din Capitală, începând de vineri, ora 9, când începe ceremonia religioasă de înmormântare a lui Mircea Lucescu.",
+    "fetched_at": "2026-04-09T16:50:32.326416"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/rusia/schimb-de-soldati-morti-intre-rusia-si-ucraina-2521764.html",
+    "title": "Schimb de soldați morți între Rusia și Ucraina: 1.000 de militari ucraineni repatriați, 41 de ruși predați Moscovei",
+    "image": "https://cdn.adh.reperio.news/image-4/4c850370-123d-4559-a160-d034d0e6406e/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:03",
+    "date": "09 Apr",
+    "content": "Rusia a predat joi Ucrainei rămășițele a 1.000 de militari, primind în schimb trupurile a 41 de soldați ruși, potrivit unei surse din cadrul echipei de negociatori de la Moscova.",
+    "fetched_at": "2026-04-09T16:50:33.827410"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/razboi-in-iran-un-diplomat-european-afirma-ca-nato-nu-va-juca-un-rol-direct-in-conflictul-statelor-unite-si-al-israelului-cu-iranul-rutte-informeaza-aliatii-despre-solicitarile-lui-trump/",
+    "title": "Război în Iran. Un diplomat european afirmă că NATO nu va juca un rol direct în conflictul Statelor Unite și al Israelului cu Iranul. Rutte informează",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/11/NATO-sigla-foto-shutterstock-200x200.jpg",
+    "time": "14:33",
+    "date": "09 Apr",
+    "content": "Secretarul general al NATO, Mark Rutte, a informat că președintele american Donald Trump dorește angajamente imediate de la aliați pentru securitatea Strâmtorii Ormuz, în contextul tensiunilor cu Iranul și criticilor legate de implicarea NATO.",
+    "fetched_at": "2026-04-09T16:50:33.183688"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/economic/cum-au-reactionat-marile-banci-din-romania-dupa-ce-consiliul-concurentei-le-a-trimis-raportul-cu-concluziile-preliminare-ale-uneia-din-cele-mai-mari-complexe-investigatii-ale-sale-23717905",
+    "title": "Cum au reacționat marile bănci din România după ce Consiliul Concurenței le-a trimis raportul cu concluziile preliminare ale uneia din cele mai mari c",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/banci-concurenta-jpg-1024x576.jpeg",
+    "time": "15:14",
+    "date": "09 Apr",
+    "content": "Consiliul Concurenței ar putea da cea mai mare amendă din istoria sa, în cazul în care, după mai bine de trei ani de investigații și volume uriașe de informații analizate, va ajunge la concluzia că cele zece bănci participante la stabilirea ratelor de referință ROBID/ROBOR sunt vinovate de fixarea valorii ROBOR.",
+    "fetched_at": "2026-04-09T16:50:32.326453"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/schimbarea-legislatiei-privind-timbrul-muzical-nazare-o-gura-de-oxigen-necesara-pentru-industria-culturala-23717916",
+    "title": "Schimbarea legislației privind timbrul muzical. Nazare: O gură de oxigen necesară pentru industria culturală",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/07/8054818-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "time": "15:18",
+    "date": "09 Apr",
+    "content": "Ministrul Finanțelor, Alexandru Nazare, anunță, joi, modificarea legislației privind timbrul muzical, pentru a elimina confuziile și costurile impredictibile din industrie și pentru a aduce mai multă transparență în utilizarea fondurilor.",
+    "fetched_at": "2026-04-09T16:50:32.326447"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/biserica-sfantului-mormant-din-ierusalim-a-fost-redeschisa-credinciosii-vor-putea-participa-la-ceremonia-primirii-sfintei-lumini.html",
+    "title": "Biserica Sfântului Mormânt din Ierusalim a fost redeschisă: credincioşii vor putea participa la ceremonia primirii Sfintei Lumini",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/Biserica-Sfantului-Mormant-Ierusalim-1024x468.jpg",
+    "time": "16:37",
+    "date": "09 Apr",
+    "content": "Biserica Sfântului Mormânt din Ierusalim a fost redeschisă după 40 de zile de restricţii impuse în contextul conflictului din Orientul Mijlociu, iar reluarea accesului credincioşilor în sfântul lăcaş face posibilă participarea la ceremonia primirii Sfintei Lumini, a transmis, joi, Agenţia Basilica a Patriarhiei Române, transmite Agerpres. Potrivit unui comunicat de presă al Poliţiei Israeliene, redeschiderea [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-09T16:50:34.442517"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/merz-afirma-ca-germania-vrea-un-mandat-onu-pentru-securizarea-stramtorii-ormuz-23717912",
+    "title": "Merz afirmă că Germania vrea un mandat ONU pentru securizarea Strâmtorii Ormuz",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/8118928-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "time": "15:28",
+    "date": "09 Apr",
+    "content": "Cancelarul Friedrich Merz i-a transmis președintelui Donald Trump că Germania ar susține o misiune pentru securizarea rutelor maritime din Strâmtoarea Ormuz, dar că ar avea nevoie mai întâi de un mandat internațional, potrivit Bloomberg.",
+    "fetched_at": "2026-04-09T16:50:32.326434"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/un-hot-care-a-furat-un-ceas-si-un-ou-faberge-in-valoare-de-22-milioane-de-lire-sterline-condamnat-la-inchisoare.html",
+    "title": "Un hoţ din Londra care a furat un ceas și un ou Fabergé, în valoare de 2,2 milioane de lire sterline, condamnat la închisoare",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/Ou-Faberge-1024x597.jpg",
+    "time": "15:52",
+    "date": "09 Apr",
+    "content": "Un hoţ &#8222;oportunist&#8221; care a furat din faţa unui bar din centrul Londrei o geantă de mână în care se aflau un ceas şi un ou Fabergé împodobit cu smaralde, în valoare de până la 2,2 milioane de lire sterline (2,5 milioane de euro), a fost condamnat la peste doi ani de închisoare, relatează Agerpres, [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-09T16:50:34.442558"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/cultura-media/o-iubire-mai-puternica-decat-destinul-la-traviata-de-giuseppe-verdi-trei-seri-de-emotie-pura-la-opera-nationala-bucuresti-23717946",
+    "title": "O iubire mai puternică decât destinul: „La Traviata” de Giuseppe Verdi, trei seri de emoție pură la Opera Națională București",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/foto-la-traviata-1024x568.jpg",
+    "time": "16:00",
+    "date": "09 Apr",
+    "content": "Joi, 16 aprilie, vineri, 17 aprilie, și sâmbătă, 18 aprilie, de la ora 18:30, Opera Națională București invită publicul la o nouă reprezentație a uneia dintre cele mai îndrăgite opere din lume, „La Traviata”, de Giuseppe Verdi, pe un libret de Francesco Maria Piave, inspirat din romanul și drama ”Dama cu camelii” de Alexandre Dumas-fiul.",
+    "fetched_at": "2026-04-09T16:50:32.326422"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/restrictii-de-trafic-in-bucuresti-pentru-2521770.html",
+    "title": "Restricții de trafic în București pentru funeraliile lui Mircea Lucescu. Care este traseul cortegiului",
+    "image": "https://cdn.adh.reperio.news/image-1/15143bb5-97e3-4546-9fa8-b5cb94d79ba3/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:13",
+    "date": "09 Apr",
+    "content": "Brigada Rutieră a Poliției a transmis joi că, în data de 10 aprilie, vor fi instituite restricții de circulație în București, în contextul ceremoniei funerare a lui Mircea Lucescu, și le recomandă șoferilor să respecte indicațiile polițiștilor și rutele ocolitoare.",
+    "fetched_at": "2026-04-09T16:50:33.827405"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stiinta-sanatate/oamenii-de-stiinta-tocmai-au-descoperit-un-canal-de-scurgere-ascuns-in-creierul-uman-23717952",
+    "title": "Oamenii de știință tocmai au descoperit un „canal de scurgere” ascuns în creierul uman",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/thedigitalartist-ai-generated-7986809_1920-1024x767.jpg",
+    "time": "16:40",
+    "date": "09 Apr",
+    "content": "Cum elimină creierul deșeurile? Se bazează pe o rețea specializată de drenaj cunoscută sub numele de sistem limfatic. Oamenii de știință au încercat să înțeleagă modul în care funcționează acest sistem și, în acest proces, au dus tehnologia de imagistică cerebrală la noi limite.",
+    "fetched_at": "2026-04-09T16:50:32.326380"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/darius-valcov-ramane-in-inchisoare-judecatorii-au-2521752.html",
+    "title": "Darius Vâlcov rămâne în închisoare. Judecătorii au respins cererea de eliberare condiționată a fostului ministru de Finanțe",
+    "image": "https://cdn.adh.reperio.news/image-e/e8cbd834-6c22-45c4-a641-2db8900f5624/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:38",
+    "date": "09 Apr",
+    "content": "În noiembrie anul trecut, pedeapsa lui Darius Vâlcov a fost redusă de la șase la cinci ani, după ce instanța supremă a decis că fapta de trafic de influență s-a prescris.",
+    "fetched_at": "2026-04-09T16:50:33.827416"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/zelenski-s-a-intalnit-cu-reprezentanti-ai-minoritatii-maghiare-din-transcarpatia-inaintea-alegerilor-din-ungaria.html",
+    "title": "Zelenski s-a întâlnit cu reprezentanţi ai minorităţii maghiare din Transcarpatia , înaintea alegerilor din Ungaria",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/03/INSTANT_COTROCENI_ZELENSKYY_00_INQUAM_Photos_Octav_Ganea-1024x683.jpg",
+    "time": "16:18",
+    "date": "09 Apr",
+    "content": "Preşedintele ucrainean Volodimir Zelenski a anunţat joi că s-a întâlnit cu membri ai minorităţii maghiare din regiunea ucraineană Transcarpatia, o acţiune simbolică înaintea alegerilor legislative care au loc duminică în Ungaria şi de la care el speră să aducă înlăturarea de la putere a premierului ungar Viktor Orban, relatează Agerpres. &#8222;Aici, în Transcarpatia, a avut [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-09T16:50:34.442549"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/marea-britanie-il-avertizeaza-pe-putin-dupa-ce-a-2521756.html",
+    "title": "Marea Britanie îl avertizează pe Putin, după ce a detectat trei submarine rusești în apropierea cablurilor oceanice: „Vă vedem”",
+    "image": "https://cdn.adh.reperio.news/image-f/f57219d9-2d13-400b-b300-53b38d29b462/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:37",
+    "date": "09 Apr",
+    "content": "Trei submarine rusești au fost detectate și monitorizate de forțele britanice în Atlanticul de Nord, în apropierea infrastructurii subacvatice critice.",
+    "fetched_at": "2026-04-09T16:50:33.827422"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/premierul-groenlandei-ii-raspunde-lui-trump-in-contextul-noilor-tensiuni-din-nato-23717926",
+    "title": "Premierul Groenlandei îi răspunde lui Trump, în contextul noilor tensiuni din NATO",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/8102341-mediafax_foto-dpa_hepta-1024x683.jpg",
+    "time": "15:55",
+    "date": "09 Apr",
+    "content": "Premierul Groenlandei, Jens-Frederik Nielsen, a declarat joi că reprezintă o națiune mândră a declarat joi că reprezintă o națiune mândră care vrea să mențină ordinea globală, respingând cele mai recente afirmații ale președintelui american Donald Trump despre insula arctică.",
+    "fetched_at": "2026-04-09T16:50:32.326428"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/rutte-le-a-transmis-membrilor-nato-ca-trump-vrea-angajamente-privind-stramtoarea-ormuz-in-cateva-zile.html",
+    "title": "Rutte le-a transmis membrilor NATO că Trump vrea angajamente privind Strâmtoarea Ormuz în câteva zile",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/10/profimedia-0914612715-1024x682.jpg",
+    "time": "15:20",
+    "date": "09 Apr",
+    "content": "Secretarul general al NATO, Mark Rutte, a informat unele ţări membre ale Alianţei că preşedintele american Donald Trump doreşte angajamente concrete din partea lor în următoarele zile pentru o contribuţie la securizarea Strâmtorii Ormuz, au declarat joi agenţiei Reuters trei diplomaţi europeni, potrivit Agerpres. Rutte s-a întâlnit miercuri cu Trump la Washington, în contextul tensiunilor [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-09T16:50:34.442574"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/economic/ministerul-energiei-s-a-mutat-oficial-intr-un-nou-sediu-detinut-de-posta-romana-cat-economiseste-la-chirie-cifrele-oficiale-23717942",
+    "title": "Ministerul Energiei s-a mutat oficial într-un nou sediu, deținut de Poșta Română. Cât economisește la chirie – Cifrele oficiale",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/sediu-central-posta-romana.jpg",
+    "time": "16:25",
+    "date": "09 Apr",
+    "content": "Ministerul Energiei plătește cu 46,12 euro mai mult pe chiria lunară pentru în noul sediu de pe Bulevardul Dacia, față de cel de pe strada Academiei, dar spațiu în care s-a mutat oficial din este cu 180 de metri pătrați mai mare, potrivit cifrelor transmise la solicitarea Mediafax.",
+    "fetched_at": "2026-04-09T16:50:32.326401"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cehia-prelungeste-cu-20-de-ani-durata-de-viata-a-patru-reactoare-nucleare.html",
+    "title": "Cehia prelungeşte, cu 20 de ani, durata de viaţă a patru reactoare nucleare",
+    "image": "https://www.g4media.ro//wp-content/uploads/2021/03/centrala-nucleara-Dukovany-e1615905635888-1024x683.jpg",
+    "time": "15:33",
+    "date": "09 Apr",
+    "content": "Autorităţile din Cehia au anunţat joi prelungirea cu 20 de ani a duratei de viaţă a celor patru reactoare de la centrala nucleară Dukovany, până în 2065 şi 2067, şi faptul că analizează o prelungire similară pentru cele două reactoare de la Temelin, informează EFE, transmite Agerpres. Această măsură a fost justificată &#8222;de creşterea preconizată [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-09T16:50:34.442566"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/sanatate/schimbari-majore-in-spitale-sali-de-operatie-2521753.html",
+    "title": "Schimbări majore în spitale: săli de operație deschise până seara și noi reguli pentru gărzi",
+    "image": "https://cdn.adh.reperio.news/image-2/2ea58f63-d9b0-4558-b47e-3412c2614331/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:16",
+    "date": "09 Apr",
+    "content": "Ministrul Sănătății, Alexandru Rogobete, a anunțat lansarea în transparență decizională a unui ordin care propune modificări importante în modul de organizare a activității medicale din spitale. Printre acestea, reorganizarea blocurilor operatorii, care ar urma să funcționeze 12 ore pe zi.",
+    "fetched_at": "2026-04-09T16:50:33.827399"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/justitie/darius-valcov-ramane-in-inchisoare-instanta-i-a-respins-cererea-de-eliberare-conditionata-3719233",
+    "title": "Darius Vâlcov rămâne în închisoare. Instanţa i-a respins cererea de eliberare condiţionată",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA5JTJGMjY3OTM5N18yNjc5/Mzk3X2Rhcml1cy12YWxjb3YtaW5xdWFt/LW9jdGF2LWdhbmVhLmpwZyZoYXNoPTRi/ZWRmYTcyNjg1MWY3NDIxNTRjNjA4MDQ3OTJiNGZm.jpg",
+    "time": "19:25",
+    "date": "09 Apr",
+    "content": "Darius Vâlcov, fost ministru de Finanţe şi fost primar al municipiului Slatina, condamnat la şase ani de închisoare pentru fapte de corupţie, va rămâne în detenţie, Judecătoria Focşani respingând joi, ca nefondată, cererea de eliberare condiţionată.",
+    "fetched_at": "2026-04-09T16:50:31.580616"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/rusia-insista-ca-poate-ajuta-iranul-sa-scoata-uraniul-imbogatit-din-tara-propunerea-noastra-ramane-pe-masa-3719253",
+    "title": "Rusia insistă că poate ajuta Iranul să scoată uraniul îmbogăţit din țară: „Propunerea noastră rămâne pe masă”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjAyJTJGMjYxMTk1NF8yNjEx/OTU0X3Byb2ZpbWVkaWEtMTA3OTUzNTI3/My5qcGcmaGFzaD00NjkyZGNkOWFkOGM0OGIzNTY3MWMzMjc0OTgwOGMzNg==.jpg",
+    "time": "19:45",
+    "date": "09 Apr",
+    "content": "Rusia şi-a reafirmat, joi, disponibilitatea de a ajuta Iranul să scoată din ţară uraniul îmbogăţit dacă Republica Islamică va decide în cele din urmă acest lucru, informează EFE, potrivit Agerpres.",
+    "fetched_at": "2026-04-09T16:50:31.580576"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/social/guvernul-a-aprobat-modernizarea-anofm-600-de-posturi-noi-si-servicii-mai-aproape-de-romani-anunta-ministrul-muncii-3719177",
+    "title": "Guvernul a aprobat modernizarea ANOFM: 600 de posturi noi și servicii mai aproape de români, anunță ministrul Muncii",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA5JTJGMjY3OTM3NV8yNjc5/Mzc1X1NjcmVlbnNob3QtMjAyNi0wNC0w/OS0xOTAzMjIucG5nJmhhc2g9YjkwOTY2/ZmFiNDgwZTdlNjIwOTdlM2Q1MTliYmVlNjE=.png",
+    "time": "19:08",
+    "date": "09 Apr",
+    "content": "Ministrul Muncii Petre Florin Manole a anunțat că Guvernul a aprobat, în ședința de joi proiectul de modernizare a Agenția Națională pentru Ocuparea Forței de Muncă (ANOFM). Măsura urmărește creșterea șanselor reale ale românilor de a-și găsi un loc de muncă, a mai spus deputatul PSD.",
+    "fetched_at": "2026-04-09T16:50:31.580637"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/republica-moldova/apropiatul-lui-george-simion-in-r-moldova-evita-2521757.html",
+    "title": "Apropiatul lui George Simion în R. Moldova evită să spună cum a ajuns omul lui Ilan Șor candidat la alegerile locale",
+    "image": "https://cdn.adh.reperio.news/image-3/3323f3d7-0383-40f7-91b5-6c71da5c2989/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0.143%252C0.366%252C0.693%252C0.234%26f%3Djpeg&file=image.jpeg",
+    "time": "16:30",
+    "date": "09 Apr",
+    "content": "Vasile Costiuc, liderul Partidului Politic Democrația Acasă (PPDA), a refuzat să explice motivele pentru care l-a desemnat pe Victor Perțu, omul oligarhului fugar Ilan Șor, drept candidat la alegerile locale din municipiul Orhei, subliniind că va oferi explicații după ce acesta va fi admis în cursă",
+    "fetched_at": "2026-04-09T16:50:33.827375"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/dosarul-10-august-tribunalul-militar-bucuresti-renunta-la-audierea-a-sute-de-martori-pentru-a-evita-prescriptia-faptelor/",
+    "title": "Dosarul „10 august”: Tribunalul Militar București renunță la audierea a sute de martori pentru a evita prescripția faptelor | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2018/08/10-august-2018-Gaze-Lacrimogene-la-Protestul-din-Piata-Victoriei-Foto-Octav-Dragan-EUROPAFM.RO-0058.jpg",
+    "time": "13:16",
+    "date": "09 Apr",
+    "content": "Comunitatea Declic anunță că Tribunalul Militar București nu va mai chema aproape 400 de martori în dosarul „10 august”, pentru a evita prescripția faptelor legate de intervenția jandarmeriei asupra protestatarilor pașnici.",
+    "fetched_at": "2026-04-09T16:50:33.183696"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/mapamond/povestea-hotului-care-a-furat-o-geanta-ca-sa-faca-rost-de-bani-dar-in-ea-a-gasit-o-comoara-de-25-milioane-de-euro-3719221",
+    "title": "Povestea hoțului care a furat o geantă ca să facă rost de bani, dar în ea a găsit o comoară de 2,5 milioane de euro",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA5JTJGMjY3OTQwMl8yNjc5/NDAyX2hvdC5qcGcmaGFzaD1lZjgyMDQx/YjgyN2FkZWVlNWJhNDY3YWFjYzg5ZjY1Zg==.jpg",
+    "time": "19:25",
+    "date": "09 Apr",
+    "content": "Un hoţ care a furat din faţa unui bar din centrul Londrei o geantă de mână în care se aflau un ceas şi un ou Fabergé împodobit cu smaralde, în valoare de până la 2,5 milioane de euro, a fost condamnat la peste doi ani de închisoare.",
+    "fetched_at": "2026-04-09T16:50:31.580606"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/anpc-a-aplicat-amenzi-de-38-milioane-de-lei-inainte-de-paste-carcase-de-miel-si-oua-cu-impuritati-printre-nereguli-3719151",
+    "title": "ANPC a aplicat amenzi de 3,8 milioane de lei înainte de Paște: carcase de miel și ouă cu impurități, printre nereguli",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA0JTJGMjY3MzE1NV8yNjcz/MTU1X0ZvdG9KZXQuanBnJmhhc2g9ZGQz/ZGJlMmJiODQ5ZTg2ZjUxMjczODFkOWM0MDU2MzQ=.jpg",
+    "time": "18:50",
+    "date": "09 Apr",
+    "content": "Înaintea sărbătorilor de Paște, comisarii Autoritatea Naţională pentru Protecţia Consumatorilor (ANPC) au aplicat amenzi în valoare totală de 3,8 milioane de lei, în urma controalelor desfășurate la nivel național. Printre neregulile identificate s-au numărat întreținerea necorespunzătoare a spațiilor de depozitare pentru carcasele de miel, ouă cu impurități, produse alimentare cu ambalaje deteriorate și produse din carne fără elemente de identificare.",
+    "fetched_at": "2026-04-09T16:50:31.580668"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/sua/tinerii-intre-18-si-25-de-ani-vor-fi-inscrisi-2521771.html",
+    "title": "Tinerii între 18 și 25 de ani vor fi înscriși automat în baza de date pentru recrutare. Temeri cu privire la introducerea stagiului militar obligatori",
+    "image": "https://cdn.adh.reperio.news/image-b/bc8d89d4-a2ed-4db9-bacd-4eee35262c55/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:29",
+    "date": "09 Apr",
+    "content": "Statele Unite vor să introducă, începând din decembrie 2026, înregistrarea automată a bărbaților eligibili, cu vârste între 18 și 25 de ani, în baza de date pentru recrutare militară, potrivit unei modificări propuse de Sistemul de recrutare militară.",
+    "fetched_at": "2026-04-09T16:50:33.827386"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/mesajul-celui-mai-bogat-om-din-ucraina-pentru-romani-la-catafalcul-lui-mircea-lucescu-fiti-mandri-ca-l-ati-avut-gest-emotionant-al-lui-gica-popescu-23717510",
+    "title": "Mesajul celui mai bogat om din Ucraina pentru români, la catafalcul lui Mircea Lucescu: „Fiți mândri că l-ați avut” / Gest emoționant al lui Gică Pope",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/photo-collage-png-35-e1775719006641-1024x672.png",
+    "time": "15:25",
+    "date": "09 Apr",
+    "content": "Premierul Ilie Bolojan a mers, joi, la Arena Națională, pentru a-i aduce un ultim omagiu lui Mircea Lucescu. Șeful Executivului a ținut un scurt moment de reculegere în fața sicriului și a schimbat câteva cuvinte cu Răzvan Lucescu, fiul marelui antrenor. Și alți politicieni vor merge la catafalc după ora 12:00.",
+    "fetched_at": "2026-04-09T16:50:32.326440"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/alexandru-nazare-anunta-schimbarea-legislatiei-privind-timbrul-muzical-o-gura-de-oxigen-pentru-artisti-3719169",
+    "title": "Alexandru Nazare anunță schimbarea legislației privind timbrul muzical: „O gură de oxigen pentru artiști”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOSUyRjA0JTJGMjM0MzkyN18yMzQz/OTI3XzUyODM0MjM2Ml8xODUyMzk0ODg1/ODA1NjUzOF83MjIzNTI3NzEyMTA3MjU1/MzUxX24uanBnJmhhc2g9MDgzNTFiYTQ5MzJlODg2NzczNzhhN2VmNjg1MmQzNDU=.jpg",
+    "time": "19:03",
+    "date": "09 Apr",
+    "content": "Ministrul Finanţelor, Alexandru Nazare, anunţă că a lucrat, împreună cu Ministerul Culturii, la schimbarea legislaţiei privind timbrul muzical, „o gură de oxigen necesară pentru industria culturală şi artişti în această perioadă”. El arată că îşi doresc ca forma finală a modificărilor legislative să ofere claritate întregii industrii muzicale şi culturale.",
+    "fetched_at": "2026-04-09T16:50:31.580652"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/guvernul-modernizeaza-anofm-cu-bani-europeni-2521767.html",
+    "title": "Guvernul modernizează ANOFM cu bani europeni. Proiectul vizează 275.000 de persoane inactive și 21.000 de angajatori",
+    "image": "https://cdn.adh.reperio.news/image-6/6ecb2f8a-a80e-49d3-993d-d09a5eed1b1c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.314%252C1%252C0.524%26f%3Djpeg&file=image.jpeg",
+    "time": "16:24",
+    "date": "09 Apr",
+    "content": "Guvernul a aprobat joi proiectul de modernizare a ANOFM a anunțat ministrul Muncii, Florin Manole. Potrivit acestuia, obiectivul principal al programului este creșterea șanselor reale ca persoanele aflate în căutarea unui loc de muncă să primească sprijin eficient,",
+    "fetched_at": "2026-04-09T16:50:33.827393"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/sua/iranienii-se-declara-invingatori-nu-invinsi-dupa-2521754.html",
+    "title": "Iranienii se declară învingători, nu învinși, după armistițiul anunțat de Trump. „Este o gură de aer”, spune un expert",
+    "image": "https://cdn.adh.reperio.news/image-e/e07d12ae-260d-437c-a9db-34d30f467b24/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:37",
+    "date": "09 Apr",
+    "content": "După ce Donald Trump a anunțat armistițiul cu Iran, mulțimile au ieșit pe străzile din Teheran fluturând steaguri și celebrând ceea ce autoritățile prezintă drept o victorie, nu o capitulare.",
+    "fetched_at": "2026-04-09T16:50:33.827367"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/sport/ceremonia-funerara-a-lui-lucescu-de-vineri-va-afecta-circulatia-in-bucuresti-detalii-despre-traseul-cortegiului-si-drumuri-inchise-3719215",
+    "title": "Ceremonia funerară a lui Lucescu de vineri va afecta circulația în București: Detalii despre traseul cortegiului și drumuri închise",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNiUyRjA4JTJGMjI3ODE0OF8yMjc4/MTQ4X3Byb2ZpbWVkaWEtMDk5NDExMDM1/OS5qcGcmaGFzaD0xYjhmNzQzMDBkNTcwN2IxODFiMjk4ZjY0Y2MzMzU2MA==.jpg",
+    "time": "19:24",
+    "date": "09 Apr",
+    "content": "Brigada Rutieră a Capitalei a anunțat restricții de trafic și rute ocolitoare pentru vineri, când va avea loc înmormântarea fostului selecționer Mircea Lucescu. Cortegiul funerar se va deplasa de la Arena Națională la Biserica Sfântul Elefterie și apoi la Cimitirul Bellu, iar autoritățile recomandă șoferilor să respecte semnalele polițiștilor și să folosească rutele ocolitoare indicate.",
+    "fetched_at": "2026-04-09T16:50:31.580623"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/plamnul-sua-iran-se-clatina-presedintele-donald-trump-a-respins-solicitarile-iranienilor-au-fost-aruncate-direct-la-gunoi-de-presedinte-si-echipa-lui-spune-purtatoarea-de-cuvant-a/",
+    "title": "Planul SUA-Iran se clatină. Donald Trump a respins solicitările iranienilor: „Au fost aruncate direct la gunoi de președinte și echipa lui”, spune pur",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/sua-iran-foto-shutterstock-2-200x200.jpg",
+    "time": "15:22",
+    "date": "09 Apr",
+    "content": "Armistițiul dintre SUA și Iran este tot mai fragil. Planul de pace al Teheranului, atacurile Israelului și blocajul din Strâmtoarea Ormuz complică negocierile dintre cele două părți.",
+    "fetched_at": "2026-04-09T16:50:33.183675"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/reportaj-de-pe-arena-nationala-mircea-lucescu-omagiat-de-iubitori-ai-fotbalului-si-admiratori-ai-carierei-lui-e-omul-romaniei-a-fost-un-ambasador-pentru-noi-si/",
+    "title": "Reportaj de pe Arena Națională. Mircea Lucescu, omagiat de iubitori ai fotbalului și admiratori ai carierei lui: „E omul României”, „a fost un ambasad",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/arena-nationala-omagii-mircea-lucescu-foto-marta-strambeanu-200x200.jpg",
+    "time": "16:24",
+    "date": "09 Apr",
+    "content": "Atmosferă emoționantă pe Arena Națională, unde sute de oameni au venit să-i aducă un ultim omagiu lui Mircea Lucescu, considerat unul dintre cei mai mari antrenori din istoria României.",
+    "fetched_at": "2026-04-09T16:50:33.183653"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/pasti-rasinari-oua-rosii-traditii-bucate/",
+    "title": "Tradiții autentice de Paște în Mărginimea Sibiului, la Rășinari. Cum arată pregătirile gospodinelor. Doina Bratu: „Paști fără drob nu există”; „Când v",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/oua-traditii-sibiu-Paste-foto-Anca-Marin-EFM-200x200.jpg",
+    "time": "12:56",
+    "date": "09 Apr",
+    "content": "La Rășinari, gospodinele pregătesc Paștele respectând tradițiile moștenite din bătrâni: ouă roșii decorate cu cucută, drob, tocăniță de miel și brânzeturi de casă, toate gătite pe foc de lemne.",
+    "fetched_at": "2026-04-09T16:50:33.183704"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/miliardarul-rinat-ahmetov-despre-prietenia-cu-mircea-lucescu-m-a-invatat-sa-beau-vin-3719157",
+    "title": "Miliardarul Rinat Ahmetov, despre prietenia cu Mircea Lucescu: „M-a învățat să beau vin”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA5JTJGMjY3OTM3NF8yNjc5/Mzc0X3JpbmF0LWFobWVkb3YucG5nJmhh/c2g9NjAxYjlkNTZlMzMyNGMyYjY0ZmZmNGY4NzQ2N2I5ODc=.png",
+    "time": "19:14",
+    "date": "09 Apr",
+    "content": "Patronul clubului Şahtior Doneţk, miliardarul Rinat Ahmetov, a venit joi la Arena Naţională şi i-a adus un ultim omagiu legendarului tehnician Mircea Lucescu. Înainte să plece de la stadion, Ahmetov a făcut câteva declarații în care a evocat prietenia sa cu marele antrenor român. Printre altele, acesta a spus Mircea Lucescu l-a învățat să bea vin alb. „Până să-l cunosc, nu mă atingeam de vin”, a spus miliardarul ucrainean.",
+    "fetched_at": "2026-04-09T16:50:31.580630"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/membru-al-mafiei-camora-cautat-prin-mandat-european-de-arestare-a-fost-retinut-23717937",
+    "title": "Membru al mafiei Camora, căutat prin mandat european de arestare, a fost reținut",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/tevenet-police-car-2946429_1920-1024x678.jpg",
+    "time": "16:17",
+    "date": "09 Apr",
+    "content": "Un bărbat de cetățenie italiană, membru al organizației mafiote napolitane Camora, a fost arestat joi în Beausoleil, un orășel situat lângă Principatul Monaco, nu departe de granița cu Italia.",
+    "fetched_at": "2026-04-09T16:50:32.326409"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/restrictii-rutiere-sambata-in-bucuresti-pentru-inmormantarea-lui-mircea-lucescu.html",
+    "title": "Restricții rutiere, sâmbătă, în București pentru înmormântarea lui Mircea Lucescu",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-11.20.13-1024x683.jpeg",
+    "time": "16:29",
+    "date": "09 Apr",
+    "content": "Pentru deplasarea cortegiului funerar vor fi restricții în traficul rutier din Capitală, începând de sâmbătă, ora 9, când începe ceremonia religioasă de înmormântare a lui Mircea Lucescu, transmite MEDIAFAX. Astfel, începând cu ora 09.00, deplasarea cortegiului funerar de la Arena Națională către Biserica Sfântul Elefterie se va face pe următorul traseu: Str. Maior Coravu – [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-09T16:50:34.442538"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/tarile-nato-fac-tot-ce-le-a-cerut-trump-in-contextul-crizei-cu-iranul-afirma-mark-rutte-aliatii-ofera-un-sprijin-masiv-3719217",
+    "title": "Țările NATO fac tot ce le-a cerut Trump în contextul crizei cu Iranul, afirmă Mark Rutte. „Aliații oferă un sprijin masiv”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMSUyRjA2JTJGMjQyODk1OV8yNDI4/OTU5X21hcmstcnV0dGUtbmF0by00Lmpw/ZyZoYXNoPTg5N2RlNWJmMzc5MzY0MmNkNzNjMGNhOWJmNTFiZmE0.jpg",
+    "time": "19:39",
+    "date": "09 Apr",
+    "content": "Secretarul general al NATO, Mark Rutte, a declarat joi că țările membre fac tot ce a solicitat președintele american Donald Trump pentru a consolida alianța militară, chiar dacă unele dintre ele au fost inițial „puțin reticente” în a oferi sprijin Statelor Unite în contextul conflictului cu Iranul, relatează Reuters, preluată de Haaretz.",
+    "fetched_at": "2026-04-09T16:50:31.580598"
+  },
+  {
+    "source": "Digi24",
     "url": "https://www.digi24.ro/stiri/externe/sub-conducerea-lui-trump-sua-sunt-considerate-o-amenintare-mai-mare-decat-china-pentru-europa-datele-unui-sondaj-politico-3718869",
     "title": "Sub conducerea lui Trump, SUA sunt considerate o amenințare mai mare decât China pentru Europa. Datele unui sondaj Politico",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA2JTJGMjY3NDg1NV8yNjc0/ODU1X2RvbmFsZC10cnVtcC04LmpwZyZo/YXNoPWY0OGM4ODQyMTQxNDBlNTc4Y2VjN2I3NjZlNmY5MjQ0.jpg",
