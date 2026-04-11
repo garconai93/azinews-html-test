@@ -5,13 +5,121 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 11 Apr 2026 00:04:08 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 03:29:22 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>11 aprilie:  Ziua în care s-a născut pictorul român Theodor Pallady</title>
-        <link>https://adevarul.ro/istoria-zilei/11-aprilie-ziua-in-care-s-a-nascut-pictorul-2520201.html</link>
+        <title>9 bărbați și o femeie din România au păcălit polițiștii din Austria de 1.300 de ori și au furat bunuri de 160.000 de euro</title>
+        <link>https://www.libertatea.ro/stiri/9-barbati-si-o-femeie-din-romania-au-pacalit-politistii-din-austria-de-1-300-de-ori-si-au-furat-bunuri-de-160-000-de-euro-5696362</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/9-barbati-si-o-femeie-din-romania-au-pacalit-politistii-din-austria-de-1-300-de-ori-si-au-furat-bunuri-de-160-000-de-euro-5696362</guid>
+    </item>
+    <item>
+        <title>Cine este Emma Delaney, noul CEO al OMV. Este prima femeie care conduce grupul de la înființare</title>
+        <link>https://www.libertatea.ro/stiri/cine-este-emma-delaney-noul-ceo-al-omv-prima-femeie-care-conduce-grupul-5696335</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cine-este-emma-delaney-noul-ceo-al-omv-prima-femeie-care-conduce-grupul-5696335</guid>
+    </item>
+    <item>
+        <title>Doi români au lansat un startup în Elveția și au primit finanțări de 2.000.000 de dolari într-un an</title>
+        <link>https://www.libertatea.ro/stiri/doi-romani-lansat-startup-elvetia-primit-finantari-an-5696379</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/doi-romani-lansat-startup-elvetia-primit-finantari-an-5696379</guid>
+    </item>
+    <item>
+        <title>Livetext Război în Iran, ziua 43. SUA și Iran, negocieri la Islamabad, dar armistițiul e fragil. O singură navă a traversat Strâmtoarea Ormuz</title>
+        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-11-aprilie-2026-5696429</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-11-aprilie-2026-5696429</guid>
+    </item>
+    <item>
+        <title>Comunicarea cu pacientul, una dintre marile provocări ale sistemului medical din România. Lecția din Marea Britanie</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/comunicarea-cu-pacientul-una-dintre-marile-2519666.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/11-aprilie-ziua-in-care-s-a-nascut-pictorul-2520201.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/comunicarea-cu-pacientul-una-dintre-marile-2519666.html</guid>
+    </item>
+    <item>
+        <title>România, văzută de la bordul Artemis II: imaginile uluitoare cu Delta Dunării și Marea Neagră surprinse de astronauții NASA din orbită</title>
+        <link>https://www.libertatea.ro/stiri/romania-vazuta-de-pe-artemis-2-imaginile-uluitoare-cu-delta-dunarii-si-marea-neagra-5696367</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/romania-vazuta-de-pe-artemis-2-imaginile-uluitoare-cu-delta-dunarii-si-marea-neagra-5696367</guid>
+    </item>
+    <item>
+        <title>Cine a fost Sfântul Calinic de la Cernica, sărbătorit pe 11 aprilie, și de ce a fost canonizat</title>
+        <link>https://adevarul.ro/stiri-interne/societate/cine-a-fost-sfantul-calinic-de-la-cernica-2520530.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/cine-a-fost-sfantul-calinic-de-la-cernica-2520530.html</guid>
+    </item>
+    <item>
+        <title>Cum a ajuns UE dependentă de gaz rusesc din Siberia de 2,88 miliarde de euro, din cauza războiului din Iran</title>
+        <link>https://www.libertatea.ro/stiri/ue-dependenta-de-gaz-rusesc-din-cauza-razboiului-din-iran-5696424</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ue-dependenta-de-gaz-rusesc-din-cauza-razboiului-din-iran-5696424</guid>
+    </item>
+    <item>
+        <title>Donald Trump a postat imagini șocante cu un atac din Florida pentru a cere măsuri mai dure împotriva imigranților</title>
+        <link>https://www.libertatea.ro/stiri/donald-trump-postat-imagini-socante-atac-florida-cere-masuri-dure-imigranti-5696422</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-postat-imagini-socante-atac-florida-cere-masuri-dure-imigranti-5696422</guid>
+    </item>
+    <item>
+        <title>Când nu s-a aprins Lumina Sfântă de la Mormântul Sfânt</title>
+        <link>https://www.mediafax.ro/social/cand-nu-s-a-aprins-lumina-sfanta-de-la-mormantul-sfant-23718536</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/cand-nu-s-a-aprins-lumina-sfanta-de-la-mormantul-sfant-23718536</guid>
+    </item>
+    <item>
+        <title>Viktor Orbán ar putea cere anularea alegerilor, în cazul unei victorii a opoziției. Analist român din Marea Britanie: „S-ar putea inspira de la noi”</title>
+        <link>https://adevarul.ro/stiri-externe/viktor-orban-ar-putea-cere-anularea-alegerilor-in-2522007.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/viktor-orban-ar-putea-cere-anularea-alegerilor-in-2522007.html</guid>
+    </item>
+    <item>
+        <title>„Integrity” a aterizat cu succes în Oceanul Pacific. NASA: „Amerizare direct la țintă”</title>
+        <link>https://www.mediafax.ro/externe/integrity-a-aterizat-cu-succes-in-oceanul-pacific-nasa-amerizare-direct-la-tinta-23718552</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/integrity-a-aterizat-cu-succes-in-oceanul-pacific-nasa-amerizare-direct-la-tinta-23718552</guid>
+    </item>
+    <item>
+        <title>O insulă necunoscută a fost descoperită din greșeală de o navă germană</title>
+        <link>https://www.libertatea.ro/stiri/insula-necunoscuta-descoperita-greseala-nava-germana-5696399</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/insula-necunoscuta-descoperita-greseala-nava-germana-5696399</guid>
+    </item>
+    <item>
+        <title>Cum au fost construite minunile ingineriei antice. Dunărea și munții, mutați pentru Podul lui Traian și Sarmizegetusa Regia</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/cum-au-fost-construite-minunile-ingineriei-antice-2518391.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cum-au-fost-construite-minunile-ingineriei-antice-2518391.html</guid>
+    </item>
+    <item>
+        <title>Capsula Orion revine pe Pământ. Unde și când se poate vedea amerizarea celor 4 astronauți</title>
+        <link>https://www.libertatea.ro/stiri/capsula-orion-artemis-2-revine-pamant-unde-cand-se-poate-vedea-amerizarea-5696387</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/capsula-orion-artemis-2-revine-pamant-unde-cand-se-poate-vedea-amerizarea-5696387</guid>
+    </item>
+    <item>
+        <title>Rețeta digitalizării românești: open source, centralizare și salarii corecte</title>
+        <link>https://adevarul.ro/politica/reteta-digitalizarii-romanesti-open-source-2521458.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/reteta-digitalizarii-romanesti-open-source-2521458.html</guid>
+    </item>
+    <item>
+        <title>Premierul britanic, Keir Starmer, spune că rămânerea în NATO este în interesul superior al SUA</title>
+        <link>https://www.mediafax.ro/externe/premierul-britanic-keir-starmer-spune-ca-ramanerea-in-nato-este-in-interesul-superior-al-sua-23718540</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/premierul-britanic-keir-starmer-spune-ca-ramanerea-in-nato-este-in-interesul-superior-al-sua-23718540</guid>
+    </item>
+    <item>
+        <title>Risc ridicat de îngheț în acestă noapte. Agricultorii din nou în alertă</title>
+        <link>https://www.mediafax.ro/meteo/risc-ridicat-de-inghet-in-acesta-noapte-agricultorii-din-nou-in-alerta-23718515</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/meteo/risc-ridicat-de-inghet-in-acesta-noapte-agricultorii-din-nou-in-alerta-23718515</guid>
+    </item>
+    <item>
+        <title>Atac cu cocktail Molotov la locuința șefului Chat GPT. Suspect reținut ulterior la sediul OpenAI din San Francisco</title>
+        <link>https://www.mediafax.ro/tehnologie/atac-cu-cocktail-molotov-la-locuinta-sefului-chat-gpt-suspect-retinut-ulterior-la-sediul-openai-din-san-francisco-23718538</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/atac-cu-cocktail-molotov-la-locuinta-sefului-chat-gpt-suspect-retinut-ulterior-la-sediul-openai-din-san-francisco-23718538</guid>
     </item>
     <item>
         <title>Instanța a interzis o demonstrație pro-palestiniană la memorialul lagărului de concentrare Buchenwald</title>
@@ -26,34 +134,16 @@
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/cultura/filmul-considerat-blestemat-91-de-membri-ai-2520746.html</guid>
     </item>
     <item>
-        <title>„Arc de Trump”. Președintele SUA vrea să construiască un arc de triumf în Washington, de trei ori mai înalt decât cel din București</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/arc-de-trump-presedintele-sua-vrea-sa-construiasca-un-arc-de-triumf-in-washington-de-trei-ori-mai-inalt-decat-cel-din-bucuresti-3721173</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/arc-de-trump-presedintele-sua-vrea-sa-construiasca-un-arc-de-triumf-in-washington-de-trei-ori-mai-inalt-decat-cel-din-bucuresti-3721173</guid>
-    </item>
-    <item>
-        <title>O insulă necunoscută a fost descoperită din greșeală de o navă germană</title>
-        <link>https://www.libertatea.ro/stiri/insula-necunoscuta-descoperita-greseala-nava-germana-5696399</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/insula-necunoscuta-descoperita-greseala-nava-germana-5696399</guid>
-    </item>
-    <item>
-        <title>Cozonacul, desertul tradițional iubit de români: de unde își are originile | AUDIO</title>
-        <link>https://www.europafm.ro/cozonacul-desertul-traditional-iubit-de-romani-de-unde-isi-are-originile/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/cozonacul-desertul-traditional-iubit-de-romani-de-unde-isi-are-originile/</guid>
-    </item>
-    <item>
-        <title>Ministrul Apărării și șeful Statului Major în vizită la militarii români din Bosnia Herțegovina. România preia conducerea misiunii UE</title>
-        <link>https://www.g4media.ro/ministrul-apararii-si-seful-statului-major-in-vizita-la-militarii-romani-din-bosnia-hertegovina-romania-preia-conducerea-misiunii-ue.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ministrul-apararii-si-seful-statului-major-in-vizita-la-militarii-romani-din-bosnia-hertegovina-romania-preia-conducerea-misiunii-ue.html</guid>
-    </item>
-    <item>
         <title>Horoscop sâmbătă, 11 aprilie: ziua sincerității, a inițiativei și a deciziilor luate cu măsură</title>
         <link>https://www.mediafax.ro/social/horoscop-sambata-11-aprilie-ziua-sinceritatii-a-initiativei-si-a-deciziilor-luate-cu-masura-23718545</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/social/horoscop-sambata-11-aprilie-ziua-sinceritatii-a-initiativei-si-a-deciziilor-luate-cu-masura-23718545</guid>
+    </item>
+    <item>
+        <title>Pașii pe care trebuie să îi urmăm pentru a le asigura copiilor echilibrul emoțional. „Ce simți?” și „Ce crezi?”, întrebările care le pot da încredere</title>
+        <link>https://adevarul.ro/dezvoltare-personala/relatii/pasii-pe-care-trebuie-sa-ii-urmam-pentru-a-le-2521447.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/relatii/pasii-pe-care-trebuie-sa-ii-urmam-pentru-a-le-2521447.html</guid>
     </item>
     <item>
         <title>Trump vrea un arc de triumf la Washington, de aproape trei ori mai înalt decât cel din București</title>
@@ -62,64 +152,46 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-vrea-un-arc-de-triumf-la-washington-de-aproape-trei-ori-mai-inalt-decat-cel-din-bucuresti-23718522</guid>
     </item>
     <item>
-        <title>Cum a ajuns UE dependentă de gaz rusesc din Siberia de 2,88 miliarde de euro, din cauza războiului din Iran</title>
-        <link>https://www.libertatea.ro/stiri/ue-dependenta-de-gaz-rusesc-din-cauza-razboiului-din-iran-5696424</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ue-dependenta-de-gaz-rusesc-din-cauza-razboiului-din-iran-5696424</guid>
-    </item>
-    <item>
-        <title>9 bărbați și o femeie din România au păcălit polițiștii din Austria de 1.300 de ori și au furat bunuri de 160.000 de euro</title>
-        <link>https://www.libertatea.ro/stiri/9-barbati-si-o-femeie-din-romania-au-pacalit-politistii-din-austria-de-1-300-de-ori-si-au-furat-bunuri-de-160-000-de-euro-5696362</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/9-barbati-si-o-femeie-din-romania-au-pacalit-politistii-din-austria-de-1-300-de-ori-si-au-furat-bunuri-de-160-000-de-euro-5696362</guid>
-    </item>
-    <item>
-        <title>Doi români au lansat un startup în Elveția și au primit finanțări de 2.000.000 de dolari într-un an</title>
-        <link>https://www.libertatea.ro/stiri/doi-romani-lansat-startup-elvetia-primit-finantari-an-5696379</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/doi-romani-lansat-startup-elvetia-primit-finantari-an-5696379</guid>
-    </item>
-    <item>
-        <title>Tensiuni între Casa Albă și Vatican. Reprezentanții Administrației Trump, „presiuni” asupra ambasadorului Sfântului Scaun la Washington</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/tensiuni-intre-casa-alba-si-vatican-reprezentantii-administratiei-trump-presiuni-asupra-ambasadorului-sfantului-scaun-la-washington-3721127</link>
+        <title>Căsnicia și cancerul: rezultatele uimitoare ale unui studiu privind șansele de îmbolnăvire pentru cei căsătoriți și pentru burlaci</title>
+        <link>https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/casnicia-si-cancerul-rezultatele-uimitoare-ale-unui-studiu-privind-sansele-de-imbolnavire-pentru-cei-casatoriti-si-pentru-burlaci-3721175</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/tensiuni-intre-casa-alba-si-vatican-reprezentantii-administratiei-trump-presiuni-asupra-ambasadorului-sfantului-scaun-la-washington-3721127</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/casnicia-si-cancerul-rezultatele-uimitoare-ale-unui-studiu-privind-sansele-de-imbolnavire-pentru-cei-casatoriti-si-pentru-burlaci-3721175</guid>
     </item>
     <item>
-        <title>Cine este Emma Delaney, noul CEO al OMV. Este prima femeie care conduce grupul de la înființare</title>
-        <link>https://www.libertatea.ro/stiri/cine-este-emma-delaney-noul-ceo-al-omv-prima-femeie-care-conduce-grupul-5696335</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cine-este-emma-delaney-noul-ceo-al-omv-prima-femeie-care-conduce-grupul-5696335</guid>
+        <title>Cozonacul, desertul tradițional iubit de români: de unde își are originile | AUDIO</title>
+        <link>https://www.europafm.ro/cozonacul-desertul-traditional-iubit-de-romani-de-unde-isi-are-originile/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/cozonacul-desertul-traditional-iubit-de-romani-de-unde-isi-are-originile/</guid>
     </item>
     <item>
-        <title>Cum putea fi evitată scumpirea călătoriilor cu metroul. Metrorex plătește 186 de angajați care vând cartele, deși are sute de automate și platformă de</title>
-        <link>https://adevarul.ro/stiri-interne/cum-putea-fi-evitata-scumpirea-calatoriilor-cu-2521020.html</link>
+        <title>Iarmaroc la Sat revine la Cluj: trei zile în care parcul devine un sat viu</title>
+        <link>https://www.mediafax.ro/cultura-media/iarmaroc-la-sat-revine-la-cluj-trei-zile-in-care-parcul-devine-un-sat-viu-23718519</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/iarmaroc-la-sat-revine-la-cluj-trei-zile-in-care-parcul-devine-un-sat-viu-23718519</guid>
+    </item>
+    <item>
+        <title>11 aprilie:  Ziua în care s-a născut pictorul român Theodor Pallady</title>
+        <link>https://adevarul.ro/istoria-zilei/11-aprilie-ziua-in-care-s-a-nascut-pictorul-2520201.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/cum-putea-fi-evitata-scumpirea-calatoriilor-cu-2521020.html</guid>
-    </item>
-    <item>
-        <title>Bombardamente israeliene fără precedent asupra Beirutului și riscul anulării Acordului de Asociere UE-Israel</title>
-        <link>https://adevarul.ro/blogurile-adevarul/bombardamente-israeliene-fara-precedent-asupra-2522019.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/bombardamente-israeliene-fara-precedent-asupra-2522019.html</guid>
-    </item>
-    <item>
-        <title>Capsula Orion revine pe Pământ. Unde și când se poate vedea amerizarea celor 4 astronauți</title>
-        <link>https://www.libertatea.ro/stiri/capsula-orion-artemis-2-revine-pamant-unde-cand-se-poate-vedea-amerizarea-5696387</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/capsula-orion-artemis-2-revine-pamant-unde-cand-se-poate-vedea-amerizarea-5696387</guid>
-    </item>
-    <item>
-        <title>România, văzută de la bordul Artemis II: imaginile uluitoare cu Delta Dunării și Marea Neagră surprinse de astronauții NASA din orbită</title>
-        <link>https://www.libertatea.ro/stiri/romania-vazuta-de-pe-artemis-2-imaginile-uluitoare-cu-delta-dunarii-si-marea-neagra-5696367</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/romania-vazuta-de-pe-artemis-2-imaginile-uluitoare-cu-delta-dunarii-si-marea-neagra-5696367</guid>
+        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/11-aprilie-ziua-in-care-s-a-nascut-pictorul-2520201.html</guid>
     </item>
     <item>
         <title>Dmitri Medvedev a fost numit redactor-șef al noilor manuale școlare rusești</title>
         <link>https://www.digi24.ro/stiri/externe/rusia/dmitri-medvedev-a-fost-numit-redactor-sef-al-noilor-manuale-scolare-rusesti-3721185</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/dmitri-medvedev-a-fost-numit-redactor-sef-al-noilor-manuale-scolare-rusesti-3721185</guid>
+    </item>
+    <item>
+        <title>„Arc de Trump”. Președintele SUA vrea să construiască un arc de triumf în Washington, de trei ori mai înalt decât cel din București</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/arc-de-trump-presedintele-sua-vrea-sa-construiasca-un-arc-de-triumf-in-washington-de-trei-ori-mai-inalt-decat-cel-din-bucuresti-3721173</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/arc-de-trump-presedintele-sua-vrea-sa-construiasca-un-arc-de-triumf-in-washington-de-trei-ori-mai-inalt-decat-cel-din-bucuresti-3721173</guid>
+    </item>
+    <item>
+        <title>Un ONG african îl dă în judecată pe Prințul Harry pentru prejudiciul adus reputației sale</title>
+        <link>https://www.mediafax.ro/externe/un-ong-african-il-da-in-judecata-pe-printul-harry-pentru-prejudiciul-adus-reputatiei-sale-23718534</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-ong-african-il-da-in-judecata-pe-printul-harry-pentru-prejudiciul-adus-reputatiei-sale-23718534</guid>
     </item>
     <item>
         <title>Slujbă de Înviere, în spatele gratiilor. Ce li s-a pregătit deținuților de la Penitenciarul Rahova</title>
@@ -134,52 +206,10 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/conducerea-armatei-romane-vizita-in-bosnia-si-hertegovina-speram-ca-prezenta-militara-sa-fie-inlocuita-de-o-solutie-politica-3721163</guid>
     </item>
     <item>
-        <title>Rețeta digitalizării românești: open source, centralizare și salarii corecte</title>
-        <link>https://adevarul.ro/politica/reteta-digitalizarii-romanesti-open-source-2521458.html</link>
+        <title>Cum putea fi evitată scumpirea călătoriilor cu metroul. Metrorex plătește 186 de angajați care vând cartele, deși are sute de automate și platformă de</title>
+        <link>https://adevarul.ro/stiri-interne/cum-putea-fi-evitata-scumpirea-calatoriilor-cu-2521020.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/reteta-digitalizarii-romanesti-open-source-2521458.html</guid>
-    </item>
-    <item>
-        <title>Atac cu cocktail Molotov la locuița lui Sam Altman, CEO-ul OpenAI. Un suspect a fost arestat</title>
-        <link>https://www.digi24.ro/stiri/actualitate/atac-cu-cocktail-molotov-la-locuita-lui-sam-altman-ceo-ul-openai-un-suspect-a-fost-arestat-3721137</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/atac-cu-cocktail-molotov-la-locuita-lui-sam-altman-ceo-ul-openai-un-suspect-a-fost-arestat-3721137</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 43. SUA și Iran, negocieri la Islamabad, dar armistițiul e fragil. O singură navă a traversat Strâmtoarea Ormuz</title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-11-aprilie-2026-5696429</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-11-aprilie-2026-5696429</guid>
-    </item>
-    <item>
-        <title>Risc ridicat de îngheț în acestă noapte. Agricultorii din nou în alertă</title>
-        <link>https://www.mediafax.ro/meteo/risc-ridicat-de-inghet-in-acesta-noapte-agricultorii-din-nou-in-alerta-23718515</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/meteo/risc-ridicat-de-inghet-in-acesta-noapte-agricultorii-din-nou-in-alerta-23718515</guid>
-    </item>
-    <item>
-        <title>Cele cinci puncte nevralgice ale negocierilor dintre SUA și Iran: de la atacurile israeliene în Liban la sancțiunile internaționale</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/cele-cinci-puncte-nevralgice-ale-negocierilor-dintre-sua-si-iran-de-la-atacurile-israeliene-in-liban-la-sanctiunile-internationale-3721129</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/cele-cinci-puncte-nevralgice-ale-negocierilor-dintre-sua-si-iran-de-la-atacurile-israeliene-in-liban-la-sanctiunile-internationale-3721129</guid>
-    </item>
-    <item>
-        <title>Premierul britanic, Keir Starmer, spune că rămânerea în NATO este în interesul superior al SUA</title>
-        <link>https://www.mediafax.ro/externe/premierul-britanic-keir-starmer-spune-ca-ramanerea-in-nato-este-in-interesul-superior-al-sua-23718540</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/premierul-britanic-keir-starmer-spune-ca-ramanerea-in-nato-este-in-interesul-superior-al-sua-23718540</guid>
-    </item>
-    <item>
-        <title>Un ONG african îl dă în judecată pe Prințul Harry pentru prejudiciul adus reputației sale</title>
-        <link>https://www.mediafax.ro/externe/un-ong-african-il-da-in-judecata-pe-printul-harry-pentru-prejudiciul-adus-reputatiei-sale-23718534</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-ong-african-il-da-in-judecata-pe-printul-harry-pentru-prejudiciul-adus-reputatiei-sale-23718534</guid>
-    </item>
-    <item>
-        <title>În ce mari orașe din România se organizează evenimente de Paște. „Chiar și într-o perioadă dificilă, este esențial să continuăm să investim în imagine</title>
-        <link>https://adevarul.ro/stiri-interne/societate/in-ce-mari-orase-din-romania-se-organizeaza-2521747.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/in-ce-mari-orase-din-romania-se-organizeaza-2521747.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/cum-putea-fi-evitata-scumpirea-calatoriilor-cu-2521020.html</guid>
     </item>
     <item>
         <title>Risc ridicat de îngheț în noaptea de vineri spre sâmbătă</title>
@@ -188,46 +218,52 @@
         <guid isPermaLink="true">https://www.g4media.ro/risc-ridicat-de-inghet-in-noaptea-de-vineri-spre-sambata.html</guid>
     </item>
     <item>
-        <title>Căsnicia și cancerul: rezultatele uimitoare ale unui studiu privind șansele de îmbolnăvire pentru cei căsătoriți și pentru burlaci</title>
-        <link>https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/casnicia-si-cancerul-rezultatele-uimitoare-ale-unui-studiu-privind-sansele-de-imbolnavire-pentru-cei-casatoriti-si-pentru-burlaci-3721175</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/casnicia-si-cancerul-rezultatele-uimitoare-ale-unui-studiu-privind-sansele-de-imbolnavire-pentru-cei-casatoriti-si-pentru-burlaci-3721175</guid>
-    </item>
-    <item>
         <title>Risc ridicat de îngheț în acestă nopate. Agricultorii din nou în alertă</title>
         <link>https://www.mediafax.ro/meteo/risc-ridicat-de-inghet-in-acesta-nopate-agricultorii-din-nou-in-alerta-23718515</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/meteo/risc-ridicat-de-inghet-in-acesta-nopate-agricultorii-din-nou-in-alerta-23718515</guid>
     </item>
     <item>
-        <title>Donald Trump a postat imagini șocante cu un atac din Florida pentru a cere măsuri mai dure împotriva imigranților</title>
-        <link>https://www.libertatea.ro/stiri/donald-trump-postat-imagini-socante-atac-florida-cere-masuri-dure-imigranti-5696422</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-postat-imagini-socante-atac-florida-cere-masuri-dure-imigranti-5696422</guid>
+        <title>Tensiuni între Casa Albă și Vatican. Reprezentanții Administrației Trump, „presiuni” asupra ambasadorului Sfântului Scaun la Washington</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/tensiuni-intre-casa-alba-si-vatican-reprezentantii-administratiei-trump-presiuni-asupra-ambasadorului-sfantului-scaun-la-washington-3721127</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/tensiuni-intre-casa-alba-si-vatican-reprezentantii-administratiei-trump-presiuni-asupra-ambasadorului-sfantului-scaun-la-washington-3721127</guid>
+    </item>
+    <item>
+        <title>Atac cu cocktail Molotov la locuița lui Sam Altman, CEO-ul OpenAI. Un suspect a fost arestat</title>
+        <link>https://www.digi24.ro/stiri/actualitate/atac-cu-cocktail-molotov-la-locuita-lui-sam-altman-ceo-ul-openai-un-suspect-a-fost-arestat-3721137</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/atac-cu-cocktail-molotov-la-locuita-lui-sam-altman-ceo-ul-openai-un-suspect-a-fost-arestat-3721137</guid>
+    </item>
+    <item>
+        <title>Bombardamente israeliene fără precedent asupra Beirutului și riscul anulării Acordului de Asociere UE-Israel</title>
+        <link>https://adevarul.ro/blogurile-adevarul/bombardamente-israeliene-fara-precedent-asupra-2522019.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/bombardamente-israeliene-fara-precedent-asupra-2522019.html</guid>
+    </item>
+    <item>
+        <title>Cele cinci puncte nevralgice ale negocierilor dintre SUA și Iran: de la atacurile israeliene în Liban la sancțiunile internaționale</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/cele-cinci-puncte-nevralgice-ale-negocierilor-dintre-sua-si-iran-de-la-atacurile-israeliene-in-liban-la-sanctiunile-internationale-3721129</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/cele-cinci-puncte-nevralgice-ale-negocierilor-dintre-sua-si-iran-de-la-atacurile-israeliene-in-liban-la-sanctiunile-internationale-3721129</guid>
+    </item>
+    <item>
+        <title>Ministrul Apărării și șeful Statului Major în vizită la militarii români din Bosnia Herțegovina. România preia conducerea misiunii UE</title>
+        <link>https://www.g4media.ro/ministrul-apararii-si-seful-statului-major-in-vizita-la-militarii-romani-din-bosnia-hertegovina-romania-preia-conducerea-misiunii-ue.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ministrul-apararii-si-seful-statului-major-in-vizita-la-militarii-romani-din-bosnia-hertegovina-romania-preia-conducerea-misiunii-ue.html</guid>
+    </item>
+    <item>
+        <title>În ce mari orașe din România se organizează evenimente de Paște. „Chiar și într-o perioadă dificilă, este esențial să continuăm să investim în imagine</title>
+        <link>https://adevarul.ro/stiri-interne/societate/in-ce-mari-orase-din-romania-se-organizeaza-2521747.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/in-ce-mari-orase-din-romania-se-organizeaza-2521747.html</guid>
     </item>
     <item>
         <title>Când va fi gata Autostrada A0, cea mai așteptată șosea de mare vitează a României. Explicațiile directorului „Pro Infrastructură”</title>
         <link>https://adevarul.ro/stiri-interne/evenimente/cand-va-fi-gata-autostrada-a0-cea-mai-asteptata-2521347.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/cand-va-fi-gata-autostrada-a0-cea-mai-asteptata-2521347.html</guid>
-    </item>
-    <item>
-        <title>Atac cu cocktail Molotov la locuința șefului Chat GPT. Suspect reținut ulterior la sediul OpenAI din San Francisco</title>
-        <link>https://www.mediafax.ro/tehnologie/atac-cu-cocktail-molotov-la-locuinta-sefului-chat-gpt-suspect-retinut-ulterior-la-sediul-openai-din-san-francisco-23718538</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/atac-cu-cocktail-molotov-la-locuinta-sefului-chat-gpt-suspect-retinut-ulterior-la-sediul-openai-din-san-francisco-23718538</guid>
-    </item>
-    <item>
-        <title>Pașii pe care trebuie să îi urmăm pentru a le asigura copiilor echilibrul emoțional. „Ce simți?” și „Ce crezi?”, întrebările care le pot da încredere</title>
-        <link>https://adevarul.ro/dezvoltare-personala/relatii/pasii-pe-care-trebuie-sa-ii-urmam-pentru-a-le-2521447.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/relatii/pasii-pe-care-trebuie-sa-ii-urmam-pentru-a-le-2521447.html</guid>
-    </item>
-    <item>
-        <title>Iarmaroc la Sat revine la Cluj: trei zile în care parcul devine un sat viu</title>
-        <link>https://www.mediafax.ro/cultura-media/iarmaroc-la-sat-revine-la-cluj-trei-zile-in-care-parcul-devine-un-sat-viu-23718519</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/iarmaroc-la-sat-revine-la-cluj-trei-zile-in-care-parcul-devine-un-sat-viu-23718519</guid>
     </item>
     <item>
         <title>„Eu i-am prezentat-o pe Melania lui Donald Trump, nu Jeffrey Epstein”. Cine este italianul care le-a făcut cunoștință celor doi</title>
@@ -330,42 +366,6 @@
         <link>https://adevarul.ro/stiri-externe/europa/tara-in-care-soferii-cu-masini-scumpe-fura-2522012.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/tara-in-care-soferii-cu-masini-scumpe-fura-2522012.html</guid>
-    </item>
-    <item>
-        <title>Avertismentul lui Zelenski dacă SUA se retrag din NATO. Ce țări ar trebui să intre în UE pentru rezolvarea situației</title>
-        <link>https://adevarul.ro/stiri-externe/europa/avertismentul-lui-zelenski-daca-sua-se-retrag-din-2522006.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/avertismentul-lui-zelenski-daca-sua-se-retrag-din-2522006.html</guid>
-    </item>
-    <item>
-        <title>Artemis 2 revine pe Pământ în această noapte. Reintrarea în atmosferă, cel mai periculos moment</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/artemis-2-revine-pe-pamant-in-aceasta-noapte-2522014.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/artemis-2-revine-pe-pamant-in-aceasta-noapte-2522014.html</guid>
-    </item>
-    <item>
-        <title>Accident violent cu ATV în Gorj. Două persoane rănite, una în stare critică</title>
-        <link>https://www.mediafax.ro/social/accident-violent-cu-atv-in-gorj-doua-persoane-ranite-una-in-stare-critica-23718505</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/accident-violent-cu-atv-in-gorj-doua-persoane-ranite-una-in-stare-critica-23718505</guid>
-    </item>
-    <item>
-        <title>După ce a intrat în conflict cu Donald Trump și Israelul, Pedro Sanchez prezintă Spania ca model moral pentru UE</title>
-        <link>https://www.digi24.ro/stiri/externe/dupa-ce-a-intrat-in-conflict-cu-donald-trump-si-israelul-pedro-sanchez-prezinta-spania-ca-model-moral-pentru-ue-3721029</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/dupa-ce-a-intrat-in-conflict-cu-donald-trump-si-israelul-pedro-sanchez-prezinta-spania-ca-model-moral-pentru-ue-3721029</guid>
-    </item>
-    <item>
-        <title>Trump amenință Iranul înaintea negocierilor din Pakistan: „Singurul motiv pentru care sunt în viață astăzi este să negocieze!”</title>
-        <link>https://www.mediafax.ro/externe/trump-ameninta-iranul-inaintea-negocierilor-din-pakistan-singurul-motiv-pentru-care-sunt-in-viata-astazi-este-sa-negocieze-23718497</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-ameninta-iranul-inaintea-negocierilor-din-pakistan-singurul-motiv-pentru-care-sunt-in-viata-astazi-este-sa-negocieze-23718497</guid>
-    </item>
-    <item>
-        <title>După Soros, Zelenski: noul „dușman” din arsenalul electoral al lui Orban</title>
-        <link>https://www.mediafax.ro/externe/dupa-soros-zelenski-noul-dusman-din-arsenalul-electoral-al-lui-orban-23718491</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/dupa-soros-zelenski-noul-dusman-din-arsenalul-electoral-al-lui-orban-23718491</guid>
     </item>
 </channel>
 </rss>
