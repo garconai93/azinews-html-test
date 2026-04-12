@@ -5,103 +5,25 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 12 Apr 2026 12:01:44 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 13:45:46 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Cum a fost furat trupul lui Charlie Chaplin cu tot cu sicriul de 135 kg. După ce au fost prinși, hoții nu-și mai aminteau unde l-au ascuns</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/cum-a-fost-furat-trupul-lui-charlie-chaplin-cu-tot-2522207.html</link>
+        <title>Ion Țiriac, „interogat” de un doctor în Dubai. Magnatul s-a aflat în centrul atenției la un cabinet din Emirate: „Toată lumea crede, dar nu e adevărat</title>
+        <link>https://adevarul.ro/sport/ion-tiriac-interogat-de-un-doctor-in-dubai-2522205.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cum-a-fost-furat-trupul-lui-charlie-chaplin-cu-tot-2522207.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/sport/ion-tiriac-interogat-de-un-doctor-in-dubai-2522205.html</guid>
     </item>
     <item>
-        <title>Părintele Grigore Alexandru Meșteroaie, despre importanța Învierii pentru creștini: Este turnesolul credinței noastre | AUDIO</title>
-        <link>https://www.europafm.ro/invierea-testul-fiecarui-crestin-preot-campina/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/invierea-testul-fiecarui-crestin-preot-campina/</guid>
-    </item>
-    <item>
-        <title>Conducta de petrol din vestul Arabiei Saudite, esențială pentru exporturi, a fost repusă în funcțiune după atacuri</title>
-        <link>https://www.digi24.ro/stiri/externe/conducta-de-petrol-din-vestul-arabiei-saudite-esentiala-pentru-exporturi-a-fost-repusa-in-functiune-dupa-atacuri-3722981</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/conducta-de-petrol-din-vestul-arabiei-saudite-esentiala-pentru-exporturi-a-fost-repusa-in-functiune-dupa-atacuri-3722981</guid>
-    </item>
-    <item>
-        <title>Atac cu drone în ziua de Paște în regiunea Harkov din Ucraina: civili răniți</title>
-        <link>https://www.mediafax.ro/externe/atac-cu-drone-in-ziua-de-paste-in-regiunea-harkov-din-ucraina-civili-raniti-23718986</link>
+        <title>Putin este decis să ajute la rezolvarea conflictului din Iran</title>
+        <link>https://www.mediafax.ro/stirile-zilei/putin-este-decis-sa-ajute-la-rezolvarea-conflictului-din-iran-23719033</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/atac-cu-drone-in-ziua-de-paste-in-regiunea-harkov-din-ucraina-civili-raniti-23718986</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/putin-este-decis-sa-ajute-la-rezolvarea-conflictului-din-iran-23719033</guid>
     </item>
     <item>
-        <title>Trafic feroviar întrerupt pe linia București – Constanța, după ce un tren a lovit mortal o femeie</title>
-        <link>https://www.g4media.ro/trafic-feroviar-intrerupt-pe-linia-bucuresti-constanta-dupa-ce-un-tren-a-lovit-mortal-o-femeie.html</link>
+        <title>Kremlinul nu se așteaptă la o prăbușire a NATO și vorbește despre negocieri dificile cu Ucraina</title>
+        <link>https://www.g4media.ro/kremlinul-nu-se-asteapta-la-o-prabusire-a-nato-si-vorbeste-despre-negocieri-dificile-cu-ucraina.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/trafic-feroviar-intrerupt-pe-linia-bucuresti-constanta-dupa-ce-un-tren-a-lovit-mortal-o-femeie.html</guid>
-    </item>
-    <item>
-        <title>Accident grav în Caraș-Severin: șoferul a murit după ce a intrat cu mașina într-o casă. Trei copii și o femeie au fost răniți</title>
-        <link>https://www.digi24.ro/stiri/accident-grav-in-caras-severin-soferul-a-murit-dupa-ce-a-intrat-cu-masina-intr-o-casa-trei-copii-si-o-femeie-au-fost-raniti-3722879</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/accident-grav-in-caras-severin-soferul-a-murit-dupa-ce-a-intrat-cu-masina-intr-o-casa-trei-copii-si-o-femeie-au-fost-raniti-3722879</guid>
-    </item>
-    <item>
-        <title>Un nou schimb de prizonieri ucraineni va fi pregătit până la sfârșitul săptămânii viitoare</title>
-        <link>https://www.mediafax.ro/externe/un-nou-schimb-de-prizonieri-ucraineni-va-fi-pregatit-pana-la-sfarsitul-saptamanii-viitoare-23718978</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-nou-schimb-de-prizonieri-ucraineni-va-fi-pregatit-pana-la-sfarsitul-saptamanii-viitoare-23718978</guid>
-    </item>
-    <item>
-        <title>Procesul furtului coifului dacic de la Coțofenești se complică</title>
-        <link>https://www.mediafax.ro/externe/procesul-furtului-coifului-dacic-de-la-cotofenesti-se-complica-23718933</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/procesul-furtului-coifului-dacic-de-la-cotofenesti-se-complica-23718933</guid>
-    </item>
-    <item>
-        <title>Ucraina raportează 2.299 de încălcări ale armistiţiului de Paşte / Rusia acuză Kievul că l-a încălcat de 1.971 de ori</title>
-        <link>https://www.g4media.ro/ucraina-raporteaza-2-299-de-incalcari-ale-armistitiului-de-paste-rusia-acuza-kievul-ca-l-a-incalcat-de-1-971-de-ori.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ucraina-raporteaza-2-299-de-incalcari-ale-armistitiului-de-paste-rusia-acuza-kievul-ca-l-a-incalcat-de-1-971-de-ori.html</guid>
-    </item>
-    <item>
-        <title>EXPERIMENT: Pe o stradă din San Francisco a fost deschis primul magazin condus de IA</title>
-        <link>https://www.g4media.ro/experiment-pe-o-strada-din-san-francisco-a-fost-deschis-primul-magazin-condus-de-ia.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/experiment-pe-o-strada-din-san-francisco-a-fost-deschis-primul-magazin-condus-de-ia.html</guid>
-    </item>
-    <item>
-        <title>Monumente funerare din Cimitirul Evreiesc din Reghin, răsturnate de persoane necunoscute. Poliția face cercetări</title>
-        <link>https://www.mediafax.ro/social/monumente-funerare-din-cimitirul-evreiesc-din-reghin-rasturnate-de-persoane-necunoscute-politia-face-cercetari-23719006</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/monumente-funerare-din-cimitirul-evreiesc-din-reghin-rasturnate-de-persoane-necunoscute-politia-face-cercetari-23719006</guid>
-    </item>
-    <item>
-        <title>Povestea jucătorilor de la Polymarket care pariază milioane pe război (Anchetă The Guardian)</title>
-        <link>https://www.g4media.ro/povestea-jucatorilor-de-la-polymarket-care-pariaza-milioane-pe-razboi-ancheta-the-guardian.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/povestea-jucatorilor-de-la-polymarket-care-pariaza-milioane-pe-razboi-ancheta-the-guardian.html</guid>
-    </item>
-    <item>
-        <title>Trump se află în fața unei alegeri dificile: escaladarea conflictului sau negocierea (analiști)</title>
-        <link>https://www.digi24.ro/stiri/externe/trump-se-afla-in-fata-unei-alegeri-dificile-escaladarea-conflictului-sau-negocierea-analisti-3722867</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/trump-se-afla-in-fata-unei-alegeri-dificile-escaladarea-conflictului-sau-negocierea-analisti-3722867</guid>
-    </item>
-    <item>
-        <title>Ce simbolizează „A doua Înviere” și „Săptămâna Luminată”: explicațiile Arhiepiscopului Clujului, Înaltpreasfințitul Andrei | AUDIO</title>
-        <link>https://www.europafm.ro/ce-simbolizeaza-a-doua-inviere-si-saptamana-luminata-explicatiile-arhiepiscopului-clujului-inaltpreasfintitul-andrei/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ce-simbolizeaza-a-doua-inviere-si-saptamana-luminata-explicatiile-arhiepiscopului-clujului-inaltpreasfintitul-andrei/</guid>
-    </item>
-    <item>
-        <title>Ungaria votează ca niciodată. Scrutinul din 2026 amenință să spulbere toate recordurile de participare</title>
-        <link>https://www.mediafax.ro/externe/ungaria-voteaza-ca-niciodata-scrutinul-din-2026-ameninta-sa-spulbere-toate-recordurile-de-participare-23718964</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ungaria-voteaza-ca-niciodata-scrutinul-din-2026-ameninta-sa-spulbere-toate-recordurile-de-participare-23718964</guid>
-    </item>
-    <item>
-        <title>Ministerul Economiei scoate la licitație un contract de 1,5 milioane de lei pentru curățenie. Când se depun ofertele</title>
-        <link>https://www.digi24.ro/stiri/economie/ministerul-economiei-scoate-la-licitatie-un-contract-de-15-milioane-de-lei-pentru-curatenie-cand-se-depun-ofertele-3723111</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/ministerul-economiei-scoate-la-licitatie-un-contract-de-15-milioane-de-lei-pentru-curatenie-cand-se-depun-ofertele-3723111</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/kremlinul-nu-se-asteapta-la-o-prabusire-a-nato-si-vorbeste-despre-negocieri-dificile-cu-ucraina.html</guid>
     </item>
     <item>
         <title>Se scrie istorie în Germania: O femeie, numită antrenor la o echipă masculină din prima ligă</title>
@@ -110,22 +32,22 @@
         <guid isPermaLink="true">https://www.mediafax.ro/sport/se-scrie-istorie-in-germania-o-femeie-numita-antrenor-la-o-echipa-masculina-din-prima-liga-23718975</guid>
     </item>
     <item>
-        <title>„Prea puternică pentru public”: în culisele eforturilor companiei Anthropic de a câștiga războiul de imagine în domeniul IA</title>
-        <link>https://www.g4media.ro/prea-puternica-pentru-public-in-culisele-eforturilor-companiei-anthropic-de-a-castiga-razboiul-de-imagine-in-domeniul-ia.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/prea-puternica-pentru-public-in-culisele-eforturilor-companiei-anthropic-de-a-castiga-razboiul-de-imagine-in-domeniul-ia.html</guid>
-    </item>
-    <item>
-        <title>Procesul furtului coifului dacic de la Coțofenești se complică: Unul dintre cei trei suspecți refuză orice înțelegere cu procurorii</title>
-        <link>https://www.g4media.ro/procesul-furtului-coifului-dacic-de-la-cotofenesti-se-complica-unul-dintre-cei-trei-suspecti-refuza-orice-intelegere-cu-procurorii.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/procesul-furtului-coifului-dacic-de-la-cotofenesti-se-complica-unul-dintre-cei-trei-suspecti-refuza-orice-intelegere-cu-procurorii.html</guid>
-    </item>
-    <item>
-        <title>Alegeri în Ungaria. Poate fi dedus rezultatul alegerilor din datele privind prezența la vot în timpul zilei?</title>
-        <link>https://adevarul.ro/stiri-externe/europa/alegeri-in-ungaria-poate-fi-dedus-rezultatul-2522211.html</link>
+        <title>Tradiție explozivă de Paște într-o insulă din Grecia: Două biserici rivale se „bombardează” cu rachete în noaptea de Înviere</title>
+        <link>https://adevarul.ro/stiri-externe/europa/traditie-exploziva-de-paste-intr-o-insula-din-2522200.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/alegeri-in-ungaria-poate-fi-dedus-rezultatul-2522211.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/traditie-exploziva-de-paste-intr-o-insula-din-2522200.html</guid>
+    </item>
+    <item>
+        <title>Flotila de ajutor pentru Fâșia Gaza își propune să rupă blocada israeliană</title>
+        <link>https://www.mediafax.ro/social/flotila-de-ajutor-pentru-fasia-gaza-isi-propune-sa-rupa-blocada-israeliana-23718953</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/flotila-de-ajutor-pentru-fasia-gaza-isi-propune-sa-rupa-blocada-israeliana-23718953</guid>
+    </item>
+    <item>
+        <title>Rusia se arată dispusă să furnizeze gaze gaze Uniunii Europene dacă va avea un surplus</title>
+        <link>https://www.g4media.ro/rusia-se-arata-dispusa-sa-furnizeze-gaze-gaze-uniunii-europene-daca-va-avea-un-surplus.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/rusia-se-arata-dispusa-sa-furnizeze-gaze-gaze-uniunii-europene-daca-va-avea-un-surplus.html</guid>
     </item>
     <item>
         <title>Adrian Mutu și Daniel Pancu, moment savuros cu Robbie Williams. Cum au ajuns cei doi români la șpriț cu legenda muzicii pop: „Ne-am întâlnit cu el!”</title>
@@ -134,226 +56,34 @@
         <guid isPermaLink="true">https://adevarul.ro/sport/adrian-mutu-si-daniel-pancu-moment-savuros-cu-2522212.html</guid>
     </item>
     <item>
-        <title>Toate privirile vor fi îndreptate spre Justin Bieber la Coachella</title>
-        <link>https://www.g4media.ro/toate-privirile-vor-fi-indreptate-spre-justin-bieber-la-coachella.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/toate-privirile-vor-fi-indreptate-spre-justin-bieber-la-coachella.html</guid>
-    </item>
-    <item>
-        <title>Incident bizar pe un aeroport din Irlanda: un bărbat a urcat pe un avion militar american și a început să-l lovească</title>
-        <link>https://adevarul.ro/stiri-externe/europa/incident-bizar-pe-un-aeroport-din-irlanda-un-2522222.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/incident-bizar-pe-un-aeroport-din-irlanda-un-2522222.html</guid>
-    </item>
-    <item>
-        <title>FT: Ungaria, alegerile pe care toate marile puteri ale lumii vor să le câștige</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ft-ungaria-alegerile-pe-care-toate-marile-puteri-ale-lumii-vor-sa-le-castige-23718936</link>
+        <title>Serialele tip microdrame generate de IA revoluționează industria divertismentului din China</title>
+        <link>https://www.mediafax.ro/stirile-zilei/serialele-tip-microdrame-generate-de-ia-revolutioneaza-industria-divertismentului-din-china-23719019</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ft-ungaria-alegerile-pe-care-toate-marile-puteri-ale-lumii-vor-sa-le-castige-23718936</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/serialele-tip-microdrame-generate-de-ia-revolutioneaza-industria-divertismentului-din-china-23719019</guid>
     </item>
     <item>
-        <title>Survivor România 12 aprilie 2026. Un concurent din echipa Faimoșilor va merge în Exil</title>
-        <link>https://www.libertatea.ro/entertainment/survivor-romania-12-aprilie-2026-un-concurent-din-echipa-faimosilor-va-merge-in-exil-5697340</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/survivor-romania-12-aprilie-2026-un-concurent-din-echipa-faimosilor-va-merge-in-exil-5697340</guid>
-    </item>
-    <item>
-        <title>Colaps Diplomatic la Islamabad-eșecul negocierilor Iran-SUA și fragilitatea armistițiului</title>
-        <link>https://adevarul.ro/blogurile-adevarul/colaps-diplomatic-la-islamabad-esecul-negocierilor-2522170.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/colaps-diplomatic-la-islamabad-esecul-negocierilor-2522170.html</guid>
-    </item>
-    <item>
-        <title>Donald Trump Jr., mesaj de susținere pentru Viktor Orban: „Sperăm că veți vota pentru prietenul și aliatul tatălui meu”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/donald-trump-jr-mesaj-de-sustinere-pentru-viktor-2522208.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/donald-trump-jr-mesaj-de-sustinere-pentru-viktor-2522208.html</guid>
-    </item>
-    <item>
-        <title>Inteligența artificială, între bine și rău. Vasile Bănescu: „Este un instrument perfect neutru”, Francisc Doboș: „Să nu o divinizăm”</title>
-        <link>https://www.digi24.ro/stiri/inteligenta-artificiala-intre-bine-si-rau-vasile-banescu-este-un-instrument-perfect-neutru-francisc-dobos-sa-nu-o-divinizam-3722657</link>
+        <title>China și criza energetică globală: diversificarea și stocurile reduc presiunea pe economie, arată analiștii</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/china-si-criza-energetica-globala-diversificarea-si-stocurile-reduc-presiunea-pe-economie-arata-analistii-3722917</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/inteligenta-artificiala-intre-bine-si-rau-vasile-banescu-este-un-instrument-perfect-neutru-francisc-dobos-sa-nu-o-divinizam-3722657</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/china-si-criza-energetica-globala-diversificarea-si-stocurile-reduc-presiunea-pe-economie-arata-analistii-3722917</guid>
     </item>
     <item>
-        <title>Armistițiul de Paște, încălcat de mii de ori pe frontul din Ucraina. Kievul și Moscova se acuză reciproc</title>
-        <link>https://www.digi24.ro/stiri/externe/armistitiul-de-paste-incalcat-de-mii-de-ori-pe-frontul-din-ucraina-kievul-si-moscova-se-acuza-reciproc-3722895</link>
+        <title>Cum a fost furat trupul lui Charlie Chaplin cu tot cu sicriul de 135 kg. După ce au fost prinși, hoții nu-și mai aminteau unde l-au ascuns</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/cum-a-fost-furat-trupul-lui-charlie-chaplin-cu-tot-2522207.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cum-a-fost-furat-trupul-lui-charlie-chaplin-cu-tot-2522207.html</guid>
+    </item>
+    <item>
+        <title>O rețea de escroci, majoritatea români, descoperită în Austria. Bunurile obținute erau vândute în București</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/o-retea-de-escroci-majoritatea-romani-2522230.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/o-retea-de-escroci-majoritatea-romani-2522230.html</guid>
+    </item>
+    <item>
+        <title>Conducta de petrol din vestul Arabiei Saudite, esențială pentru exporturi, a fost repusă în funcțiune după atacuri</title>
+        <link>https://www.digi24.ro/stiri/externe/conducta-de-petrol-din-vestul-arabiei-saudite-esentiala-pentru-exporturi-a-fost-repusa-in-functiune-dupa-atacuri-3722981</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/armistitiul-de-paste-incalcat-de-mii-de-ori-pe-frontul-din-ucraina-kievul-si-moscova-se-acuza-reciproc-3722895</guid>
-    </item>
-    <item>
-        <title>Alegeri Ungaria 2026. Prezență dublă la vot față de scrutinul din 2022. Cozi uriașe la urne: „O aglomerație incredibilă, mulți tineri”</title>
-        <link>https://www.digi24.ro/stiri/externe/alegeri-in-ungaria-dupa-16-ani-viktor-orban-si-partidul-sau-fidesz-ar-putea-pierde-puterea-cum-se-desfasoara-votul-3722057</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/alegeri-in-ungaria-dupa-16-ani-viktor-orban-si-partidul-sau-fidesz-ar-putea-pierde-puterea-cum-se-desfasoara-votul-3722057</guid>
-    </item>
-    <item>
-        <title>Milioane de utilizatori Android, în alertă: 50 de aplicații din Google Play au fost infectate cu un soft periculos</title>
-        <link>https://adevarul.ro/stil-de-viata/tehnologie/milioane-de-utilizatori-android-in-alerta-50-de-2522184.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/tehnologie/milioane-de-utilizatori-android-in-alerta-50-de-2522184.html</guid>
-    </item>
-    <item>
-        <title>Marie-Louise Eta va deveni prima femeie care antrenează o echipă masculină într-una dintre cele cinci ligi de top din Europa</title>
-        <link>https://www.g4media.ro/marie-louise-eta-va-deveni-prima-femeie-care-antreneaza-o-echipa-masculina-intr-una-dintre-cele-cinci-ligi-de-top-din-europa.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/marie-louise-eta-va-deveni-prima-femeie-care-antreneaza-o-echipa-masculina-intr-una-dintre-cele-cinci-ligi-de-top-din-europa.html</guid>
-    </item>
-    <item>
-        <title>Povestea Antoniei Ursu, micuța balerină de 11 ani, calificată în finala Youth America Grand Prix din Texas. „În momentul în care încep să dansez, oric</title>
-        <link>https://www.libertatea.ro/stiri/povestea-antoniei-ursu-micuta-balerina-de-11-ani-calificata-in-finala-youth-america-grand-prix-din-texas-in-momentul-in-care-incep-sa-dansez-orice-durere-orice-gand-sau-emotie-dispar-ia-5692736</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/povestea-antoniei-ursu-micuta-balerina-de-11-ani-calificata-in-finala-youth-america-grand-prix-din-texas-in-momentul-in-care-incep-sa-dansez-orice-durere-orice-gand-sau-emotie-dispar-ia-5692736</guid>
-    </item>
-    <item>
-        <title>Top 10 tradiții, obiceiuri și superstiții de Paşte. Ce e bine şi ce nu e bine de sărbătorile pascale</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/top-10-traditii-obiceiuri-si-superstitii-de-2522210.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/top-10-traditii-obiceiuri-si-superstitii-de-2522210.html</guid>
-    </item>
-    <item>
-        <title>Fan Courier a închis toate agențiile din țară: clienții nu vor mai putea ridica sau trimite colete direct din sedii</title>
-        <link>https://www.libertatea.ro/stiri/fan-courier-inchide-agentii-romania-locker-fanbox-colete-5697472</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/fan-courier-inchide-agentii-romania-locker-fanbox-colete-5697472</guid>
-    </item>
-    <item>
-        <title>FOTO Paște în Italia: „Dacă ne-am născut în tradiția asta, eu cred că în orice loc din mondo, ar trebui menținută” / Peste o mie de românii s-au aduna</title>
-        <link>https://www.g4media.ro/foto-paste-in-italia-daca-ne-am-nascut-in-traditia-asta-eu-cred-ca-in-orice-loc-din-mondo-ar-trebui-mentinuta-peste-o-mie-de-romanii-s-au-adunat-la-bergamo-pentru-a-lua-lumina.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/foto-paste-in-italia-daca-ne-am-nascut-in-traditia-asta-eu-cred-ca-in-orice-loc-din-mondo-ar-trebui-mentinuta-peste-o-mie-de-romanii-s-au-adunat-la-bergamo-pentru-a-lua-lumina.html</guid>
-    </item>
-    <item>
-        <title>Tragedie în ziua de Paște, pe DN6. Un bărbat a murit, iar alte patru persoane au ajuns la spital după ce o mașină a intrat într-o casă</title>
-        <link>https://adevarul.ro/stiri-locale/resita/tragedie-in-ziua-de-paste-pe-dn6-un-barbat-a-2522187.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/resita/tragedie-in-ziua-de-paste-pe-dn6-un-barbat-a-2522187.html</guid>
-    </item>
-    <item>
-        <title>Permis suspendat! Adrian Ilie, prins băut la volan în Vinerea Mare, după ce fusese condamnat la închisoare, în trecut, pentru aceeași greșeală</title>
-        <link>https://adevarul.ro/sport/permis-suspendat-adrian-ilie-prins-baut-la-volan-2522179.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/permis-suspendat-adrian-ilie-prins-baut-la-volan-2522179.html</guid>
-    </item>
-    <item>
-        <title>Viktor Orbán: Sunt un om tânăr, nu este ultima dată când voi participa la alegeri</title>
-        <link>https://www.mediafax.ro/stirile-zilei/viktor-orban-sunt-un-om-tanar-nu-este-ultima-data-cand-voi-participa-la-alegeri-23718990</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/viktor-orban-sunt-un-om-tanar-nu-este-ultima-data-cand-voi-participa-la-alegeri-23718990</guid>
-    </item>
-    <item>
-        <title>Cum poate fi îngenuncheat Iranul cu un simplu telefon la Beijing. Soluția generalului care a condus armata SUA</title>
-        <link>https://adevarul.ro/stiri-externe/cum-poate-fi-ingenuncheat-iranul-cu-un-simplu-2522112.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/cum-poate-fi-ingenuncheat-iranul-cu-un-simplu-2522112.html</guid>
-    </item>
-    <item>
-        <title>UE a pierdut aproape 11.000 de bancomate în 2024, potrivit Federației Bancare Europene</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ue-a-pierdut-aproape-11-000-de-bancomate-in-2024-potrivit-federatiei-bancare-europene-23718985</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ue-a-pierdut-aproape-11-000-de-bancomate-in-2024-potrivit-federatiei-bancare-europene-23718985</guid>
-    </item>
-    <item>
-        <title>Este Ormuz pentru SUA ceea ce a fost criza Suez pentru Marea Britanie în 1956? Asemănări, deosebiri și pericole pentru ordinea mondială</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/este-ormuz-pentru-sua-ceea-ce-a-fost-criza-suez-pentru-marea-britanie-in-1956-asemanari-deosebiri-si-pericole-pentru-ordinea-mondiala-3722055</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/este-ormuz-pentru-sua-ceea-ce-a-fost-criza-suez-pentru-marea-britanie-in-1956-asemanari-deosebiri-si-pericole-pentru-ordinea-mondiala-3722055</guid>
-    </item>
-    <item>
-        <title>Ion Țiriac, „interogat” de un doctor în Dubai. Magnatul s-a aflat în centrul atenției la un cabinet din Emirate: „Toată lumea crede, dar nu e adevărat</title>
-        <link>https://adevarul.ro/sport/ion-tiriac-interogat-de-un-doctor-in-dubai-2522205.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/ion-tiriac-interogat-de-un-doctor-in-dubai-2522205.html</guid>
-    </item>
-    <item>
-        <title>Bayern zdrobește un record vechi de 54 de ani în Bundesliga: 105 goluri într-un singur sezon</title>
-        <link>https://www.g4media.ro/bayern-zdrobeste-un-record-vechi-de-54-de-ani-in-bundesliga-105-goluri-intr-un-singur-sezon.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/bayern-zdrobeste-un-record-vechi-de-54-de-ani-in-bundesliga-105-goluri-intr-un-singur-sezon.html</guid>
-    </item>
-    <item>
-        <title>Străinii i-au urecheat pe români, după ce au văzut imaginea lui Mircea Lucescu desfigurată pe Arena Națională: „Un moment rău. Dezamăgitor!”</title>
-        <link>https://adevarul.ro/sport/strainii-i-au-urecheat-pe-romani-dupa-ce-au-vazut-2522194.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/strainii-i-au-urecheat-pe-romani-dupa-ce-au-vazut-2522194.html</guid>
-    </item>
-    <item>
-        <title>Intervenție de urgență în Vâlcea: Tată și fiu, găsiți după cinci ore de căutări în zona montană</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/interventie-de-urgenta-in-valcea-tata-si-fiu-gasiti-dupa-cinci-ore-de-cautari-in-zona-montana-3723053</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/interventie-de-urgenta-in-valcea-tata-si-fiu-gasiti-dupa-cinci-ore-de-cautari-in-zona-montana-3723053</guid>
-    </item>
-    <item>
-        <title>Creșterea numărului de furturi de ciocolată este legată de comerțul ilegal cu țigări, afirmă comercianții din Marea Britanie</title>
-        <link>https://www.g4media.ro/cresterea-numarului-de-furturi-de-ciocolata-este-legata-de-comertul-ilegal-cu-tigari-afirma-comerciantii-din-marea-britanie.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cresterea-numarului-de-furturi-de-ciocolata-este-legata-de-comertul-ilegal-cu-tigari-afirma-comerciantii-din-marea-britanie.html</guid>
-    </item>
-    <item>
-        <title>VIDEO Cum ajută finanțările nerambursabile persoanele cu situație vulnerabilă să se integreze pe piața muncii/ Poveștile a trei tineri, de la atelier </title>
-        <link>https://www.g4media.ro/video-cum-ajuta-finantarile-nerambursabile-persoanele-cu-dizabilitati-sau-cu-situatie-vulnerabila-sa-se-integreze-pe-piata-muncii-povestile-a-trei-tineri-de-la-atelier-de-croitorie-la-prajitorie-de.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-cum-ajuta-finantarile-nerambursabile-persoanele-cu-dizabilitati-sau-cu-situatie-vulnerabila-sa-se-integreze-pe-piata-muncii-povestile-a-trei-tineri-de-la-atelier-de-croitorie-la-prajitorie-de.html</guid>
-    </item>
-    <item>
-        <title>Importantă conductă de petrol din Orientul Mijlociu, din nou funcțională după atacuri. Traversează Arabia Saudită de la est la vest</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/importanta-conducta-de-petrol-din-orientul-2522192.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/importanta-conducta-de-petrol-din-orientul-2522192.html</guid>
-    </item>
-    <item>
-        <title>Acțiune de salvare în condiții extreme: Doi turiști au rămas blocați pe un traseu înghețat, în Piatra Craiului</title>
-        <link>https://adevarul.ro/stiri-locale/brasov/actiune-de-salvare-in-conditii-extreme-doi-2522182.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/brasov/actiune-de-salvare-in-conditii-extreme-doi-2522182.html</guid>
-    </item>
-    <item>
-        <title>Paștele, cea mai importantă sărbătoare a ortodoxiei. Tradiții și obiceiuri păstrate în sufletul românilor | GALERIE FOTO</title>
-        <link>https://www.europafm.ro/pastele-cea-mai-importanta-sarbatoare-a-ortodoxiei-traditii-si-obiceiuri-pastrate-in-sufletul-romanilor/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/pastele-cea-mai-importanta-sarbatoare-a-ortodoxiei-traditii-si-obiceiuri-pastrate-in-sufletul-romanilor/</guid>
-    </item>
-    <item>
-        <title>Peter Magyar, despre posibile fraude la vot: „Fiți vigilenți. N-aș vrea ca cineva să ajungă la închisoare în locul mafiei Fidesz”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/peter-magyar-despre-posibile-fraude-la-vot-fiti-vigilenti-n-as-vrea-ca-cineva-sa-ajunga-la-inchisoare-in-locul-mafiei-fidesz-3722845</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/peter-magyar-despre-posibile-fraude-la-vot-fiti-vigilenti-n-as-vrea-ca-cineva-sa-ajunga-la-inchisoare-in-locul-mafiei-fidesz-3722845</guid>
-    </item>
-    <item>
-        <title>Un fotbalist rănit în incendiul din Crans-Montana a revenit pe teren</title>
-        <link>https://www.mediafax.ro/sport/un-fotbalist-ranit-in-incendiul-din-crans-montana-a-revenit-pe-teren-23718980</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/un-fotbalist-ranit-in-incendiul-din-crans-montana-a-revenit-pe-teren-23718980</guid>
-    </item>
-    <item>
-        <title>ANALIZĂ Economia Ungariei după 16 ani sub „bagheta” lui Viktor Orbán. Cum au pierdut maghiarii ritmul în Europa?</title>
-        <link>https://www.g4media.ro/analiza-economedia-economia-ungariei-dupa-16-ani-sub-bagheta-lui-viktor-orban-cum-au-pierdut-maghiarii-ritmul-in-europa.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/analiza-economedia-economia-ungariei-dupa-16-ani-sub-bagheta-lui-viktor-orban-cum-au-pierdut-maghiarii-ritmul-in-europa.html</guid>
-    </item>
-    <item>
-        <title>Tensiunile dintre SUA și Iran agită piețele agricole. Cezar Gheorghe, expert: „România nu riscă penurie alimentară”</title>
-        <link>https://www.digi24.ro/stiri/economie/agricultura/tensiunile-dintre-sua-si-iran-agita-pietele-agricole-cezar-gheorghe-expert-romania-nu-risca-penurie-alimentara-3722811</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/agricultura/tensiunile-dintre-sua-si-iran-agita-pietele-agricole-cezar-gheorghe-expert-romania-nu-risca-penurie-alimentara-3722811</guid>
-    </item>
-    <item>
-        <title>Două femei au fost arestate în Indonezia după ce au călcat în picioare un Coran. Acuzații de blasfemie și val de reacții online</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/doua-femei-au-fost-arestate-in-indonezia-dupa-ce-au-calcat-in-picioare-un-coran-acuzatii-de-blasfemie-si-val-de-reactii-online-3722939</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/doua-femei-au-fost-arestate-in-indonezia-dupa-ce-au-calcat-in-picioare-un-coran-acuzatii-de-blasfemie-si-val-de-reactii-online-3722939</guid>
-    </item>
-    <item>
-        <title>Tradiție explozivă de Paște într-o insulă din Grecia: Două biserici rivale se „bombardează” cu rachete în noaptea de Înviere</title>
-        <link>https://adevarul.ro/stiri-externe/europa/traditie-exploziva-de-paste-intr-o-insula-din-2522200.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/traditie-exploziva-de-paste-intr-o-insula-din-2522200.html</guid>
-    </item>
-    <item>
-        <title>Incendiu la Termocentrala Rovinari. Producția de energie a fost oprită</title>
-        <link>https://www.mediafax.ro/social/incendiu-la-termocentrala-rovinari-productia-de-energie-a-fost-oprita-23718932</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/incendiu-la-termocentrala-rovinari-productia-de-energie-a-fost-oprita-23718932</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/conducta-de-petrol-din-vestul-arabiei-saudite-esentiala-pentru-exporturi-a-fost-repusa-in-functiune-dupa-atacuri-3722981</guid>
     </item>
     <item>
         <title>Poliția din Viena a reținut o bandă de escroci formată aproape în totalitate din români</title>
@@ -362,10 +92,280 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/politia-din-viena-a-retinut-o-banda-de-escroci-formata-aproape-in-totalitate-din-romani-3723091</guid>
     </item>
     <item>
-        <title>Sectorul 6 își propune cheltuieli de 2,7 miliarde lei și venituri de 2,6 miliarde în acest an. Cum sunt împărțiți banii</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/sectorul-6-isi-propune-cheltuieli-de-27-miliarde-lei-si-venituri-de-26-miliarde-in-acest-an-cum-sunt-impartiti-banii-3723025</link>
+        <title>Ucraina raportează peste 3,5 milioane de metri pătrați de drumuri refăcute anul acesta</title>
+        <link>https://www.mediafax.ro/externe/ucraina-raporteaza-peste-35-milioane-de-metri-patrati-de-drumuri-refacute-anul-acesta-23719024</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/ucraina-raporteaza-peste-35-milioane-de-metri-patrati-de-drumuri-refacute-anul-acesta-23719024</guid>
+    </item>
+    <item>
+        <title>Top 10 tradiții, obiceiuri și superstiții de Paşte. Ce e bine şi ce nu e bine de sărbătorile pascale</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/top-10-traditii-obiceiuri-si-superstitii-de-2522210.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/top-10-traditii-obiceiuri-si-superstitii-de-2522210.html</guid>
+    </item>
+    <item>
+        <title>Ce să vizitezi în San Marino – obiective turistice şi curiozităţi</title>
+        <link>https://www.libertatea.ro/lifestyle/ce-sa-vizitezi-in-san-marino-obiective-turistice-curiozitati-5692554</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/ce-sa-vizitezi-in-san-marino-obiective-turistice-curiozitati-5692554</guid>
+    </item>
+    <item>
+        <title>VIDEO Cum ajută finanțările nerambursabile persoanele cu situație vulnerabilă să se integreze pe piața muncii/ Poveștile a trei tineri, de la atelier </title>
+        <link>https://www.g4media.ro/video-cum-ajuta-finantarile-nerambursabile-persoanele-cu-dizabilitati-sau-cu-situatie-vulnerabila-sa-se-integreze-pe-piata-muncii-povestile-a-trei-tineri-de-la-atelier-de-croitorie-la-prajitorie-de.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/video-cum-ajuta-finantarile-nerambursabile-persoanele-cu-dizabilitati-sau-cu-situatie-vulnerabila-sa-se-integreze-pe-piata-muncii-povestile-a-trei-tineri-de-la-atelier-de-croitorie-la-prajitorie-de.html</guid>
+    </item>
+    <item>
+        <title>Un bărbat și fiul său au rămas înzăpeziți cu mașina în zona Cheile Oltețului, în noaptea de Înviere / A fost solicitată intervenția jandarmilor montan</title>
+        <link>https://www.g4media.ro/un-barbat-si-fiul-sau-au-ramas-inzapeziti-cu-masina-in-zona-cheile-oltetului-in-noaptea-de-inviere-a-fost-solicitata-interventia-jandarmilor-montani-si-a-salvamontistilor.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/un-barbat-si-fiul-sau-au-ramas-inzapeziti-cu-masina-in-zona-cheile-oltetului-in-noaptea-de-inviere-a-fost-solicitata-interventia-jandarmilor-montani-si-a-salvamontistilor.html</guid>
+    </item>
+    <item>
+        <title>100 de ani de Route 66: Povestea și traseul celui mai emblematic drum din America</title>
+        <link>https://www.g4media.ro/100-de-ani-de-route-66-povestea-si-traseul-celui-mai-emblematic-drum-din-america.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/100-de-ani-de-route-66-povestea-si-traseul-celui-mai-emblematic-drum-din-america.html</guid>
+    </item>
+    <item>
+        <title>Survivor România 12 aprilie 2026. Un concurent din echipa Faimoșilor va merge în Exil</title>
+        <link>https://www.libertatea.ro/entertainment/survivor-romania-12-aprilie-2026-un-concurent-din-echipa-faimosilor-va-merge-in-exil-5697340</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/survivor-romania-12-aprilie-2026-un-concurent-din-echipa-faimosilor-va-merge-in-exil-5697340</guid>
+    </item>
+    <item>
+        <title>Rusia este pregătită să furnizeze gaze Uniunii Europene dacă aceasta va avea un surplus</title>
+        <link>https://www.mediafax.ro/externe/rusia-este-pregatita-sa-furnizeze-gaze-uniunii-europene-daca-aceasta-va-avea-un-surplus-23719032</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/rusia-este-pregatita-sa-furnizeze-gaze-uniunii-europene-daca-aceasta-va-avea-un-surplus-23719032</guid>
+    </item>
+    <item>
+        <title>Când a avut loc primul Paște creștin? Preot: Odată cu trecerea din moarte la viață a Mântuitorului Hristos | AUDIO</title>
+        <link>https://www.europafm.ro/primul-paste-crestin-legatura-evrei-vraciu/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/primul-paste-crestin-legatura-evrei-vraciu/</guid>
+    </item>
+    <item>
+        <title>Beton dintr-o combinație neobișnuită. Experimentul care ar putea schimba radical construcțiile</title>
+        <link>https://adevarul.ro/stil-de-viata/stiinta/beton-dintr-o-combinatie-neobisnuita-experimentul-2522219.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/stiinta/beton-dintr-o-combinatie-neobisnuita-experimentul-2522219.html</guid>
+    </item>
+    <item>
+        <title>Arheologii au recuperat 1000 de obiecte romane dintr-un lac din Elveția</title>
+        <link>https://www.g4media.ro/arheologii-au-recuperat-1000-de-obiecte-romane-dintr-un-lac-din-elvetia.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/arheologii-au-recuperat-1000-de-obiecte-romane-dintr-un-lac-din-elvetia.html</guid>
+    </item>
+    <item>
+        <title>Sindicat Europol: DN 6 a devenit un pericol constant. Sunt necesare separatoare de sens și devierea traficului greu</title>
+        <link>https://www.mediafax.ro/social/sindicat-europol-dn-6-a-devenit-un-pericol-constant-sunt-necesare-separatoare-de-sens-si-devierea-traficului-greu-23718999</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/sindicat-europol-dn-6-a-devenit-un-pericol-constant-sunt-necesare-separatoare-de-sens-si-devierea-traficului-greu-23718999</guid>
+    </item>
+    <item>
+        <title>Gigi Becali, prins cu 109 km/h pe Șoseaua Pipera în noaptea de Înviere. Amendă și permis suspendat</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/gigi-becali-amendat-in-noaptea-de-inviere-dupa-ce-a-fost-prins-cu-109-km-h-pe-soseaua-pipera-3723189</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/sectorul-6-isi-propune-cheltuieli-de-27-miliarde-lei-si-venituri-de-26-miliarde-in-acest-an-cum-sunt-impartiti-banii-3723025</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/gigi-becali-amendat-in-noaptea-de-inviere-dupa-ce-a-fost-prins-cu-109-km-h-pe-soseaua-pipera-3723189</guid>
+    </item>
+    <item>
+        <title>Alegeri în Ungaria. Ce au declarat premierul Viktor Orban și rivalul său Péter Magyar după ce au votat</title>
+        <link>https://adevarul.ro/stiri-externe/europa/alegeri-in-ungaria-ce-au-declarat-premierul-2522206.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/alegeri-in-ungaria-ce-au-declarat-premierul-2522206.html</guid>
+    </item>
+    <item>
+        <title>Cum arată un meniu de Paște întocmit de dieteticieni. A fost servit bolnavilor dintr-un spital din Sibiu</title>
+        <link>https://www.mediafax.ro/social/cum-arata-un-meniu-de-paste-intocmit-de-dieteticieni-a-fost-servit-bolnavilor-dintr-un-spital-din-sibiu-23719028</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/cum-arata-un-meniu-de-paste-intocmit-de-dieteticieni-a-fost-servit-bolnavilor-dintr-un-spital-din-sibiu-23719028</guid>
+    </item>
+    <item>
+        <title>FOTO Paște în Italia: „Dacă ne-am născut în tradiția asta, eu cred că în orice loc din mondo, ar trebui menținută” / Peste o mie de românii s-au aduna</title>
+        <link>https://www.g4media.ro/foto-paste-in-italia-daca-ne-am-nascut-in-traditia-asta-eu-cred-ca-in-orice-loc-din-mondo-ar-trebui-mentinuta-peste-o-mie-de-romanii-s-au-adunat-la-bergamo-pentru-a-lua-lumina.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/foto-paste-in-italia-daca-ne-am-nascut-in-traditia-asta-eu-cred-ca-in-orice-loc-din-mondo-ar-trebui-mentinuta-peste-o-mie-de-romanii-s-au-adunat-la-bergamo-pentru-a-lua-lumina.html</guid>
+    </item>
+    <item>
+        <title>Donald Trump anunță blocada Strâmtorii Ormuz și amenință cu interdicția navelor care „plătesc taxe către Iran” după eșecul negocierilor cu Iran</title>
+        <link>https://www.mediafax.ro/stirile-zilei/donald-trump-anunta-blocada-stramtorii-ormuz-si-ameninta-cu-interdictia-navelor-care-platesc-taxe-catre-iran-dupa-esecul-negocierilor-cu-iran-23719034</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/donald-trump-anunta-blocada-stramtorii-ormuz-si-ameninta-cu-interdictia-navelor-care-platesc-taxe-catre-iran-dupa-esecul-negocierilor-cu-iran-23719034</guid>
+    </item>
+    <item>
+        <title>Și fără titlu, și fără permis: Gigi Becali a rămas pieton după Înviere. Patronul FCSB a fost prins în offside pe străzile din Pipera</title>
+        <link>https://adevarul.ro/sport/si-fara-titlu-si-fara-permis-gigi-becali-a-ramas-2522234.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/si-fara-titlu-si-fara-permis-gigi-becali-a-ramas-2522234.html</guid>
+    </item>
+    <item>
+        <title>Cristian Tudor Popescu spune că de Paște credincioșii ar trebui să mănânce doar „lăcuste, miere și semințe”: „Ei se mulțumesc să-L preamărească pe Mân</title>
+        <link>https://www.libertatea.ro/stiri/cristian-tudor-popescu-de-paste-credinciosii-ar-trebui-sa-manance-lacuste-miere-si-seminte-5697438</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cristian-tudor-popescu-de-paste-credinciosii-ar-trebui-sa-manance-lacuste-miere-si-seminte-5697438</guid>
+    </item>
+    <item>
+        <title>Fan Courier a închis toate agențiile din țară: clienții nu vor mai putea ridica sau trimite colete direct din sedii</title>
+        <link>https://www.libertatea.ro/stiri/fan-courier-inchide-agentii-romania-locker-fanbox-colete-5697472</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/fan-courier-inchide-agentii-romania-locker-fanbox-colete-5697472</guid>
+    </item>
+    <item>
+        <title>Inteligența artificială, între bine și rău. Vasile Bănescu: „Este un instrument perfect neutru”, Francisc Doboș: „Să nu o divinizăm”</title>
+        <link>https://www.digi24.ro/stiri/inteligenta-artificiala-intre-bine-si-rau-vasile-banescu-este-un-instrument-perfect-neutru-francisc-dobos-sa-nu-o-divinizam-3722657</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/inteligenta-artificiala-intre-bine-si-rau-vasile-banescu-este-un-instrument-perfect-neutru-francisc-dobos-sa-nu-o-divinizam-3722657</guid>
+    </item>
+    <item>
+        <title>Harta pascală a României: de la drobul cu porc din Banat la pasca moldovenească și preparatele orientale din Dobrogea</title>
+        <link>https://adevarul.ro/stil-de-viata/bucatarie/harta-pascala-a-romaniei-de-la-drobul-cu-porc-din-2521958.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/bucatarie/harta-pascala-a-romaniei-de-la-drobul-cu-porc-din-2521958.html</guid>
+    </item>
+    <item>
+        <title>România ratează valul turistic? \</title>
+        <link>https://adevarul.ro/stil-de-viata/calatorii/romania-rateaza-valul-turistic-daca-nu-luam-2521934.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/calatorii/romania-rateaza-valul-turistic-daca-nu-luam-2521934.html</guid>
+    </item>
+    <item>
+        <title>Anchetă în Mureș după vandalizarea Cimitirului Evreiesc din Reghin. 14 monumente funerare, răsturnate</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/ancheta-in-mures-dupa-vandalizarea-cimitirului-evreiesc-din-reghin-14-monumente-funerare-rasturnate-3723175</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/ancheta-in-mures-dupa-vandalizarea-cimitirului-evreiesc-din-reghin-14-monumente-funerare-rasturnate-3723175</guid>
+    </item>
+    <item>
+        <title>SUV-urile agravează problema gropilor din Marea Britanie, afirmă oamenii de știință</title>
+        <link>https://www.g4media.ro/suv-urile-agraveaza-problema-gropilor-din-marea-britanie-afirma-oamenii-de-stiinta.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/suv-urile-agraveaza-problema-gropilor-din-marea-britanie-afirma-oamenii-de-stiinta.html</guid>
+    </item>
+    <item>
+        <title>Sărbătoare fără granițe: Paște în stil românesc pentru studenții africani din Iași. „E ca și cum Hristos învie în interiorul meu”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/sarbatoare-fara-granite-paste-in-stil-romanesc-pentru-studentii-africani-din-iasi-e-ca-si-cum-hristos-invie-in-interiorul-meu-3723081</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sarbatoare-fara-granite-paste-in-stil-romanesc-pentru-studentii-africani-din-iasi-e-ca-si-cum-hristos-invie-in-interiorul-meu-3723081</guid>
+    </item>
+    <item>
+        <title>Ministerul Economiei scoate la licitație un contract de 1,5 milioane de lei pentru curățenie. Când se depun ofertele</title>
+        <link>https://www.digi24.ro/stiri/economie/ministerul-economiei-scoate-la-licitatie-un-contract-de-15-milioane-de-lei-pentru-curatenie-cand-se-depun-ofertele-3723111</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/ministerul-economiei-scoate-la-licitatie-un-contract-de-15-milioane-de-lei-pentru-curatenie-cand-se-depun-ofertele-3723111</guid>
+    </item>
+    <item>
+        <title>Ungaria votează ca niciodată. Scrutinul din 2026 amenință să spulbere toate recordurile de participare</title>
+        <link>https://www.mediafax.ro/externe/ungaria-voteaza-ca-niciodata-scrutinul-din-2026-ameninta-sa-spulbere-toate-recordurile-de-participare-23718964</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/ungaria-voteaza-ca-niciodata-scrutinul-din-2026-ameninta-sa-spulbere-toate-recordurile-de-participare-23718964</guid>
+    </item>
+    <item>
+        <title>Trafic feroviar întrerupt pe linia București-Constanța, după ce un tren a lovit mortal o femeie</title>
+        <link>https://www.mediafax.ro/social/trafic-feroviar-intrerupt-pe-linia-bucuresti-constanta-dupa-ce-un-tren-a-lovit-mortal-o-femeie-23718987</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/trafic-feroviar-intrerupt-pe-linia-bucuresti-constanta-dupa-ce-un-tren-a-lovit-mortal-o-femeie-23718987</guid>
+    </item>
+    <item>
+        <title>Alegeri Ungaria 2026. Prezență dublă la vot față de scrutinul din 2022. Cozi uriașe la urne: „O aglomerație incredibilă, mulți tineri”</title>
+        <link>https://www.digi24.ro/stiri/externe/alegeri-in-ungaria-dupa-16-ani-viktor-orban-si-partidul-sau-fidesz-ar-putea-pierde-puterea-cum-se-desfasoara-votul-3722057</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/alegeri-in-ungaria-dupa-16-ani-viktor-orban-si-partidul-sau-fidesz-ar-putea-pierde-puterea-cum-se-desfasoara-votul-3722057</guid>
+    </item>
+    <item>
+        <title>Incident de securitate pe aeroportul Shannon: un bărbat a pătruns pe pistă și s-a urcat pe un avion militar american</title>
+        <link>https://www.digi24.ro/stiri/externe/incident-de-securitate-pe-aeroportul-shannon-un-barbat-a-patruns-pe-pista-si-s-a-urcat-pe-un-avion-militar-american-3723245</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/incident-de-securitate-pe-aeroportul-shannon-un-barbat-a-patruns-pe-pista-si-s-a-urcat-pe-un-avion-militar-american-3723245</guid>
+    </item>
+    <item>
+        <title>Permis suspendat! Adrian Ilie, prins băut la volan în Vinerea Mare, după ce fusese condamnat la închisoare, în trecut, pentru aceeași greșeală</title>
+        <link>https://adevarul.ro/sport/permis-suspendat-adrian-ilie-prins-baut-la-volan-2522179.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/permis-suspendat-adrian-ilie-prins-baut-la-volan-2522179.html</guid>
+    </item>
+    <item>
+        <title>„Prea puternică pentru public”: în culisele eforturilor companiei Anthropic de a câștiga războiul de imagine în domeniul IA</title>
+        <link>https://www.g4media.ro/prea-puternica-pentru-public-in-culisele-eforturilor-companiei-anthropic-de-a-castiga-razboiul-de-imagine-in-domeniul-ia.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/prea-puternica-pentru-public-in-culisele-eforturilor-companiei-anthropic-de-a-castiga-razboiul-de-imagine-in-domeniul-ia.html</guid>
+    </item>
+    <item>
+        <title>„Avem nevoie de o pace adevărată”: Armistițiul de Paște nu reușește să risipească atmosfera sumbră din Ucraina devastată de război</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/avem-nevoie-de-o-pace-adevarata-armistitiul-de-paste-nu-reuseste-sa-risipeasca-atmosfera-sumbra-din-ucraina-devastata-de-razboi-3723177</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/avem-nevoie-de-o-pace-adevarata-armistitiul-de-paste-nu-reuseste-sa-risipeasca-atmosfera-sumbra-din-ucraina-devastata-de-razboi-3723177</guid>
+    </item>
+    <item>
+        <title>Un analist financiar a mers de unul singur în Strâmtoarea Ormuz cu 15.000 de dolari cash și spune că Iranul primește deja bani pentru a lăsa nave să t</title>
+        <link>https://www.libertatea.ro/stiri/un-analist-financiar-a-mers-de-unul-singur-in-stramtoarea-ormuz-si-spune-ca-iranul-primeste-deja-bani-pentru-a-lasa-nave-sa-treaca-5697470</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/un-analist-financiar-a-mers-de-unul-singur-in-stramtoarea-ormuz-si-spune-ca-iranul-primeste-deja-bani-pentru-a-lasa-nave-sa-treaca-5697470</guid>
+    </item>
+    <item>
+        <title>Turcii deschid o fabrică unde vor produce kituri de ghidare laser. Acestea transformă bombele convenționale în muniție inteligentă</title>
+        <link>https://www.mediafax.ro/economic/turcii-deschid-o-fabrica-unde-vor-produce-kituri-de-ghidare-laser-acestea-transforma-bombele-conventionale-in-munitie-inteligenta-23718960</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/turcii-deschid-o-fabrica-unde-vor-produce-kituri-de-ghidare-laser-acestea-transforma-bombele-conventionale-in-munitie-inteligenta-23718960</guid>
+    </item>
+    <item>
+        <title>Tragedie cumplită într-o familie din Liban: O fetiță de 7 ani și-a pierdut sora într-un atac israelian, în timpul înmormântării tatălui ei</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/tragedie-cumplita-intr-o-familie-din-liban-o-2522236.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/tragedie-cumplita-intr-o-familie-din-liban-o-2522236.html</guid>
+    </item>
+    <item>
+        <title>Creșterea numărului de furturi de ciocolată este legată de comerțul ilegal cu țigări, afirmă comercianții din Marea Britanie</title>
+        <link>https://www.g4media.ro/cresterea-numarului-de-furturi-de-ciocolata-este-legata-de-comertul-ilegal-cu-tigari-afirma-comerciantii-din-marea-britanie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cresterea-numarului-de-furturi-de-ciocolata-este-legata-de-comertul-ilegal-cu-tigari-afirma-comerciantii-din-marea-britanie.html</guid>
+    </item>
+    <item>
+        <title>Producătorul auto chinez Chery vrea să îşi majoreze producţia  în Europa</title>
+        <link>https://www.g4media.ro/producatorul-auto-chinez-chery-vrea-sa-isi-majoreze-productia-in-europa.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/producatorul-auto-chinez-chery-vrea-sa-isi-majoreze-productia-in-europa.html</guid>
+    </item>
+    <item>
+        <title>Kremlinul nu se așteaptă la o prăbușire a NATO și vorbește despre negocieri dificile cu Ucraina</title>
+        <link>https://www.mediafax.ro/stirile-zilei/kremlinul-nu-se-asteapta-la-o-prabusire-a-nato-si-vorbeste-despre-negocieri-dificile-cu-ucraina-23719021</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/kremlinul-nu-se-asteapta-la-o-prabusire-a-nato-si-vorbeste-despre-negocieri-dificile-cu-ucraina-23719021</guid>
+    </item>
+    <item>
+        <title>Alegeri în Ungaria. Poate fi dedus rezultatul alegerilor din datele privind prezența la vot în timpul zilei?</title>
+        <link>https://adevarul.ro/stiri-externe/europa/alegeri-in-ungaria-poate-fi-dedus-rezultatul-2522211.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/alegeri-in-ungaria-poate-fi-dedus-rezultatul-2522211.html</guid>
+    </item>
+    <item>
+        <title>Alegeri cruciale în Ungaria. Crește semnificativ numărul voturilor prin corespondență față de scrutinul anterior</title>
+        <link>https://www.mediafax.ro/externe/alegeri-cruciale-in-ungaria-creste-semnificativ-numarul-voturilor-prin-corespondenta-fata-de-scrutinul-anterior-23718962</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/alegeri-cruciale-in-ungaria-creste-semnificativ-numarul-voturilor-prin-corespondenta-fata-de-scrutinul-anterior-23718962</guid>
+    </item>
+    <item>
+        <title>Un bărbat și fiul său au rămas blocați cu mașina în zăpadă pe munte în noaptea de Înviere</title>
+        <link>https://www.mediafax.ro/social/un-barbat-si-fiul-sau-au-ramas-blocati-cu-masina-in-zapada-pe-munte-in-noaptea-de-inviere-23719008</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/un-barbat-si-fiul-sau-au-ramas-blocati-cu-masina-in-zapada-pe-munte-in-noaptea-de-inviere-23719008</guid>
+    </item>
+    <item>
+        <title>Buget de aproape 2,8 miliarde de lei pentru Sectorul 3 în 2026. Investițiile și asistența socială sunt printre priorități</title>
+        <link>https://www.digi24.ro/stiri/economie/buget-de-aproape-28-miliarde-de-lei-pentru-sectorul-3-in-2026-investitiile-si-asistenta-sociala-sunt-printre-prioritati-3722941</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/buget-de-aproape-28-miliarde-de-lei-pentru-sectorul-3-in-2026-investitiile-si-asistenta-sociala-sunt-printre-prioritati-3722941</guid>
+    </item>
+    <item>
+        <title>Ucraina raportează peste 3,5 milioane de metri pătrați de drumuri refăcute anul acesta</title>
+        <link>https://www.g4media.ro/ucraina-raporteaza-peste-35-milioane-de-metri-patrati-de-drumuri-refacute-anul-acesta.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ucraina-raporteaza-peste-35-milioane-de-metri-patrati-de-drumuri-refacute-anul-acesta.html</guid>
+    </item>
+    <item>
+        <title>Donald Trump Jr., mesaj de susținere pentru Viktor Orban: „Sperăm că veți vota pentru prietenul și aliatul tatălui meu”</title>
+        <link>https://adevarul.ro/stiri-externe/sua/donald-trump-jr-mesaj-de-sustinere-pentru-viktor-2522208.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/donald-trump-jr-mesaj-de-sustinere-pentru-viktor-2522208.html</guid>
     </item>
 </channel>
 </rss>
