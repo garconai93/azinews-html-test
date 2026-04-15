@@ -1,6 +1,396 @@
 [
   {
     "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/ue-investeste-aproape-doua-miliarde-de-euro-in-zeci-de-proiecte-pentru-apararea-impotriva-dronelor-si-in-scuturile-aerian-si-spatial-3727983",
+    "title": "UE investește aproape două miliarde de euro în zeci de proiecte pentru apărarea împotriva dronelor și în scuturile aerian și spațial",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4MzkwOF8yNjgz/OTA4X0dldHR5SW1hZ2VzLTIyMTA5NzEy/MzQuanBnJmhhc2g9YTI4Y2NlMzE0ZjRhNzE1OWM5ODRmOTgxMjI2MDJiMTA=.jpg",
+    "time": "13:41",
+    "date": "15 Apr",
+    "content": "Comisia Europeană va investi 1,07 miliarde de euro în 57 de proiecte noi din cadrul Fondului european de apărare, în urma evaluării cererilor de propuneri din 2025. Finanțarea va sprijini obiectivele din Foaia de parcurs pentru pregătirea în domeniul apărării 2030 și va susține principalele inițiative ale UE în domeniul apărării, inclusiv apărarea împotriva dronelor, Eastern Flank Watch, Scutul aerian european și Scutul spațial european.",
+    "fetched_at": "2026-04-15T11:38:11.516233"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/mediatorii-fac-progrese-in-vederea-prelungirii-armistitiului-dintre-sua-si-iran-23720336",
+    "title": "Mediatorii fac progrese în vederea prelungirii armistițiului dintre SUA și Iran",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/8122932-hepta_mediafax_foto-dpa_hepta-1024x719.jpg",
+    "time": "11:32",
+    "date": "15 Apr",
+    "content": "Miercuri, mediatorii au făcut un pas înainte în direcția prelungirii armistițiului dintre Statele Unite și Iran și a reluării negocierilor pentru a salva fragilul acord temporar de încetare a focului, înainte ca acesta să expire săptămâna viitoare.",
+    "fetched_at": "2026-04-15T11:38:12.149936"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/trebuie-sa-platim-pretul-avertismentul-dur-al-2522537.html",
+    "title": "„Trebuie să plătim prețul” - Avertismentul dur al economiștilor pentru România în plină criză energetică",
+    "image": "https://cdn.adh.reperio.news/image-1/17541386-a3ba-478c-a1cd-9c6f17214d73/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "10:56",
+    "date": "15 Apr",
+    "content": "Revizuirea în jos a prognozelor economice de către Fondul Monetar Internațional și Banca Mondială confirmă temerile legate de o încetinire a economiei globale, pe fondul unui nou șoc energetic generat de tensiunile din Orientul Mijlociu.",
+    "fetched_at": "2026-04-15T11:38:15.651047"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sport/premii-record-pentru-atleti-in-diamond-league-2026-castiguri-de-pana-la-60-000-de-dolari-in-finala-23720359",
+    "title": "Premii record pentru atleți în Diamond League 2026: câștiguri de până la 60.000 de dolari în finală",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/diamond-league-1024x576.jpg",
+    "time": "11:14",
+    "date": "15 Apr",
+    "content": "Organizatorii competiției internaționale de atletism Diamond League au anunțat miercuri că în sezonul 2026 vor fi oferite premii record, după ce s-a decis extinderea numărului de probe „Diamond+”, oferind câștiguri mai mari unui număr mai ridicat de atleți.",
+    "fetched_at": "2026-04-15T11:38:12.150000"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/english/romania-sends-humanitarian-aid-to-lebanon-15-tons-of-food-and-supplies-for-civilians-23720388",
+    "title": "Romania Sends Humanitarian Aid to Lebanon: 15 Tons of Food and Supplies for Civilians",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/ajutoare-romania-liban-criza-umanitara-c-130-hercules-spartan-c-27j-1024x576.jpg",
+    "time": "11:29",
+    "date": "15 Apr",
+    "content": "Romania is participating in a European effort to support the civilian population in Lebanon, affected by the security crisis in the Middle East, by sending a humanitarian shipment of 15 tons, according to a government statement.",
+    "fetched_at": "2026-04-15T11:38:12.149944"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/reactia-ministerului-apararii-dupa-dezvaluirile-ca-zeci-de-conturi-de-e-mail-ale-fortelor-aeriene-au-fost-sparte-de-hackeri-rusi-3727991",
+    "title": "Reacția Ministerului Apărării după dezvăluirile că zeci de conturi de e-mail ale Forțelor Aeriene au fost sparte de hackeri ruși",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMSUyRjA2JTJGMTAyNTY3OV8xMDI1/Njc5X3Rhc3RhdHVyYS1sYXB0b3AtbWFp/bmktZ2V0dHkucG5nJmhhc2g9YmNjMTAy/NDVhNjMxYmMwMGUxNGE0YzNjZDIwZGEzN2U=.png",
+    "time": "13:36",
+    "date": "15 Apr",
+    "content": "Ministerul Apărării vine cu precizări după ce Reuters a dezvăluit că hackeri apropiați de Kremlin au spart zeci de conturi de e-mail ale Forțelor Aeriene Române, inclusiv unele legate de baze NATO.",
+    "fetched_at": "2026-04-15T11:38:11.516246"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/o-centrala-fotovoltaica-va-asigura-necesarul-de-energie-al-primariei-marasesti-din-vrancea-si-al-scolilor-din-localitate.html",
+    "title": "O centrală fotovoltaică va asigura necesarul de energie al primăriei Mărăşeşti din Vrancea şi al școlilor din localitate",
+    "image": "https://www.g4media.ro//wp-content/uploads/2021/06/fotovoltaic-1024x605.jpg",
+    "time": "10:58",
+    "date": "15 Apr",
+    "content": "Primăria oraşului Mărăşeşti va construi o centrală fotovoltaică cu o capacitate instalată de 803 kW, care va produce energia electrică necesară pentru consumul propriu al administraţiei locale, cât şi al instituţiilor subordonate, potrivit reprezentanţilor administraţiei locale, transmite Agerpres. Investiţia este estimată la 2.882.085 lei, fără TVA. &#8222;De acest proiect vor beneficia primăria şi toate instituţiile [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590525"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/alexandru-muraru-il-critica-pe-radu-oprea-dupa-avertismentul-privind-economia-romaniei-este-penibil-si-complet-absurd-23720353",
+    "title": "Alexandru Muraru îl critică pe Radu Oprea după avertismentul privind economia României: „Este penibil și complet absurd”",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/8052770-mediafax_foto-alexandra_pandrea_gmn-1024x676.jpg",
+    "time": "11:18",
+    "date": "15 Apr",
+    "content": "Vicepreședintele PNL Alexandru Muraru l-a criticat, miercuri, pe secretarul general al Guvernului, Radu Oprea, după declarațiile acestuia despre înrăutățirea prognozelor economice pentru 2026.",
+    "fetched_at": "2026-04-15T11:38:12.149994"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/craiova/urmarire-ca-in-filme-in-dolj-un-politist-a-fost-2522854.html",
+    "title": "Urmărire ca în filme în Dolj. Un polițist a fost lovit în față de fratele unui șofer fără permis",
+    "image": "https://cdn.adh.reperio.news/image-5/5216cfaa-14cd-4a36-a831-93a1eba56335/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "10:58",
+    "date": "15 Apr",
+    "content": "Doi frați din comuna Unirea, județul Dolj, au fost reținuți după un incident pornit de la un banal control în trafic, care a degenerat în urmărire și violențe, un polițist fiind lovit în timpul intervenției.",
+    "fetched_at": "2026-04-15T11:38:15.651041"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/economic/premiera-in-romania-primul-tren-atribuit-de-arf-prin-licitatie-unei-firme-private-a-fost-pus-in-circulatie-23720378",
+    "title": "Premieră în România: Primul tren atribuit de ARF prin licitație unei firme private a fost pus în circulație",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/tren-1024x577.jpg",
+    "time": "11:22",
+    "date": "15 Apr",
+    "content": "Primul tren atribuit unui firme private în baza unui contract de servicii atribuit prin licitație publică a fost pus în circulație miercuri, anunță Autoritatea pentru Reformă Feroviară (ARF).",
+    "fetched_at": "2026-04-15T11:38:12.149988"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/wall-street-journal-europa-grabeste-planul-de-rezerva-al-nato-in-cazul-in-care-trump-retrage-sua-din-organizatie.html",
+    "title": "Wall Street Journal: Europa grăbește planul de rezervă al NATO în cazul în care Trump retrage SUA din organizație",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/11/WhatsApp-Image-2025-11-09-at-08.54.31-1-1024x576.jpeg",
+    "time": "10:16",
+    "date": "15 Apr",
+    "content": "Europa pregătește intens un plan de rezervă al NATO, cu o implicare europeană mai mare, pe măsură ce tensiunile cu SUA cresc din cauza războiului din Iran, dezvăluie The Wall Street Journal, citat de MEDIAFAX. Un plan de rezervă pentru a asigura că Europa se poate apăra folosind structurile militare existente ale NATO în cazul [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590585"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/sport/flancat-de-iubita-jannik-sinner-s-a-dezlantuit-la-2522843.html",
+    "title": "Flancat de iubită, Jannik Sinner s-a dezlănțuit la restaurant. Italianul a sărbătorit revenirea pe locul 1 mondial",
+    "image": "https://cdn.adh.reperio.news/image-c/c811b6af-f474-48ed-96d3-ff3742040ce3/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "10:48",
+    "date": "15 Apr",
+    "content": "Italianul Jannik Sinner (24 de ani) ocupă din nou locul 1 ATP, după ce a cucerit titlul la Mastersul 1.000 de la Monte Carlo.",
+    "fetched_at": "2026-04-15T11:38:15.651060"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/uniunea-europeana-discuta-interzicerea-retelelor-sociale-pentru-minori-macron-convoaca-liderii-europeni.html",
+    "title": "Uniunea Europeană discută interzicerea rețelelor sociale pentru minori / Macron convoacă liderii europeni",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/06/copii-telefon-mobil-retele-sociale-1024x683.jpg",
+    "time": "10:38",
+    "date": "15 Apr",
+    "content": "Franța continuă să promoveze o interdicție la nivel european privind rețelele sociale pentru minori, prin care solicită reguli comune în UE pentru accesul copiilor la platformele sociale, transmite MEDIAFAX. Mai mulți șefi de stat sau de guvern din cele 27 de state membre ale Uniunii Europene se vor întâlni joi într-o videoconferință privind protecția minorilor [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590559"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/viitorul-premier-ungar-peter-magyar-vizeaza-2522855.html",
+    "title": "Viitorul premier ungar, Peter Magyar, vizează suspendarea buletinelor de știri ale presei de stat, în așteptarea unei reforme a libertății presei",
+    "image": "https://cdn.adh.reperio.news/image-4/447dddde-9b82-4c95-9faa-0364fbd0e87d/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "10:55",
+    "date": "15 Apr",
+    "content": "Peter Magyar, câștigătorul alegerilor din Ungaria, a declarat miercuri că intenționează să suspende difuzarea programelor de știri ale presei de stat, instituții acuzate de critici interni și internaționali că au fost transformate într-un instrument de propagandă al guvernului Viktor Orban.",
+    "fetched_at": "2026-04-15T11:38:15.651054"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/comunicate/trust-anunta-lansarea-noilor-casti-de-gaming-forta-wireless-23720380",
+    "title": "Trust anunță lansarea noilor căști de gaming Forta Wireless",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/screenshot-2026-04-15-142502.png",
+    "time": "11:22",
+    "date": "15 Apr",
+    "content": "Trust anunță lansarea noilor căști de gaming Forta Wireless, un model cu licență oficială pentru consola PlayStation®5, care aduce libertate wireless completă și performanță audio optimizată pentru sesiuni de joc fără întreruperi.",
+    "fetched_at": "2026-04-15T11:38:12.149981"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/arad/o-fetita-de-7-ani-din-arad-violata-timp-de-doi-2522859.html",
+    "title": "O fetiță de 7 ani din Arad, violată timp de doi ani de iubitul mamei. Femeia știa ce se întâmplă și a fost arestată, alături de concubin",
+    "image": "https://cdn.adh.reperio.news/image-6/6e73daf2-92c8-438b-89d1-a36bbae6a5f5/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "11:28",
+    "date": "15 Apr",
+    "content": "O fetiță din județul Arad a căzut victimă unor abuzuri de neimaginat chiar sub ochii propriei mame.",
+    "fetched_at": "2026-04-15T11:38:15.651015"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-muncii-florin-manole-spune-in-ce-conditii-vor-fi-majorate-salariile-bugetarilor-3728131",
+    "title": "Ministrul Muncii, Florin Manole, spune în ce condiții vor fi majorate salariile bugetarilor",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjEyJTJGMjYzNTE5OF8yNjM1/MTk4X3Bob3RvLWNvbGxhZ2VfcG5nLTIw/MjUtMDctMjJUMjEyNzIwXzM5My5wbmcm/aGFzaD00NDdlNGE4OTQ5MmZhOGUyZTFmYzhiZWRmNzkwNzE0OA==.png",
+    "time": "14:34",
+    "date": "15 Apr",
+    "content": "Salariile în sistemul bugetar vor trebui să crească în baza unui mecanism bazat pe un cuantum stabilit de Ministerul Muncii şi Ministerul de Finanţe, raportat la creşterea economică, nivelul inflaţiei şi anvelopa bugetară, a declarat, miercuri, ministrul Muncii, Florin Manole, la Antena 3 CNN.",
+    "fetched_at": "2026-04-15T11:38:11.516173"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/un-milion-de-europeni-cer-suspendarea-acordului-de-asociere-ue-israel-pentru-crimele-din-gaza-3727977",
+    "title": "Un milion de europeni cer suspendarea acordului de asociere UE–Israel pentru „crimele din Gaza”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4MzkwMV8yNjgz/OTAxX3BhbGVybW8uanBnJmhhc2g9ODA5/ZWFjZDNhNjEzZmRiNWVhNWZlMTIwMjY4NTE4NDY=.jpg",
+    "time": "13:23",
+    "date": "15 Apr",
+    "content": "O inițiativă cetățenească prin care se solicită suspendarea completă a acordului de asociere UE–Israel a atins pragul de un milion de semnături necesar pentru a declanșa un răspuns din partea Comisiei Europene și a Parlamentului European.",
+    "fetched_at": "2026-04-15T11:38:11.516265"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/aplicatia-ue-de-verificare-a-varstei-pe-platformele-online-este-gata-von-der-leyen-un-instrument-puternic-pentru-a-proteja-copiii-3728033",
+    "title": "Aplicația UE de verificare a vârstei pe platformele online este gata. „E datoria părinților să-și crească copiii, nu a platformelor”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4Mzk3NF8yNjgz/OTc0X1RlbGVmb24tbW9iaWxfLUltYWdp/bmUtY3UtY2FyYWN0ZXItaWx1c3RyYXRp/dl8tLmpwZyZoYXNoPTVhYTM1YzFhNmU2NDc3MzM3ZjYxZDJjNWY5OGIzZTlm.jpg",
+    "time": "14:15",
+    "date": "15 Apr",
+    "content": "Sistemul UE de verificare a vârstei pentru platformele online este finalizat și va fi disponibil în curând, a declarat miercuri președinta Comisiei Europene, Ursula von der Leyen, în contextul în care statele membre avansează cu planurile de limitare a accesului copiilor la rețelele sociale, relatează Reuters.",
+    "fetched_at": "2026-04-15T11:38:11.516203"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/opinii/agora-digi/cei-treizeci-de-ani-gloriosi-o-lectie-pe-care-romania-nu-isi-poate-permite-sa-o-ignore-3728075",
+    "title": "Cei Treizeci de Ani Glorioși — o lecție pe care România nu își poate permite să o ignore",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjIzJTJGMjYwMzE0NF8yNjAz/MTQ0X1doYXRzQXBwLUltYWdlLTIwMjYt/MDItMjMtYXQtMTFfMDZfNTIuanBlZyZo/YXNoPTFmMjA3YTBjMWI2YWQ2ZjMyZjUzMTk5ODE1MTIzZjc4.jpeg",
+    "time": "14:04",
+    "date": "15 Apr",
+    "content": "Între 1945 și 1973, lumea occidentală a construit cea mai mare clasă de mijloc din istorie. A fost o alegere politică deliberată. Și poate fi repetată. Există o perioadă din istoria recentă pe care economiștii o invocă tot mai des, mai ales în contextul dezbaterilor despre inegalitate și creștere economică. Economiștii o numesc Cei Treizeci de Ani Glorioși — intervalul 1945-1973, când lumea occidentală a trăit cel mai spectaculos episod de prosperitate distribuită din istoria capitalismului.",
+    "fetched_at": "2026-04-15T11:38:11.516212"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/presedintele-cj-arges-psd-am-cumparat-25-de-microbuze-la-213-375-euro-bucata-ilie-bolojan-a-cumparat-la-oradea-cu-218-000-euro-liberalii-din-arges-au-semnalat-nereguli-in-achizitiile-de-aici.html",
+    "title": "Preşedintele CJ Argeş (PSD): Am cumpărat 25 de microbuze la 213.375 euro bucata / Ilie Bolojan a cumpărat la Oradea cu 218.000 euro / Liberalii din Ar",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/Microbuze-scolare--1024x683.jpeg",
+    "time": "11:11",
+    "date": "15 Apr",
+    "content": "Preşedintele Consiliului Judeţean (CJ) Argeş, social-democratul Ion Mînzînă, afirmă că instituţia pe care o conduce a achiziţionat microbuzele electrice pentru transportul elevilor la preţul de 213.375 de euro pe bucată, mai mic decât preţul de 218.000 de euro plătit de administraţia judeţeană din Bihor, condusă la acea vreme de actualul premier Ilie Bolojan, transmite Agerpres. [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590497"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/masuri-impotriva-hartuirii-si-a-inactiunii-plarformelor-bruxellesul-lanseaza-un-sistem-de-verificare-a-varstei-minorilor-pe-retelele-de-socializare-si-site-urile-pornografice-23720370",
+    "title": "Măsuri împotriva hărțuirii și a inacțiunii plarformelor: Bruxellesul lansează un sistem de verificare a vârstei minorilor pe rețelele de socializare ș",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/01/8088222-mediafax_foto-dpa_hepta-1024x683.jpg",
+    "time": "11:27",
+    "date": "15 Apr",
+    "content": "Bruxellesul ia măsuri împotriva hărțuirii online de care suferă unul din șase copii și a inacțiunii platformelor. Instrumentul va fi anonim, nu va urmări utilizatorii și va folosi doar cărți de identitate sau pașapoarte pentru verificare. Sistemul open-source va fi uniform în toate cele 27 de țări și va aborda deficiențele rețelelor și site-urilor web pentru adulți.",
+    "fetched_at": "2026-04-15T11:38:12.149974"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/ue-impune-taxe-pentru-produse-chinezesti-ocolind-tarifele-prin-tari-terte-bruxelles-incearca-sa-limiteze-dumpingul-23720343",
+    "title": "UE impune taxe pentru produse chinezești ocolind tarifele prin țări terțe. Bruxelles încearcă să limiteze dumpingul",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/12/hepta_7871792-scaled-e1767522333369-1024x666.jpg",
+    "time": "11:03",
+    "date": "15 Apr",
+    "content": "Uniunea Europeană a decis să impună noi taxe antidumping pentru produse realizate de companii chineze în afara Chinei, într-o mișcare care vizează blocarea practicilor prin care mărfurile ajung pe piața europeană evitând tarifele existente, transmite Euronews.",
+    "fetched_at": "2026-04-15T11:38:12.150013"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/pakistanul-opreste-furnizarea-curentului-electric-timp-de-doua-ore-pe-zi-pentru-a-opri-cresterea-preturilor-in-contextul-razboiului-din-orientul-mijlociu.html",
+    "title": "Pakistanul opreşte furnizarea curentului electric timp de două ore pe zi pentru a opri creşterea preţurilor, în contextul războiului din Orientul Mijl",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/10/burhan-ahmad-f3YSRl-O_rw-unsplash-e1665834744170-1024x652.jpg",
+    "time": "11:03",
+    "date": "15 Apr",
+    "content": "Guvernul pakistanez a anunţat miercuri că furnizarea curentului electric va fi întreruptă timp de aproximativ două ore, în fiecare seară, atunci când se înregistrează un vârf al cererii, pentru a &#8222;preveni o creştere puternică a tarifelor&#8221;, informează agenția de știri AFP, citată de Agerpres. Energia electrică va fi întreruptă zilnic în cea mai mare parte [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590515"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/english/ministry-of-national-defense-following-russian-cyberattack-no-classified-data-was-compromised-23720392",
+    "title": "Ministry of National Defense Following Russian Cyberattack: No Classified Data Was Compromised",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/jaydeep-cyber-security-4785679_1920-1024x576.png",
+    "time": "11:33",
+    "date": "15 Apr",
+    "content": "The Ministry of National Defense (MApN) provided clarifications on Wednesday regarding the massive cyber espionage campaign attributed to Russian groups, which also targeted dozens of email accounts within the Romanian Air Force.",
+    "fetched_at": "2026-04-15T11:38:12.149919"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/europa-introduce-buletinul-digital-pentru-social-media-aplicatia-ue-de-verificare-a-varstei-este-gata.html",
+    "title": "Europa introduce „buletinul digital” pentru social media: Aplicația UE de verificare a vârstei este gata",
+    "image": "https://www.g4media.ro//wp-content/uploads/2019/01/Copil-cu-telefon-mobil-Pexels-e1546936576159-1024x696.jpg",
+    "time": "10:57",
+    "date": "15 Apr",
+    "content": "Comisia Europeană accelerează eforturile de protejare a minorilor în mediul digital, anunțând finalizarea unei aplicații europene pentru verificarea vârstei. Președinta Executivului comunitar, Ursula von der Leyen, a anunțat miercuri într-un discurs la Bruxelles că soluția tehnică este pregătită și va fi disponibilă în curând cetățenilor, în contextul în care tot mai multe state membre caută [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590534"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/guvernul-britanic-muta-10-000-de-migranti-din-hoteluri-in-comunitati-the-telegraph.html",
+    "title": "Guvernul britanic mută 10.000 de migranți din hoteluri în comunități (The Telegraph)",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/08/migranti-refugiati-mare-ocean-mediterana-corturi-tabere-migranti-cartier-refugiati-e1691812914279-1024x684.jpg",
+    "time": "10:50",
+    "date": "15 Apr",
+    "content": "Aproximativ 10.000 de migranți au fost mutați în ultimele luni din hoteluri în locuințe comune și foste baze militare, în timp ce autoritățile britanice au început să închidă treptat unitățile folosite pentru cazarea acestora, transmite MEDIAFAX. Numărul solicitanților de azil cazați în hoteluri din Marea Britanie a scăzut cu o treime față de finalul anului [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590551"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/un-mafiot-roman-a-fost-impuscat-chiar-in-drum-spre-proces-in-spania-barbatul-e-acuzat-intr-un-asasinat-facut-la-comanda-3728047",
+    "title": "Un mafiot român a fost împușcat chiar în drum spre proces, în Spania. Bărbatul e acuzat într-un asasinat făcut la comandă",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4Mzk2MF8yNjgz/OTYwX3Byb2ZpbWVkaWEtMDE2MDA5MDc1/NC5qcGcmaGFzaD1kNzk2OTIyMjBhYjljODU3MTFiOWNiZTQ2ZjVhOWM3OQ==.jpg",
+    "time": "13:55",
+    "date": "15 Apr",
+    "content": "Un român din Spania a fost atacat și împușcat chiar în timp ce mergea spre instanță, la procesul în care era judecat. Deși rănile sunt grave, medicii spun că va supraviețui. Românul este acuzat că a asasinat doi marocani - traficanți de droguri. După ce a fost atacat, pronunțarea sentinței în acest caz a fost amânată.",
+    "fetched_at": "2026-04-15T11:38:11.516226"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/fenomenul-fake-urilor-de-lux-cum-a-ajuns-aplicatia-chinezeasca-dhgate-sa-schimbe-regulile-jocului-in-moda.html",
+    "title": "Fenomenul „fake-urilor de lux”: cum a ajuns aplicația chinezească DHgate să schimbe regulile jocului în modă",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/profimedia-0988221233-1024x768.jpg",
+    "time": "10:52",
+    "date": "15 Apr",
+    "content": "În ultimul an, un tip de conținut a început să domine discret, dar constant, zona de fashion: haul-urile cu produse „inspirate” din marile case de lux, cumpărate la prețuri care par imposibile. Vorbim despre articole achiziționate de pe platforme chinezești precum DHgate, unde o geantă, o pereche de sneakers sau ochelarii care imită fidel un [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590543"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/marcel-ciolacu-sustine-ca-guvernul-a-tras-de-timp-in-cazul-scandalului-pfizer-credeti-ca-puteam-castiga-vreun-proces-3728049",
+    "title": "Marcel Ciolacu susține că Guvernul a „tras de timp” în cazul scandalului Pfizer: „Credeți că puteam câștiga vreun proces?”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjA5JTJGMjUzNjIzN18yNTM2/MjM3X21hcmNlbC1jaW9sYWN1LWlucXVh/bS1vY3Rhdi1nYW5lYS5qcGcmaGFzaD1m/YWEyNTE1OTZmMTc5MWQ3MzRkMzM1NTRlZTc0Yzc0YQ==.jpg",
+    "time": "13:58",
+    "date": "15 Apr",
+    "content": "Marcel Ciolacu a menționat într-o conferință de presă susținută miercuri, 15 aprilie, că Guvernul României era conștient că riscă să piardă procesul cu Pfizer, însă a încercat „să tragă de timp”.",
+    "fetched_at": "2026-04-15T11:38:11.516220"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/pakistanul-ia-o-decizie-radicala-pentru-a-frana-cresterea-preturilor-la-energia-electrica-3728081",
+    "title": "Pakistanul ia o decizie radicală pentru a frâna creşterea preţurilor la energia electrică",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA4JTJGMjY3NzE2Ml8yNjc3/MTYyX3Byb2ZpbWVkaWEtMTAwMjg4OTgw/Ny5qcGcmaGFzaD1iMTIzOTlhNzQ4ZTU1MDY2MmJkYzI4NjRmYTFhY2M0Nw==.jpg",
+    "time": "14:13",
+    "date": "15 Apr",
+    "content": "Guvernul pakistanez a anunţat, miercuri, că furnizarea curentului electric va fi întreruptă timp de aproximativ două ore, în fiecare seară, atunci când se înregistrează un vârf al cererii, pentru a „preveni o creştere puternică a tarifelor”, informează AFP, potrivit Agerpres.",
+    "fetched_at": "2026-04-15T11:38:11.516194"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/blogurile-adevarul/maghiarii-l-au-maturat-pe-viktor-orban-lectia-2522845.html",
+    "title": "Maghiarii l-au măturat pe Viktor Orbán. Lecția pentru România",
+    "image": "https://cdn.adh.reperio.news/image-1/17e9ad84-b5eb-48fd-a2dc-41617593a90a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "11:23",
+    "date": "15 Apr",
+    "content": "Duminică, poporul maghiar a reușit ceea ce speram și ceea ce îi doream cei mai mulți dintre noi: a măturat la vot regimul Viktor Orbán.",
+    "fetched_at": "2026-04-15T11:38:15.651029"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/in-lume/iranul-promite-razbunare-dupa-moartea-2522862.html",
+    "title": "Iranul promite răzbunare după moartea ayatolahului Ali Khamenei și a comandanților săi. „Cei responsabili vor plăti un preț greu”",
+    "image": "https://cdn.adh.reperio.news/image-4/4191f71c-3f4f-43c0-86a5-55e5bd440d94/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "11:26",
+    "date": "15 Apr",
+    "content": "Moartea liderului suprem al Iranului, ayatolahul Ali Khamenei, precum și a mai multor comandanți militari de rang înalt, în urma unor presupuse lovituri americano-israeliene, va fi răzbunată, a avertizat vicepreședintele Parlamentului de la Teheran, Ali Nikzad.",
+    "fetched_at": "2026-04-15T11:38:15.651023"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/republica-moldova/pro-rusul-mark-tcaciuk-paraseste-fractiunea-2522841.html",
+    "title": "Pro-rusul Mark Tcaciuk părăsește fracțiunea parlamentară după plecarea partidului edilului Chișinăului din coaliție",
+    "image": "https://cdn.adh.reperio.news/image-6/6a69d151-d7d2-48a3-84ae-7b0e27ef76e3/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "10:59",
+    "date": "15 Apr",
+    "content": "Mark Tkaciuk, liderul Congresului Civic, a anunțat că părăsește fracțiunea parlamentară Alternativă, la câteva zile după ce partidul primarului Chișinăului a ieșit din coaliția cu aceeași denumire, subliniind că nu îi înțelege rostul.",
+    "fetched_at": "2026-04-15T11:38:15.651036"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/blogurile-adevarul/trump-si-iluzia-deciziei-dominante-2522863.html",
+    "title": "Trump și iluzia deciziei dominante",
+    "image": "https://cdn.adh.reperio.news/image-5/5531a6d0-43b4-4662-aae6-5994764d25ee/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "11:30",
+    "date": "15 Apr",
+    "content": "În lectura clasică, Donald Trump a vrut să pară omul care a rupt lanțul ezitărilor.",
+    "fetched_at": "2026-04-15T11:38:15.651004"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/bnr-datoria-externa-a-romaniei-a-crescut-cu-15-miliarde-de-euro-in-primele-doua-luni-ale-anului-in-total-s-a-ajuns-la-2299-miliarde-de-euro.html",
+    "title": "BNR: Datoria externă a României a crescut cu 1,5 miliarde de euro în primele două luni ale anului / În total s-a ajuns la 229,9 miliarde de euro",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/10/euro-bani-1024x724.webp",
+    "time": "10:30",
+    "date": "15 Apr",
+    "content": "Datoria externă totală a României a crescut cu 1,5 miliarde de euro, până la 229,9 miliarde de euro, în primele două luni ale acestui an, arată datele publicate miercuri de BNR, transmite Mediafax. În perioada ianuarie-februarie 2026, datoria externă totală a crescut cu 1,5 miliarde de euro, până la 229,9 miliarde de euro, arată BNR. [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590568"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/donald-trump-pune-presiune-pe-marea-britanie-si-ameninta-cu-ruperea-acordului-comercial-din-cauza-pozitiei-londrei-fata-de-conflictul-din-iran.html",
+    "title": "Donald Trump pune presiune pe Marea Britanie și amenință cu ruperea acordului comercial din cauza poziției Londrei față de conflictul din Iran",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/09/profimedia-1036225438-1024x683.jpg",
+    "time": "10:20",
+    "date": "15 Apr",
+    "content": "Președintele SUA, Donald Trump, a amenințat că ar putea renegocia sau chiar anula acordul comercial dintre Statele Unite și Marea Britanie, transmite MEDIAFAX. Într-un interviu acordat miercuri, Trump a spus că Statele Unite au oferit Marii Britanii „un acord comercial bun”, care a fost „mai bun decât era nevoie”, adăugând că acesta „poate fi schimbat [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T11:38:16.590576"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/auto/casa-verde-si-masinile-electrice-incarcarea-de-acasa-ar-putea-deveni-independenta-de-retea-23720364",
+    "title": "Casa Verde și mașinile electrice: încărcarea de acasă ar putea deveni independentă de rețea",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/masini-electrice-1024x576.jpg",
+    "time": "11:10",
+    "date": "15 Apr",
+    "content": "Programul Casa Verde ar putea schimba modul în care utilizatorii de mașini electrice își încarcă vehiculele, mai ales dacă finanțarea va fi orientată către sisteme fotovoltaice cu stocare.",
+    "fetched_at": "2026-04-15T11:38:12.150007"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/usr-cere-sanctionarea-deputatului-dan-tanasa-2522864.html",
+    "title": "USR cere sancționarea deputatului Dan Tanasă pentru scandalul făcut în plen săptămâna trecută: „Aceste afirmații depășesc limitele unei critici politi",
+    "image": "https://cdn.adh.reperio.news/image-8/8be92288-5ea6-48b0-bdf8-36e32a4d6050/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "11:35",
+    "date": "15 Apr",
+    "content": "Uniunea Salvați România (USR) a depus, miercuri, o sesizare la Biroul permanent al Camerei Deputaților, solicitând sancționarea deputatului AUR Dan Tanasă pentru „afirmații cu caracter injurios” făcute în ședința de plen din 8 aprilie 2026.",
+    "fetched_at": "2026-04-15T11:38:15.650988"
+  },
+  {
+    "source": "Digi24",
     "url": "https://www.digi24.ro/stiri/un-barbat-din-arad-si-partenera-sa-au-fost-arestati-dupa-ce-el-ar-fi-violat-o-timp-de-doi-ani-pe-fiica-femeii-3727869",
     "title": "Un bărbat din Arad şi partenera sa au fost arestaţi după ce el ar fi violat-o, timp de doi ani, pe fiica femeii",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMiUyRjIwJTJGMjE5NDI4OF8yMTk0/Mjg4X0NhdHVzZS5qcGcmaGFzaD04YjRi/YTk5ZmU5ZGQxZjM4NDIxNWI3NGRjM2I2MjU2ZA==.jpg",
