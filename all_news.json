@@ -1,5 +1,505 @@
 [
   {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/ue-aplicatie-verificare-varsta-copii-online/",
+    "title": "UE se pregătește să lanseze aplicația de verificare a vârstei pentru accesul copiilor la rețelele sociale. Șefa Comisiei Europene: „I-am ascultat cu a",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/ursula-von-der-leyen-aplicatie-varsta-foto-X-UrsulavonderLeyen-200x200.jpg",
+    "time": "12:39",
+    "date": "15 Apr",
+    "content": "Comisia Europeană anunță lansarea unei aplicații pentru verificarea vârstei online, în contextul preocupărilor privind accesul copiilor la rețele sociale.",
+    "fetched_at": "2026-04-15T14:55:13.649699"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/scandal-la-aur-altercatie-intre-deputatul-dan-2522934.html",
+    "title": "Scandal la AUR. Altercație între deputatul Dan Tanasă și un membru al partidului. „Bă, tu mă faci pe mine borfaș?”",
+    "image": "https://cdn.adh.reperio.news/image-e/ef0f2981-0ffb-40dd-942b-d6037c864f8c/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:53",
+    "date": "15 Apr",
+    "content": "Momente tensionate după o ședință AUR, când un membru al formațiunii a intrat într-un conflict verbal și fizic cu deputatul Dan Tanasă. Situația e escaladat și s-a lăsat cu injurii, bătaia fiind evitată datorită persoanelor care i-au despărțit pe cei doi.",
+    "fetched_at": "2026-04-15T14:55:14.803217"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/tanar-galati-arest-domiciliu-experimente-chimice-substante-periculoase/",
+    "title": "Galați: Tânăr, plasat în arest la domiciliu, după ce polițiștii au descoperit că realiza experimente chimice în locuința sa | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/02/Politie-Shutterstock-200x200.jpg",
+    "time": "12:09",
+    "date": "15 Apr",
+    "content": "Un tânăr din Galați a fost plasat în arest la domiciliu după ce polițiștii au găsit substanțe toxice și precursori de explozivi într-un bloc.",
+    "fetched_at": "2026-04-15T14:55:13.649729"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/pilotii-romani-au-interceptat-un-avion-de-spionaj-al-rusiei-in-apropierea-spatiului-aerian-al-lituaniei-3728573",
+    "title": "Piloții români au interceptat un avion de spionaj al Rusiei în apropierea spațiului aerian al Lituaniei",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4NDQzNl8yNjg0/NDM2X2YtMTYtcm9tYW5pYS1lc2NvcnRh/LWF2aW9uLXJ1c2lhLnBuZyZoYXNoPTFm/NDhkNzlkMGIwMjM0Y2ZmZTZjMDAxNTNhYTQzOTk5.png",
+    "time": "17:43",
+    "date": "15 Apr",
+    "content": "Piloții români au interceptat un avion trimis de Rusia în apropierea spațiului aerian NATO. Aeronava Kremlinului era într-o misiune de spionaj. A fost prima misiune din luna aprilie a detașamentului de aeronave F-16 dislocat în Lituania.",
+    "fetched_at": "2026-04-15T14:55:11.781752"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/ionut-dumitru-nu-avem-spatiu-fiscal-si-suntem-vulnerabili-avertisment-privind-riscurile-economice-pentru-romania-3728509",
+    "title": "Ionuț Dumitru: „Nu avem spațiu fiscal și suntem vulnerabili”. Avertisment privind riscurile economice pentru România",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjA1JTJGMTAzODI0OV8xMDM4/MjQ5X2lvbnV0LWR1bWl0cnUtY29uc2ls/aXVsLWZpc2NhbC5wbmcmaGFzaD0yOWRl/NDdiYTlhZTVjMzgzZjYwNWJlZDNmMmY1ZDQ3Yw==.png",
+    "time": "17:07",
+    "date": "15 Apr",
+    "content": "România intră într-o perioadă economică complicată, pe fondul tensiunilor internaționale și al dezechilibrelor interne, avertizează consilierul onorific al premierului, Ionuț Dumitru, într-o intervenție la Digi24. Acesta spune că revizuirea în scădere a prognozelor economice reflectă noile realități generate de conflictul din Orientul Mijlociu, dar și problemele deja existente în economia românească.",
+    "fetched_at": "2026-04-15T14:55:11.781791"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/surpriza-in-tenis-legendarul-san-siro-luat-in-calcul-pentru-un-turneu-atp-pe-iarba.html",
+    "title": "Surpriză în tenis: legendarul San Siro, luat în calcul pentru un turneu ATP pe iarbă",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/09/IMG_20240422_201955-1024x769.jpg",
+    "time": "14:19",
+    "date": "15 Apr",
+    "content": "Italia a câștigat dreptul de a organiza un turneu de categorie ATP 250 pe iarbă, înainte de desfășurarea Grand Slam-ului de la Wimbledon, transmite independent.co.uk. Sursa citată menționează că acest turneu (care va debuta în sezonul 2028) s-ar putea disputa pe legendarul stadion San Siro din Milano. Turneul pregătitor pentru Wimbledon își va face loc [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153068"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cresterea-ratei-obezitatii-eclipseaza-progresele-inregistrate-in-domeniul-sanatatii-publice-incepand-din-2010-arata-un-raport-ocde.html",
+    "title": "Creşterea ratei obezităţii eclipsează progresele înregistrate în domeniul sănătăţii publice începând din 2010, arată un raport OCDE",
+    "image": "https://www.g4media.ro//wp-content/uploads/2021/03/obezitate-e1614887462730-1024x576.jpg",
+    "time": "14:19",
+    "date": "15 Apr",
+    "content": "Progresele înregistrate începând din 2010 în domeniul sănătăţii publice pentru reducerea factorilor de risc precum poluarea aerului, fumatul, consumul de alcool şi sedentarismul au fost subminate de o creştere puternică a obezităţii în multe ţări ale OCDE, potrivit unui raport publicat miercuri, informează agenția de știri AFP, citată de Agerpres. &#8222;În pofida eforturilor depuse de [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153057"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/politico-cu-orban-iesit-din-scena-cine-ar-putea-fi-urmatorul-obstructionist-sef-al-ue-23720551",
+    "title": "Politico: Cu Orbán ieșit din scenă, cine ar putea fi următorul obstrucționist șef al UE?",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/8117828-mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "time": "14:13",
+    "date": "15 Apr",
+    "content": "Liderul maghiar, obstrucționist, pleacă după 16 ani petrecuți la masa Consiliului — dar Bruxelles-ul nu ar trebui să se aștepte la o situație liniștită, relatează Politico.",
+    "fetched_at": "2026-04-15T14:55:12.493990"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/guvernul-israelian-se-reuneste-in-aceasta-seara-pentru-a-discuta-despre-un-posibil-armistitiu-in-liban-un-oficial-al-hezbollah-afirma-ca-incetarea-focului-ar-putea-avea-loc-in-curand.html",
+    "title": "Guvernul israelian se reunește în această seară pentru a discuta despre un posibil armistițiu în Liban / Un oficial al Hezbollah afirmă că încetarea f",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/10/AFP__20241027__36KZ7PL__v4__HighRes__TopshotIraqPalestinianLebanonIsraelConflict-1024x683.jpg",
+    "time": "14:41",
+    "date": "15 Apr",
+    "content": "Guvernul israelian se va reuni în această seară pentru a discuta posibilitatea unui armistițiu în Liban, a declarat un înalt oficial israelian. Benjamin Netanyahu se va alătura cabinetului său de securitate la ședința care va avea loc la ora 20:00, transmite Sky News. În același timp, doi înalți oficiali libanezi au declarat agenției de știri Reuters [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153011"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/viktor-orban-invins-la-alegerile-legislative-nu-va-mai-participa-la-summit-ul-liderilor-ue-de-saptamana-viitoare-orban-va-fi-reprezentat-la-reuniune-de-un-alt-lider-european-nationalist.html",
+    "title": "Viktor Orbán, învins la alegerile legislative, nu va mai participa la summit-ul liderilor UE de săptămâna viitoare / Orbán va fi reprezentat la reuniu",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/04/Viktor-Orban-si-Peter-e1744700725291-1024x612.jpg",
+    "time": "14:30",
+    "date": "15 Apr",
+    "content": "Premierul naționalist-populist al Ungariei, Viktor Orbán, nu va mai participa la summitul liderilor Uniunii Europene de săptămâna viitoare, în Cipru, după ce a pierdut alegerile legislative în țara sa, informează Politico pe surse.  Orbán rămâne prim-ministru până luna viitoare, când rivalul său, Péter Magyar, va prelua puterea, conform procedurii de convocare a noului Parlament. Reamintim [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153039"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/curs-valutar-15-aprilie-leu-euro-dolar-aur-bnr/",
+    "title": "Leul s-a apreciat în raport cu euro și francul elvețian, dar a pierdut teren în fața dolarului american",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/05/leu-euro-foto-shutterstock-200x200.jpg",
+    "time": "11:52",
+    "date": "15 Apr",
+    "content": "Leul s-a apreciat ușor față de euro și francul elvețian, dar a scăzut față de dolar. Aurul a înregistrat o nouă creștere, potrivit BNR.",
+    "fetched_at": "2026-04-15T14:55:13.649758"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/atac-armat-scoala-turcia-kahramanmaras-profesor-elevi-ucisi/",
+    "title": "Un nou atac armat la o școală din Turcia, soldat cu patru morți. Aproximativ 20 de persoane au fost rănite",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/Politie-Turcia-Shutterstock-200x200.jpg",
+    "time": "12:22",
+    "date": "15 Apr",
+    "content": "Un atac armat într-o școală din Kahramanmaraş, Turcia, s-a soldat cu un profesor și trei elevi uciși. Alte aproximativ 20 de persoane au fost rănite.",
+    "fetched_at": "2026-04-15T14:55:13.649715"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/alexandru-rogobete-romania-va-incerca-in-discutiile-cu-pfizer-sa-converteasca-datoria-de-600-de-milioane-de-euro-in-medicamente-inovative-23720554",
+    "title": "Alexandru Rogobete: România va încerca, în discuțiile cu Pfizer, să convertească datoria de 600 de milioane de euro în medicamente inovative",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/8121964-mediafax_foto-emanuel_titus_iliesi-1024x683.jpg",
+    "time": "14:36",
+    "date": "15 Apr",
+    "content": "Ministrul Sănătății, Alexandru Rogobete, a anunțat miercuri, într-o intervenție la Digi24, că în cursul zilei de joi, el și ministrul Finanțelor, Alexandru Nazare, vor purta discuții cu oficialii companiei Pfizer pentru a transforma datoria de aproximativ 600 de milioane de euro în medicamente necesare sistemului sanitar, subliniind că suma „oricum va trebui plătită”.",
+    "fetched_at": "2026-04-15T14:55:12.493971"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/life-inedit/un-pui-dintr-o-specie-extrem-de-rara-s-a-nascut-la-zoo-madrid-numele-sau-va-fi-ales-de-public-23720552",
+    "title": "Un pui dintr-o specie extrem de rară s-a născut la Zoo Madrid. Numele său va fi ales de public",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/pui-de-urangutan-nascut-la-madrid-aprilie-2026-e1776262116326-1024x643.jpg",
+    "time": "14:20",
+    "date": "15 Apr",
+    "content": "Un pui de urangutan de Borneo, specie aflată în pragul dispariției, s-a născut la Zoo Aquarium Madrid, una dintre cele mai mari grădini zoologice din Europa, iar îngrijitorii spun că se dezvoltă normal și este nedespărțit de mama sa, Surya.",
+    "fetched_at": "2026-04-15T14:55:12.493984"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cum-e-promovat-aur-de-biserica-ortodoxa-si-sistemul-de-educatie-senator-aur-invitat-principal-al-unei-conferinte-organizate-de-mitropolia-banatului-si-universitatea-de-vest-timisoara.html",
+    "title": "Cum e promovat AUR de biserica ortodoxă și sistemul de educație. Senator AUR, invitat principal al unei conferințe organizate de Mitropolia Banatului ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/Virgiliu-Gheorghe-Vlaescu-si-un-preot-1024x604.jpg",
+    "time": "14:38",
+    "date": "15 Apr",
+    "content": "Senatorul AUR Virgiliu-George Vlăescu, cunoscut pentru promovarea unor teorii ale conspirației, a fost invitatul principal al unei conferințe organizate în luna martie de Mitropolia Banatului, Facultatea de Litere, Istorie și Teologie a Universității de Vest Timișoara și Asociația Studenților Creștin-Ortodocși (ASCOR). Evenimentul a avut loc pe fondul promovării puternice a AUR și altor partide extremiste [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153021"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/seful-itm-bucuresti-costel-grojdea-schimbat-din-functie-dupa-scandalul-lamborghini-23720585",
+    "title": "Șeful ITM București, Costel Grojdea, schimbat din funcție după scandalul Lamborghini",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/671278191_980938801164584_2580619066950454876_n-1024x556.png",
+    "time": "14:45",
+    "date": "15 Apr",
+    "content": "Ministrul Muncii a dispus încetarea detașării lui Costel Grojdea la șefia ITM București, după controversele legate de Lamborghini-ul cu care venea la birou",
+    "fetched_at": "2026-04-15T14:55:12.493900"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/ue-consumul-de-combustibili-va-fi-redus-fortat-2522915.html",
+    "title": "UE: Consumul de combustibili va fi redus forțat dacă războiul din Iran continuă",
+    "image": "https://cdn.adh.reperio.news/image-7/7bf2c8ff-596d-45fb-99c3-81fcada290a2/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:56",
+    "date": "15 Apr",
+    "content": "Uniunea Europeană a avertizat miercuri țările membre că, dacă conflictul din Iran continuă, piețele energetice se vor confrunta cu un șoc prelungit al ofertei , care va forța reducerea consumului de combustibil, au declarat diplomați UE pentru Reuters.",
+    "fetched_at": "2026-04-15T14:55:14.803289"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/facturare-curs-bnr-fara-comisioane-valutare-bnr/",
+    "title": "Facturile în euro ar putea fi calculate doar la cursul BNR, fără taxe suplimentare, prevede un proiect de lege depus în Parlament de USR | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2023/05/euro-lei-bancnote-shutterstockfoto-200x200.jpg",
+    "time": "11:53",
+    "date": "15 Apr",
+    "content": "Un proiect USR prevede ca facturile în euro să fie calculate la cursul BNR, fără comisioane suplimentare. Măsura ar putea reduce costurile pentru consumatori.",
+    "fetched_at": "2026-04-15T14:55:13.649751"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/ue-avertizeaza-ca-taxa-perceputa-de-meta-pentru-serviciul-de-ia-al-whatsapp-incalca-normele-antitrust-23720586",
+    "title": "UE avertizează că taxa percepută de Meta pentru serviciul de IA al WhatsApp încalcă normele antitrust",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/12/8064571-mediafax_foto-dpa_hepta-1-1024x681.jpg",
+    "time": "14:42",
+    "date": "15 Apr",
+    "content": "Comisia Europeană a anunțat miercuri că intenționează să oblige Meta Platforms să reintroducă asistenții de inteligență artificială ai concurenței în serviciul său de mesagerie WhatsApp, după ce gigantul tehnologic american a impus o taxă de acces.",
+    "fetched_at": "2026-04-15T14:55:12.493929"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/psd-a-definitivat-planul-de-debarcare-a-lui-ilie-2522924.html",
+    "title": "PSD a definitivat planul de debarcare a lui Ilie Bolojan. Miniștrii social-democrați vor părăsi Guvernul, dacă premierul nu demisionează SURSE",
+    "image": "https://cdn.adh.reperio.news/image-1/1586dfa5-7472-4461-b490-c877535652fa/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:41",
+    "date": "15 Apr",
+    "content": "Conducerea Partidului Social Democrat a pus la punct ultimele detalii ale planului de debarcare din funcție a premierului Ilie Bolojan. Potrivit informațiilor „Adevărul”, în cazul în care acesta nu va părăsi Palatul Victoria până pe 23 aprilie, miniștrii social-democrați își vor depune demisiile.",
+    "fetched_at": "2026-04-15T14:55:14.803244"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/compania-britanica-de-televiziune-bbc-va-renunta-la-aproape-2-000-de-angajati-cea-mai-mare-reducere-de-personal-din-ultimii-15-ani.html",
+    "title": "Compania britanică de televiziune BBC va renunța la aproape 2.000 de angajați, cea mai mare reducere de personal din ultimii 15 ani",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/08/bbc-sediu-1024x576.jpg",
+    "time": "14:54",
+    "date": "15 Apr",
+    "content": "Personalul urma să fie informat despre reduceri, care vor afecta aproximativ 10% din cei 21.500 de angajați ai BBC, într-o ședință a întregului personal, miercuri, potrivit The Guardian. Reducerile, care sunt puse în mișcare înainte ca fostul director executiv al Google, Matt Brittin, să preia funcția de director general luna viitoare, reprezintă cea mai mare [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.152988"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/in-lume/sua-trimit-trupe-suplimentare-in-orientul-mijlociu-2522920.html",
+    "title": "SUA trimit trupe suplimentare în Orientul Mijlociu pentru a crește presiunea asupra Iranului",
+    "image": "https://cdn.adh.reperio.news/image-4/4dd78646-bb50-4d2f-b181-96199b90a6a1/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:41",
+    "date": "15 Apr",
+    "content": "SUA vor trimite în perioada următoare mii de militari suplimentari în Orientul Mijlociu, în scopul de a mări presiunea asupra Iranului pentru a ajunge la un acord care să pună capăt războiului.",
+    "fetched_at": "2026-04-15T14:55:14.803251"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/sanatate/avem-medicamente-dar-nu-stim-cine-sunt-bolnavii-2522898.html",
+    "title": "Avem medicamente, dar nu știm cine sunt bolnavii. De ce rămâne diagnosticul „veriga lipsă” pentru pacienții cu hemofilie din România",
+    "image": "https://cdn.adh.reperio.news/image-2/2b28970c-f3b5-4fed-986f-1df2f9c7b127/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:04",
+    "date": "15 Apr",
+    "content": "Asociația Națională a Hemofilicilor din România (ANHR) organizează sâmbătă, 18 aprilie, un eveniment deschis publicului în Parcul Cișmigiu, cu ocazia Zilei Mondiale a Hemofiliei. „Zi de comunitate în spațiu deschis\" va avea loc între orele 12:00 și 16:00, în zona Foișorului, și este gratuit.",
+    "fetched_at": "2026-04-15T14:55:14.803276"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/sua/trump-critica-relatia-trista-cu-regatul-unit-si-ameninta-acordul-comercial-cum-a-reactionat-downing-street-3728507",
+    "title": "Trump critică relația „tristă” cu Regatul Unit și amenință acordul comercial. Cum a reacționat Downing Street",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMCUyRjMxJTJGMjQxMjQ4M18yNDEy/NDgzX3N0cmFtZXItdHJ1bXAuanBnJmhh/c2g9MzQ4N2FiYTU5NDEyMzE4NjQyNWUyMjc3YTMyMmYyYjc=.jpg",
+    "time": "17:10",
+    "date": "15 Apr",
+    "content": "Preşedintele american Donald Trump ameninţă să revină asupra acordului încheiat anul trecut cu Regatul Unit, care viza o limitare a impactului taxelor vamale americane, şi îşi exprimă regretul, miercuri, într-un interviu acordat postului britanic Sky News, faţă de lipsa unei susţineri britanice de la începutul războiului din Iran, relatează AFP.",
+    "fetched_at": "2026-04-15T14:55:11.781772"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/economic/transelectrica-accelereaza-tranzitia-verde-cu-finantare-din-pnrr-stadiul-principalelor-proiecte-de-investitii-ale-operatorului-national-de-sistem-si-transport-al-energiei-electrice-23720564",
+    "title": "Transelectrica accelerează tranziția verde, cu finanțare din PNRR. Stadiul principalelor proiecte de investiții ale operatorului național de sistem și",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/whatsapp-image-2026-04-15-at-14-39-45-6-1024x576.jpeg",
+    "time": "14:37",
+    "date": "15 Apr",
+    "content": "Panouri fotovoltaice deja montate în șase stații electrice, echipamente electrice pentru mentenanța rețelei electrice de transport (RE) și un centru de date modern pentru securitatea cibernetică a rețelei reprezintă o parte din realizările proiectelor derulate de Transelectrica finanțate din Planul Național de Redresare și Reziliență (PNRR), potrivit comunicatului transmis miercuri de compania de stat.",
+    "fetched_at": "2026-04-15T14:55:12.493964"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/ucraina-ramane-fara-rachete-patriot-pentru-apararea-aeriana-avertizeaza-zelenski-situatia-nu-poate-fi-mai-grava-de-atat.html",
+    "title": "Ucraina rămâne fără rachete Patriot pentru apărarea aeriană, avertizează Zelenski: „Situația nu poate fi mai gravă de atât”",
+    "image": "https://www.g4media.ro//wp-content/uploads/2021/11/Rachete-Patriot.jpg",
+    "time": "14:11",
+    "date": "15 Apr",
+    "content": "Președintele ucrainean Volodimir Zelenski a afirmat într-un interviu pentru un post german că stocurile Ucrainei de rachete de apărare aeriană Patriot se confruntă cu un deficit mare. „Avem un astfel de deficit în acest moment, încât situația nu poate fi mai gravă de atât” a spus liderul de la Kiev, transmite MEDIAFAX. Președintele ucrainean Volodimir [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153077"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/sua/xi-jinping-l-ar-fi-asigurat-pe-trump-ca-beijingul-nu-livreaza-arme-iranului-ce-spune-presedintele-chinez-despre-blocada-navala-a-sua-3728603",
+    "title": "Xi Jinping l-ar fi asigurat pe Trump că Beijingul nu livrează arme Iranului. Ce spune președintele chinez despre blocada navală a SUA",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMCUyRjI1JTJGMjQwNTIwOV8yNDA1/MjA5XzIwMjUtMTAtMjRUMTAwMDUwWl8x/MTA0NjI4OTM0X1JDMjlJSEFTMFRITl9S/VFJNQURQXzNfVVNBLVRSVU1QLUFTSUEu/anBnJmhhc2g9ZDNmOWRlOWE5YjM4Y2E0MWJlNmY5NDM3Y2Y3ZjA2ZTA=.jpg",
+    "time": "17:47",
+    "date": "15 Apr",
+    "content": "Preşedintele american Donald Trump i-a cerut într-o scrisoare preşedintelui chinez Xi Jinping să nu furnizeze arme Iranului, iar Xi i-a răspuns că Bejingul nu o face, a declarat preşedintele american într-un interviu difuzat miercuri de Fox Business Network, transmite Reuters.",
+    "fetched_at": "2026-04-15T14:55:11.781696"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/incendiu-puternic-intr-un-bloc-din-sibiu-zeci-de-locatari-evacuati-trei-persoane-au-ajuns-la-spital-3728651",
+    "title": "Incendiu puternic într-un bloc din Sibiu: zeci de locatari evacuați. Trei persoane au ajuns la spital",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4NDQ3NF8yNjg0/NDc0X3Bob3RvLWNvbGxhZ2VfcG5nLTIw/MjYtMDQtMTVUMTczODUwXzk1Ny5wbmcm/aGFzaD0xZGJhODE4OWJhZTZiNjhlNDI5NTJiNTUzYzFkYjE0ZA==.png",
+    "time": "17:40",
+    "date": "15 Apr",
+    "content": "Un incendiu a izbucnit, miercuri după-amiază, într-o garsonieră situată la ultimul etaj al unui bloc de locuințe din Sibiu. Pompierii au intervenit de urgență, iar trei persoane au fost transportate la spital după ce au suferit arsuri ale căilor respiratorii.",
+    "fetched_at": "2026-04-15T14:55:11.781728"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/showbiz/vedete/mihaela-radulescu-rupe-tacerea-acuzatii-si-2522916.html",
+    "title": "Mihaela Rădulescu rupe tăcerea. Acuzații și dezvăluiri dure despre părinții lui Felix Baumgartner: „Am fost umilită și supusă presiunilor”",
+    "image": "https://cdn.adh.reperio.news/image-7/7423baaf-dd7f-4d29-b947-2db80d65e84a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:13",
+    "date": "15 Apr",
+    "content": "Mihaela Rădulescu a revenit public cu un nou mesaj despre perioada de după moartea lui Felix Baumgartner, la mai bine de nouă luni de la decesul acestuia, susținând că a trecut printr-o situație extrem de dificilă în relația cu familia fostului sportiv.",
+    "fetched_at": "2026-04-15T14:55:14.803270"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/al-doilea-suspect-din-dosarul-armelor-aduse-ilegal-2522923.html",
+    "title": "Al doilea suspect din dosarul armelor aduse ilegal din Turcia, arestat preventiv. Au fost vândute cu 4.500 de euro în Dâmboviţa",
+    "image": "https://cdn.adh.reperio.news/image-3/389eeae3-4922-4522-9247-9e6f91808bff/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:27",
+    "date": "15 Apr",
+    "content": "Cel de-al doilea bărbat implicat în dosarul armelor de foc introduse ilegal în România din Turcia și vândute în județul Dâmbovița a fost arestat preventiv. Celălalt inculpat din dosar fusese arestat în urmă cu două luni.",
+    "fetched_at": "2026-04-15T14:55:14.803264"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/crestere-masiva-a-fondurilor-pentru-agricultura-in-2522919.html",
+    "title": "Creștere masivă a fondurilor pentru agricultură în bugetul UE. Raportul lui Siegfried Mureșan a trecut de Comisia de bugete. Posibilă taxă pentru tran",
+    "image": "https://cdn.adh.reperio.news/image-7/717d1018-de83-475c-bd72-a4d6c92e183a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:35",
+    "date": "15 Apr",
+    "content": "Comisia pentru bugete a Parlamentului European a adoptat miercuri, cu o majoritate largă, raportul eurodeputatului Siegfried Mureșan privind viitorul Cadru Financiar Multianual 2028–2034, potrivit informațiilor publicate de acesta.",
+    "fetched_at": "2026-04-15T14:55:14.803258"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/rusia/vladimir-putin-si-a-mustrat-oficialii-dupa-ce-economia-rusia-s-a-contractat-sper-sa-aud-rapoarte-detaliate-3728575",
+    "title": "Vladimir Putin și-a mustrat oficialii după ce economia Rusia s-a contractat: „Sper să aud rapoarte detaliate”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjMxJTJGMjY2MDExNF8yNjYw/MTE0X3Bob3RvLWNvbGxhZ2VfcG5nLTIw/MjYtMDMtMzFUMTcxMjAwXzAzMS5wbmcm/aGFzaD0zNWYwYjgzMGY4YTE4ODYxMTA4OGQzODFlZjEwZWY1ZA==.png",
+    "time": "17:25",
+    "date": "15 Apr",
+    "content": "Președintele rus Vladimir Putin și-a mustrat miercuri înalții oficiali după ce economia s-a contractat cu 1,8% în primele două luni ale anului și le-a cerut să propună noi măsuri pentru stimularea creșterii economice, relatează Reuters.",
+    "fetched_at": "2026-04-15T14:55:11.781758"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/sua/forma-sa-cea-mai-autentica-cum-incearca-echipa-lui-trump-sa-tina-pasul-cu-postarile-sale-pe-truth-social-dupa-lasarea-noptii-3728549",
+    "title": "„Forma sa cea mai autentică”. Cum încearcă echipa lui Trump să țină pasul cu postările sale pe Truth Social, după lăsarea nopții",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4NDM5Ml8yNjg0/MzkyX2RvbmFsZC10cnVtcC0zLmpwZyZo/YXNoPTRiYjVmNGM5Mjc5MjE0Y2JkYjgzMzk1NWY5YTk1ODc5.jpg",
+    "time": "17:10",
+    "date": "15 Apr",
+    "content": "Singur, noaptea, președintele SUA postează frecvent pe Truth Social. Acesta este Donald Trump pur și nefiltrat, atunci când nu este nimeni acolo să-l distragă, să-l întrerupă sau să-l oprească, potrivit observatorilor de la Casa Albă, scrie The Times.",
+    "fetched_at": "2026-04-15T14:55:11.781784"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/remax-evolution-lider-national-la-conventia-remax-romania-2026-performanta-educatie-si-excelenta-in-real-estate-p/",
+    "title": "REMAX Evolution, lider național la Convenția REMAX România 2026: performanță, educație și excelență în real estate (P)",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-13.32.42-200x200.jpeg",
+    "time": "11:56",
+    "date": "15 Apr",
+    "content": "REMAX Evolution își consolidează poziția de lider în piața imobiliară din România, în urma rezultatelor remarcabile obținute la Convenția Națională REMAX România 2026, desfășurată la Cluj-Napoca — unul dintre cele mai importante evenimente dedicate industriei real estate la nivel național. Performanță la nivel de agenție: locul I în multiple categorii cheie În cadrul convenției, REMAX [&#8230;]",
+    "fetched_at": "2026-04-15T14:55:13.649744"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ucraina-a-recucerit-o-parte-a-teritoriului-sau-in-luna-martie-despre-ce-suprafata-este-vorba-si-unde-se-duc-cele-mai-grele-lupte-3728621",
+    "title": "Ucraina a recucerit o parte a teritoriului său în luna martie. Despre ce suprafață este vorba și unde se duc cele mai grele lupte",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4NDQ2OF8yNjg0/NDY4X3Byb2ZpbWVkaWEtMTA4NTg3MDY4/NS5qcGcmaGFzaD0yZWUyM2IxNGJmMzUyZmVlMzQ2N2IyZDg5ZmNiMWZiMQ==.jpg",
+    "time": "17:37",
+    "date": "15 Apr",
+    "content": "Ucraina a recâştigat controlul asupra a aproape 50 de km pătraţi din teritoriul său de la Rusia, în martie, a declarat miercuri şeful armatei, Oleksandr Sîrski, consolidându-şi victoriile de la începutul anului, relatează Reuters.",
+    "fetched_at": "2026-04-15T14:55:11.781737"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/delegatia-comisiei-europene-ajunge-vineri-la-budapesta-ca-sa-negocieze-deblocarea-fondurilor-ue-23720566",
+    "title": "Delegația Comisiei Europene ajunge vineri la Budapesta ca să negocieze deblocarea fondurilor UE. Primul Consiliu fără Viktor Orbán",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/8117818-hepta_mediafax_foto-abacapress_hepta-1-1024x663.jpg",
+    "time": "14:44",
+    "date": "15 Apr",
+    "content": "O delegație de la Bruxelles, a Comisiei Europene, se îndreaptă spre Budapesta ca să negocieze deblocarea fondurilor UE. În paralel, Viktor Orban nu va participa la viitorul Consiliu European din Cipru.",
+    "fetched_at": "2026-04-15T14:55:12.493921"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/piata-victoriei-invitat-este-vicepresedintele-pnl-alexandru-muraru/",
+    "title": "Piața Victoriei. Invitat este vicepreședintele PNL, Alexandru Muraru",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/11/Alexandru-Muraru-200x200.jpg",
+    "time": "11:57",
+    "date": "15 Apr",
+    "content": "Cine aprinde focuri politice prin țară? Urmează schimbarea Guvernului Bolojan sau partidele din coaliție vor ajunge la un compromis? Invitatul Mădălinei Dobrovolschi în „Piața Victoriei” este vicepreședintele PNL, Alexandru Muraru. De la ora 18:15, la Europa FM.",
+    "fetched_at": "2026-04-15T14:55:13.649736"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/republica-moldova-urmeaza-sa-paraseasca-oficial-comunitatea-statelor-independente-in-aprilie-2027.html",
+    "title": "Republica Moldova urmează să părăsească oficial Comunitatea Statelor Independente în aprilie 2027",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/09/steag-republica-moldova-drapel-chisinau-e1759129323636-1024x603.jpg",
+    "time": "14:27",
+    "date": "15 Apr",
+    "content": "Republica Moldova urmează să părăsească oficial Comunitatea Statelor Independente (CSI) în data de 8 aprilie 2027, când va expira termenul de 12 luni de la notificarea oficială transmisă secretariatului organizaţiei de la Minsk, a anunţat miercuri vicepremierul Mihai Popşoi, după o şedinţă a guvernului de la Chişinău, relatează agenţiile de știri MOLDPRES şi EFE. &#8222;Am [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153048"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/libanul-sesizeaza-onu-dupa-atacurile-israeliene-soldate-cu-sute-de-victime-23720558",
+    "title": "Libanul sesizează ONU după atacurile israeliene soldate cu sute de victime",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/hepta_8793442-1024x683.jpg",
+    "time": "14:38",
+    "date": "15 Apr",
+    "content": "Libanul a cerut ONU să investigheze atacurile israeliene din 8 aprilie, soldate cu sute de morți, acuzând încălcări grave ale dreptului internațional.",
+    "fetched_at": "2026-04-15T14:55:12.493957"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/life-entertaiment/madonna-anunta-lansarea-in-luna-iulie-a-noului-sau-album-confessions-on-a-dance-floor-part-ii-23720563",
+    "title": "Madonna anunță lansarea în luna iulie a noului său album: „Confessions on a Dance Floor: Part II”",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/confessions-on-a-dance-floor-part-ii-1024x1024.jpg",
+    "time": "14:40",
+    "date": "15 Apr",
+    "content": "Madonna revine oficial pe scena muzicii, anunțând miercuri că noul său album, intitulat „Confessions on a Dance Floor: Part II”, este programat să se lanseze pe 3 iulie.",
+    "fetched_at": "2026-04-15T14:55:12.493950"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/seful-itm-bucuresti-a-fost-demis-dupa-ce-a-fost-surprins-la-volanul-unui-autoturism-de-lux-costel-grojdea-se-intoarce-la-iasi-3728663",
+    "title": "Șeful ITM București a fost demis după ce a fost surprins la volanul unui autoturism de lux. Costel Grojdea se întoarce la Iași",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjE1JTJGMjY4NDQ5MV8yNjg0/NDkxXzUwMDE1MTY4MF8xMDI1NDMxMjA5/NzcxODM1Xzg3MTgwMzc0OTUzMjA3Mzc4/ODNfbi5qcGcmaGFzaD0wNzVkNzYxMGFhYmI3NTNjZjRmOWJmMTg1Njk0NDczYQ==.jpg",
+    "time": "17:43",
+    "date": "15 Apr",
+    "content": "Costel Grojdea, șeful Inspectoratului Teritorial de Muncă (ITM) București, a fost retras din funcție la scurt timp după numire, după ce a fost surprins într-un material tip paparazzi la volanul unui automobil de lux care nu apare în declarația lui de avere.",
+    "fetched_at": "2026-04-15T14:55:11.781720"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/romani-arestati-italia-furt-duty-free-aeroport-pisa-parfumuri/",
+    "title": "Trei români, arestați după ce au furat parfumuri de mii de euro din magazinele aflate în aeroportul din Pisa | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/politie-Italia-Shutterstock-200x200.jpg",
+    "time": "12:37",
+    "date": "15 Apr",
+    "content": "Trei cetățeni români au fost arestați în Italia după ce au furat parfumuri din duty-free-ul aeroportului din Pisa, folosind bilete de avion ieftine.",
+    "fetched_at": "2026-04-15T14:55:13.649708"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/partidele-din-opozitie-promit-ca-dau-jos-guvernul-dar-nu-se-inteleg-pe-motiunea-de-cenzura-pace-strange-semnaturi-aur-mai-asteapta-3728055",
+    "title": "Partidele din opoziție promit că dau jos Guvernul, dar nu se înțeleg pe moțiunea de cenzură. PACE strânge semnături, AUR mai așteaptă",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE5JTJGMjY0NjU2NF8yNjQ2/NTY0XzIwMjYtMDMtMTktMjc2Ni5qcGcm/aGFzaD01MTcxOWU5NjIyZmM3ZTRkMWQwNWYwYzI1YWE1NzhjMQ==.jpg",
+    "time": "17:29",
+    "date": "15 Apr",
+    "content": "Opoziția promite că dărâmă Guvernul, dar nu reușește să se pună de acord pe momentul depunerii unei moțiuni de cenzură: grupul PACE strânge semnături pentru a depune o moțiune în aprilie, în timp ce AUR spune că mai așteaptă până în luna mai.",
+    "fetched_at": "2026-04-15T14:55:11.781745"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/filmul-jurnalul-unei-cameriste-regizat-de-radu-jude-selectat-la-cannes-2026/",
+    "title": "Filmul „Jurnalul unei cameriste”, regizat de Radu Jude, selectat la Cannes 2026 | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2024/04/cannes-festival-film-foto-shutterstock-200x200.jpg",
+    "time": "12:21",
+    "date": "15 Apr",
+    "content": "România este prezentă la Cannes 2026 cu două filme: „Jurnalul unei cameriste” de Radu Jude și „Fjord” de Cristian Mungiu, în competiția oficială.",
+    "fetched_at": "2026-04-15T14:55:13.649722"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/sanatate/nereguli-uriase-gasite-de-curtea-de-conturi-la-2522911.html",
+    "title": "Nereguli uriașe găsite de Curtea de Conturi la Institutul Oncologic: medicamente de peste 22 milioane lei lipsă, plăți nejustificate și erori în evide",
+    "image": "https://cdn.adh.reperio.news/image-0/0351abf6-b531-42c2-bd8a-8c1e6beb0ec7/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:01",
+    "date": "15 Apr",
+    "content": "Curtea de Conturi a identificat nereguli majore în gestionarea stocurilor de medicamente și materiale sanitare la Institutul Oncologic „Prof. Dr. Alexandru Trestioreanu” din București.",
+    "fetched_at": "2026-04-15T14:55:14.803282"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/breaking-seful-de-la-inspectia-muncii-bucuresti-care-a-venit-cu-lamborghini-la-birou-demis-de-ministrul-muncii.html",
+    "title": "BREAKING Șeful de la Inspecția Muncii București care a venit cu Lamborghini la birou, demis de ministrul Muncii",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/Captura-de-ecran-din-2026-04-15-la-17.32.38-1024x680.jpg",
+    "time": "14:33",
+    "date": "15 Apr",
+    "content": "Ministrul Muncii, Petre Florin Manole (PSD) l-a demis miercuri pe Costel Grojdea, șeful de la Inspecția Muncii (ITM) București care a venit cu Lamborghini la birou, potrivit ordinului de ministru consultat de G4Media. Ministrul Manole a încetat detașarea lui Grojdea de la Iași la București. Șeful ITM București, Costel Grojdea, a venit zilnic la instituție [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153030"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cu-un-an-inaintea-alegerilor-prezidentiale-din-franta-incepe-sa-se-contureze-tabloul-potentialilor-candidati.html",
+    "title": "Cu un an înaintea alegerilor prezidențiale din Franța începe să se contureze tabloul potențialilor candidați",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/Melenchon-Glucksmann-Philippe-Bardella-1024x540.jpg",
+    "time": "14:09",
+    "date": "15 Apr",
+    "content": "După alegerile municipale din 15 și 22 martie, peisajul politic al prezidențiabililor s-a clarificat în bună măsură. Sondajele de opinie confirmă că sunt patru candidați cu șanse bune sau rezonabile de a se califica în turul al doilea al acestui cel mai important scrutin al Republicii Franceze. Unul dintre acești candidați, Jordan Bardella, președintele partidului [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-04-15T14:55:16.153086"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/in-lume/iranul-il-ironizeaza-pe-trump-cu-un-videoclip-ai-2522930.html",
+    "title": "Iranul îl ironizează pe Trump cu un videoclip AI controversat: liderul american, aruncat în Iad de Iisus",
+    "image": "https://cdn.adh.reperio.news/image-9/97ee1034-7b9e-4099-856b-1556eeab915c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:41",
+    "date": "15 Apr",
+    "content": "Un nou episod tensionat în războiul declarațiilor și al simbolurilor vine dinspre Teheran, după ce o ambasadă iraniană a distribuit un videoclip realizat cu inteligență artificială în care președintele american Donald Trump este aruncat în Iad de Iisus.",
+    "fetched_at": "2026-04-15T14:55:14.803236"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/costel-grojdea-itm-bucuresti-lamborghini-declaratie-avere/",
+    "title": "Șeful ITM București, Costel Grojdea, surprins la volanul unui Lamborghini de 300.000 de euro. Mașina nu apare în declarația de avere | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/Lamborghini-Urus-Shutterstock-200x200.jpg",
+    "time": "12:47",
+    "date": "15 Apr",
+    "content": "Costel Grojdea, șeful ITM București, a fost surprins conducând un Lamborghini de 300.000 €. Mașina nu apare în declarația sa de avere.",
+    "fetched_at": "2026-04-15T14:55:13.649680"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/armata-iraniana-ameninta-ca-va-bloca-marea-rosie-daca-blocada-sua-continua-23720559",
+    "title": "Armata iraniană amenință că va bloca Marea Roșie dacă blocada SUA continuă",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/8122396-hepta_mediafax_foto-abacapress_hepta-1-1024x614.jpg",
+    "time": "14:27",
+    "date": "15 Apr",
+    "content": "Iranul a amenințat miercuri că va bloca traficul maritim din Marea Roșie dacă Statele Unite continuă blocada porturilor iraniene, argumentând că acest lucru ar putea duce la o încălcare a armistițiului.",
+    "fetched_at": "2026-04-15T14:55:12.493977"
+  },
+  {
     "source": "G4Media",
     "url": "https://www.g4media.ro/femeile-in-varsta-isi-pot-reduce-semnificativ-riscul-de-deces-prematur-parcurgand-4-000-de-pasi-pe-zi-si-chiar-si-o-singura-data-pe-saptamana-potrivit-unui-studiu-al-universitatii-harvard.html",
     "title": "Femeile în vârstă își pot reduce semnificativ riscul de deces prematur parcurgând 4.000 de pași pe zi și chiar și o singură dată pe săptămână, potrivi",
