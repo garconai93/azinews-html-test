@@ -5,91 +5,301 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 18 May 2026 01:34:16 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 05:54:34 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Micile orașe salvate de industriile viitorului. Cum s-au reinventat fostele uzine de stat unde munceau mii de oameni</title>
-        <link>https://adevarul.ro/economie/micile-orase-salvate-de-industriile-viitorului-2529675.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/micile-orase-salvate-de-industriile-viitorului-2529675.html</guid>
+        <title>11 răniți după ce Rusia a atacat Odesa și Dnipro cu drone și rachete. Moscova spune că nu a primit niciun semnal pentru noi negocieri</title>
+        <link>https://www.digi24.ro/stiri/externe/11-raniti-dupa-ce-rusia-a-atacat-odesa-si-dnipro-cu-drone-si-rachete-moscova-spune-ca-nu-a-primit-niciun-semnal-pentru-noi-negocieri-3773773</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/11-raniti-dupa-ce-rusia-a-atacat-odesa-si-dnipro-cu-drone-si-rachete-moscova-spune-ca-nu-a-primit-niciun-semnal-pentru-noi-negocieri-3773773</guid>
     </item>
     <item>
-        <title>Prețurile petrolului au luat-o razna luni dimineață, după atacul asupra centralei nucleare de la Barakah</title>
-        <link>https://www.mediafax.ro/externe/preturile-petrolului-au-luat-o-razna-luni-dimineata-dupa-atacul-asupra-centralei-nucleare-de-la-barakah-23738645</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/preturile-petrolului-au-luat-o-razna-luni-dimineata-dupa-atacul-asupra-centralei-nucleare-de-la-barakah-23738645</guid>
-    </item>
-    <item>
-        <title>Deosebit de periculos în Emiratele Arabe Unite / Centrala nucleară Barakah, atacată cu drone / India, „profund îngrijorată”</title>
-        <link>https://www.mediafax.ro/externe/deosebit-de-periculos-in-emiratele-arabe-unite-centrala-nucleara-barakah-atacata-cu-drone-india-profund-ingrijorata-23738636</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/deosebit-de-periculos-in-emiratele-arabe-unite-centrala-nucleara-barakah-atacata-cu-drone-india-profund-ingrijorata-23738636</guid>
-    </item>
-    <item>
-        <title>Croația e în stare de șoc / Un livrator de pizza de 19 ani a fost ucis cu 10 gloanțe chiar de clientul său / Monstrul e dat în căutare în toată țara</title>
-        <link>https://www.mediafax.ro/externe/croatia-e-in-stare-de-soc-un-livrator-de-pizza-de-19-ani-a-fost-ucis-cu-10-gloante-chiar-de-clientul-sau-monstrul-e-dat-in-cautare-in-toata-tara-23738642</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/croatia-e-in-stare-de-soc-un-livrator-de-pizza-de-19-ani-a-fost-ucis-cu-10-gloante-chiar-de-clientul-sau-monstrul-e-dat-in-cautare-in-toata-tara-23738642</guid>
-    </item>
-    <item>
-        <title>Delegațiile partidelor care merg la consultările cu Nicușor Dan pentru noul premier. Bolojan nu a chemat un prim-vicepreședinte, de la PSD nu vin trei</title>
-        <link>https://www.libertatea.ro/stiri/delegatii-psd-pnl-usr-udmr-consultari-nicusor-dan-bolojan-nu-chemat-nicoleta-pauliuc-bogdan-ivan-victor-negrescu-lipsesc-5742974</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/delegatii-psd-pnl-usr-udmr-consultari-nicusor-dan-bolojan-nu-chemat-nicoleta-pauliuc-bogdan-ivan-victor-negrescu-lipsesc-5742974</guid>
-    </item>
-    <item>
-        <title>Două avioane ale Marinei SUA s-au prăbușit la un spectacol aerian din Idaho</title>
-        <link>https://www.mediafax.ro/externe/doua-avioane-ale-marinei-sua-s-au-prabusit-la-un-spectacol-aerian-din-idaho-23738625</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/doua-avioane-ale-marinei-sua-s-au-prabusit-la-un-spectacol-aerian-din-idaho-23738625</guid>
-    </item>
-    <item>
-        <title>Ucrainenii au lovit o navă rusească în Marea Caspică, la 1.000 de kilometri de front</title>
-        <link>https://www.libertatea.ro/stiri/ucrainenii-au-lovit-o-nava-ruseasca-in-marea-caspica-la-1-000-de-kilometri-de-front-5743099</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ucrainenii-au-lovit-o-nava-ruseasca-in-marea-caspica-la-1-000-de-kilometri-de-front-5743099</guid>
-    </item>
-    <item>
-        <title>18 mai: Ziua în care s-a închis „Caritas”, cea mai mare escrocherie financiară postdecembristă, care a ruinat sute de mii de români</title>
-        <link>https://adevarul.ro/istoria-zilei/18-mai-ziua-in-care-s-a-inchis-caritas-cea-mai-2529935.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/18-mai-ziua-in-care-s-a-inchis-caritas-cea-mai-2529935.html</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 79. Atac cu dronă, urmat de un incendiu, lângă o centrală nucleară din Abu Dhabi. Portavionul Gerald R. Ford s-a întors </title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-17-mai-5742366</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-17-mai-5742366</guid>
-    </item>
-    <item>
-        <title>Universitatea Craiova este noua campioană a României, după ce a învins-o pe Universitatea Cluj cu 5-0 în „finala” sezonului</title>
-        <link>https://www.libertatea.ro/sport/live-text-universitatea-craiova-u-cluj-toate-detaliile-ziua-finalei-superliga-17-mai-2026-5742832</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/sport/live-text-universitatea-craiova-u-cluj-toate-detaliile-ziua-finalei-superliga-17-mai-2026-5742832</guid>
-    </item>
-    <item>
-        <title>Arabia Saudită a doborât trei drone care au pătruns în spațiul său aerian din Irak</title>
-        <link>https://www.g4media.ro/arabia-saudita-a-doborat-trei-drone-care-au-patruns-in-spatiul-sau-aerian-din-irak.html</link>
+        <title>Casa Albă, după întâlnirea Trump-Xi Jinping: China va cumpăra produse agricole din SUA de miliarde de dolari / ”Ambii lideri au convenit că Iranul nu </title>
+        <link>https://www.g4media.ro/casa-alba-dupa-intalnirea-trump-xi-jinping-china-va-cumpara-produse-agricole-din-sua-de-miliarde-de-dolari-ambii-lideri-au-convenit-ca-iranul-nu-poate-detine-arme-nucleare.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/arabia-saudita-a-doborat-trei-drone-care-au-patruns-in-spatiul-sau-aerian-din-irak.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/casa-alba-dupa-intalnirea-trump-xi-jinping-china-va-cumpara-produse-agricole-din-sua-de-miliarde-de-dolari-ambii-lideri-au-convenit-ca-iranul-nu-poate-detine-arme-nucleare.html</guid>
     </item>
     <item>
-        <title>„Autostrada cu tuneluri”, la doi ani de la startul lucrărilor. Ce a mai rămas de construit din tronsonul Margina - Holdea</title>
-        <link>https://adevarul.ro/economie/autostrada-cu-tuneluri-la-doi-ani-de-la-startul-2528621.html</link>
+        <title>Trump susține că SUA au făcut „o avere” din petrolul Venezuelei</title>
+        <link>https://www.mediafax.ro/externe/trump-sustine-ca-sua-au-facut-o-avere-din-petrolul-venezuelei-23738673</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-sustine-ca-sua-au-facut-o-avere-din-petrolul-venezuelei-23738673</guid>
+    </item>
+    <item>
+        <title>Casa Albă, după întâlnirea Trump-Xi Jinping: China va cumpăra produse agricole din SUA de miliarde de dolari</title>
+        <link>https://www.mediafax.ro/externe/casa-alba-dupa-intalnirea-trump-xi-jinping-china-va-cumpara-produse-agricole-din-sua-de-miliarde-de-dolari-23738679</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/casa-alba-dupa-intalnirea-trump-xi-jinping-china-va-cumpara-produse-agricole-din-sua-de-miliarde-de-dolari-23738679</guid>
+    </item>
+    <item>
+        <title>Scenariile pentru noul premier după consultările de la Cotroceni: guvern minoritar, tehnocrat sau „un ghiveci USL 3”</title>
+        <link>https://www.libertatea.ro/stiri/scenariile-pentru-noul-premier-dupa-consultarile-de-la-cotroceni-guvern-minoritar-tehnocrat-sau-un-ghiveci-usl-3-5743165</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/scenariile-pentru-noul-premier-dupa-consultarile-de-la-cotroceni-guvern-minoritar-tehnocrat-sau-un-ghiveci-usl-3-5743165</guid>
+    </item>
+    <item>
+        <title>Cutremur puternic în China: cel puțin doi morți, clădiri prăbușite și peste 7.000 de locuitori evacuați din Liuzhou</title>
+        <link>https://www.digi24.ro/stiri/externe/cutremur-puternic-in-china-cel-putin-doi-morti-cladiri-prabusite-si-peste-7-000-de-locuitori-evacuati-din-liuzhou-3773753</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/cutremur-puternic-in-china-cel-putin-doi-morti-cladiri-prabusite-si-peste-7-000-de-locuitori-evacuati-din-liuzhou-3773753</guid>
+    </item>
+    <item>
+        <title>Negocierile de pace în Ucraina stagnează. Rusia susține că nu a primit semnale din partea Kievului pentru reluarea tratativelor</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/negocierile-de-pace-in-ucraina-stagneaza-rusia-2530290.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/autostrada-cu-tuneluri-la-doi-ani-de-la-startul-2528621.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/negocierile-de-pace-in-ucraina-stagneaza-rusia-2530290.html</guid>
     </item>
     <item>
-        <title>Un pensionar din Neamț a prins 9 pești și acum este cercetat penal</title>
-        <link>https://www.libertatea.ro/stiri/pensionar-neamt-prins-9-pesti-cercetat-penal-5743089</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/pensionar-neamt-prins-9-pesti-cercetat-penal-5743089</guid>
+        <title>Croația e în stare de șoc: Un livrator de pizza de 19 ani a fost ucis cu 10 gloanțe de un client care teroriza comunitatea și mai fusese condamnat pen</title>
+        <link>https://www.g4media.ro/croatia-e-in-stare-de-soc-un-livrator-de-pizza-de-19-ani-a-fost-ucis-cu-10-gloante-de-un-client-care-teroriza-comunitatea-si-mai-fusese-condamnat-pentru-crima.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/croatia-e-in-stare-de-soc-un-livrator-de-pizza-de-19-ani-a-fost-ucis-cu-10-gloante-de-un-client-care-teroriza-comunitatea-si-mai-fusese-condamnat-pentru-crima.html</guid>
     </item>
     <item>
-        <title>Un român a făcut două zile până la Craiova, 9.000 de km, ca să fie pe stadion când Universitatea a devenit campioană în Superligă</title>
-        <link>https://www.libertatea.ro/sport/ionut-vulpe-roman-facut-doua-zile-9-000-kilometri-sa-fie-stadion-craiova-universitatea-campioana-superliga-5743101</link>
+        <title>Delir la Milano. 400.000 de oameni au ieșit pe străzi pentru a sărbători eventul Interului. Chivu, cu casca pe cap!</title>
+        <link>https://adevarul.ro/sport/delir-la-milano-400000-de-oameni-au-iesit-pe-2530297.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/delir-la-milano-400000-de-oameni-au-iesit-pe-2530297.html</guid>
+    </item>
+    <item>
+        <title>Cum se pregătește Iranul de un nou război cu SUA: arme pe străzi și mitinguri antiamericane</title>
+        <link>https://www.mediafax.ro/externe/cum-se-pregateste-iranul-de-un-nou-razboi-cu-sua-arme-pe-strazi-si-mitinguri-antiamericane-23738681</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/cum-se-pregateste-iranul-de-un-nou-razboi-cu-sua-arme-pe-strazi-si-mitinguri-antiamericane-23738681</guid>
+    </item>
+    <item>
+        <title>Scandalul la Eurovision 2026 continuă: Un deputat PAS cere demisia conducerii Teleradio-Moldova după punctajul controversat acordat României</title>
+        <link>https://adevarul.ro/stiri-externe/republica-moldova/scandal-la-eurovision-2026-continua-un-deputat-2530288.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/scandal-la-eurovision-2026-continua-un-deputat-2530288.html</guid>
+    </item>
+    <item>
+        <title>Hantavirus: nava de croazieră MV Hondius ajunge azi în Țările de Jos, cu 27 de persoane la bord</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/hantavirus-nava-de-croaziera-mv-hondius-ajunge-azi-in-tarile-de-jos-cu-27-de-persoane-la-bord-3773737</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/hantavirus-nava-de-croaziera-mv-hondius-ajunge-azi-in-tarile-de-jos-cu-27-de-persoane-la-bord-3773737</guid>
+    </item>
+    <item>
+        <title>VIDEO: Emoționant – Robert Lewandowski și-a luat la revedere în lacrimi de la fanii Barcelonei</title>
+        <link>https://www.g4media.ro/video-emotionant-robert-lewandowski-si-a-luat-la-revedere-in-lacrimi-de-la-fanii-barcelonei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/video-emotionant-robert-lewandowski-si-a-luat-la-revedere-in-lacrimi-de-la-fanii-barcelonei.html</guid>
+    </item>
+    <item>
+        <title>Digistoria - cele mai importante evenimente petrecute pe 18 mai</title>
+        <link>https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-18-mai-3773727</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-18-mai-3773727</guid>
+    </item>
+    <item>
+        <title>Nava de croazieră MV Hondius ajunge luni în Rotterdam, după focarul de hantavirus soldat cu trei morți. OMS: Riscul global rămâne scăzut</title>
+        <link>https://adevarul.ro/stiri-externe/europa/nava-de-croaziera-mv-hondius-ajunge-luni-in-2530286.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/nava-de-croaziera-mv-hondius-ajunge-luni-in-2530286.html</guid>
+    </item>
+    <item>
+        <title>Cum alegi produse potrivite și sigure ca să ții insectele la distanță vara</title>
+        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/cum-alegi-produse-potrivite-si-sigure-ca-sa-tii-2530013.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/cum-alegi-produse-potrivite-si-sigure-ca-sa-tii-2530013.html</guid>
+    </item>
+    <item>
+        <title>Ghidul cumpărăturilor inteligente: Cum să economisești timp și bani la supermarket</title>
+        <link>https://www.libertatea.ro/lifestyle/ghidul-cumparaturilor-inteligente-cum-economisesti-timp-bani-supermarket-5741046</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/sport/ionut-vulpe-roman-facut-doua-zile-9-000-kilometri-sa-fie-stadion-craiova-universitatea-campioana-superliga-5743101</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/ghidul-cumparaturilor-inteligente-cum-economisesti-timp-bani-supermarket-5741046</guid>
+    </item>
+    <item>
+        <title>Consultări la Cotroceni, cine poartă primele discuții cu Nicușor Dan</title>
+        <link>https://www.libertatea.ro/stiri/consultari-la-cotroceni-cine-va-fi-noul-premier-5743279</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/consultari-la-cotroceni-cine-va-fi-noul-premier-5743279</guid>
+    </item>
+    <item>
+        <title>Ultimul „titan” al Asiei de Sud-Est, descoperit în Thailanda. Dinozaurul de 28 de tone ar fi fost cel mai mare din regiune</title>
+        <link>https://www.digi24.ro/stiri/sci-tech/descoperiri/ultimul-titan-al-asiei-de-sud-est-descoperit-in-thailanda-dinozaurul-de-28-de-tone-ar-fi-fost-cel-mai-mare-din-regiune-3770587</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/descoperiri/ultimul-titan-al-asiei-de-sud-est-descoperit-in-thailanda-dinozaurul-de-28-de-tone-ar-fi-fost-cel-mai-mare-din-regiune-3770587</guid>
+    </item>
+    <item>
+        <title>Provincialismul nostru cel de toate zilele. Ce ar putea ajuta România să-și găsească locul potrivit?</title>
+        <link>https://www.libertatea.ro/opinii/teodor-baconschi-provincialismul-nostru-cel-de-toate-zilele-ce-ar-putea-ajuta-romania-sa-si-gasesca-locul-potrivit-5737448</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/opinii/teodor-baconschi-provincialismul-nostru-cel-de-toate-zilele-ce-ar-putea-ajuta-romania-sa-si-gasesca-locul-potrivit-5737448</guid>
+    </item>
+    <item>
+        <title>La Festivalul de la Cannes, toate privirile vor fi ațintite asupra filmului Fjord al regizorului român Cristian Mungiu</title>
+        <link>https://www.mediafax.ro/cultura-media/la-festivalul-de-la-cannes-toate-privirile-vor-fi-atintite-asupra-filmului-fjord-al-regizorului-roman-cristian-mungiu-23738680</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/la-festivalul-de-la-cannes-toate-privirile-vor-fi-atintite-asupra-filmului-fjord-al-regizorului-roman-cristian-mungiu-23738680</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan are consultări astăzi, la Cotroceni, cu partidele pentru formarea unui nou Guvern</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-are-consultari-astazi-la-cotroceni-cu-partidele-pentru-formarea-unui-nou-guvern-3773593</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-are-consultari-astazi-la-cotroceni-cu-partidele-pentru-formarea-unui-nou-guvern-3773593</guid>
+    </item>
+    <item>
+        <title>Telescopul Spațial James Webb a descoperit o structură stranie în centrul unei galaxii îndepărtate</title>
+        <link>https://www.mediafax.ro/tehnologie/telescopul-spatial-james-webb-a-descoperit-o-structura-stranie-in-centrul-unei-galaxii-indepartate-23738685</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/telescopul-spatial-james-webb-a-descoperit-o-structura-stranie-in-centrul-unei-galaxii-indepartate-23738685</guid>
+    </item>
+    <item>
+        <title>Efectul concurenței și al crizelor globale. Industria auto europeană se reorientează către sectorul apărării</title>
+        <link>https://www.mediafax.ro/economic/efectul-concurentei-si-al-crizelor-globale-industria-auto-europeana-se-reorienteaza-catre-sectorul-apararii-23738696</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/efectul-concurentei-si-al-crizelor-globale-industria-auto-europeana-se-reorienteaza-catre-sectorul-apararii-23738696</guid>
+    </item>
+    <item>
+        <title>Momentul în care două avioane militare americane s-au ciocnit la un show aviatic din SUA: „Am văzut fumul și mingea de foc”</title>
+        <link>https://adevarul.ro/stiri-externe/sua/momentul-in-care-doua-avioane-militare-americane-2530287.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/momentul-in-care-doua-avioane-militare-americane-2530287.html</guid>
+    </item>
+    <item>
+        <title>Două avioane de vânătoare s-au ciocnit în zbor la un show aviatic în statul american Idaho</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/doua-avioane-de-vanatoare-s-au-ciocnit-in-zbor-la-un-show-aviatic-in-statul-american-idaho-3773713</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/doua-avioane-de-vanatoare-s-au-ciocnit-in-zbor-la-un-show-aviatic-in-statul-american-idaho-3773713</guid>
+    </item>
+    <item>
+        <title>Seulul schimbă strategia. Miză pe pace cu Phenianul, nu pe confruntare</title>
+        <link>https://www.mediafax.ro/externe/seulul-schimba-strategia-miza-pe-pace-cu-phenianul-nu-pe-confruntare-23738683</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/seulul-schimba-strategia-miza-pe-pace-cu-phenianul-nu-pe-confruntare-23738683</guid>
+    </item>
+    <item>
+        <title>Craniul unei sfinte furat dintr-o biserică în plină zi, în Cehia, a fost găsit: „Plănuia să-l arunce în râu”</title>
+        <link>https://www.libertatea.ro/lifestyle/craniul-unei-sfinte-furat-dintr-o-biserica-in-plina-zi-in-cehia-a-fost-gasit-5743248</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/craniul-unei-sfinte-furat-dintr-o-biserica-in-plina-zi-in-cehia-a-fost-gasit-5743248</guid>
+    </item>
+    <item>
+        <title>Bătrână de 88 de ani din Brăila, atacată și bătută în propria casă de trei indivizi mascați</title>
+        <link>https://www.libertatea.ro/stiri/stiri-braila-batrana-88-ani-sat-ciocile-atacata-batuta-indivizi-mascati-5743226</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-braila-batrana-88-ani-sat-ciocile-atacata-batuta-indivizi-mascati-5743226</guid>
+    </item>
+    <item>
+        <title>Fotbalistul devenit pastor evanghelic după ce s-a înecat în alcool: „Am 33 de tatuaje, dar mi-am făcut doar opt treaz”</title>
+        <link>https://adevarul.ro/sport/fotbalistul-devenit-pastor-evanghelic-dupa-ce-s-a-2530281.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/fotbalistul-devenit-pastor-evanghelic-dupa-ce-s-a-2530281.html</guid>
+    </item>
+    <item>
+        <title>Un bărbat din Iași a stat 418 zile în arest, iar acum statul trebuie să-i plătească 700.000 de lei despăgubiri</title>
+        <link>https://www.libertatea.ro/stiri/stiri-iasi-barbat-achitat-viol-418-zile-arest-despagubiri-700000-lei-5743224</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-iasi-barbat-achitat-viol-418-zile-arest-despagubiri-700000-lei-5743224</guid>
+    </item>
+    <item>
+        <title>Locuitorii din Prelungirea Ghencea protestează luni dimineață în fața Primăriei București: „Vrem locuințele sociale promise”</title>
+        <link>https://www.libertatea.ro/stiri/locuitori-prelungirea-ghencea-protesteaza-luni-primaria-bucuresti-constructie-bloc-locuinte-sociale-5743179</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/locuitori-prelungirea-ghencea-protesteaza-luni-primaria-bucuresti-constructie-bloc-locuinte-sociale-5743179</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan începe consultările. De ce s-ar putea lăsa așteptat noul Guvern al României</title>
+        <link>https://adevarul.ro/politica/nicusor-dan-incepe-consultarile-de-ce-s-ar-putea-2530248.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/nicusor-dan-incepe-consultarile-de-ce-s-ar-putea-2530248.html</guid>
+    </item>
+    <item>
+        <title>VIDEO INTERVIU Kovesi: Toată lumea vrea o justiție independentă până ajungi la cineva din anturajul lor / Este o decizie politică clară de a nu crește</title>
+        <link>https://www.g4media.ro/video-interviu-kovesi-toata-lumea-vrea-o-justitie-independenta-pana-ajungi-la-cineva-din-anturajul-lor-este-o-decizie-politica-clara-de-a-nu-creste-capacitatea-de-investigare-episodul-1.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/video-interviu-kovesi-toata-lumea-vrea-o-justitie-independenta-pana-ajungi-la-cineva-din-anturajul-lor-este-o-decizie-politica-clara-de-a-nu-creste-capacitatea-de-investigare-episodul-1.html</guid>
+    </item>
+    <item>
+        <title>O mașină cu numere românești a intrat cu viteză într-o pompă de carburant și a închis o benzinărie, în Germania. Șoferul e căutat de polițiști</title>
+        <link>https://www.libertatea.ro/stiri/masina-numere-romanesti-intrat-viteza-pompa-carburant-a-inchis-o-benzinarie-germania-soferul-cautat-de-politisti-5743235</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/masina-numere-romanesti-intrat-viteza-pompa-carburant-a-inchis-o-benzinarie-germania-soferul-cautat-de-politisti-5743235</guid>
+    </item>
+    <item>
+        <title>Președintele Taiwanului apără achizițiile de arme din SUA, după ce Trump le-a numit „monedă de negociere” cu China</title>
+        <link>https://www.mediafax.ro/externe/presedintele-taiwanului-apara-achizitiile-de-arme-din-sua-dupa-ce-trump-le-a-numit-moneda-de-negociere-cu-china-23738659</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/presedintele-taiwanului-apara-achizitiile-de-arme-din-sua-dupa-ce-trump-le-a-numit-moneda-de-negociere-cu-china-23738659</guid>
+    </item>
+    <item>
+        <title>Războiul din Orientul Mijlociu, ziua 80 | Trump avertizează Iranul că „ceasul ticăie”</title>
+        <link>https://www.g4media.ro/razboiul-din-orientul-mijlociu-ziua-79-trump-avertizeaza-iranul-ceasul-ticaie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/razboiul-din-orientul-mijlociu-ziua-79-trump-avertizeaza-iranul-ceasul-ticaie.html</guid>
+    </item>
+    <item>
+        <title>Kaufland reduce prețurile la peste 500 de produse</title>
+        <link>https://adevarul.ro/economie/kaufland-reduce-preturile-la-peste-500-de-produse-2529916.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/kaufland-reduce-preturile-la-peste-500-de-produse-2529916.html</guid>
+    </item>
+    <item>
+        <title>VIDEO: Faza zilei – Cristi Chivu a sărbătorit „dubla” cu celebra cască din perioada în care era fotbalist</title>
+        <link>https://www.g4media.ro/video-faza-zilei-cristi-chivu-a-sarbatorit-dubla-cu-celebra-casca-din-perioada-in-care-era-fotbalist.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/video-faza-zilei-cristi-chivu-a-sarbatorit-dubla-cu-celebra-casca-din-perioada-in-care-era-fotbalist.html</guid>
+    </item>
+    <item>
+        <title>Ce este fenomenul „reborn”, păpușile hiper-realiste care imită bebeluși și la ce folosesc ele</title>
+        <link>https://www.g4media.ro/ce-este-fenomenul-reborn-papusile-hiper-realiste-care-imita-bebelusi-si-la-ce-folosesc-ele.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ce-este-fenomenul-reborn-papusile-hiper-realiste-care-imita-bebelusi-si-la-ce-folosesc-ele.html</guid>
+    </item>
+    <item>
+        <title>Cum și-a înmulțit David Beckham banii din fotbal și a ajuns miliardar /  A intrat împreună cu soția în topul celor mai bogați oameni</title>
+        <link>https://www.g4media.ro/cum-si-a-inmultit-david-beckham-banii-din-fotbal-si-a-ajuns-miliardar-a-intrat-impreuna-cu-sotia-in-topul-celor-mai-bogati-oameni.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cum-si-a-inmultit-david-beckham-banii-din-fotbal-si-a-ajuns-miliardar-a-intrat-impreuna-cu-sotia-in-topul-celor-mai-bogati-oameni.html</guid>
+    </item>
+    <item>
+        <title>Bijuteria ascunsă a Europei. Experții recomandă un oraș cu băi termale, ruine romane și restaurante ieftine</title>
+        <link>https://www.mediafax.ro/turism/bijuteria-ascunsa-a-europei-expertii-recomanda-un-oras-cu-bai-termale-ruine-romane-si-restaurante-ieftine-23738666</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/turism/bijuteria-ascunsa-a-europei-expertii-recomanda-un-oras-cu-bai-termale-ruine-romane-si-restaurante-ieftine-23738666</guid>
+    </item>
+    <item>
+        <title>Boala de care legendarul John Cena suferea fără să știe: „Am crezut că e vorba doar de vârstă”</title>
+        <link>https://adevarul.ro/sport/boala-de-care-legendarul-john-cena-suferea-fara-sa-2530283.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/boala-de-care-legendarul-john-cena-suferea-fara-sa-2530283.html</guid>
+    </item>
+    <item>
+        <title>India și Suedia au semnat un parteneriat strategic. Comerțul dintre cele două țări s-ar putea dubla în următorii cinci ani</title>
+        <link>https://www.mediafax.ro/externe/india-si-suedia-au-semnat-un-parteneriat-strategic-comertul-dintre-cele-doua-tari-s-ar-putea-dubla-in-urmatorii-cinci-ani-23738682</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/india-si-suedia-au-semnat-un-parteneriat-strategic-comertul-dintre-cele-doua-tari-s-ar-putea-dubla-in-urmatorii-cinci-ani-23738682</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan se întâlnește de la ora 9 cu partidele parlamentare / Consultări pentru formarea unui nou guvern / Primele partide care ajung la Cotroceni</title>
+        <link>https://www.g4media.ro/nicusor-dan-se-intalneste-de-la-ora-9-cu-partidele-parlamentare-consultari-pentru-formarea-unui-nou-guvern-primele-partide-care-ajung-la-cotroceni-sunt-psd-si-aur.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/nicusor-dan-se-intalneste-de-la-ora-9-cu-partidele-parlamentare-consultari-pentru-formarea-unui-nou-guvern-primele-partide-care-ajung-la-cotroceni-sunt-psd-si-aur.html</guid>
+    </item>
+    <item>
+        <title>Cele mai bune destinații din Europa pentru călătorii solo. Țările ideale pentru aventuri spectaculoase în natură, pe cont propriu</title>
+        <link>https://www.digi24.ro/magazin/timp-liber/vacante/cele-mai-bune-destinatii-din-europa-pentru-calatorii-solo-tarile-ideale-pentru-aventuri-spectaculoase-in-natura-pe-cont-propriu-3771313</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/vacante/cele-mai-bune-destinatii-din-europa-pentru-calatorii-solo-tarile-ideale-pentru-aventuri-spectaculoase-in-natura-pe-cont-propriu-3771313</guid>
+    </item>
+    <item>
+        <title>U Craiova, campioană după 35 de ani: posibilele adversare din preliminariile Champions League</title>
+        <link>https://www.g4media.ro/u-craiova-campioana-dupa-35-de-ani-posibilele-adversare-din-preliminariile-champions-league.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/u-craiova-campioana-dupa-35-de-ani-posibilele-adversare-din-preliminariile-champions-league.html</guid>
+    </item>
+    <item>
+        <title>Raport Amnesty International privind pedeapsa cu moartea în 2025: număr record de execuții la nivel mondial. Țara de pe primul loc</title>
+        <link>https://www.digi24.ro/stiri/externe/raport-amnesty-international-privind-pedeapsa-cu-moartea-in-2025-numar-record-de-executii-la-nivel-mondial-tara-de-pe-primul-loc-3773743</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/raport-amnesty-international-privind-pedeapsa-cu-moartea-in-2025-numar-record-de-executii-la-nivel-mondial-tara-de-pe-primul-loc-3773743</guid>
+    </item>
+    <item>
+        <title>Un șofer austriac de 21 de ani a rămas fără permis după ce a fost prins cu 211 km/h în Mehedinți</title>
+        <link>https://www.digi24.ro/stiri/actualitate/un-sofer-austriac-de-21-de-ani-a-ramas-fara-permis-dupa-ce-a-fost-prins-cu-211-km-h-in-mehedinti-3773751</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/un-sofer-austriac-de-21-de-ani-a-ramas-fara-permis-dupa-ce-a-fost-prins-cu-211-km-h-in-mehedinti-3773751</guid>
     </item>
     <item>
         <title>Cel mai important politician al secolului, strivit de o suferință profundă. Cum i-a refuzat familia dragostea omului care a schimbat istoria</title>
@@ -98,52 +308,28 @@
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cel-mai-important-politician-al-secolului-strivit-2529979.html</guid>
     </item>
     <item>
+        <title>„Autostrada cu tuneluri”, la doi ani de la startul lucrărilor. Ce a mai rămas de construit din tronsonul Margina - Holdea</title>
+        <link>https://adevarul.ro/economie/autostrada-cu-tuneluri-la-doi-ani-de-la-startul-2528621.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/autostrada-cu-tuneluri-la-doi-ani-de-la-startul-2528621.html</guid>
+    </item>
+    <item>
+        <title>Croația e în stare de șoc / Un livrator de pizza de 19 ani a fost ucis cu 10 gloanțe chiar de clientul său / Monstrul e dat în căutare în toată țara</title>
+        <link>https://www.mediafax.ro/externe/croatia-e-in-stare-de-soc-un-livrator-de-pizza-de-19-ani-a-fost-ucis-cu-10-gloante-chiar-de-clientul-sau-monstrul-e-dat-in-cautare-in-toata-tara-23738642</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/croatia-e-in-stare-de-soc-un-livrator-de-pizza-de-19-ani-a-fost-ucis-cu-10-gloante-chiar-de-clientul-sau-monstrul-e-dat-in-cautare-in-toata-tara-23738642</guid>
+    </item>
+    <item>
         <title>Noua birocrație din școli: dosarul cu șină devine digital, dar goana profesorilor după hârtii rămâne obligatorie</title>
         <link>https://adevarul.ro/stiri-interne/educatie/noua-birocratie-din-scoli-dosarul-cu-sina-devine-2530116.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/noua-birocratie-din-scoli-dosarul-cu-sina-devine-2530116.html</guid>
     </item>
     <item>
-        <title>Cinci morți, inclusiv doi copii, în atacuri aeriene israeliene în sudul Libanului, în ciuda armistițiului prelungit</title>
-        <link>https://www.digi24.ro/stiri/externe/cinci-morti-inclusiv-doi-copii-in-atacuri-aeriene-israeliene-in-sudul-libanului-in-ciuda-armistitiului-prelungit-3773665</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/cinci-morti-inclusiv-doi-copii-in-atacuri-aeriene-israeliene-in-sudul-libanului-in-ciuda-armistitiului-prelungit-3773665</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 80. Noi amenințări ale lui Donald Trump la adresa Iranului / Care au fost ultimele cerințe trimise de Teheran</title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-18-mai-5743124</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-18-mai-5743124</guid>
-    </item>
-    <item>
-        <title>India şi Suedia încheie un parteneriat strategic cu scopul de a-şi dubla schimburile economice în următorii cinci ani</title>
-        <link>https://www.g4media.ro/india-si-suedia-incheie-un-parteneriat-strategic-cu-scopul-de-a-si-dubla-schimburile-economice-in-urmatorii-cinci-ani.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/india-si-suedia-incheie-un-parteneriat-strategic-cu-scopul-de-a-si-dubla-schimburile-economice-in-urmatorii-cinci-ani.html</guid>
-    </item>
-    <item>
-        <title>Horoscop 18 mai 2026. Peștii se vor bucura de mai multă simpatie din partea celor din anturajul apropiat, iar asta le va spori confortul de zi cu zi</title>
-        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-18-mai-2026-5741791</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-18-mai-2026-5741791</guid>
-    </item>
-    <item>
-        <title>OMS declară urgență sanitară globală din cauza unui focar de Ebola în Congo și Uganda</title>
-        <link>https://www.mediafax.ro/externe/oms-declara-urgenta-sanitara-globala-din-cauza-unui-focar-de-ebola-in-congo-si-uganda-23738631</link>
+        <title>Prețurile petrolului au luat-o razna luni dimineață, după atacul asupra centralei nucleare de la Barakah</title>
+        <link>https://www.mediafax.ro/externe/preturile-petrolului-au-luat-o-razna-luni-dimineata-dupa-atacul-asupra-centralei-nucleare-de-la-barakah-23738645</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/oms-declara-urgenta-sanitara-globala-din-cauza-unui-focar-de-ebola-in-congo-si-uganda-23738631</guid>
-    </item>
-    <item>
-        <title>Cum explică românul care a creat piesa „Bangaranga” victoria Bulgariei la Eurovision: „La Alexandra a fost vorba mai mult de o poveste”</title>
-        <link>https://www.libertatea.ro/entertainment/cum-explica-monoir-creator-bangaranga-victoria-bulgariei-eurovision-5743088</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/cum-explica-monoir-creator-bangaranga-victoria-bulgariei-eurovision-5743088</guid>
-    </item>
-    <item>
-        <title>Arabia Saudită a doborât trei drone care au pătruns în spațiul său aerian din Irak</title>
-        <link>https://www.mediafax.ro/externe/arabia-saudita-a-doborat-trei-drone-care-au-patruns-in-spatiul-sau-aerian-din-irak-23738614</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/arabia-saudita-a-doborat-trei-drone-care-au-patruns-in-spatiul-sau-aerian-din-irak-23738614</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/preturile-petrolului-au-luat-o-razna-luni-dimineata-dupa-atacul-asupra-centralei-nucleare-de-la-barakah-23738645</guid>
     </item>
     <item>
         <title>Texas / Val de atacuri armate în Austin: ținte aleatorii, inclusiv stații de pompieri, patru răniți</title>
@@ -152,16 +338,16 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/texas-val-de-atacuri-armate-in-austin-tinte-aleatorii-inclusiv-statii-de-pompieri-patru-raniti-23738639</guid>
     </item>
     <item>
-        <title>Când ajung părinții să devină o rușine pentru copiii lor? „Prăpastia este adâncită de orgolii, frustrări și traume nerezolvate”</title>
-        <link>https://adevarul.ro/dezvoltare-personala/mindset/cand-ajung-parintii-sa-devina-o-rusine-pentru-2529653.html</link>
+        <title>Iadul alb din Arctica. Cum au dispărut fără urmă două nave de război britanice și ce au găsit cercetătorii după un secol de căutări</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/iadul-alb-din-arctica-cum-au-disparut-fara-urma-2529456.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/mindset/cand-ajung-parintii-sa-devina-o-rusine-pentru-2529653.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/iadul-alb-din-arctica-cum-au-disparut-fara-urma-2529456.html</guid>
     </item>
     <item>
-        <title>Două avioane ale Marinei SUA s-au prăbușit la un spectacol aerian din Idaho</title>
-        <link>https://www.g4media.ro/doua-avioane-ale-marinei-sua-s-au-prabusit-la-un-spectacol-aerian-din-idaho.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/doua-avioane-ale-marinei-sua-s-au-prabusit-la-un-spectacol-aerian-din-idaho.html</guid>
+        <title>Deosebit de periculos în Emiratele Arabe Unite / Centrala nucleară Barakah, atacată cu drone / India, „profund îngrijorată”</title>
+        <link>https://www.mediafax.ro/externe/deosebit-de-periculos-in-emiratele-arabe-unite-centrala-nucleara-barakah-atacata-cu-drone-india-profund-ingrijorata-23738636</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/deosebit-de-periculos-in-emiratele-arabe-unite-centrala-nucleara-barakah-atacata-cu-drone-india-profund-ingrijorata-23738636</guid>
     </item>
     <item>
         <title>Peru merge la vot pe 7 iunie: Fujimori și Sánchez, în turul doi al alegerilor prezidențiale</title>
@@ -170,202 +356,16 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/peru-merge-la-vot-pe-7-iunie-fujimori-si-sanchez-in-turul-doi-al-alegerilor-prezidentiale-23738633</guid>
     </item>
     <item>
-        <title>Iadul alb din Arctica. Cum au dispărut fără urmă două nave de război britanice și ce au găsit cercetătorii după un secol de căutări</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/iadul-alb-din-arctica-cum-au-disparut-fara-urma-2529456.html</link>
+        <title>Micile orașe salvate de industriile viitorului. Cum s-au reinventat fostele uzine de stat unde munceau mii de oameni</title>
+        <link>https://adevarul.ro/economie/micile-orase-salvate-de-industriile-viitorului-2529675.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/iadul-alb-din-arctica-cum-au-disparut-fara-urma-2529456.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/economie/micile-orase-salvate-de-industriile-viitorului-2529675.html</guid>
     </item>
     <item>
-        <title>Donald Trump amenință că „nu va mai rămâne nimic” din Iran, dacă nu semnează un acord de pace</title>
-        <link>https://www.libertatea.ro/stiri/donald-trump-ameninta-ca-nu-va-mai-ramane-nimic-din-iran-daca-nu-semneaza-un-acord-de-pace-5743082</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-ameninta-ca-nu-va-mai-ramane-nimic-din-iran-daca-nu-semneaza-un-acord-de-pace-5743082</guid>
-    </item>
-    <item>
-        <title>UE, India și statele nordice pregătesc noi acorduri economice și investiții. Narendra Modi, în vizită la Stockholm</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/ue-india-si-statele-nordice-pregatesc-noi-acorduri-economice-si-investitii-narendra-modi-in-vizita-la-stockholm-3773669</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ue-india-si-statele-nordice-pregatesc-noi-acorduri-economice-si-investitii-narendra-modi-in-vizita-la-stockholm-3773669</guid>
-    </item>
-    <item>
-        <title>Jannik Sinner a câștigat turneul de la Roma și a devenit cel mai tânăr jucător care câştigă toate cele nouă titluri Masters 1000</title>
-        <link>https://www.digi24.ro/stiri/sport/tenis/jannik-sinner-a-castigat-turneul-de-la-roma-si-a-devenit-cel-mai-tanar-jucator-care-castiga-toate-cele-noua-titluri-masters-1000-3773595</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/tenis/jannik-sinner-a-castigat-turneul-de-la-roma-si-a-devenit-cel-mai-tanar-jucator-care-castiga-toate-cele-noua-titluri-masters-1000-3773595</guid>
-    </item>
-    <item>
-        <title>FIESTA în Bănie după 35 de ani! Universitatea Craiova este campioana României. Meci NEVEROSIMIL cu U Cluj, 5-0</title>
-        <link>https://adevarul.ro/sport/fiesta-in-banie-dupa-35-de-ani-universitatea-2530269.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/fiesta-in-banie-dupa-35-de-ani-universitatea-2530269.html</guid>
-    </item>
-    <item>
-        <title>Coșmarul notelor de la final de an. Cum se naște anxietatea la vârste fragede</title>
-        <link>https://adevarul.ro/stiri-interne/educatie/cosmarul-notelor-de-la-final-de-an-cum-se-naste-2529367.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/cosmarul-notelor-de-la-final-de-an-cum-se-naste-2529367.html</guid>
-    </item>
-    <item>
-        <title>Majoritatea românilor vor alegeri anticipate. Cum ar arăta votul dacă scrutinul ar avea loc duminică</title>
-        <link>https://adevarul.ro/stiri-interne/societate/majoritatea-romanilor-vor-alegeri-anticipate-cum-2530266.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/majoritatea-romanilor-vor-alegeri-anticipate-cum-2530266.html</guid>
-    </item>
-    <item>
-        <title>„Nu va mai rămâne nimic din Iran”. Donald Trump transmite un nou avertisment Teheranului</title>
-        <link>https://adevarul.ro/stiri-externe/sua/nu-va-mai-ramane-nimic-din-iran-donald-trump-2530275.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/nu-va-mai-ramane-nimic-din-iran-donald-trump-2530275.html</guid>
-    </item>
-    <item>
-        <title>Cinci morţi, printre care doi copii, în atacuri israeliene în sudul Libanului, potrivit Ministerului Sănătăţii</title>
-        <link>https://www.g4media.ro/cinci-morti-printre-care-doi-copii-in-atacuri-israeliene-in-sudul-libanului-potrivit-ministerului-sanatatii.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cinci-morti-printre-care-doi-copii-in-atacuri-israeliene-in-sudul-libanului-potrivit-ministerului-sanatatii.html</guid>
-    </item>
-    <item>
-        <title>Superliga: Universitatea Craiova este noua campioană a României, după 5-0 cu Universitatea Cluj. Echipa craioveană a reuşit eventul</title>
-        <link>https://www.digi24.ro/stiri/sport/fotbal/superliga-universitatea-craiova-este-noua-campioana-a-romaniei-dupa-5-0-cu-universitatea-cluj-echipa-craioveana-a-reusit-eventul-3773617</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/fotbal/superliga-universitatea-craiova-este-noua-campioana-a-romaniei-dupa-5-0-cu-universitatea-cluj-echipa-craioveana-a-reusit-eventul-3773617</guid>
-    </item>
-    <item>
-        <title>Și-a anunțat plecarea, după ce a obținut titlul în Superliga și Cupa României! Ștefan Baiaram, anunț de ultim moment</title>
-        <link>https://adevarul.ro/sport/si-a-anuntat-plecarea-dupa-ce-a-obtinut-titlul-in-2530280.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/si-a-anuntat-plecarea-dupa-ce-a-obtinut-titlul-in-2530280.html</guid>
-    </item>
-    <item>
-        <title>Radu Miruță, despre pensiile militare: Nu se schimbă modul de calcul și nu sunt măsuri cu impact major</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/radu-miruta-despre-pensiile-militare-nu-se-schimba-modul-de-calcul-si-nu-sunt-masuri-cu-impact-major-3773647</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/radu-miruta-despre-pensiile-militare-nu-se-schimba-modul-de-calcul-si-nu-sunt-masuri-cu-impact-major-3773647</guid>
-    </item>
-    <item>
-        <title>Trump amenință Iranul: „Ceasul ticăie”. Negocierile pentru oprirea războiului, în impas</title>
-        <link>https://www.mediafax.ro/stirile-zilei/trump-ameninta-iranul-ceasul-ticaie-negocierile-pentru-oprirea-razboiului-in-impas-23738553</link>
+        <title>Arabia Saudită a doborât trei drone care au pătruns în spațiul său aerian din Irak</title>
+        <link>https://www.mediafax.ro/externe/arabia-saudita-a-doborat-trei-drone-care-au-patruns-in-spatiul-sau-aerian-din-irak-23738614</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/trump-ameninta-iranul-ceasul-ticaie-negocierile-pentru-oprirea-razboiului-in-impas-23738553</guid>
-    </item>
-    <item>
-        <title>Caz tulburător în Spania: un agent al Gărzii Civile, soția și fiul lor găsiți morți în locuința de serviciu din Alicante</title>
-        <link>https://www.g4media.ro/caz-tulburator-in-spania-un-agent-al-garzii-civile-sotia-si-fiul-lor-gasiti-morti-in-locuinta-de-serviciu-din-alicante.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/caz-tulburator-in-spania-un-agent-al-garzii-civile-sotia-si-fiul-lor-gasiti-morti-in-locuinta-de-serviciu-din-alicante.html</guid>
-    </item>
-    <item>
-        <title>Emisarul lui Trump pentru Groenlanda a aterizat la Nuuk. Care este miza vizitei</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/emisarul-lui-trump-pentru-groenlanda-a-aterizat-la-nuuk-care-este-miza-vizitei-3773627</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/emisarul-lui-trump-pentru-groenlanda-a-aterizat-la-nuuk-care-este-miza-vizitei-3773627</guid>
-    </item>
-    <item>
-        <title>FOTO &amp; VIDEO | Seară istorică în Bănie: Universitatea Craiova este campioana României după 5-0 în „finala” cu „U” Cluj</title>
-        <link>https://www.g4media.ro/seara-istorica-in-banie-universitatea-craiova-este-campioana-romaniei-dupa-5-0-in-finala-cu-u-cluj.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/seara-istorica-in-banie-universitatea-craiova-este-campioana-romaniei-dupa-5-0-in-finala-cu-u-cluj.html</guid>
-    </item>
-    <item>
-        <title>”CETATEA BUCURIEI” | Universitatea Craiova este noua campioană a României la fotbal. Oltenii câștigă titlul după o pauză de 35 de ani!</title>
-        <link>https://www.mediafax.ro/sport/cetatea-bucuriei-universitatea-craiova-este-noua-campioana-a-romaniei-la-fotbal-oltenii-castiga-titlul-dupa-o-pauza-de-35-de-ani-23738293</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/cetatea-bucuriei-universitatea-craiova-este-noua-campioana-a-romaniei-la-fotbal-oltenii-castiga-titlul-dupa-o-pauza-de-35-de-ani-23738293</guid>
-    </item>
-    <item>
-        <title>Ce o deranjează cel mai mult la români pe o tânără venită din Taiwan: „În rest, e binișor”</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/ce-o-deranjeaza-cel-mai-mult-la-romani-pe-o-tanara-2530272.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/ce-o-deranjeaza-cel-mai-mult-la-romani-pe-o-tanara-2530272.html</guid>
-    </item>
-    <item>
-        <title>Obiceiul care favorizează longevitatea mai mult decât dieta sau exercițiile fizice. Concluziile unui nou studiu</title>
-        <link>https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/obiceiul-care-favorizeaza-longevitatea-mai-mult-decat-dieta-sau-exercitiile-fizice-concluziile-neaseptate-ale-unui-nou-studiu-3771241</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/obiceiul-care-favorizeaza-longevitatea-mai-mult-decat-dieta-sau-exercitiile-fizice-concluziile-neaseptate-ale-unui-nou-studiu-3771241</guid>
-    </item>
-    <item>
-        <title>Atacurile de duminică asupra Fâșiei Gaza ridică numărul victimelor</title>
-        <link>https://www.mediafax.ro/externe/atacurile-de-duminica-asupra-fasiei-gaza-ridica-numarul-victimelor-23738612</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/atacurile-de-duminica-asupra-fasiei-gaza-ridica-numarul-victimelor-23738612</guid>
-    </item>
-    <item>
-        <title>Planul cu care România poate da șah mat Rusiei. General NATO: „Am făcut mult mai multe pentru SUA ca alții”</title>
-        <link>https://adevarul.ro/securitate-si-aparare/planul-cu-care-romania-poate-da-sah-mat-rusiei-2529743.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/planul-cu-care-romania-poate-da-sah-mat-rusiei-2529743.html</guid>
-    </item>
-    <item>
-        <title>Caz tulburător în Spania: un agent al Gărzii Civile, soția și fiul lor găsiți morți în locuința de serviciu din Alicante</title>
-        <link>https://www.mediafax.ro/externe/caz-tulburator-in-spania-un-agent-al-garzii-civile-sotia-si-fiul-lor-gasiti-morti-in-locuinta-de-serviciu-din-alicante-23738514</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/caz-tulburator-in-spania-un-agent-al-garzii-civile-sotia-si-fiul-lor-gasiti-morti-in-locuinta-de-serviciu-din-alicante-23738514</guid>
-    </item>
-    <item>
-        <title>Netanyahu anunță că Israelul e aproape de a elimina toți responsabilii atacurilor din 7 octombrie 2023</title>
-        <link>https://www.digi24.ro/stiri/externe/netanyahu-anunta-ca-israelul-e-aproape-de-a-elimina-toti-responsabilii-atacurilor-din-7-octombrie-2023-3773575</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/netanyahu-anunta-ca-israelul-e-aproape-de-a-elimina-toti-responsabilii-atacurilor-din-7-octombrie-2023-3773575</guid>
-    </item>
-    <item>
-        <title>Dieta inspirată din Biblie care a devenit virală pe rețelele de socializare: nu este despre slăbit, ci conține toate alimentele menționate în Cartea S</title>
-        <link>https://www.mediafax.ro/stirile-zilei/dieta-inspirata-din-biblie-care-a-devenit-virala-pe-retelele-de-socializare-nu-este-despre-slabit-ci-contine-toate-alimentele-mentionate-in-cartea-sfanta-23738597</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/dieta-inspirata-din-biblie-care-a-devenit-virala-pe-retelele-de-socializare-nu-este-despre-slabit-ci-contine-toate-alimentele-mentionate-in-cartea-sfanta-23738597</guid>
-    </item>
-    <item>
-        <title>Un nou caz de hantavirus după focarul de pe nava de croazieră: un canadian, testat pozitiv</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/un-nou-caz-de-hantavirus-dupa-focarul-de-pe-nava-de-croaziera-un-canadian-testat-pozitiv-3773577</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/un-nou-caz-de-hantavirus-dupa-focarul-de-pe-nava-de-croaziera-un-canadian-testat-pozitiv-3773577</guid>
-    </item>
-    <item>
-        <title>Emisarul lui Trump vizitează Groenlanda / Se va întâlni cu lideri politici, directori de companii şi investitori pentru a promova teritoriul arctic</title>
-        <link>https://www.g4media.ro/emisarul-lui-trump-viziteaza-groenlanda-se-va-intalni-cu-lideri-politici-directori-de-companii-si-investitori-pentru-a-promova-teritoriul-arctic.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/emisarul-lui-trump-viziteaza-groenlanda-se-va-intalni-cu-lideri-politici-directori-de-companii-si-investitori-pentru-a-promova-teritoriul-arctic.html</guid>
-    </item>
-    <item>
-        <title>Scandal la nivel UE: Laura Codruța Kövesi intervine în cazul procuroarei bulgare anchetate</title>
-        <link>https://www.mediafax.ro/stirile-zilei/scandal-la-nivel-ue-laura-codruta-kovesi-intervine-in-cazul-procuroarei-bulgare-anchetate-23738548</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/scandal-la-nivel-ue-laura-codruta-kovesi-intervine-in-cazul-procuroarei-bulgare-anchetate-23738548</guid>
-    </item>
-    <item>
-        <title>„Nu am mai întâmpinat astfel de situaţii”: Ce spune Radu Miruță despre proiectilul găsit în Tulcea</title>
-        <link>https://www.digi24.ro/stiri/actualitate/nu-am-mai-intampinat-astfel-de-situatii-ce-spune-radu-miruta-despre-proiectilul-gasit-in-tulcea-3773601</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/nu-am-mai-intampinat-astfel-de-situatii-ce-spune-radu-miruta-despre-proiectilul-gasit-in-tulcea-3773601</guid>
-    </item>
-    <item>
-        <title>Jannik Sinner câștigă ATP 1000 Roma și completează Career Golden Masters</title>
-        <link>https://www.g4media.ro/jannik-sinner-castiga-atp-1000-roma-si-completeaza-career-golden-masters.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/jannik-sinner-castiga-atp-1000-roma-si-completeaza-career-golden-masters.html</guid>
-    </item>
-    <item>
-        <title>Avioane de vânătoare NATO, ridicate de la sol după intrarea unei drone în spațiul aerian al Letoniei</title>
-        <link>https://www.g4media.ro/avioane-de-vanatoare-nato-ridicate-de-la-sol-dupa-intrarea-unei-drone-in-spatiul-aerian-al-letoniei.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/avioane-de-vanatoare-nato-ridicate-de-la-sol-dupa-intrarea-unei-drone-in-spatiul-aerian-al-letoniei.html</guid>
-    </item>
-    <item>
-        <title>Trei bărbați din Dâmbovița, reținuți după ce au furat doi cai din Argeș. Animalele, înghesuite într-o mașină de transport cabaline</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/trei-barbati-din-dambovita-retinuti-dupa-ce-au-furat-doi-cai-din-arges-animalele-inghesuite-intr-o-masina-de-transport-cabaline-3773559</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/trei-barbati-din-dambovita-retinuti-dupa-ce-au-furat-doi-cai-din-arges-animalele-inghesuite-intr-o-masina-de-transport-cabaline-3773559</guid>
-    </item>
-    <item>
-        <title>Secretele lui Iosif Iser la Muzeul de Artă Constanța: „Tătăroaice“, Balcic și picturile ascunse</title>
-        <link>https://adevarul.ro/stil-de-viata/cultura/secretele-lui-iosif-iser-la-muzeul-de-arta-2529815.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/cultura/secretele-lui-iosif-iser-la-muzeul-de-arta-2529815.html</guid>
-    </item>
-    <item>
-        <title>Trump amenință că „nu va mai rămâne nimic din Iran” dacă nu semnează un acord cu Statele Unite</title>
-        <link>https://www.g4media.ro/trump-ameninta-ca-nu-va-mai-ramane-nimic-din-iran-daca-nu-semneaza-un-acord-cu-statele-unite.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/trump-ameninta-ca-nu-va-mai-ramane-nimic-din-iran-daca-nu-semneaza-un-acord-cu-statele-unite.html</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/arabia-saudita-a-doborat-trei-drone-care-au-patruns-in-spatiul-sau-aerian-din-irak-23738614</guid>
     </item>
 </channel>
 </rss>
