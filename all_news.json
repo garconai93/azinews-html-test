@@ -1,6 +1,506 @@
 [
   {
     "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/coincidenta-sau-strategie-seful-cnair-reactioneaza-dupa-declaratiile-lui-horatiu-cosma-trei-atacuri-inaintea-deciziei-instantei-3782015",
+    "title": "„Coincidență sau strategie?” Șeful CNAIR reacționează după declarațiile lui Horațiu Cosma: „Trei atacuri înaintea deciziei instanței”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjIyJTJGMjc0MzQ4M18yNzQz/NDgzX0lEMTUxMTY2LUlOUVVBTS1QSE9U/T1MtVklSR0lMLVNJTU9ORVNDVS5qcGcm/aGFzaD1iNDdhNTE4NWExOGM4OTk2ZDQxYjE5MmJmM2RlOTZiZg==.jpg",
+    "time": "18:45",
+    "date": "22 May",
+    "content": "Directorul general al Compania Națională de Administrare a Infrastructurii Rutiere, Cristian Pistol, a reacționat după declarațiile făcute în ultimele zile de secretarul de stat în Ministerul Transporturilor, Horațiu Cosma, pe care le consideră „atacuri personale” lansate chiar înaintea unei decizii importante a instanței privind transferul unor proiecte majore de infrastructură de la CNAIR la noua companie CNIR.",
+    "fetched_at": "2026-05-22T16:03:56.098020"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/plante-pentru-dormitor-de-la-floraria-trias-cum-alegi-variantele-potrivite-pentru-un-somn-odihnitor-p/",
+    "title": "Plante pentru dormitor de la Florăria Trias: cum alegi variantele potrivite pentru un somn odihnitor (P)",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/e1561a732c687561ae3022f3630f1304da-200x200.jpg",
+    "time": "12:43",
+    "date": "22 May",
+    "content": "Un dormitor aerisit, cu lumină plăcută și câteva plante bine alese te ajută să te relaxezi mai ușor seara și să începi dimineața într-o stare mai bună. Verdele frunzelor temperează atmosfera, iar prezența plantelor schimbă felul în care percepi spațiul: îl simți mai curat, mai calm, mai primitor. Află de la Florăria Trias cum să [&#8230;]",
+    "fetched_at": "2026-05-22T16:03:58.506535"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/hungaroring-redeschidere-modernizare-formula-1/",
+    "title": "Hungaroring s-a redeschis după cea mai mare modernizare din istoria circuitului. Marele Premiu al Ungariei va avea loc în iulie | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/Hungaroring-formula1-foto-FB-Hungaroring-200x200.jpg",
+    "time": "12:08",
+    "date": "22 May",
+    "content": "Circuitul Hungaroring de lângă Budapesta a fost redeschis după cea mai amplă modernizare din istoria sa. Marele Premiu al Ungariei va avea loc între 24 și 26 iulie.",
+    "fetched_at": "2026-05-22T16:03:58.506565"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/alexandru-rogobete-critica-blocajul-politic-avem-2531586.html",
+    "title": "Alexandru Rogobete critică blocajul politic: „Avem nevoie de un Guvern funcțional. Orgoliile mari au mize mici”",
+    "image": "https://cdn.adh.reperio.news/image-4/4846c975-f4ba-4681-ac06-2f82727ccba0/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:39",
+    "date": "22 May",
+    "content": "Deputatul PSD Alexandru Rogobete a făcut vineri, 22 mai, un apel către clasa politică, solicitând renunțarea la orgolii și găsirea unei soluții pentru formarea unui guvern stabil.",
+    "fetched_at": "2026-05-22T16:03:59.673118"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/cultura-media/vedeta-festivalului-de-la-cannes-yuri-o-catelusa-salvata-dintr-un-adapost-23742009",
+    "title": "Vedeta Festivalului de la Cannes: Yuri, o cățelușă salvată dintr-un adăpost",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/yuri-in-catelusa.jpg",
+    "time": "15:53",
+    "date": "22 May",
+    "content": "Într-un festival dominat de staruri, premiere și controverse, una dintre cele mai emoționante povești de la Cannes a venit anul acesta din partea unei cățelușe fără stăpân.",
+    "fetched_at": "2026-05-22T16:03:57.267057"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/blogurile-adevarul/nato-saluta-decizia-lui-trump-de-a-trimite-trupe-2531601.html",
+    "title": "NATO salută decizia lui Trump de a trimite trupe în Polonia",
+    "image": "https://cdn.adh.reperio.news/image-a/a4ac78af-65fe-4d2d-ae1a-8b8fa75464a3/index.webp?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:58",
+    "date": "22 May",
+    "content": "Miniștrii de Externe ai NATO discută la Helsingborg, în Suedia, pe fondul planurilor SUA de a-și reduce prezența militară în Europa. Secretarul de Stat Rubio insistă că măsura nu este ”punitivă”.",
+    "fetched_at": "2026-05-22T16:03:59.673106"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/destinul-unui-om-liber-povestea-lui-david-neacsu-de-la-everest-la-marile-frontiere-ale-lumii-video-story-de-vineri-seara.html",
+    "title": "Destinul unui om liber. Povestea lui David Neacșu: de la Everest la marile frontiere ale lumii  / Video-story de vineri seara",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/David-Neacsu-Inspiro-1024x583.jpg",
+    "time": "16:01",
+    "date": "22 May",
+    "content": "O producție G4Media.ro / Documentar realizat de Ruxandra Hurezean / Filmare și montaj: Anastasia Sucitu În urmă cu fix 23 de ani, pe 22 mai 2003, un telefon anunța România că patru alpiniști români au ajuns pe Vârful Everest. La capătul celălalt era David Neacșu, alpinistul care organizase această expediție pe Everest. A fost ziua în [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482143"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/ciocolata-neagra-prieten-sau-dusman-atunci-cand-vrem-sa-slabim.html",
+    "title": "Ciocolata neagră: prieten sau dușman atunci când vrem să slăbim? Poate fi consumată atunci când ești la „dietă”? / Răspunsul nutriționistului Tania Fâ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/ciocolata-neagra-1024x683.jpg",
+    "time": "15:13",
+    "date": "22 May",
+    "content": "Ciocolata neagră a devenit în ultimii ani aproape un simbol al „dulcelui sănătos”. O vedem recomandată în diete, în planuri alimentare și în tot felul de variante premium, cu procente impresionante de cacao și ambalaje elegante. Dar cât adevăr există în spatele acestei reputații și, mai ales, putem mânca ciocolată neagră atunci când vrem să [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482223"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/val-canicula-europa-temperaturi-38-grade-spania/",
+    "title": "Val de caniculă în Europa la final de mai: temperaturi de până la 38 de grade Celsius în Spania și avertizări pentru mai multe țări | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/canicula-protectie-foto-shutterstock-200x200.jpg",
+    "time": "13:25",
+    "date": "22 May",
+    "content": "Europa se confruntă cu primul val de caniculă din această perioadă, cu temperaturi de până la 38°C în Spania. Fenomenul ajunge și în România după 25 mai.",
+    "fetched_at": "2026-05-22T16:03:58.506518"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/secretarul-general-al-nato-mark-rutte-lauda-2531611.html",
+    "title": "Secretarul general al NATO, Mark Rutte, laudă România: „Țările europene s-au ridicat masiv la nivelul angajamentelor”",
+    "image": "https://cdn.adh.reperio.news/image-2/2be9a5b2-ce6f-4f70-87cb-322167a1497e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:55",
+    "date": "22 May",
+    "content": "Secretarul general al NATO a lăudat, vineri, România pentru susținerea acordată Statelor Unite în contextul conflictului din Iran. El a dat ca exemplu modificările legislative adoptate la București privind facilitarea operațiunilor militare americane.",
+    "fetched_at": "2026-05-22T16:03:59.673046"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/mark-rutte-garanteaza-un-raspuns-devastator-al-nato-in-cazul-unui-atac-asupra-aliantei-angajamentul-fata-de-art-5-este-neclintit-3781967",
+    "title": "Mark Rutte garantează un răspuns „devastator” al NATO în cazul unui atac asupra alianței. „Angajamentul faţă de art. 5 este neclintit”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOSUyRjIzJTJGMjM1ODc1NF8yMzU4/NzU0X3Bob3RvLWNvbGxhZ2VfcG5nLTIw/MjUtMDktMjNUMTUwMzQ0XzI1OS5wbmcm/aGFzaD1iZGJiNzk0NWQ4MWRmYmY3NThkZGRiMzllYjIxNjgwOA==.png",
+    "time": "18:24",
+    "date": "22 May",
+    "content": "Secretarul general al NATO, Mark Rutte, a garantat vineri, la Helsingborg, angajamentul tuturor aliaţilor, deşi „unii l-au pus la îndoială”, şi a asigurat că răspunsul la un atac asupra Alianţei ar fi unul „devastator”.",
+    "fetched_at": "2026-05-22T16:03:56.098058"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/consilier-de-stat-la-cotroceni-legea-privind-finantarea-ong-urilor-trebuie-discutata-cu-societatea-civila-la-masa-3781959",
+    "title": "Consilier de stat la Cotroceni: Legea privind finanțarea ONG-urilor trebuie discutată „cu societatea civilă la masă”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjIyJTJGMjc0MzQyNF8yNzQz/NDI0X2RpYW5hLXB1bmdhLmpwZyZoYXNo/PWNkMjIxYWQwZWM5M2MxOTY2ZDQ4NTM0NzgwMWMyMTZk.jpg",
+    "time": "17:54",
+    "date": "22 May",
+    "content": "Orice lege care priveşte societatea civilă trebuie discutată cu societatea civilă la masă, a transmis vineri consilierul de stat din cadrul Administraţiei Prezidenţiale Diana Pungă, referindu-se la proiectul de lege privind transparentizarea finanţării ONG-urilor.",
+    "fetched_at": "2026-05-22T16:03:56.098079"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cod-galben-de-ploi-si-descarcari-electrice-in-bucuresti-pana-la-ora-1930.html",
+    "title": "Cod galben de ploi şi descărcări electrice în Bucureşti până la ora 19:30",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-16.51.29-1024x683.jpeg",
+    "time": "15:24",
+    "date": "22 May",
+    "content": "Administraţia Naţională de Meteorologie a emis vineri seara o atenţionare nowcasting Cod galben de ploi şi descărcări electrice, valabilă în Bucureşti până la ora 19:30, transmite Agerpres. Potrivit ANM, se vor semnala, local, averse care vor acumula 15&#8230;25 l/mp, intensificări ale vântului (rafale de 45&#8230;55 km/h), descărcări electrice şi grindină de mici dimensiuni (1&#8230;2 cm). [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482206"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/bolojan-iritat-de-intrebarile-despre-2531605.html",
+    "title": "Bolojan, iritat de întrebările despre neîndeplinirea a 38 de jaloane din cele 50 din PNRR, a pus capăt conferinţei de presă",
+    "image": "https://cdn.adh.reperio.news/image-5/5b1dd74e-ca0f-4056-9b4e-bf6eac3485b0/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:38",
+    "date": "22 May",
+    "content": "Ilie Bolojan a fost vizibil deranjat, în timpul conferinței de presă susținute la Focșani, de întrebările jurnaliștilor legate de cele 38 de jaloane din cele 50 din PNRR neîndeplinite în cele 11 în timpul guvernării sale.",
+    "fetched_at": "2026-05-22T16:03:59.673071"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/noaptea-muzeelor-la-biblioteca-centrala-universitara-tururi-ghidate-si-o-incursiune-in-marile-familii-boieresti-ale-romaniei.html",
+    "title": "Noaptea Muzeelor la Biblioteca Centrală Universitară: tururi ghidate şi o incursiune în marile familii boiereşti ale României",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/07/batch_Fata-Care-Citeste-Lectura-Biblioteca-Library-Adolescenta-eliott-reyna-kcT-7cirBEw-unsplash-1024x768.jpg",
+    "time": "15:48",
+    "date": "22 May",
+    "content": "Biblioteca Centrală Universitară &#8222;Carol I&#8221; oferă publicului, sâmbătă, între orele 19:00 şi 00:00, de Noaptea Muzeelor, tururi ghidate în limbile română şi engleză şi o incursiune în marile familii boiereşti ale României, transmite Agerpres. &#8221;Într-o singură seară, publicul va avea ocazia să traverseze secole întregi de istorie, să păşească în spaţii încărcate de memorie culturală [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482180"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/operatiune-europol-in-31-de-state-inclusiv-2531593.html",
+    "title": "Operaţiune Europol în 31 de state, inclusiv România: Au fost depistate sute de conturi bancare, zeci de imobile și mașini, portofele cripto și o navă ",
+    "image": "https://cdn.adh.reperio.news/image-0/0ddd0035-a283-4fa2-800a-2200c2536056/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:12",
+    "date": "22 May",
+    "content": "Europol a coordonat, în perioada 19 - 22 mai 2026, o amplă acțiune internațională pentru identificarea și confiscarea activelor provenite din infracțiuni grave, la care au participat 31 de state, printre care și România.",
+    "fetched_at": "2026-05-22T16:03:59.673092"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/primaria-arad-a-platit-25-000-de-lei-daune-morale-unei-localnice-pentru-neasfaltarea-strazii-pe-care-locuieste-si-taxarea-necorespunzatoare/",
+    "title": "Primăria Arad a plătit 25.000 de lei daune morale unei localnice pentru neasfaltarea străzii pe care locuiește și taxarea necorespunzătoare | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/02/bani-lei-bancnotte-foto-shutterstock-200x200.jpg",
+    "time": "13:36",
+    "date": "22 May",
+    "content": "Primăria Arad a fost obligată să plătească 25.000 de lei daune morale unei localnice din cauza neasfaltării străzii Someșului. Procesul continuă.",
+    "fetched_at": "2026-05-22T16:03:58.506501"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/cum-sa-spui-nu-fara-momente-stanjenitoare-este-o-superputere-explica-harvard-si-mit-23741977",
+    "title": "Cum să spui NU fără momente stânjenitoare: „Este o superputere”, explică Harvard și MIT",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/negociere-1024x684.jpg",
+    "time": "15:03",
+    "date": "22 May",
+    "content": "Să refuzi o propunere fără să creezi tensiuni este una dintre cele mai utile abilități în negocieri și în relațiile profesionale, spun experți de la Harvard și MIT, care susțin că un „nu” clar și politicos poate preveni discuțiile incomode și presiunea inutilă.",
+    "fetched_at": "2026-05-22T16:03:57.267131"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/seful-statiei-cfr-viseu-a-emis-facturi-fictive-in-suma-de-un-milion-de-lei-catre-angajati-magistratii-l-au-plasat-sub-control-judiciar.html",
+    "title": "Şeful staţiei CFR Vişeu a emis facturi fictive în sumă de un milion de lei către angajaţi  / Magistrații l-au plasat sub control judiciar",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/07/dreamstime_l_41851116-1024x683.jpg",
+    "time": "15:38",
+    "date": "22 May",
+    "content": "Magistraţii au plasat, vineri, sub control judiciar pentru 60 de zile un bărbat în vârstă de 54 de ani care a emis facturi fictive în valoare de peste un milion de lei, a informat, purtătorul de cuvânt al IPJ Maramureş, Mihaela Ardelean. Conform sursei citate, poliţiştii Biroului Judeţean Poliţie Transporturi Maramureş au efectuat cercetări în [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482198"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/zelenski-invitat-la-summitul-nato-la-ankara-2531596.html",
+    "title": "Zelenski, invitat la summitul NATO la Ankara. Reuniunea vine pe fondul tensiunilor între SUA și aliații săi",
+    "image": "https://cdn.adh.reperio.news/image-3/3f956e52-3c08-46f1-8015-dbc02c202407/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:14",
+    "date": "22 May",
+    "content": "Președintele ucrainean Volodimir Zelenski a fost invitat la viitorul summit NATO de la Ankara, a confirmat vineri, 22 mai secretarul general al Alianței, Mark Rutte.",
+    "fetched_at": "2026-05-22T16:03:59.673085"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/andrei-ratiu-donatie-fani-rayo-vallecano-inselati/",
+    "title": "Andrei Rațiu a donat 1.000 de euro pentru fanii Rayo Vallecano, înșelați înaintea finalei Conference League | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2024/07/ratiu-andrei-ID267799_INQUAM_Photos_Stefan_Constantin-200x200.jpg",
+    "time": "12:41",
+    "date": "22 May",
+    "content": "Fotbalistul român Andrei Rațiu a donat 1.000 de euro pentru suporterii Rayo Vallecano care au fost înșelați după ce au plătit transportul către finala Conference League.",
+    "fetched_at": "2026-05-22T16:03:58.506550"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/negocierile-pentru-una-dintre-cele-mai-mari-2531597.html",
+    "title": "Negocierile pentru una dintre cele mai mari fuziuni din industria cosmetică au fost oprite",
+    "image": "https://cdn.adh.reperio.news/image-f/f830e7d0-7909-490a-b59e-7045dd2dd520/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:55",
+    "date": "22 May",
+    "content": "Producătorul american de cosmetice Estée Lauder și grupul spaniol de parfumerie și modă Puig au încheiat discuțiile privind o posibilă fuziune care ar fi creat un gigant al industriei de beauty premium, capabil să concureze mai direct cu liderul global L'Oréal.",
+    "fetched_at": "2026-05-22T16:03:59.673112"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/colectiv-condamnat-radu-antonina-executare-moldova/",
+    "title": "O femeie pompier, condamnată în dosarul Colectiv, va executa șase ani de închisoare în Republica Moldova | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/08/magistrati-justitie-juridic-foto-shutterstock-200x200.jpg",
+    "time": "12:54",
+    "date": "22 May",
+    "content": "Radu Antonina, condamnat în dosarul Colectiv, își va executa pedeapsa în Republica Moldova, după ce autoritățile de acolo au preluat executarea sentinței.",
+    "fetched_at": "2026-05-22T16:03:58.506527"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/maldive-primele-imagini-din-pestera-unde-au-murit-diverii-italieni-ce-au-gasit-scafandrii-finlandezi-in-interior-23742002",
+    "title": "Maldive: Primele imagini din peștera unde au murit diverii italieni. Ce au găsit scafandrii finlandezi în interior",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/diveri-1024x586.jpg",
+    "time": "15:39",
+    "date": "22 May",
+    "content": "Au fost publicate primele imagini din peștera subacvatică din Maldive unde au murit patru diveri italieni. Imaginile, realizate de scafandrul finlandez Sami Paakkarinen, au apărut pe Instagram pe profilul organizației Dan Europe, care a coordonat recuperarea cadavrelor.",
+    "fetched_at": "2026-05-22T16:03:57.267076"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/finantarea-partidelor-intre-propaganda-si-manipulare-online-seful-aep-la-interviurile-digi24-ro-nu-s-a-gasit-formula-cea-mai-buna-3782023",
+    "title": "Finanțarea partidelor, între propagandă și manipulare online. Șeful AEP, la Interviurile Digi24.ro: „Nu s-a găsit formula cea mai bună”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMCUyRjIyJTJGOTk0OTYzXzk5NDk2/M19hZHJpYW4tdHV0dWlhbnVfZ292cm8u/anBnJmhhc2g9MDMwMzE1NzZlYWQwNWM2Yzg5N2M1NDFhZThkNGY2NDY=.jpg",
+    "time": "18:43",
+    "date": "22 May",
+    "content": "Finanțarea partidelor politice, modul în care sunt cheltuite subvențiile de la stat și campaniile agresive de pe marile platforme online rămân unele dintre temele sensibile din spațiul public. Invitat la Interviurile Digi24.ro, președintele Autorității Electorale Permanente (AEP), Adrian Țuțuianu, a admis că nici România și nici celelalte state europene nu au găsit încă un mecanism eficient pentru a controla finanțările ilegale și dezinformarea din mediul virtual.",
+    "fetched_at": "2026-05-22T16:03:56.098041"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sanatate/alimentatia-nesanatoasa-din-copilarie-poate-afecta-permanent-creierul-23741991",
+    "title": "Alimentația nesănătoasă din copilărie poate afecta permanent creierul",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/alimentatie-nesanatoasa-mediafax_foto-dpa_hepta-1024x642.jpg",
+    "time": "15:27",
+    "date": "22 May",
+    "content": "Consumul frecvent de alimente bogate în grăsimi și zahăr în copilărie poate produce modificări de durată asupra creierului și comportamentului alimentar.",
+    "fetched_at": "2026-05-22T16:03:57.267084"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/sefa-bce-avertizeaza-ca-razboiul-din-orientul-mijlociu-si-scumpirea-energiei-continua-sa-afecteze-economia-inflatia-ramane-ridicata-3781981",
+    "title": "Șefa BCE avertizează că războiul din Orientul Mijlociu și scumpirea energiei continuă să afecteze economia: „Inflația rămâne ridicată”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNiUyRjIxJTJGMTUzMTUxM18xNTMx/NTEzX3Byb2ZpbWVkaWEtMDcwMDAyODk1/NC5qcGcmaGFzaD1mZWUzYmZiYzA3ZTNkMzQ0ZjNmYWYxMTEyNmIyNTEyMg==.jpg",
+    "time": "18:08",
+    "date": "22 May",
+    "content": "Președinta Băncii Centrale Europene (BCE), Christine Lagarde, a declarat vineri că așteptările privind inflația pe termen lung în zona euro rămân „în linii mari ancorate”, însă a avertizat că actuala criză energetică provocată de evoluțiile din Orientul Mijlociu continuă să alimenteze inflația și să afecteze economia europeană. În acest context, analiștii se așteaptă ca BCE să majoreze dobânzile la următoarea ședință de politică monetară, programată pe 11 iunie.",
+    "fetched_at": "2026-05-22T16:03:56.098072"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/magazin/timp-liber/showbiz/o-petrecere-la-care-participa-starul-mick-jagger-a-fost-oprita-de-politia-italiana-din-cauza-unei-reguli-neobisnuite-3782025",
+    "title": "O petrecere la care participa starul Mick Jagger a fost oprită de poliția italiană din cauza unei reguli neobișnuite",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNiUyRjE0JTJGMTUyNzYwOF8xNTI3/NjA4X21pY2stamFnZ2VyLXByb2ZpbWVk/aWEuanBnJmhhc2g9ZDc2YWYzYjFjMmNhZDRlY2NmODZkMDRlNTIxMjU5MDY=.jpg",
+    "time": "18:44",
+    "date": "22 May",
+    "content": "O petrecere la care a participat și starul Mick Jagger a fost oprită de poliția italiană. Motivul? Regulile din zonă interzic muzica în zilele de miercuri, scrie BBC. Solistul trupei Rolling Stones sărbătorea alături de distribuția filmului „Three Incestuous Sisters.",
+    "fetched_at": "2026-05-22T16:03:56.098049"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/incep-lucrarile-de-salvare-a-vechii-curti-domnesti-din-bucuresti-palatul-voievodal-are-570-de-ani/",
+    "title": "Încep lucrările de salvare a vechii Curți Domnești din București. Palatul Voievodal are 570 de ani | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/palatul-voievodal-curtea-domneasca-foto-inquam-octav-ganea-200x200.jpg",
+    "time": "12:25",
+    "date": "22 May",
+    "content": "Lucrările de punere în siguranță a Palatului Voievodal din vechea Curte Domnească a Bucureștiului încep în iunie. Monumentul istoric are 570 de ani.",
+    "fetched_at": "2026-05-22T16:03:58.506558"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/vacanta-in-sri-lanka-20-de-locuri-pe-care-merita-sa-le-vizitezi-p/",
+    "title": "Vacanță în Sri Lanka: 20 de locuri pe care merită să le vizitezi (P)",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/e16c341eee0664f77f1d79a0400ed47403-200x200.jpg",
+    "time": "12:41",
+    "date": "22 May",
+    "content": "Sri Lanka adună într-o singură insulă temple budiste, orașe antice, plantații de ceai, safari cu elefanți și plaje potrivite pentru relaxare sau surfing. Distanțele sunt relativ scurte, dar experiențele diferă mult de la o regiune la alta, așa că merită să îți alegi traseul atent. În acest ghid găsești: 20 de locuri testate de călători, [&#8230;]",
+    "fetched_at": "2026-05-22T16:03:58.506543"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/marco-rubio-campania-rusiei-impotriva-tarilor-baltice-este-ingrijoratoare-sua-si-nato-urmaresc-situatia-3782005",
+    "title": "Marco Rubio: Campania Rusiei împotriva ţărilor baltice este „îngrijorătoare”. SUA și NATO urmăresc situația",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjIyJTJGMjc0MzQ2M18yNzQz/NDYzX3Byb2ZpbWVkaWEtMTEwNDAzMjEw/Ny5qcGcmaGFzaD1kMzBkY2JlMTI3MWE3MjA5NDI2ZTQyYWVjZTRiY2NiNQ==.jpg",
+    "time": "18:21",
+    "date": "22 May",
+    "content": "Secretarul de stat american Marco Rubio a declarat vineri că Washingtonul este îngrijorat de campania Rusiei împotriva ţărilor baltice şi de riscul unei escaladări, după ce Moscova a acuzat statele din regiune că ar putea colabora cu Ucraina pentru atacuri cu drone asupra teritoriului rus. Declaraţiile au fost făcute în contextul unei serii de incidente de securitate şi încălcări ale spaţiului aerian în statele baltice membre NATO.",
+    "fetched_at": "2026-05-22T16:03:56.098065"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/macron-indeamna-ue-sa-preia-modelul-legislatiei-americane-care-prevede-aplicarea-de-tarife-ca-raspuns-la-discriminarea-comerciala.html",
+    "title": "Macron îndeamnă UE să preia modelul legislației americane, care prevede aplicarea de tarife ca răspuns la discriminarea comercială",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/02/profimedia-0936037350-1024x670.jpg",
+    "time": "15:18",
+    "date": "22 May",
+    "content": "Președintele francez Emmanuel Macron a declarat vineri că UE ar trebui să se inspire din modelul american în ceea ce privește măsurile comerciale menite să protejeze industriile strategice, relatează Politico. „Trebuie să acceptăm să luăm măsuri de protecție, măsuri de salvgardare”, a afirmat Macron, referindu-se la „echivalentul european al Secțiunii 301”. Secțiunea 301 din Legea [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482214"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sanatate/6-fructe-cu-mai-multi-antioxidanti-decat-ceaiul-verde-ai-cel-putin-unul-in-frigider-23741980",
+    "title": "6 fructe cu mai mulți antioxidanți decât ceaiul verde. Ai cel puțin unul în frigider",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/8054479-mediafax_foto-alexandra_pandrea_gmn-1024x683.jpg",
+    "time": "15:11",
+    "date": "22 May",
+    "content": "Ceaiul verde este considerat una dintre cele mai bogate surse de antioxidanți, dar mai multe fructe comune îl depășesc cu mult. Nutriționiștii spun ce ar trebui să incluzi în dietă pentru a-ți proteja organismul împotriva bolilor cronice.",
+    "fetched_at": "2026-05-22T16:03:57.267118"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/ce-au-gasit-scafandri-finlandezi-in-interiorul-pesterii-subacvatice-din-maldive-in-care-au-murit-patru-italieni.html",
+    "title": "Ce au găsit scafandri finlandezi în interiorul peșterii subacvatice din Maldive în care au murit patru italieni",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/pestere-subacvatica-Maldive-1024x574.jpg",
+    "time": "16:00",
+    "date": "22 May",
+    "content": "Au fost publicate primele imagini din peștera subacvatică din Maldive unde au murit patru diveri italieni. Imaginile, realizate de scafandrul finlandez Sami Paakkarinen, au apărut pe Instagram pe profilul organizației Dan Europe, care a coordonat recuperarea cadavrelor, transmite Mediafax. Fotografiile realizate de scafandrul finlandez Sami Paakkarinen au fost publicate pe Instagram, pe profilul organizației Dan [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482160"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/alegerile-anticipate-un-salt-in-gol-ce-s-ar-2531603.html",
+    "title": "Alegerile anticipate, un salt în gol? Ce s-ar întâmpla dacă Parlamentul ar fi dizolvat mâine",
+    "image": "https://cdn.adh.reperio.news/image-e/e339d201-e592-4869-b11d-5b1967c7ecd2/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:46",
+    "date": "22 May",
+    "content": "Discuția despre alegeri anticipate readuce în atenție o problemă ignorată de ani de zile: legislația românească nu stabilește cu precizie cum ar trebui organizat un astfel de scrutin.",
+    "fetched_at": "2026-05-22T16:03:59.673063"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/rutte-afirma-ca-zelenski-va-participa-la-summitul-nato-de-la-ankara-invitatia-vine-in-ciuda-opozitiei-statelor-unite-fata-de-eforturile-de-a-invita-lideri-din-afara-nato.html",
+    "title": "Rutte afirmă că Zelenski va participa la summitul NATO de la Ankara / Invitația vine în ciuda opoziției Statelor Unite față de eforturile de a invita ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/10/profimedia-0922540693-1024x699.jpg",
+    "time": "15:45",
+    "date": "22 May",
+    "content": "NATO l-a invitat oficial pe președintele ucrainean Volodimir Zelenski la viitorul summit al liderilor de la Ankara, a declarat vineri șeful alianței, Mark Rutte, potrivit Politico. „L-am invitat deja, da, l-am invitat — va fi prezent”, a spus Rutte la întrebarea adresat în orașul Helsingborg, din sudul Suediei, în timpul unei reuniuni a miniștrilor de [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482190"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/ancheta-care-l-desfiinteaza-pe-putin-una-dintre-cele-mai-importante-recrutoare-ale-lui-epstein-conexiuni-cu-intimi-ai-lui-putin-si-trump-va-mai-aduc-30-de-fete-23741958",
+    "title": "Ancheta care-l desființează pe Putin / Una dintre cele mai importante recrutoare ale lui Epstein, conexiuni cu intimi ai lui Putin și Trump / „Vă mai ",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/captura-kira-1024x487.jpg",
+    "time": "15:05",
+    "date": "22 May",
+    "content": "E-mailurile din dosarele Departamentului de Justiție al SUA arată că una dintre cele mai prolifice recrutoare ale lui Jeffrey Epstein era și iubita unui oligarh rus cu dosar în Franța și că, după moartea lui Epstein, a intrat în legătură cu cercurile lui Putin și Trump.",
+    "fetched_at": "2026-05-22T16:03:57.267125"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/salata-marinata-sursa-toxiinfectiei-alimentare-de-la-nunta-din-iasi-dsp-a-confirmat-prezenta-bacteriei-salmonella/",
+    "title": "Salata marinată, sursa toxiinfecției alimentare de la nunta din Iași. DSP a confirmat prezența bacteriei Salmonella | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2022/09/salmonella-200x200.jpg",
+    "time": "11:59",
+    "date": "22 May",
+    "content": "Direcția de Sănătate Publică Iași a anunțat că salata marinată contaminată cu Salmonella a provocat toxiinfecția alimentară de la o nuntă unde aproape 50 de persoane s-au îmbolnăvit.",
+    "fetched_at": "2026-05-22T16:03:58.506572"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/justitie/kovesi-cere-interventia-comisiei-europene-impotriva-greciei-acuzata-ca-blocheaza-activitatea-parchetului-european-23741996",
+    "title": "Kövesi cere intervenția Comisiei Europene împotriva Greciei, acuzată că blochează activitatea Parchetului European",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/04/forum-economoc-delphi-laura-codruta-koves-1024x690.png",
+    "time": "15:24",
+    "date": "22 May",
+    "content": "Procurorul-șef european, Laura Codruța Kövesi, a sesizat Comisia Europeană în legătură cu modificări legislative și decizii recente ale autorităților elene care, potrivit EPPO, afectează funcționarea independentă și eficientă a Parchetului European în Grecia.",
+    "fetched_at": "2026-05-22T16:03:57.267097"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/transporturi/circulatia-trenurilor-spre-aeroportul-otopeni-oprita-in-perioada-26-29-mai-intr-un-anumit-interval-orar-pentru-lucrari-de-mentenanta-3781957",
+    "title": "Circulația trenurilor spre Aeroportul Otopeni, oprită în perioada 26-29 mai, într-un anumit interval orar, pentru lucrări de mentenanță",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwMSUyRjE5JTJGMTI3Nzc1MV8xMjc3/NzUxX3RyZW4tdHJhbnNmZXJvdmlhci1h/ZXJvcG9ydC1nYXJhLWRlLW5vcmQuanBn/Jmhhc2g9NGYzZTkwZGMzNDBiNGEyMThhZGY5OGUxNGFhODI3YjM=.jpg",
+    "time": "17:49",
+    "date": "22 May",
+    "content": "Circulația trenurilor pe ruta Bucureşti Nord - Pajura - Mogoşoaia - Aeroport Henri Coandă T1 va fi oprită în perioada 26 - 29 mai, între orele 10:30 - 15:30, pentru executarea unor lucrări de mentenanţă, a anunţat CFR SA.",
+    "fetched_at": "2026-05-22T16:03:56.098115"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/opinii-politice/de-doua-ori-romania-de-inaltare-si-de-sfintii-2531607.html",
+    "title": "De două ori România: de Înălțare și de Sfinții Împărați Constantin și Elena",
+    "image": "https://cdn.adh.reperio.news/image-a/a40e1502-3e2d-47a1-97c6-5d6a3284535e/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:27",
+    "date": "22 May",
+    "content": "La Un certain regard, așteptam cu nerăbdare Titanic Ocean, care este un titlu foarte misterios, cu o co-producătoare româncă: Ioana Lascăr, care anul trecut a fost printre câștigătorii aceleiași secțiuni, cu Mâine va fi o nouă zi, un debut al unui portughez.",
+    "fetched_at": "2026-05-22T16:03:59.673078"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/alegerile-anticipate-fara-reglementari-clare-ce-s-ar-intampla-daca-maine-s-ar-dizolva-parlamentul-3781975",
+    "title": "Alegerile anticipate, fără reglementări clare. Ce s-ar întâmpla dacă mâine s-ar dizolva Parlamentul",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMCUyRjI4JTJGMjQwNzk5MV8yNDA3/OTkxX0FsZWdlcmktbG9jYWxlLXBhcnRp/YWxlLWluLVJvbWFuaWEtcGUtNy1kZWNl/bWJyaWVfLUZvdG8tR2V0dHktSW1hZ2Vz/LmpwZyZoYXNoPTE4OTVlNzZjYWEyMTM5OGY3ZmViODM2MzdmNjg5NDlh.jpg",
+    "time": "17:52",
+    "date": "22 May",
+    "content": "Președintele Autorității Electorale Permanente, Adrian Țuțuianu, a atras atenția, la Interviurile Digi24.ro, că România este nepregătită din punct de vedere legislativ pentru organizarea unor alegeri parlamentare anticipate. Ultima perioadă de criză politică a readus în discuție procedura dizolvării Parlamentului și organizarea unui nou scrutin legislativ, însă aceasta este prevăzută doar la nivel constituțional, fără o lege clară care să reglementeze desfășurarea efectivă a alegerilor.\n\nÎn...",
+    "fetched_at": "2026-05-22T16:03:56.098106"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/breaking-kovesi-declara-raboi-total-autoritatilor-din-grecia-parchetul-european-cere-activarea-armei-nucleare-a-bruxelles-ului-in-cazul-greciei-acuzata-ca-incearca-sa-obstructione.html",
+    "title": "BREAKING Kovesi declară război total autorităților din Grecia / Parchetul European cere activarea ”armei nucleare” a Bruxelles-ului în cazul Greciei, ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/10/laura-codruta-kovesi-prim-plan-1024x683.jpg",
+    "time": "15:13",
+    "date": "22 May",
+    "content": "Parchetul European anunță că procurorul șef european Laura Codruța Kovesi a adresat vineri o scrisoare Comisiei Europene în care solicită activarea mecansimului de condiționalitate (care poate duce la suspendarea fondurilor europene), acuzând autoritățile elene că obstrucționează activitatea procurorilor Europeni. ”Modificarea pripită a Codului de procedură penală al Greciei, care instituie o procedură specială pentru infracțiunile [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482232"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/daca-particip-sunt-ucis-daca-nu-particip-sunt-ucis-donald-trump-s-ar-putea-sa-nu-participe-la-nunta-fiului-cel-mare-23741973",
+    "title": "„Dacă particip, sunt ucis. Dacă nu particip, sunt ucis”. Donald Trump s-ar putea să nu participe la nunta fiului cel mare",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/8127952-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "time": "15:25",
+    "date": "22 May",
+    "content": "Nunta lui Donald Trump Jr., fiul cel mare al președintelui american, ar putea avea loc fără prezența liderului de la Casa Albă. Donald Trump a declarat că va fi criticat de presă indiferent dacă va participa sau nu.",
+    "fetched_at": "2026-05-22T16:03:57.267091"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/lagarde-avertizeaza-inflatia-ramane-sub-control-2531599.html",
+    "title": "Lagarde avertizează: inflația rămâne sub control, dar șocul energetic ține Europa sub presiune",
+    "image": "https://cdn.adh.reperio.news/image-8/8077cc69-8717-40ff-ae53-73cb9908399b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:59",
+    "date": "22 May",
+    "content": "Inflația din zona euro rămâne, în linii mari, ancorată pe termen lung, însă șocul energetic generat de tensiunile din Orientul Mijlociu continuă să pună presiune asupra economiei europene, a declarat președinta Băncii Centrale Europene, Christine Lagarde.",
+    "fetched_at": "2026-05-22T16:03:59.673099"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/ilie-bolojan-critici-reactoare-modulare-doicesti/",
+    "title": "Ilie Bolojan critică proiectul reactoarelor modulare de la Doicești: „Are niște probleme pe care nu le putem nega” | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/Ilie-Bolojan-Inquam-Photos-George-Calin-200x200.jpg",
+    "time": "11:29",
+    "date": "22 May",
+    "content": "Premierul interimar Ilie Bolojan critică proiectul reactoarelor modulare mici de la Doicești și compară investiția cu întârzierea centralei de la Iernut.",
+    "fetched_at": "2026-05-22T16:03:58.506578"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/sport/fotbal/hagi-a-anuntat-lotul-pentru-amicalurile-cu-georgia-si-tara-galilor-ce-nume-noi-a-chemat-selectionerul-3781955",
+    "title": "Hagi a anunţat lotul pentru amicalurile cu Georgia şi Ţara Galilor. Ce nume noi a chemat selecționerul",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjIwJTJGMjY5MDY1MF8yNjkw/NjUwXzIwMjYtMDQtMjAtNDk0NS5qcGcm/aGFzaD02OGFmOTZhYjg2ZDYxYTc3YmY4NDIzNzEzYzc3MzhhZg==.jpg",
+    "time": "17:38",
+    "date": "22 May",
+    "content": "Selecţionerul Gheorghe Hagi a anunțat vineri lotul pentru meciurile amicale cu Georgia şi Ţara Galilor. Pe listă sunt şase jucători de la campioana Universitatea Craiova. De asemenea, Hagi a chemat jucători care nu au mai evoluat pentru prima reprezentativă: portarul Otto Hindrich, fundaşii Tony Strata, Matei Ilie şi Andrei Borza şi mijlocaşul David Matei.",
+    "fetched_at": "2026-05-22T16:03:56.098123"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/sua-sunt-gata-sa-joace-un-rol-in-razboiul-dintre-rusia-si-ucraina-spune-rubio-23741986",
+    "title": "SUA sunt „gata” să joace un rol în războiul dintre Rusia și Ucraina, spune Rubio",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/03/8109113-hepta_mediafax_foto-dpa_hepta-2-1024x683.jpg",
+    "time": "15:17",
+    "date": "22 May",
+    "content": "Secretarul de stat american, Marco Rubio, a declarat vineri că negocierile de pace care vizează încheierea războiului din Ucraina nu au loc în prezent, deși Washingtonul rămâne pregătit să faciliteze discuțiile dacă se schimbă condițiile.",
+    "fetched_at": "2026-05-22T16:03:57.267111"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/life-entertaiment/4-plante-cu-flori-care-cresc-chiar-si-la-umbra-solutia-perfecta-pentru-gradinile-fara-soare-23741988",
+    "title": "4 plante cu flori care cresc chiar și la umbră – soluția perfectă pentru grădinile fără soare",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/bluming-pink-fall-geraniums-abstract-texture-1024x683.jpg",
+    "time": "15:23",
+    "date": "22 May",
+    "content": "O grădină umbrită nu înseamnă o grădină fără flori. Designeri florali și peisagiști recomandă patru plante anuale care înfloresc chiar și fără lumină solară directă, potrivite atât pentru grădini, cât și pentru balcoane sau terase.",
+    "fetched_at": "2026-05-22T16:03:57.267105"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/sua-examineaza-un-plan-b-pentru-redeschiderea-stramtorii-ormuz.html",
+    "title": "SUA examinează un „plan B” pentru redeschiderea Strâmtorii Ormuz",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/11/marco-rubio-e1731608587811-1024x686.jpg",
+    "time": "15:54",
+    "date": "22 May",
+    "content": "Secretarul de stat american Marco Rubio a avertizat vineri că Washingtonul examinează un aşa-numit &#8222;plan B&#8221;, un plan militar, pentru redeschiderea Strâmtorii Ormuz, dacă în urma negocierilor Iranul refuză să deblocheze această arteră navigabilă, transmite agenţia EFE. &#8222;Ceea ce noi toţi sperăm este un acord prin care Iranul să deschidă strâmtoarea şi să abandoneze ambiţiile [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-22T16:04:00.482170"
+  },
+  {
+    "source": "Digi24",
     "url": "https://www.digi24.ro/stiri/actualitate/reactia-british-school-of-bucharest-dupa-neregulile-descoperite-de-ansvsa-produsele-nu-au-fost-utilizate-in-mesele-servite-elevilor-3781753",
     "title": "Reacția British School of Bucharest, după neregulile descoperite de ANSVSA: „Produsele nu au fost utilizate în mesele servite elevilor”",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjIxJTJGMjc0MjA2MV8yNzQy/MDYxX2Fuc3ZzYS0xLmpwZyZoYXNoPTNi/MGM2NjlhZGU1ZTc0NTM1Y2FlYmZlMGIwODJhMTI3.jpg",
