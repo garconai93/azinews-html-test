@@ -5,13 +5,91 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 23 May 2026 20:29:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 21:35:20 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Pakistanul anunță „progrese încurajatoare” către un acord final între SUA şi Iran</title>
-        <link>https://www.g4media.ro/pakistanul-anunta-progrese-incurajatoare-catre-un-acord-final-intre-sua-si-iran.html</link>
+        <title>Incendiu la concertul lui Max Korzh de pe Arena Națională</title>
+        <link>https://www.mediafax.ro/social/incendiu-la-concertul-lui-max-korzh-de-pe-arena-nationala-23742480</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/incendiu-la-concertul-lui-max-korzh-de-pe-arena-nationala-23742480</guid>
+    </item>
+    <item>
+        <title>Qatar avertizează Iranului că libertatea de navigaţie prin Strâmtoarea Ormuz nu este „negociabilă”</title>
+        <link>https://www.digi24.ro/stiri/externe/qatar-avertizeaza-iranului-ca-libertatea-de-navigatie-prin-stramtoarea-ormuz-nu-este-negociabila-3783123</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/qatar-avertizeaza-iranului-ca-libertatea-de-navigatie-prin-stramtoarea-ormuz-nu-este-negociabila-3783123</guid>
+    </item>
+    <item>
+        <title>Românii n-or să mai tacă, actualul președinte nu își termină mandatul. Astrologul Sanda Ionescu citește harta României</title>
+        <link>https://www.mediafax.ro/life-entertaiment/romanii-n-or-sa-mai-taca-actualul-presedinte-nu-isi-termina-mandatul-astrologul-sanda-ionescu-citeste-harta-romaniei-23742487</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/romanii-n-or-sa-mai-taca-actualul-presedinte-nu-isi-termina-mandatul-astrologul-sanda-ionescu-citeste-harta-romaniei-23742487</guid>
+    </item>
+    <item>
+        <title>Barcelona învinge clar OL Lyon și câștigă pentru a patra oară Liga Campionilor la fotbal feminin</title>
+        <link>https://www.mediafax.ro/sport/barcelona-invinge-clar-ol-lyon-si-castiga-pentru-a-patra-oara-liga-campionilor-la-fotbal-feminin-23742494</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/barcelona-invinge-clar-ol-lyon-si-castiga-pentru-a-patra-oara-liga-campionilor-la-fotbal-feminin-23742494</guid>
+    </item>
+    <item>
+        <title>Pakistanul confirmă „progrese încurajatoare” către un acord final între SUA şi Iran. Ce spune Teheranul</title>
+        <link>https://www.digi24.ro/stiri/externe/pakistanul-confirma-progrese-incurajatoare-catre-un-acord-final-intre-sua-si-iran-3783029</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/pakistanul-confirma-progrese-incurajatoare-catre-un-acord-final-intre-sua-si-iran-3783029</guid>
+    </item>
+    <item>
+        <title>Haos la Belgrad: protest masiv împotriva președintelui sârb Aleksandar Vucic. Ciocniri violente între manifestanți și forțele de ordine</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/haos-la-belgrad-protest-masiv-impotriva-presedintelui-sarb-aleksandar-vucic-ciocniri-violente-intre-manifestanti-si-fortele-de-ordine-3783311</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/haos-la-belgrad-protest-masiv-impotriva-presedintelui-sarb-aleksandar-vucic-ciocniri-violente-intre-manifestanti-si-fortele-de-ordine-3783311</guid>
+    </item>
+    <item>
+        <title>Mungiu, după câștigarea Palme d’Or la Cannes 2026: Starea lumii nu este cea mai bună/ Acest film este un angajament împotriva oricărei forme de fundam</title>
+        <link>https://www.mediafax.ro/life-entertaiment/mungiu-dupa-castigarea-palme-dor-la-cannes-2026-starea-lumii-nu-este-cea-mai-buna-acest-film-este-un-angajament-impotriva-oricarei-forme-de-fundamentalism-23742514</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/mungiu-dupa-castigarea-palme-dor-la-cannes-2026-starea-lumii-nu-este-cea-mai-buna-acest-film-este-un-angajament-impotriva-oricarei-forme-de-fundamentalism-23742514</guid>
+    </item>
+    <item>
+        <title>Federația Bolnavilor de Cancer acuză PSD și AUR de intimidare după votul pe legea ONG-urilor: „Urmează modelele autoritare din Rusia și Ungaria”</title>
+        <link>https://www.g4media.ro/federatia-bolnavilor-de-cancer-acuza-psd-si-aur-de-intimidare-dupa-votul-pe-legea-ong-urilor-urmeaza-modelele-autoritare-din-rusia-si-ungaria.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pakistanul-anunta-progrese-incurajatoare-catre-un-acord-final-intre-sua-si-iran.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/federatia-bolnavilor-de-cancer-acuza-psd-si-aur-de-intimidare-dupa-votul-pe-legea-ong-urilor-urmeaza-modelele-autoritare-din-rusia-si-ungaria.html</guid>
+    </item>
+    <item>
+        <title>Tramvaiele 1 şi 10 vor circula sâmbătă până la miezul nopţii pentru preluarea spectatorilor de la concertul Max Korj</title>
+        <link>https://www.g4media.ro/tramvaiele-1-si-10-vor-circula-sambata-pana-la-miezul-noptii-pentru-preluarea-spectatorilor-de-la-concertul-max-korj.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/tramvaiele-1-si-10-vor-circula-sambata-pana-la-miezul-noptii-pentru-preluarea-spectatorilor-de-la-concertul-max-korj.html</guid>
+    </item>
+    <item>
+        <title>Reacții după ce Cristian Mungiu a câștigat Palme d’Or la Cannes 2026 pentru „Fjord”</title>
+        <link>https://www.mediafax.ro/stirile-zilei/reactii-dupa-ce-cristian-mungiu-a-castigat-palme-dor-la-cannes-2026-pentru-fjord-23742512</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/reactii-dupa-ce-cristian-mungiu-a-castigat-palme-dor-la-cannes-2026-pentru-fjord-23742512</guid>
+    </item>
+    <item>
+        <title>Accident grav în Germania: două tramvaie s-au ciocnit frontal. Peste 50 de răniți</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/accident-grav-in-germania-doua-tramvaie-s-au-ciocnit-frontal-peste-50-de-raniti-3783215</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/accident-grav-in-germania-doua-tramvaie-s-au-ciocnit-frontal-peste-50-de-raniti-3783215</guid>
+    </item>
+    <item>
+        <title>Noul procuror general din Republica Moldova susține că părinții i-au lăsat moștenire 75.000 de euro ascunși într-un borcan ascuns în spatele bidoanelo</title>
+        <link>https://www.g4media.ro/noul-procuror-general-din-republica-moldova-sustine-ca-parintii-i-au-lasat-mostenire-75-000-de-euro-ascunsi-intr-un-borcan-ascuns-in-spatele-bidoanelor-de-vin-din-beci.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/noul-procuror-general-din-republica-moldova-sustine-ca-parintii-i-au-lasat-mostenire-75-000-de-euro-ascunsi-intr-un-borcan-ascuns-in-spatele-bidoanelor-de-vin-din-beci.html</guid>
+    </item>
+    <item>
+        <title>Trump susține că oscilează între un acord cu Iranul şi reluarea războiului: „Fie ajungem la un acord bun, fie îi arunc în aer”</title>
+        <link>https://www.g4media.ro/trump-sustine-ca-oscileaza-intre-un-acord-cu-iranul-si-reluarea-razboiului-fie-ajungem-la-un-acord-bun-fie-ii-arunc-in-aer.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/trump-sustine-ca-oscileaza-intre-un-acord-cu-iranul-si-reluarea-razboiului-fie-ajungem-la-un-acord-bun-fie-ii-arunc-in-aer.html</guid>
+    </item>
+    <item>
+        <title>Alertă lansată de Zelenski: Rusia ar pregăti un atac major cu racheta hipersonică Oreșnik. Unde ar urma să lovească</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/alerta-lansata-de-zelenski-rusia-ar-pregati-un-atac-major-cu-racheta-hipersonica-oresnik-unde-ar-urma-sa-loveasca-3783115</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/alerta-lansata-de-zelenski-rusia-ar-pregati-un-atac-major-cu-racheta-hipersonica-oresnik-unde-ar-urma-sa-loveasca-3783115</guid>
     </item>
     <item>
         <title>Șef din spionajul european: Putin mai are doar câteva luni pentru a negocia dintr-o poziție de forță în Ucraina</title>
@@ -26,118 +104,10 @@
         <guid isPermaLink="true">https://www.mediafax.ro/sport/emma-navarro-castiga-turneul-wta-500-de-la-strasbourg-o-invinge-pe-mboko-a-9-a-jucatoare-a-lumii-23742446</guid>
     </item>
     <item>
-        <title>Record la Mecca: peste 1,5 milioane de pelerini au sosit deja în Arabia Saudită pentru hajj, în ciuda conflictelor din Orientul Mijlociu</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/record-la-mecca-peste-15-milioane-de-pelerini-au-2531786.html</link>
+        <title>Incendiu la o clinică medicală în construcție din Oradea. Fondatorul este un fost ministru al Sănătății</title>
+        <link>https://adevarul.ro/stiri-locale/oradea/incendiu-la-o-clinica-medicala-in-constructie-din-2531793.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/record-la-mecca-peste-15-milioane-de-pelerini-au-2531786.html</guid>
-    </item>
-    <item>
-        <title>Șeful PSD Iași, Bogdan Cojocaru, după vizita lui Ilie Bolojan în Moldova: „A venit degeaba”. Ce-i reproșează premierului interimar</title>
-        <link>https://www.digi24.ro/regional/digi24-iasi/seful-psd-iasi-bogdan-cojocaru-dupa-vizita-lui-ilie-bolojan-in-moldova-a-venit-degeaba-ce-i-reproseaza-premierului-interimar-3783077</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/regional/digi24-iasi/seful-psd-iasi-bogdan-cojocaru-dupa-vizita-lui-ilie-bolojan-in-moldova-a-venit-degeaba-ce-i-reproseaza-premierului-interimar-3783077</guid>
-    </item>
-    <item>
-        <title>Peter Magyar anunţă finalizarea negocierilor cu Comisia Europeană pentru deblocarea fondurilor UE</title>
-        <link>https://www.g4media.ro/peter-magyar-anunta-finalizarea-negocierilor-cu-comisia-europeana-pentru-deblocarea-fondurilor-ue.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/peter-magyar-anunta-finalizarea-negocierilor-cu-comisia-europeana-pentru-deblocarea-fondurilor-ue.html</guid>
-    </item>
-    <item>
-        <title>Iancu Guda pleacă de la Antena 1, după aproape 7 ani: „Adevărul economic trebuie spus tare, puternic și hotărât. Să aprindem lumina”</title>
-        <link>https://adevarul.ro/showbiz/tv/iancu-guda-pleaca-de-la-antena-1-dupa-aproape-7-2531798.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/tv/iancu-guda-pleaca-de-la-antena-1-dupa-aproape-7-2531798.html</guid>
-    </item>
-    <item>
-        <title>Incendiu la concertul lui Max Korzh de pe Arena Națională</title>
-        <link>https://www.mediafax.ro/social/incendiu-la-concertul-lui-max-korzh-de-pe-arena-nationala-23742480</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/incendiu-la-concertul-lui-max-korzh-de-pe-arena-nationala-23742480</guid>
-    </item>
-    <item>
-        <title>Chindia și Farul, remiză cu șase goluri în prima manșă a barajului pentru Superliga de fotbal</title>
-        <link>https://www.mediafax.ro/sport/chindia-si-farul-remiza-cu-sase-goluri-in-prima-mansa-a-barajului-pentru-superliga-de-fotbal-23742467</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/chindia-si-farul-remiza-cu-sase-goluri-in-prima-mansa-a-barajului-pentru-superliga-de-fotbal-23742467</guid>
-    </item>
-    <item>
-        <title>Rusia pregătește un atac cu rachete „Oreșnik”: Zelenski avertizează asupra unei lovituri combinate de amploare asupra Kievului</title>
-        <link>https://adevarul.ro/stiri-externe/europa/rusia-pregateste-un-atac-cu-rachete-oresnik-2531792.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/rusia-pregateste-un-atac-cu-rachete-oresnik-2531792.html</guid>
-    </item>
-    <item>
-        <title>Cristian Mungiu a câștigat Palme d&apos;Or la Festivalul de Film de la Cannes</title>
-        <link>https://www.digi24.ro/magazin/timp-liber/film/cristian-mungiu-castigat-palme-dor-la-festivalul-de-film-de-la-cannes-3783241</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/film/cristian-mungiu-castigat-palme-dor-la-festivalul-de-film-de-la-cannes-3783241</guid>
-    </item>
-    <item>
-        <title>Trump analizează propunerea Iranului și amenință cu decizii militare: „50/50” șanse pentru un acord sau escaladare</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/trump-analizeaza-propunerea-iranului-si-ameninta-2531789.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/trump-analizeaza-propunerea-iranului-si-ameninta-2531789.html</guid>
-    </item>
-    <item>
-        <title>Trump susține că oscilează între un acord cu Iranul şi reluarea războiului: „Fie ajungem la un acord bun, fie îi arunc în aer”</title>
-        <link>https://www.g4media.ro/trump-sustine-ca-oscileaza-intre-un-acord-cu-iranul-si-reluarea-razboiului-fie-ajungem-la-un-acord-bun-fie-ii-arunc-in-aer.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/trump-sustine-ca-oscileaza-intre-un-acord-cu-iranul-si-reluarea-razboiului-fie-ajungem-la-un-acord-bun-fie-ii-arunc-in-aer.html</guid>
-    </item>
-    <item>
-        <title>Mette Frederiksen primește încă o dată mandatul de a forma guvernul în Danemarca, în pofida eşecului anterior</title>
-        <link>https://www.g4media.ro/mette-frederiksen-primeste-inca-o-data-mandatul-de-a-forma-guvernul-in-danemarca-in-pofida-esecului-anterior.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/mette-frederiksen-primeste-inca-o-data-mandatul-de-a-forma-guvernul-in-danemarca-in-pofida-esecului-anterior.html</guid>
-    </item>
-    <item>
-        <title>Furie uriașă la Madrid: zeci de mii de oameni cer demisia premierului Sánchez și alegeri anticipate, în urma unor scandaluri de corupție care zguduie </title>
-        <link>https://adevarul.ro/stiri-externe/europa/furie-uriasa-la-madrid-zeci-de-mii-de-oameni-cer-2531773.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/furie-uriasa-la-madrid-zeci-de-mii-de-oameni-cer-2531773.html</guid>
-    </item>
-    <item>
-        <title>19 persoane au avut nevoie de îngrijiri medicale la pelerinajul de Rusalii de la Șumuleu Ciuc, unde au participat aproape 300.000 de credincioși</title>
-        <link>https://adevarul.ro/stiri-locale/targu-mures/19-persoane-au-avut-nevoie-de-ingrijiri-medicale-2531779.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/targu-mures/19-persoane-au-avut-nevoie-de-ingrijiri-medicale-2531779.html</guid>
-    </item>
-    <item>
-        <title>Lista completă a premiilor de la Cannes 2026. Cristian Mungiu, al doilea Palme d&apos;Or, precum Coppola și Ruben Ostlund</title>
-        <link>https://www.digi24.ro/stiri/actualitate/lista-completa-a-premiilor-de-la-cannes-2026-cristian-mungiu-al-doilea-palme-dor-precum-coppola-si-ruben-ostlund-3783243</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/lista-completa-a-premiilor-de-la-cannes-2026-cristian-mungiu-al-doilea-palme-dor-precum-coppola-si-ruben-ostlund-3783243</guid>
-    </item>
-    <item>
-        <title>Horoscop 24 mai 2026. Duminică vine cu o energie aparte</title>
-        <link>https://www.mediafax.ro/horoscop/horoscop-24-mai-2026-duminica-vine-cu-o-energie-aparte-23742495</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-24-mai-2026-duminica-vine-cu-o-energie-aparte-23742495</guid>
-    </item>
-    <item>
-        <title>Zbor spre Londra, deviat de urgență după suspiciuni privind un dispozitiv din bagajul unui pasager</title>
-        <link>https://adevarul.ro/stiri-externe/europa/zbor-spre-londra-deviat-de-urgenta-dupa-2531780.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/zbor-spre-londra-deviat-de-urgenta-dupa-2531780.html</guid>
-    </item>
-    <item>
-        <title>15 intervenții medicale la concertul Max Korzh de pe Arena Națională. Incident pirotehnic stins rapid de pompieri</title>
-        <link>https://adevarul.ro/stiri-locale/bucuresti/15-interventii-medicale-la-concertul-max-korzh-de-2531790.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/15-interventii-medicale-la-concertul-max-korzh-de-2531790.html</guid>
-    </item>
-    <item>
-        <title>Prima reacție a lui Cristian Mungiu după ce a câștigat Palme d’Or cu filmul Fjord: ”Societățile, astăzi, sunt fracturate și radicalizate”,</title>
-        <link>https://www.g4media.ro/prima-reactie-a-lui-cristian-mungiu-dupa-ce-a-castigat-palme-dor-cu-filmul-fjord-societatile-astazi-sunt-fracturate-si-radicalizate.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/prima-reactie-a-lui-cristian-mungiu-dupa-ce-a-castigat-palme-dor-cu-filmul-fjord-societatile-astazi-sunt-fracturate-si-radicalizate.html</guid>
-    </item>
-    <item>
-        <title>Universitatea Cluj remizează cu Dinamo București în ultima etapă din play-off, în Superliga de fotbal</title>
-        <link>https://www.mediafax.ro/sport/universitatea-cluj-remizeaza-cu-dinamo-bucuresti-in-ultima-etapa-din-play-off-in-superliga-de-fotbal-23742505</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/universitatea-cluj-remizeaza-cu-dinamo-bucuresti-in-ultima-etapa-din-play-off-in-superliga-de-fotbal-23742505</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/oradea/incendiu-la-o-clinica-medicala-in-constructie-din-2531793.html</guid>
     </item>
     <item>
         <title>„De tot râsul”. Profesorii contestă „victoria” reducerii cu două ore a normei de predare pentru cei cu vechime și grade</title>
@@ -146,88 +116,10 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/de-tot-rasul-profesorii-contesta-victoria-2531639.html</guid>
     </item>
     <item>
-        <title>Trump confirmă că SUA sunt „din ce în ce mai aproape” de un acord cu Iranul</title>
-        <link>https://www.mediafax.ro/externe/trump-confirma-ca-sua-sunt-din-ce-in-ce-mai-aproape-de-un-acord-cu-iranul-23742461</link>
+        <title>Coșmar pentru o familie care și-a pus panouri solare: facturile au explodat: „Nu eram nebuni”</title>
+        <link>https://www.mediafax.ro/externe/cosmar-pentru-o-familie-care-si-a-pus-panouri-solare-facturile-au-explodat-nu-eram-nebuni-23742453</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-confirma-ca-sua-sunt-din-ce-in-ce-mai-aproape-de-un-acord-cu-iranul-23742461</guid>
-    </item>
-    <item>
-        <title>Cristian Mungiu câștigă marele trofeu Palme d’Or la Festivalul de la Cannes cu filmul „Fjord”</title>
-        <link>https://adevarul.ro/showbiz/film/cristian-mungiu-castiga-palme-dor-la-festivalul-d-2531800.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/film/cristian-mungiu-castiga-palme-dor-la-festivalul-d-2531800.html</guid>
-    </item>
-    <item>
-        <title>Ivanka Trump, ținta unui plan de asasinare. Atacul ar fi fost pregătit ca răzbunare pentru uciderea generalului iranian Soleimani</title>
-        <link>https://adevarul.ro/stiri-externe/sua/ivanka-trump-tinta-unui-plan-de-asasinare-atacul-2531777.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/ivanka-trump-tinta-unui-plan-de-asasinare-atacul-2531777.html</guid>
-    </item>
-    <item>
-        <title>Reacții după ce Cristian Mungiu a câștigat Palme d’Or la Cannes 2026 pentru „Fjord”</title>
-        <link>https://www.mediafax.ro/stirile-zilei/reactii-dupa-ce-cristian-mungiu-a-castigat-palme-dor-la-cannes-2026-pentru-fjord-23742512</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/reactii-dupa-ce-cristian-mungiu-a-castigat-palme-dor-la-cannes-2026-pentru-fjord-23742512</guid>
-    </item>
-    <item>
-        <title>BREAKING Cristian Mungiu a câștigat premiul Palme d’Or cu filmul Fjord / Regizorul român intră în istorie cu al doilea Palme d’Or  alături de Francis </title>
-        <link>https://www.g4media.ro/breaking-cristian-mungiu-a-castigat-premiul-palme-dor-cu-filmul-fjord-regizorul-roman-intra-in-istorie-cu-al-doilea-palme-dor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/breaking-cristian-mungiu-a-castigat-premiul-palme-dor-cu-filmul-fjord-regizorul-roman-intra-in-istorie-cu-al-doilea-palme-dor.html</guid>
-    </item>
-    <item>
-        <title>Premierul interimar Ilie Bolojan convoacă prefecții și primarii pentru discuții privind cele peste 15.000 de proiecte PNRR | AUDIO</title>
-        <link>https://www.europafm.ro/premierul-interimar-ilie-bolojan-convoaca-prefectii-si-primarii-pentru-discutii-privind-cele-peste-15-000-de-proiecte-pnrr/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/premierul-interimar-ilie-bolojan-convoaca-prefectii-si-primarii-pentru-discutii-privind-cele-peste-15-000-de-proiecte-pnrr/</guid>
-    </item>
-    <item>
-        <title>Mette Frederiksen primeşte încă o dată mandatul de a forma guvernul danez, în pofida eşecului anterior</title>
-        <link>https://www.digi24.ro/stiri/externe/mette-frederiksen-primeste-inca-o-data-mandatul-de-a-forma-guvernul-danez-in-pofida-esecului-anterior-3783153</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mette-frederiksen-primeste-inca-o-data-mandatul-de-a-forma-guvernul-danez-in-pofida-esecului-anterior-3783153</guid>
-    </item>
-    <item>
-        <title>Pakistanul confirmă „progrese încurajatoare” către un acord final între SUA şi Iran. Ce spune Teheranul</title>
-        <link>https://www.digi24.ro/stiri/externe/pakistanul-confirma-progrese-incurajatoare-catre-un-acord-final-intre-sua-si-iran-3783029</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/pakistanul-confirma-progrese-incurajatoare-catre-un-acord-final-intre-sua-si-iran-3783029</guid>
-    </item>
-    <item>
-        <title>Explicația procurorului general al R. Moldova despre cei 75.000 de euro găsiți în spatele bidoanelor sale de vin: „Părinții mei au muncit și au strâns</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/explicatia-procurorului-general-al-r-moldova-2531795.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/explicatia-procurorului-general-al-r-moldova-2531795.html</guid>
-    </item>
-    <item>
-        <title>Filmul „Fjord” regizat de Cristian Mungiu a primit patru premii la Cannes, înaintea galei de premiere</title>
-        <link>https://www.digi24.ro/stiri/filmul-fjord-regizat-de-cristian-mungiu-a-primit-patru-premii-la-cannes-inaintea-galei-de-premiere-3783177</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/filmul-fjord-regizat-de-cristian-mungiu-a-primit-patru-premii-la-cannes-inaintea-galei-de-premiere-3783177</guid>
-    </item>
-    <item>
-        <title>Oana Țoiu, la Forumul GLOBSEC de la Praga. România promovează cooperarea și securitatea regională</title>
-        <link>https://www.mediafax.ro/politic/oana-toiu-la-forumul-globsec-de-la-praga-romania-promoveaza-cooperarea-si-securitatea-regionala-23742486</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/oana-toiu-la-forumul-globsec-de-la-praga-romania-promoveaza-cooperarea-si-securitatea-regionala-23742486</guid>
-    </item>
-    <item>
-        <title>Federația Bolnavilor de Cancer acuză PSD și AUR de intimidare după votul pe legea ONG-urilor: „Urmează modelele autoritare din Rusia și Ungaria”</title>
-        <link>https://www.g4media.ro/federatia-bolnavilor-de-cancer-acuza-psd-si-aur-de-intimidare-dupa-votul-pe-legea-ong-urilor-urmeaza-modelele-autoritare-din-rusia-si-ungaria.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/federatia-bolnavilor-de-cancer-acuza-psd-si-aur-de-intimidare-dupa-votul-pe-legea-ong-urilor-urmeaza-modelele-autoritare-din-rusia-si-ungaria.html</guid>
-    </item>
-    <item>
-        <title>Noul procuror general din Republica Moldova susține că părinții i-au lăsat moștenire 75.000 de euro ascunși într-un borcan ascuns în spatele bidoanelo</title>
-        <link>https://www.g4media.ro/noul-procuror-general-din-republica-moldova-sustine-ca-parintii-i-au-lasat-mostenire-75-000-de-euro-ascunsi-intr-un-borcan-ascuns-in-spatele-bidoanelor-de-vin-din-beci.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/noul-procuror-general-din-republica-moldova-sustine-ca-parintii-i-au-lasat-mostenire-75-000-de-euro-ascunsi-intr-un-borcan-ascuns-in-spatele-bidoanelor-de-vin-din-beci.html</guid>
-    </item>
-    <item>
-        <title>VIDEO FOTO Noapte Muzeelor – cozi la Antipa și Muzeul Țăranului Român</title>
-        <link>https://www.g4media.ro/video-foto-noapte-muzeelor-cozi-la-antipa-si-muzeul-taranului-roman.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-foto-noapte-muzeelor-cozi-la-antipa-si-muzeul-taranului-roman.html</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/cosmar-pentru-o-familie-care-si-a-pus-panouri-solare-facturile-au-explodat-nu-eram-nebuni-23742453</guid>
     </item>
     <item>
         <title>Activiștii din flotila pentru Gaza acuză Israelul: „Am fost bătuți și electrocutați în detenție”. Reacția guvernului de la Tel Aviv</title>
@@ -236,28 +128,16 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/activistii-din-flotila-pentru-gaza-acuza-israelul-am-fost-batuti-si-electrocutati-in-detentie-reactia-guvernului-de-la-tel-aviv-3783055</guid>
     </item>
     <item>
-        <title>George Russell câștigă sprintul din Canada în Formula 1 după un duel tensionat cu Antonelli și Norris</title>
-        <link>https://www.mediafax.ro/sport/george-russell-castiga-sprintul-din-canada-in-formula-1-dupa-un-duel-tensionat-cu-antonelli-si-norris-23742463</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/george-russell-castiga-sprintul-din-canada-in-formula-1-dupa-un-duel-tensionat-cu-antonelli-si-norris-23742463</guid>
-    </item>
-    <item>
-        <title>Incendiu la concertul lui Max Korj de pe Arena Națională, focul a fost stins rapid de pompieri</title>
-        <link>https://www.g4media.ro/incendiu-la-concertul-lui-max-korj-de-pe-arena-nationala-focul-a-fost-stins-rapid-de-pompieri.html</link>
+        <title>Prima reacție a lui Cristian Mungiu după ce a câștigat Palme d’Or cu filmul Fjord: ”Societățile, astăzi, sunt fracturate și radicalizate”,</title>
+        <link>https://www.g4media.ro/prima-reactie-a-lui-cristian-mungiu-dupa-ce-a-castigat-palme-dor-cu-filmul-fjord-societatile-astazi-sunt-fracturate-si-radicalizate.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/incendiu-la-concertul-lui-max-korj-de-pe-arena-nationala-focul-a-fost-stins-rapid-de-pompieri.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/prima-reactie-a-lui-cristian-mungiu-dupa-ce-a-castigat-palme-dor-cu-filmul-fjord-societatile-astazi-sunt-fracturate-si-radicalizate.html</guid>
     </item>
     <item>
-        <title>Cultura aleasă masiv de fermieri influențează producția de miere. Cum schimbă vremea profitul apicultorilor</title>
-        <link>https://adevarul.ro/stiri-locale/slatina/cultura-aleasa-masiv-de-fermieri-influenteaza-2531354.html</link>
+        <title>Explicația procurorului general al R. Moldova despre cei 75.000 de euro găsiți în spatele bidoanelor sale de vin: „Părinții mei au muncit și au strâns</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/explicatia-procurorului-general-al-r-moldova-2531795.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/slatina/cultura-aleasa-masiv-de-fermieri-influenteaza-2531354.html</guid>
-    </item>
-    <item>
-        <title>„Nu mai avem valori” – astrologul Sanda Ionescu explică de ce 2026 este doar începutul schimbării</title>
-        <link>https://www.mediafax.ro/life-entertaiment/nu-mai-avem-valori-astrologul-sanda-ionescu-explica-de-ce-2026-este-doar-inceputul-schimbarii-23742481</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/nu-mai-avem-valori-astrologul-sanda-ionescu-explica-de-ce-2026-este-doar-inceputul-schimbarii-23742481</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/explicatia-procurorului-general-al-r-moldova-2531795.html</guid>
     </item>
     <item>
         <title>ISTORIE LA CANNES: Cristian Mungiu intră în clubul exclusivist al regizorilor cu două trofee Palme d’Or. Cannes, pământul făgăduinței pentru Mungiu</title>
@@ -266,34 +146,10 @@
         <guid isPermaLink="true">https://www.g4media.ro/istorie-la-cannes-cristian-mungiu-intra-in-clubul-exclusivist-al-regizorilor-cu-doua-trofee-palme-dor-cannes-pamantul-fagaduintei-pentru-mungiu.html</guid>
     </item>
     <item>
-        <title>Dacă nu suporți bancnotele dezordonate, psihologia spune că ai aceste trăsături</title>
-        <link>https://www.mediafax.ro/life-entertaiment/daca-nu-suporti-bancnotele-dezordonate-psihologia-spune-ca-ai-aceste-trasaturi-23742447</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/daca-nu-suporti-bancnotele-dezordonate-psihologia-spune-ca-ai-aceste-trasaturi-23742447</guid>
-    </item>
-    <item>
-        <title>Incendiu la o clinică medicală în construcție din Oradea. Fondatorul este un fost ministru al Sănătății</title>
-        <link>https://adevarul.ro/stiri-locale/oradea/incendiu-la-o-clinica-medicala-in-constructie-din-2531793.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/oradea/incendiu-la-o-clinica-medicala-in-constructie-din-2531793.html</guid>
-    </item>
-    <item>
-        <title>Motivul incredibil pentru care 90% dintre oameni sunt dreptaci: cercetătorii au descoperit două indicii vechi de milioane de ani</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/descoperiri/motivul-incredibil-pentru-care-90-dintre-oameni-sunt-dreptaci-cercetatorii-au-descoperit-doua-indicii-vechi-de-milioane-de-ani-3779973</link>
+        <title>Peter Magyar anunţă finalizarea negocierilor cu Comisia Europeană pentru deblocarea fondurilor UE pentru Ungaria</title>
+        <link>https://www.digi24.ro/stiri/externe/peter-magyar-anunta-finalizarea-negocierilor-cu-comisia-europeana-pentru-deblocarea-fondurilor-ue-pentru-ungaria-3783205</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/descoperiri/motivul-incredibil-pentru-care-90-dintre-oameni-sunt-dreptaci-cercetatorii-au-descoperit-doua-indicii-vechi-de-milioane-de-ani-3779973</guid>
-    </item>
-    <item>
-        <title>Zelenski avertizează că Rusia pregătește un posibil atac cu racheta hipersonică de tip Oreșnik asupra Ucrainei</title>
-        <link>https://www.mediafax.ro/externe/zelenski-avertizeaza-ca-rusia-pregateste-un-posibil-atac-cu-racheta-hipersonica-de-tip-oresnik-asupra-ucrainei-23742503</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/zelenski-avertizeaza-ca-rusia-pregateste-un-posibil-atac-cu-racheta-hipersonica-de-tip-oresnik-asupra-ucrainei-23742503</guid>
-    </item>
-    <item>
-        <title>Locurile din România unde mulți români nu ar vrea să locuiască vreodată: „Nu putem sta în câmpie, că ne uscăm”</title>
-        <link>https://adevarul.ro/stiri-interne/societate/locurile-din-romania-unde-multi-romani-nu-ar-vrea-2531279.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/locurile-din-romania-unde-multi-romani-nu-ar-vrea-2531279.html</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/peter-magyar-anunta-finalizarea-negocierilor-cu-comisia-europeana-pentru-deblocarea-fondurilor-ue-pentru-ungaria-3783205</guid>
     </item>
     <item>
         <title>Primele imagini de la concertul Max Korzh de la București surprind un moshpit imens pe Arena Națională</title>
@@ -302,28 +158,112 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/primele-imagini-de-la-concertul-max-korzh-de-la-2531784.html</guid>
     </item>
     <item>
-        <title>Ilie Bolojan: Eliminând risipa și privilegiile vom transmite ideea că acolo unde e un liberal este ordine</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-eliminand-risipa-si-privilegiile-vom-transmite-ideea-ca-acolo-unde-e-un-liberal-este-ordine-3783103</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-eliminand-risipa-si-privilegiile-vom-transmite-ideea-ca-acolo-unde-e-un-liberal-este-ordine-3783103</guid>
-    </item>
-    <item>
-        <title>Barcelona învinge clar OL Lyon și câștigă pentru a patra oară Liga Campionilor la fotbal feminin</title>
-        <link>https://www.mediafax.ro/sport/barcelona-invinge-clar-ol-lyon-si-castiga-pentru-a-patra-oara-liga-campionilor-la-fotbal-feminin-23742494</link>
+        <title>„Nu mai avem valori” – astrologul Sanda Ionescu explică de ce 2026 este doar începutul schimbării</title>
+        <link>https://www.mediafax.ro/life-entertaiment/nu-mai-avem-valori-astrologul-sanda-ionescu-explica-de-ce-2026-este-doar-inceputul-schimbarii-23742481</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/barcelona-invinge-clar-ol-lyon-si-castiga-pentru-a-patra-oara-liga-campionilor-la-fotbal-feminin-23742494</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/nu-mai-avem-valori-astrologul-sanda-ionescu-explica-de-ce-2026-este-doar-inceputul-schimbarii-23742481</guid>
     </item>
     <item>
-        <title>FMI cere reforme drastice în UE: fără măsuri, datoria poate deveni „explozivă”: „A merge pe val nu mai funcționează”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/fmi-cere-reforme-drastice-in-ue-fara-masuri-datoria-poate-deveni-exploziva-a-merge-pe-val-nu-mai-functioneaza-3783181</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/fmi-cere-reforme-drastice-in-ue-fara-masuri-datoria-poate-deveni-exploziva-a-merge-pe-val-nu-mai-functioneaza-3783181</guid>
-    </item>
-    <item>
-        <title>Zeci de mii de oameni protestează în Serbia împotriva președintelui Aleksandar Vučić</title>
-        <link>https://www.mediafax.ro/externe/zeci-de-mii-de-oameni-protesteaza-in-serbia-impotriva-presedintelui-aleksandar-vucic-23742499</link>
+        <title>Trump confirmă că SUA sunt „din ce în ce mai aproape” de un acord cu Iranul</title>
+        <link>https://www.mediafax.ro/externe/trump-confirma-ca-sua-sunt-din-ce-in-ce-mai-aproape-de-un-acord-cu-iranul-23742461</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/zeci-de-mii-de-oameni-protesteaza-in-serbia-impotriva-presedintelui-aleksandar-vucic-23742499</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-confirma-ca-sua-sunt-din-ce-in-ce-mai-aproape-de-un-acord-cu-iranul-23742461</guid>
+    </item>
+    <item>
+        <title>Oana Țoiu, la Forumul GLOBSEC de la Praga. România promovează cooperarea și securitatea regională</title>
+        <link>https://www.mediafax.ro/politic/oana-toiu-la-forumul-globsec-de-la-praga-romania-promoveaza-cooperarea-si-securitatea-regionala-23742486</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/oana-toiu-la-forumul-globsec-de-la-praga-romania-promoveaza-cooperarea-si-securitatea-regionala-23742486</guid>
+    </item>
+    <item>
+        <title>Primă victorie pentru Melania Trump în procesul legat de declarațiile despre Epstein. Acțiunea intentată de Michael Wolff, respinsă</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/prima-victorie-pentru-melania-trump-in-procesul-legat-de-declaratiile-despre-epstein-actiunea-intentata-de-michael-wolff-respinsa-3783229</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/prima-victorie-pentru-melania-trump-in-procesul-legat-de-declaratiile-despre-epstein-actiunea-intentata-de-michael-wolff-respinsa-3783229</guid>
+    </item>
+    <item>
+        <title>Chindia și Farul, remiză cu șase goluri în prima manșă a barajului pentru Superliga de fotbal</title>
+        <link>https://www.mediafax.ro/sport/chindia-si-farul-remiza-cu-sase-goluri-in-prima-mansa-a-barajului-pentru-superliga-de-fotbal-23742467</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/chindia-si-farul-remiza-cu-sase-goluri-in-prima-mansa-a-barajului-pentru-superliga-de-fotbal-23742467</guid>
+    </item>
+    <item>
+        <title>Incendiu la concertul lui Max Korj de pe Arena Națională, focul a fost stins rapid de pompieri</title>
+        <link>https://www.g4media.ro/incendiu-la-concertul-lui-max-korj-de-pe-arena-nationala-focul-a-fost-stins-rapid-de-pompieri.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/incendiu-la-concertul-lui-max-korj-de-pe-arena-nationala-focul-a-fost-stins-rapid-de-pompieri.html</guid>
+    </item>
+    <item>
+        <title>Mette Frederiksen primeşte încă o dată mandatul de a forma guvernul danez, în pofida eşecului anterior</title>
+        <link>https://www.digi24.ro/stiri/externe/mette-frederiksen-primeste-inca-o-data-mandatul-de-a-forma-guvernul-danez-in-pofida-esecului-anterior-3783153</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mette-frederiksen-primeste-inca-o-data-mandatul-de-a-forma-guvernul-danez-in-pofida-esecului-anterior-3783153</guid>
+    </item>
+    <item>
+        <title>VIDEO Bolojan: România o schimbă omul care merge la lucru şi din greu îşi întreţine familia, omul care mătură în fiecare zi trotuarul şi ţine curat în</title>
+        <link>https://www.g4media.ro/bolojan-romania-o-schimba-mmul-care-merge-la-lucru-si-din-greu-isi-intretine-familia-omul-care-matura-in-fiecare-zi-trotuarul-si-tine-curat-in-fata-casei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/bolojan-romania-o-schimba-mmul-care-merge-la-lucru-si-din-greu-isi-intretine-familia-omul-care-matura-in-fiecare-zi-trotuarul-si-tine-curat-in-fata-casei.html</guid>
+    </item>
+    <item>
+        <title>Cristian Mungiu a câștigat Palme d&apos;Or la Festivalul de Film de la Cannes</title>
+        <link>https://www.digi24.ro/magazin/timp-liber/film/cristian-mungiu-castigat-palme-dor-la-festivalul-de-film-de-la-cannes-3783241</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/film/cristian-mungiu-castigat-palme-dor-la-festivalul-de-film-de-la-cannes-3783241</guid>
+    </item>
+    <item>
+        <title>Zbor spre Londra, deviat de urgență după suspiciuni privind un dispozitiv din bagajul unui pasager</title>
+        <link>https://adevarul.ro/stiri-externe/europa/zbor-spre-londra-deviat-de-urgenta-dupa-2531780.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/zbor-spre-londra-deviat-de-urgenta-dupa-2531780.html</guid>
+    </item>
+    <item>
+        <title>Un zbor EasyJet din Egipt către Marea Britanie a aterizat de urgență la Roma după ce un pasager a dezvăluit ce are în bagaj</title>
+        <link>https://www.digi24.ro/stiri/externe/un-zbor-easyjet-din-egipt-catre-marea-britanie-a-aterizat-de-urgenta-la-roma-dupa-ce-un-pasager-a-dezvaluit-ce-are-in-bagaj-3783083</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/un-zbor-easyjet-din-egipt-catre-marea-britanie-a-aterizat-de-urgenta-la-roma-dupa-ce-un-pasager-a-dezvaluit-ce-are-in-bagaj-3783083</guid>
+    </item>
+    <item>
+        <title>Cultura aleasă masiv de fermieri influențează producția de miere. Cum schimbă vremea profitul apicultorilor</title>
+        <link>https://adevarul.ro/stiri-locale/slatina/cultura-aleasa-masiv-de-fermieri-influenteaza-2531354.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/slatina/cultura-aleasa-masiv-de-fermieri-influenteaza-2531354.html</guid>
+    </item>
+    <item>
+        <title>Premierul tehnocrat, soluția de avarie pentru criza politică?</title>
+        <link>https://adevarul.ro/politica/premierul-tehnocrat-solutia-de-avarie-pentru-2531602.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/premierul-tehnocrat-solutia-de-avarie-pentru-2531602.html</guid>
+    </item>
+    <item>
+        <title>Cannes 2026: Filmul „Fjord” de Cristian Mungiu câștigă Palme d’Or</title>
+        <link>https://www.mediafax.ro/breaking-news/cannes-2026-filmul-fjord-de-cristian-mungiu-castiga-palme-dor-23742508</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/breaking-news/cannes-2026-filmul-fjord-de-cristian-mungiu-castiga-palme-dor-23742508</guid>
+    </item>
+    <item>
+        <title>Greșeala pe care o fac majoritatea grădinarilor când plantează roșii</title>
+        <link>https://www.mediafax.ro/life-entertaiment/greseala-pe-care-o-fac-majoritatea-gradinarilor-cand-planteaza-rosii-23742468</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/greseala-pe-care-o-fac-majoritatea-gradinarilor-cand-planteaza-rosii-23742468</guid>
+    </item>
+    <item>
+        <title>Iancu Guda pleacă de la Antena 1, după aproape 7 ani: „Adevărul economic trebuie spus tare, puternic și hotărât. Să aprindem lumina”</title>
+        <link>https://adevarul.ro/showbiz/tv/iancu-guda-pleaca-de-la-antena-1-dupa-aproape-7-2531798.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/tv/iancu-guda-pleaca-de-la-antena-1-dupa-aproape-7-2531798.html</guid>
+    </item>
+    <item>
+        <title>Furie uriașă la Madrid: zeci de mii de oameni cer demisia premierului Sánchez și alegeri anticipate, în urma unor scandaluri de corupție care zguduie </title>
+        <link>https://adevarul.ro/stiri-externe/europa/furie-uriasa-la-madrid-zeci-de-mii-de-oameni-cer-2531773.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/furie-uriasa-la-madrid-zeci-de-mii-de-oameni-cer-2531773.html</guid>
+    </item>
+    <item>
+        <title>Cristian Mungiu câștigă marele trofeu Palme d’Or la Festivalul de la Cannes cu filmul „Fjord”</title>
+        <link>https://adevarul.ro/showbiz/film/cristian-mungiu-castiga-palme-dor-la-festivalul-d-2531800.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/film/cristian-mungiu-castiga-palme-dor-la-festivalul-d-2531800.html</guid>
     </item>
     <item>
         <title>Epidemia de Ebola amenință să se extindă: 10 țări africane, în pericol. Ce spun experții în sănătate publică</title>
@@ -332,28 +272,16 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/epidemia-de-ebola-ameninta-sa-se-extinda-10-tari-africane-in-pericol-ce-spun-expertii-in-sanatate-publica-3783163</guid>
     </item>
     <item>
-        <title>Astrolog: „România intră într-o nouă formă de conducere”. Până în 2030 iese mizeria</title>
-        <link>https://www.mediafax.ro/life-entertaiment/astrolog-romania-intra-intr-o-noua-forma-de-conducere-pana-in-2030-iese-mizeria-23742473</link>
+        <title>Horoscop 24 mai 2026. Duminică vine cu o energie aparte</title>
+        <link>https://www.mediafax.ro/horoscop/horoscop-24-mai-2026-duminica-vine-cu-o-energie-aparte-23742495</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/astrolog-romania-intra-intr-o-noua-forma-de-conducere-pana-in-2030-iese-mizeria-23742473</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-24-mai-2026-duminica-vine-cu-o-energie-aparte-23742495</guid>
     </item>
     <item>
-        <title>Destinația europeană cu 28 de grade în iunie care îi face pe turiști să uite de Corfu și Tenerife</title>
-        <link>https://www.mediafax.ro/life-entertaiment/destinatia-europeana-cu-28-de-grade-in-iunie-care-ii-face-pe-turisti-sa-uite-de-corfu-si-tenerife-23742458</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/destinatia-europeana-cu-28-de-grade-in-iunie-care-ii-face-pe-turisti-sa-uite-de-corfu-si-tenerife-23742458</guid>
-    </item>
-    <item>
-        <title>Criza politică din România a stricat planul Budapestei privind gazul din Marea Neagră. Presa maghiară scrie despre acordul crucial pentru Ungaria</title>
-        <link>https://adevarul.ro/economie/criza-politica-din-romania-a-stricat-planul-2531776.html</link>
+        <title>19 persoane au avut nevoie de îngrijiri medicale la pelerinajul de Rusalii de la Șumuleu Ciuc, unde au participat aproape 300.000 de credincioși</title>
+        <link>https://adevarul.ro/stiri-locale/targu-mures/19-persoane-au-avut-nevoie-de-ingrijiri-medicale-2531779.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/criza-politica-din-romania-a-stricat-planul-2531776.html</guid>
-    </item>
-    <item>
-        <title>Horoscop săptămâna 23-29 mai. Care sunt cele patru zodii care își schimbă destinul complet</title>
-        <link>https://adevarul.ro/stil-de-viata/horoscop/horoscop-saptamana-23-29-mai-care-sunt-cele-patru-2531796.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/horoscop/horoscop-saptamana-23-29-mai-care-sunt-cele-patru-2531796.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/targu-mures/19-persoane-au-avut-nevoie-de-ingrijiri-medicale-2531779.html</guid>
     </item>
     <item>
         <title>Gestul provocator al lui Trump: Iranul, colorat în culorile drapelului SUA după o ședință de criză de la Casa Albă</title>
@@ -362,10 +290,82 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/gestul-provocator-al-lui-trump-iranul-colorat-in-2531783.html</guid>
     </item>
     <item>
-        <title>VIDEO Bolojan: România o schimbă omul care merge la lucru şi din greu îşi întreţine familia, omul care mătură în fiecare zi trotuarul şi ţine curat în</title>
-        <link>https://www.g4media.ro/bolojan-romania-o-schimba-mmul-care-merge-la-lucru-si-din-greu-isi-intretine-familia-omul-care-matura-in-fiecare-zi-trotuarul-si-tine-curat-in-fata-casei.html</link>
+        <title>Dacă nu suporți bancnotele dezordonate, psihologia spune că ai aceste trăsături</title>
+        <link>https://www.mediafax.ro/life-entertaiment/daca-nu-suporti-bancnotele-dezordonate-psihologia-spune-ca-ai-aceste-trasaturi-23742447</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/daca-nu-suporti-bancnotele-dezordonate-psihologia-spune-ca-ai-aceste-trasaturi-23742447</guid>
+    </item>
+    <item>
+        <title>Jurnale secrete scrise de tatăl lui Stephen Hawking dezvăluie ce credea despre fiul său: „Nu îmi face plăcere compania lui”</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/jurnale-secrete-scrise-de-tatal-lui-stephen-hawking-dezvaluie-ce-credea-despre-fiul-sau-nu-imi-face-placere-compania-lui-3783231</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/jurnale-secrete-scrise-de-tatal-lui-stephen-hawking-dezvaluie-ce-credea-despre-fiul-sau-nu-imi-face-placere-compania-lui-3783231</guid>
+    </item>
+    <item>
+        <title>Zelenski anunță că Rusia pregăteşte un atac asupra Ucrainei în care va folosi din nou temuta rachetă Oreșnik</title>
+        <link>https://www.g4media.ro/zelenski-anunta-ca-rusia-pregateste-un-atac-asupra-ucrainei-in-care-va-folosi-din-nou-temuta-racheta-oresnik.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/bolojan-romania-o-schimba-mmul-care-merge-la-lucru-si-din-greu-isi-intretine-familia-omul-care-matura-in-fiecare-zi-trotuarul-si-tine-curat-in-fata-casei.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/zelenski-anunta-ca-rusia-pregateste-un-atac-asupra-ucrainei-in-care-va-folosi-din-nou-temuta-racheta-oresnik.html</guid>
+    </item>
+    <item>
+        <title>Rusia pregătește un atac cu rachete „Oreșnik”: Zelenski avertizează asupra unei lovituri combinate de amploare asupra Kievului</title>
+        <link>https://adevarul.ro/stiri-externe/europa/rusia-pregateste-un-atac-cu-rachete-oresnik-2531792.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/rusia-pregateste-un-atac-cu-rachete-oresnik-2531792.html</guid>
+    </item>
+    <item>
+        <title>Filmul „Fjord” regizat de Cristian Mungiu a primit patru premii la Cannes, înaintea galei de premiere</title>
+        <link>https://www.digi24.ro/stiri/filmul-fjord-regizat-de-cristian-mungiu-a-primit-patru-premii-la-cannes-inaintea-galei-de-premiere-3783177</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/filmul-fjord-regizat-de-cristian-mungiu-a-primit-patru-premii-la-cannes-inaintea-galei-de-premiere-3783177</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan: Eliminând risipa și privilegiile vom transmite ideea că acolo unde e un liberal este ordine</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-eliminand-risipa-si-privilegiile-vom-transmite-ideea-ca-acolo-unde-e-un-liberal-este-ordine-3783103</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-eliminand-risipa-si-privilegiile-vom-transmite-ideea-ca-acolo-unde-e-un-liberal-este-ordine-3783103</guid>
+    </item>
+    <item>
+        <title>156 de persoane au avut nevoie de îngrijiri medicale la pelerinajul religios de la Șumuleu Ciuc</title>
+        <link>https://www.g4media.ro/156-de-persoane-au-avut-nevoie-de-ingrijiri-medicale-la-pelerinajul-religios-de-la-sumuleu-ciuc.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/156-de-persoane-au-avut-nevoie-de-ingrijiri-medicale-la-pelerinajul-religios-de-la-sumuleu-ciuc.html</guid>
+    </item>
+    <item>
+        <title>Motivul incredibil pentru care 90% dintre oameni sunt dreptaci: cercetătorii au descoperit două indicii vechi de milioane de ani</title>
+        <link>https://www.digi24.ro/stiri/sci-tech/descoperiri/motivul-incredibil-pentru-care-90-dintre-oameni-sunt-dreptaci-cercetatorii-au-descoperit-doua-indicii-vechi-de-milioane-de-ani-3779973</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/descoperiri/motivul-incredibil-pentru-care-90-dintre-oameni-sunt-dreptaci-cercetatorii-au-descoperit-doua-indicii-vechi-de-milioane-de-ani-3779973</guid>
+    </item>
+    <item>
+        <title>Pakistanul anunță „progrese încurajatoare” către un acord final între SUA şi Iran</title>
+        <link>https://www.g4media.ro/pakistanul-anunta-progrese-incurajatoare-catre-un-acord-final-intre-sua-si-iran.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/pakistanul-anunta-progrese-incurajatoare-catre-un-acord-final-intre-sua-si-iran.html</guid>
+    </item>
+    <item>
+        <title>George Russell câștigă sprintul din Canada în Formula 1 după un duel tensionat cu Antonelli și Norris</title>
+        <link>https://www.mediafax.ro/sport/george-russell-castiga-sprintul-din-canada-in-formula-1-dupa-un-duel-tensionat-cu-antonelli-si-norris-23742463</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/george-russell-castiga-sprintul-din-canada-in-formula-1-dupa-un-duel-tensionat-cu-antonelli-si-norris-23742463</guid>
+    </item>
+    <item>
+        <title>Universitatea Cluj remizează cu Dinamo București în ultima etapă din play-off, în Superliga de fotbal</title>
+        <link>https://www.mediafax.ro/sport/universitatea-cluj-remizeaza-cu-dinamo-bucuresti-in-ultima-etapa-din-play-off-in-superliga-de-fotbal-23742505</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/universitatea-cluj-remizeaza-cu-dinamo-bucuresti-in-ultima-etapa-din-play-off-in-superliga-de-fotbal-23742505</guid>
+    </item>
+    <item>
+        <title>Lista completă a premiilor de la Cannes 2026. Cristian Mungiu, al doilea Palme d&apos;Or, precum Coppola și Ruben Ostlund</title>
+        <link>https://www.digi24.ro/stiri/actualitate/lista-completa-a-premiilor-de-la-cannes-2026-cristian-mungiu-al-doilea-palme-dor-precum-coppola-si-ruben-ostlund-3783243</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/lista-completa-a-premiilor-de-la-cannes-2026-cristian-mungiu-al-doilea-palme-dor-precum-coppola-si-ruben-ostlund-3783243</guid>
+    </item>
+    <item>
+        <title>Zelenski avertizează că Rusia pregătește un posibil atac cu racheta hipersonică de tip Oreșnik asupra Ucrainei</title>
+        <link>https://www.mediafax.ro/externe/zelenski-avertizeaza-ca-rusia-pregateste-un-posibil-atac-cu-racheta-hipersonica-de-tip-oresnik-asupra-ucrainei-23742503</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/zelenski-avertizeaza-ca-rusia-pregateste-un-posibil-atac-cu-racheta-hipersonica-de-tip-oresnik-asupra-ucrainei-23742503</guid>
     </item>
 </channel>
 </rss>
