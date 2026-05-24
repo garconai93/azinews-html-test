@@ -5,38 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 24 May 2026 14:51:23 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:40:41 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Nicușor Dan, după succesul filmului regizorului Cristian Mungiu la Cannes 2026: Filmul românesc contemporan este o carte de vizită excelentă pentru Ro</title>
-        <link>https://www.mediafax.ro/cultura-media/nicusor-dan-dupa-succesul-filmului-regizorului-cristian-mungiu-la-cannes-2026-filmul-romanesc-contemporan-este-o-carte-de-vizita-excelenta-pentru-romania-23742717</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/nicusor-dan-dupa-succesul-filmului-regizorului-cristian-mungiu-la-cannes-2026-filmul-romanesc-contemporan-este-o-carte-de-vizita-excelenta-pentru-romania-23742717</guid>
-    </item>
-    <item>
-        <title>Kievul solicită mai mult sprijin după atacul rusesc ce a provocat daune minore sediului Ministerului de Externe</title>
-        <link>https://www.g4media.ro/kievul-solicita-mai-mult-sprijin-dupa-atacul-rusesc-ce-a-provocat-daune-minore-sediului-ministerului-de-externe.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/kievul-solicita-mai-mult-sprijin-dupa-atacul-rusesc-ce-a-provocat-daune-minore-sediului-ministerului-de-externe.html</guid>
-    </item>
-    <item>
-        <title>Skincare de vară: ce cremă pui dimineața, ce pui seara și cum scapi de senzația de piele lipicioasă</title>
-        <link>https://www.g4media.ro/skincare-de-vara-ce-crema-pui-dimineata-ce-pui-seara-si-cum-scapi-de-senzatia-de-piele-lipicioasa.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/skincare-de-vara-ce-crema-pui-dimineata-ce-pui-seara-si-cum-scapi-de-senzatia-de-piele-lipicioasa.html</guid>
-    </item>
-    <item>
-        <title>Tanczos Barna nu crede în alegeri anticipate: „Rămân doar o soluție teoretică”</title>
-        <link>https://adevarul.ro/politica/tanczos-barna-nu-crede-in-alegeri-anticipate-2531869.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/tanczos-barna-nu-crede-in-alegeri-anticipate-2531869.html</guid>
-    </item>
-    <item>
-        <title>Ce trebuie să știi înainte să cumperi parfum din Paris, potrivit experților francezi</title>
-        <link>https://www.g4media.ro/ce-trebuie-sa-stii-inainte-sa-cumperi-parfum-din-paris-potrivit-expertilor-francezi.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ce-trebuie-sa-stii-inainte-sa-cumperi-parfum-din-paris-potrivit-expertilor-francezi.html</guid>
-    </item>
     <item>
         <title>Vicepremierul Tánczos Barna: Nu ne mai permitem salarii la stat peste cele din privat / „Nu există altă cale” / ”Trebuie o ponderare în tot ce înseamn</title>
         <link>https://www.g4media.ro/vicepremierul-tanczos-barna-nu-ne-mai-permitem-salarii-la-stat-peste-cele-din-privat-nu-exista-alta-cale-trebuie-o-ponderare-in-tot-ce-inseamna-majorari-salariale-spor.html</link>
@@ -44,118 +14,28 @@
         <guid isPermaLink="true">https://www.g4media.ro/vicepremierul-tanczos-barna-nu-ne-mai-permitem-salarii-la-stat-peste-cele-din-privat-nu-exista-alta-cale-trebuie-o-ponderare-in-tot-ce-inseamna-majorari-salariale-spor.html</guid>
     </item>
     <item>
-        <title>Rusia a bombardat intens Kievul: Cel puţin un mort şi peste 20 de răniţi</title>
-        <link>https://www.europafm.ro/rusia-a-bombardat-intens-kievul-cel-putin-un-mort-si-peste-20-de-raniti/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/rusia-a-bombardat-intens-kievul-cel-putin-un-mort-si-peste-20-de-raniti/</guid>
-    </item>
-    <item>
-        <title>Premieră pentru exporturile românești: țara noastră livrează ovine cu avioane cargo către Algeria / Întreg necesarul pentru 2026 va veni din țara noas</title>
-        <link>https://www.g4media.ro/premiera-pentru-exporturile-romanesti-tara-noastra-livreaza-ovine-cu-avioane-cargo-catre-algeria-intreg-necesarul-pentru-2026-va-veni-din-tara-noastra.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/premiera-pentru-exporturile-romanesti-tara-noastra-livreaza-ovine-cu-avioane-cargo-catre-algeria-intreg-necesarul-pentru-2026-va-veni-din-tara-noastra.html</guid>
-    </item>
-    <item>
-        <title>Reacții în lumea politică după victoria lui Cristian Mungiu la Cannes. Bolojan: „Ne bucurăm să vedem un cineast român apreciat la cel mai înalt nivel”</title>
-        <link>https://adevarul.ro/politica/reactii-in-lumea-politica-dupa-victoria-lui-2531854.html</link>
+        <title>Hagi a apelat la omul Craiovei! Convocare de urgență la națională, înaintea amicalelor cu Georgia și Țara Galilor</title>
+        <link>https://adevarul.ro/sport/hagi-a-apelat-la-omul-craiovei-convocare-de-2531912.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/reactii-in-lumea-politica-dupa-victoria-lui-2531854.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/sport/hagi-a-apelat-la-omul-craiovei-convocare-de-2531912.html</guid>
     </item>
     <item>
-        <title>Proteste masive în centrul Madridului. Motivul real al îngrijorării spaniolilor</title>
-        <link>https://adevarul.ro/stiri-externe/europa/proteste-masive-in-centrul-madridului-motivul-2531897.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/proteste-masive-in-centrul-madridului-motivul-2531897.html</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan, după Palme d’Or-ul câștigat de Mungiu la Cannes: „Filmul românesc contemporan este o carte de vizită excelentă pentru România”</title>
-        <link>https://adevarul.ro/politica/nicusor-dan-dupa-palme-dor-ul-castigat-de-mungiu-2531870.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/nicusor-dan-dupa-palme-dor-ul-castigat-de-mungiu-2531870.html</guid>
-    </item>
-    <item>
-        <title>Maia Sandu, felicitări pentru Cristian Mungiu. Regizorul român are rădăcini în Republica Moldova</title>
-        <link>https://adevarul.ro/stiri-externe/republica-moldova/maia-sandu-felicitari-pentru-cristian-mungiu-2531900.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/maia-sandu-felicitari-pentru-cristian-mungiu-2531900.html</guid>
-    </item>
-    <item>
-        <title>Kostyuk, victorie la Roland Garros, dar gândurile îi sunt la Ucraina după atacul Rusiei: La 100 de metri de casa părinților mei, o rachetă a distrus o</title>
-        <link>https://www.mediafax.ro/sport/kostyuk-victorie-la-roland-garros-dar-gandurile-ii-sunt-la-ucraina-dupa-atacul-rusiei-la-100-de-metri-de-casa-parintilor-mei-o-racheta-a-distrus-o-cladire-23742723</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/kostyuk-victorie-la-roland-garros-dar-gandurile-ii-sunt-la-ucraina-dupa-atacul-rusiei-la-100-de-metri-de-casa-parintilor-mei-o-racheta-a-distrus-o-cladire-23742723</guid>
-    </item>
-    <item>
-        <title>Polițist din Galați, atacat cu spray lacrimogen de un adolescent. Ce l-a făcut pe tânăr să recurgă la gestul violent</title>
-        <link>https://www.digi24.ro/regional/digi24-galati/politist-din-galati-atacat-cu-spray-lacrimogen-de-un-adolescent-ce-l-a-facut-pe-tanar-sa-recurga-la-gestul-violent-3783881</link>
+        <title>„Adios”: Donald Trump a distribuit o imagine AI care evocă un atac al SUA asupra Iranului</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/adios-donald-trump-a-distribuit-o-imagine-ai-care-evoca-un-atac-al-sua-asupra-iranului-3783909</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/regional/digi24-galati/politist-din-galati-atacat-cu-spray-lacrimogen-de-un-adolescent-ce-l-a-facut-pe-tanar-sa-recurga-la-gestul-violent-3783881</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/adios-donald-trump-a-distribuit-o-imagine-ai-care-evoca-un-atac-al-sua-asupra-iranului-3783909</guid>
     </item>
     <item>
-        <title>„E timpul să insistăm, nu să ne retragem”. Apelul Kievului către aliați, după atacul masiv cu rachete și drone rusești</title>
-        <link>https://www.digi24.ro/stiri/externe/e-timpul-sa-insistam-nu-sa-ne-retragem-apelul-kievului-catre-aliati-dupa-atacul-masiv-cu-rachete-si-drone-rusesti-3783709</link>
+        <title>România a trimis peste 4.000 de oi în Algeria cu avioane cargo. Țara africană își asigură necesarul exclusiv de pe piața românească</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/romania-a-trimis-peste-4-000-de-oi-in-algeria-cu-avioane-cargo-tara-africana-isi-asigura-necesarul-exclusiv-de-pe-piata-romaneasca-3783775</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/e-timpul-sa-insistam-nu-sa-ne-retragem-apelul-kievului-catre-aliati-dupa-atacul-masiv-cu-rachete-si-drone-rusesti-3783709</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/romania-a-trimis-peste-4-000-de-oi-in-algeria-cu-avioane-cargo-tara-africana-isi-asigura-necesarul-exclusiv-de-pe-piata-romaneasca-3783775</guid>
     </item>
     <item>
-        <title>Vicepremierul Tánczos Barna este optimist că Programul SAFE poate fi aprobat săptămâna viitoare în Parlament, dacă există acord politic</title>
-        <link>https://adevarul.ro/politica/vicepremierul-tanczos-barna-este-optimist-ca-2531889.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/vicepremierul-tanczos-barna-este-optimist-ca-2531889.html</guid>
-    </item>
-    <item>
-        <title>Guardiola: Viitorul antrenor al lui Manchester City nu trebuie să mă copieze</title>
-        <link>https://www.mediafax.ro/sport/guardiola-viitorul-antrenor-al-lui-manchester-city-nu-trebuie-sa-ma-copieze-23742719</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/guardiola-viitorul-antrenor-al-lui-manchester-city-nu-trebuie-sa-ma-copieze-23742719</guid>
-    </item>
-    <item>
-        <title>Dublă amendă pentru Aston Martin după calificările F1 din Canada</title>
-        <link>https://www.g4media.ro/dubla-amenda-pentru-aston-martin-dupa-calificarile-f1-din-canada.html</link>
+        <title>Generația Z evită magazinele fizice și preferă punctele de ridicare pentru comenzile online, arată un nou raport despre obiceiurile de consum</title>
+        <link>https://www.g4media.ro/generatia-z-evita-magazinele-fizice-si-prefera-punctele-de-ridicare-pentru-comenzile-online-arata-un-nou-raport-despre-obiceiurile-de-consum.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/dubla-amenda-pentru-aston-martin-dupa-calificarile-f1-din-canada.html</guid>
-    </item>
-    <item>
-        <title>Regizorul Tudor Giurgiu: Premiul de la Cannes pentru filmul ”Fjord” îl consacrǎ definitiv pe Cristian Mungiu drept cel mai important și influent cinea</title>
-        <link>https://www.g4media.ro/regizorul-tudor-giurgiu-premiul-de-la-cannes-pentru-filmul-fjord-il-consacra-definitiv-pe-cristian-mungiu-drept-cel-mai-important-si-influent-cineast-roman-din-toate-timpurile-guv.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/regizorul-tudor-giurgiu-premiul-de-la-cannes-pentru-filmul-fjord-il-consacra-definitiv-pe-cristian-mungiu-drept-cel-mai-important-si-influent-cineast-roman-din-toate-timpurile-guv.html</guid>
-    </item>
-    <item>
-        <title>Poliția turcă, mobilizată pentru evacuarea din sediu a conducerii principalului partid de opoziție</title>
-        <link>https://www.mediafax.ro/externe/politia-turca-mobilizata-pentru-evacuarea-din-sediu-a-conducerii-principalului-partid-de-opozitie-23742704</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/politia-turca-mobilizata-pentru-evacuarea-din-sediu-a-conducerii-principalului-partid-de-opozitie-23742704</guid>
-    </item>
-    <item>
-        <title>VIDEO: Sezon excelent pentru Ionuț Radu – desemnat cel mai bun jucător al stagiunii la Celta Vigo</title>
-        <link>https://www.g4media.ro/video-sezon-excelent-pentru-ionut-radu-desemnat-cel-mai-bun-jucator-al-stagiunii-la-celta-vigo.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-sezon-excelent-pentru-ionut-radu-desemnat-cel-mai-bun-jucator-al-stagiunii-la-celta-vigo.html</guid>
-    </item>
-    <item>
-        <title>Pisicile ar putea ajuta la descoperirea unor noi tratamente împotriva cancerului</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/pisicile-ar-putea-ajuta-la-descoperirea-unor-noi-tratamente-impotriva-cancerului-23742761</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/pisicile-ar-putea-ajuta-la-descoperirea-unor-noi-tratamente-impotriva-cancerului-23742761</guid>
-    </item>
-    <item>
-        <title>Medvedev spune că folosirea rachetei Oreșnik în Ucraina vine ca răzbunare pentru atacul ucrainean de la căminul studențesc din Lugansk</title>
-        <link>https://adevarul.ro/stiri-externe/europa/medvedev-spune-ca-folosirea-rachetei-oresnik-in-2531852.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/medvedev-spune-ca-folosirea-rachetei-oresnik-in-2531852.html</guid>
-    </item>
-    <item>
-        <title>Urs filmat într-un hotel din Poiana Brașov / „La 112 i s-a spus că nu este o urgență”</title>
-        <link>https://www.g4media.ro/urs-filmat-intr-un-hotel-din-poiana-brasov-la-112-i-s-a-spus-ca-nu-este-o-urgenta.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/urs-filmat-intr-un-hotel-din-poiana-brasov-la-112-i-s-a-spus-ca-nu-este-o-urgenta.html</guid>
-    </item>
-    <item>
-        <title>Atacul furibund al lui Putin asupra Kievului, semn al disperării Kremlinului. Clădirea MAE ucrainean, lovită pentru prima dată de la Al Doilea Război </title>
-        <link>https://adevarul.ro/stiri-externe/europa/atacul-furibund-al-lui-putin-asupra-kievului-semn-2531851.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/atacul-furibund-al-lui-putin-asupra-kievului-semn-2531851.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/generatia-z-evita-magazinele-fizice-si-prefera-punctele-de-ridicare-pentru-comenzile-online-arata-un-nou-raport-despre-obiceiurile-de-consum.html</guid>
     </item>
     <item>
         <title>Nicușor Dan cere mai multă implicare din partea statului, după noul Palme d’Or al lui Mungiu: „Administrația trebuie să facă mai mult”</title>
@@ -164,82 +44,34 @@
         <guid isPermaLink="true">https://www.digi24.ro/magazin/nicusor-dan-cere-mai-multa-implicare-din-partea-statului-dupa-noul-palme-dor-al-lui-mungiu-administratia-trebuie-sa-faca-mai-mult-3783835</guid>
     </item>
     <item>
-        <title>De la „no-go zone” la atracție globală: Cum au transformat rețelele sociale și turismul de experiență favelele din Rio de Janeiro în destinații magnet</title>
-        <link>https://www.g4media.ro/de-la-no-go-zone-la-atractie-globala-cum-au-transformat-retelele-sociale-si-turismul-de-experienta-favelele-din-rio-de-janeiro-in-destinatii-magnet-pentru-straini.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/de-la-no-go-zone-la-atractie-globala-cum-au-transformat-retelele-sociale-si-turismul-de-experienta-favelele-din-rio-de-janeiro-in-destinatii-magnet-pentru-straini.html</guid>
-    </item>
-    <item>
-        <title>Fiul cel mare al președintelui Donald Trump s-a căsătorit cu Bettina Anderson în Bahamas. Președintele SUA a lipsit de la eveniment</title>
-        <link>https://adevarul.ro/stiri-externe/sua/fiul-cel-mare-al-presedintelui-donald-trump-s-a-2531881.html</link>
+        <title>Blocada impusă de SUA porturilor iraniene din strâmtoarea Ormuz rămâne în vigoare, anunță Donald Trump. Ce spune despre semnarea acordului</title>
+        <link>https://adevarul.ro/stiri-externe/sua/blocada-impusa-de-sua-porturilor-iraniene-din-2531902.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/fiul-cel-mare-al-presedintelui-donald-trump-s-a-2531881.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/blocada-impusa-de-sua-porturilor-iraniene-din-2531902.html</guid>
     </item>
     <item>
-        <title>Bunia, epicentrul Ebola în RDC / ”Profund ataşată tradiţiilor şi religiei, o parte a populaţiei crede că totul este o invenţie” / Negare, conflict şi </title>
-        <link>https://www.g4media.ro/bunia-epicentrul-ebola-in-rdc-profund-atasata-traditiilor-si-religiei-o-parte-a-populatiei-crede-ca-totul-este-o-inventie-negare-conflict-si-lipsa-de-resurse-medicale.html</link>
+        <title>Oraș de basm desemnat cea mai ieftină destinație din Europa. Bere la 2 euro</title>
+        <link>https://www.mediafax.ro/turism/oras-de-basm-desemnat-cea-mai-ieftina-destinatie-din-europa-bere-la-2-euro-23742710</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/turism/oras-de-basm-desemnat-cea-mai-ieftina-destinatie-din-europa-bere-la-2-euro-23742710</guid>
+    </item>
+    <item>
+        <title>De ce mersul pe jos în oraș e cel mai subestimat obicei de sănătate</title>
+        <link>https://www.g4media.ro/de-ce-mersul-pe-jos-in-oras-e-cel-mai-subestimat-obicei-de-sanatate.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/bunia-epicentrul-ebola-in-rdc-profund-atasata-traditiilor-si-religiei-o-parte-a-populatiei-crede-ca-totul-este-o-inventie-negare-conflict-si-lipsa-de-resurse-medicale.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/de-ce-mersul-pe-jos-in-oras-e-cel-mai-subestimat-obicei-de-sanatate.html</guid>
     </item>
     <item>
-        <title>Lacul misterios din Antarctica unde apa nu îngheață nici la -50°C, se face sirop și ar putea ascunde secretul apei de pe Marte</title>
-        <link>https://www.libertatea.ro/stiri/lacul-don-juan-antarctica-nu-ingheata-minus-50-grade-sirop-nasa-secret-apa-marte-5751896</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/lacul-don-juan-antarctica-nu-ingheata-minus-50-grade-sirop-nasa-secret-apa-marte-5751896</guid>
-    </item>
-    <item>
-        <title>Fetiţă de 10 ani transportată de urgență la spital, după ce a fost accidentată de o persoană care se deplasa cu trotineta</title>
-        <link>https://www.digi24.ro/stiri/actualitate/fetita-de-10-ani-transportata-de-urgenta-la-spital-dupa-ce-a-fost-accidentata-de-o-persoana-care-se-deplasa-cu-trotineta-3783945</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/fetita-de-10-ani-transportata-de-urgenta-la-spital-dupa-ce-a-fost-accidentata-de-o-persoana-care-se-deplasa-cu-trotineta-3783945</guid>
-    </item>
-    <item>
-        <title>Maia Sandu îl felicită pe Cristian Mungiu pentru al doilea său trofeu Palme d&apos;Or la Cannes: „E o mare bucurie”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/maia-sandu-il-felicita-pe-cristian-mungiu-pentru-al-doilea-sau-trofeu-palme-dor-la-cannes-e-o-mare-bucurie-3783939</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/maia-sandu-il-felicita-pe-cristian-mungiu-pentru-al-doilea-sau-trofeu-palme-dor-la-cannes-e-o-mare-bucurie-3783939</guid>
-    </item>
-    <item>
-        <title>Ministerul Economiei schimbă regulile pentru ghizii turistici, după 25 de ani: anunțul lui Irineu Darău</title>
-        <link>https://www.digi24.ro/stiri/ministerul-economiei-schimba-regulile-pentru-ghizii-turistici-dupa-25-de-ani-anuntul-lui-irineu-darau-3783743</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/ministerul-economiei-schimba-regulile-pentru-ghizii-turistici-dupa-25-de-ani-anuntul-lui-irineu-darau-3783743</guid>
-    </item>
-    <item>
-        <title>Proteste la Belgrad: 23 de persoane au fost reținute. Mai mulți manifestanți au fost răniți</title>
-        <link>https://www.digi24.ro/stiri/externe/proteste-la-belgrad-23-de-persoane-au-fost-retinute-mai-multi-manifestanti-au-fost-raniti-3783771</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/proteste-la-belgrad-23-de-persoane-au-fost-retinute-mai-multi-manifestanti-au-fost-raniti-3783771</guid>
-    </item>
-    <item>
-        <title>Ilie Bolojan, felicitări pentru Cristian Mungiu, premiat la Cannes: Mulţumim pentru imaginea pe care o duce mai departe despre România</title>
-        <link>https://www.digi24.ro/magazin/timp-liber/film/ilie-bolojan-felicitari-pentru-cristian-mungiu-premiat-la-cannes-multumim-pentru-imaginea-pe-care-o-duce-mai-departe-despre-romania-3783717</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/film/ilie-bolojan-felicitari-pentru-cristian-mungiu-premiat-la-cannes-multumim-pentru-imaginea-pe-care-o-duce-mai-departe-despre-romania-3783717</guid>
-    </item>
-    <item>
-        <title>Marco Rubio, despre războiul SUA-Iran: „E posibil ca lumea să primească veşti bune” în următoarele ore. Ce spune Teheranul despre Ormuz</title>
-        <link>https://www.digi24.ro/stiri/externe/marco-rubio-despre-razboiul-sua-iran-e-posibil-ca-lumea-sa-primeasca-vesti-bune-in-urmatoarele-ore-ce-spune-teheranul-despre-ormuz-3783705</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/marco-rubio-despre-razboiul-sua-iran-e-posibil-ca-lumea-sa-primeasca-vesti-bune-in-urmatoarele-ore-ce-spune-teheranul-despre-ormuz-3783705</guid>
-    </item>
-    <item>
-        <title>Un agent de pază cu salariu de 2.000 de lei câștigă în instanță 110.000 lei de la patronul firmei / Societatea nu i-a plătit orele lucrate noaptea și </title>
-        <link>https://www.g4media.ro/un-agent-de-paza-cu-salariu-de-2-000-de-lei-castiga-in-instanta-110-000-lei-de-la-patronul-firmei-societatea-nu-i-a-platit-orele-lucrate-noapte-si-in-weekend.html</link>
+        <title>Maia Sandu îl felicită pe Cristian Mungiu pentru câștigarea celui de-al doilea premiu Palme d’Or / Menționează că are ”rădăcini în Republica Moldova” </title>
+        <link>https://www.g4media.ro/maia-sandu-il-felicita-pe-cristian-mungiu-pentru-castigarea-celui-de-al-doilea-premiu-palme-dor-mentioneaza-ca-are-radacini-in-republica-moldova-o-bunica-a-regizorului-e.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/un-agent-de-paza-cu-salariu-de-2-000-de-lei-castiga-in-instanta-110-000-lei-de-la-patronul-firmei-societatea-nu-i-a-platit-orele-lucrate-noapte-si-in-weekend.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/maia-sandu-il-felicita-pe-cristian-mungiu-pentru-castigarea-celui-de-al-doilea-premiu-palme-dor-mentioneaza-ca-are-radacini-in-republica-moldova-o-bunica-a-regizorului-e.html</guid>
     </item>
     <item>
-        <title>Nutriția și stilul de viață pentru fertilitatea masculină: ce influențează cu adevărat calitatea spermatozoizilor / Explicațiile nutriționistului Tani</title>
-        <link>https://www.g4media.ro/nutritia-si-stilul-de-viata-pentru-fertilitatea-masculina.html</link>
+        <title>VIDEO Imaginile distribuite online despre concertul lui Marx Korzh de pe Arena Națională sunt false, anunță MAI / Concertul s-a desfășurat „în condiți</title>
+        <link>https://www.g4media.ro/video-imaginile-distribuite-online-despre-concertul-lui-marx-korzh-de-pe-arena-nationala-sunt-false-anunta-mai-concertul-s-a-desfasurat-in-conditii-normale.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/nutritia-si-stilul-de-viata-pentru-fertilitatea-masculina.html</guid>
-    </item>
-    <item>
-        <title>Mihai Dimian, pus de PNL ministru la Educație, măsurat în sondaje de PSD pentru Primăria Suceava</title>
-        <link>https://adevarul.ro/politica/mihai-dimian-pus-de-pnl-ministru-la-educatie-2531872.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/mihai-dimian-pus-de-pnl-ministru-la-educatie-2531872.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/video-imaginile-distribuite-online-despre-concertul-lui-marx-korzh-de-pe-arena-nationala-sunt-false-anunta-mai-concertul-s-a-desfasurat-in-conditii-normale.html</guid>
     </item>
     <item>
         <title>Peste 10.500 de copii au fost dați dispăruți în ultimul an în România. Salvați Copiii: „Pentru un copil, fuga este un strigăt de ajutor”</title>
@@ -248,16 +80,28 @@
         <guid isPermaLink="true">https://www.mediafax.ro/social/peste-10-500-de-copii-au-fost-dati-disparuti-in-ultimul-an-in-romania-salvati-copiii-pentru-un-copil-fuga-este-un-strigat-de-ajutor-23742784</guid>
     </item>
     <item>
-        <title>Renașterea Cetății Rakoczi: Fostul punct vamal dintre Moldova și Transilvania a fost restaurat de CNI</title>
-        <link>https://www.libertatea.ro/stiri/cetate-rakoczi-bacau-restaurare-cni-fost-punct-vamal-moldova-transilvania-5751905</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cetate-rakoczi-bacau-restaurare-cni-fost-punct-vamal-moldova-transilvania-5751905</guid>
+        <title>Insula comunistă care sfidează SUA de 70 de ani e pe cale să aibă soarta Venezuelei. „E ultima etapă a schimbării de regim”</title>
+        <link>https://adevarul.ro/stiri-externe/insula-comunista-care-sfideaza-sua-de-70-de-ani-e-2531759.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/insula-comunista-care-sfideaza-sua-de-70-de-ani-e-2531759.html</guid>
     </item>
     <item>
-        <title>Interzis la șlapi. Locurile din Europa în care primești amenzi usturătoare</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/interzis-la-slapi-locurile-din-europa-in-care-2531875.html</link>
+        <title>Sportivii din Rusia și Belarus pot concura în competițiile europene, după ce Federația Europeană de Gimnastică a ridicat sancțiunile</title>
+        <link>https://www.digi24.ro/stiri/sport/alte-sporturi/sportivii-din-rusia-si-belarus-pot-concura-in-competitiile-europene-dupa-ce-federatia-europeana-de-gimnastica-a-ridicat-sanctiunile-3783815</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/alte-sporturi/sportivii-din-rusia-si-belarus-pot-concura-in-competitiile-europene-dupa-ce-federatia-europeana-de-gimnastica-a-ridicat-sanctiunile-3783815</guid>
+    </item>
+    <item>
+        <title>„Carmen” la Opera Națională Greacă, în montarea istorică originală</title>
+        <link>https://adevarul.ro/blogurile-adevarul/carmen-la-opera-nationala-greaca-in-montarea-2531863.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/interzis-la-slapi-locurile-din-europa-in-care-2531875.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/carmen-la-opera-nationala-greaca-in-montarea-2531863.html</guid>
+    </item>
+    <item>
+        <title>Pisicile ar putea ajuta la descoperirea unor noi tratamente împotriva cancerului / „Cancerul la pisici era foarte puțin înțeles până acum”</title>
+        <link>https://www.g4media.ro/pisicile-ar-putea-ajuta-la-descoperirea-unor-noi-tratamente-impotriva-cancerului-cancerul-la-pisici-era-foarte-putin-inteles-pana-acum.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/pisicile-ar-putea-ajuta-la-descoperirea-unor-noi-tratamente-impotriva-cancerului-cancerul-la-pisici-era-foarte-putin-inteles-pana-acum.html</guid>
     </item>
     <item>
         <title>„Au avut mare noroc”. Doi turiști din Capitală, salvați după ce au căzut 100 de metri într-o râpă din Masivul Caraiman</title>
@@ -266,94 +110,16 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/au-avut-mare-noroc-doi-turisti-din-capitala-salvati-dupa-ce-au-cazut-100-de-metri-intr-o-rapa-din-masivul-caraiman-3783891</guid>
     </item>
     <item>
-        <title>Thuma, atac la Bolojan: „Liderii liberali care au construit România știau că un loc se ocupă cât trebuie, nu cât se poate”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/thuma-atac-la-bolojan-liderii-liberali-care-au-construit-romania-stiau-ca-un-loc-se-ocupa-cat-trebuie-nu-cat-se-poate-3783833</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/thuma-atac-la-bolojan-liderii-liberali-care-au-construit-romania-stiau-ca-un-loc-se-ocupa-cat-trebuie-nu-cat-se-poate-3783833</guid>
-    </item>
-    <item>
-        <title>Ce ar face UDMR dacă un alt partid i-ar cere schimbarea președintelui formațiunii. Răspunsul lui Tanczos Barna</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ce-ar-face-udmr-daca-un-alt-partid-i-ar-cere-schimbarea-presedintelui-formatiunii-raspunsul-lui-tanczos-barna-3783501</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ce-ar-face-udmr-daca-un-alt-partid-i-ar-cere-schimbarea-presedintelui-formatiunii-raspunsul-lui-tanczos-barna-3783501</guid>
-    </item>
-    <item>
-        <title>În doar trei ani, AI-ul a creat noi giganți globali și a schimbat piețele mondiale. Cererea rămâne uriașă</title>
-        <link>https://www.mediafax.ro/tehnologie/in-doar-trei-ani-ai-ul-a-creat-noi-giganti-globali-si-a-schimbat-pietele-mondiale-cererea-ramane-uriasa-23742780</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/in-doar-trei-ani-ai-ul-a-creat-noi-giganti-globali-si-a-schimbat-pietele-mondiale-cererea-ramane-uriasa-23742780</guid>
-    </item>
-    <item>
-        <title>Explicația lui Dmitri Medvedev pentru utilizarea rachetei Oreșnik împotriva Kievului: răspuns la atacurile teroriste asupra copiilor</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/explicatia-lui-dmitri-medvedev-pentru-utilizarea-rachetei-oresnik-impotriva-kievului-raspuns-la-atacurile-teroriste-asupra-copiilor-3783669</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/explicatia-lui-dmitri-medvedev-pentru-utilizarea-rachetei-oresnik-impotriva-kievului-raspuns-la-atacurile-teroriste-asupra-copiilor-3783669</guid>
-    </item>
-    <item>
-        <title>Rusia confirmă folosirea rachetelor balistice și hipersonice în atacul masiv asupra Ucrainei. Proiectilele au ucis civili</title>
-        <link>https://www.g4media.ro/rusia-confirma-folosirea-rachetelor-balistice-si-hipersonice-in-atacul-masiv-asupra-ucrainei-proiectilele-au-ucis-civili.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/rusia-confirma-folosirea-rachetelor-balistice-si-hipersonice-in-atacul-masiv-asupra-ucrainei-proiectilele-au-ucis-civili.html</guid>
-    </item>
-    <item>
-        <title>Cea mai mare umilință suferită de ruși în Asia. Războiul care a schimbat destinul lumii</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/cea-mai-mare-umilinta-suferita-de-rusi-in-asia-2531080.html</link>
+        <title>Mihai Dimian, pus de PNL ministru la Educație, măsurat în sondaje de PSD pentru Primăria Suceava</title>
+        <link>https://adevarul.ro/politica/mihai-dimian-pus-de-pnl-ministru-la-educatie-2531872.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cea-mai-mare-umilinta-suferita-de-rusi-in-asia-2531080.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/mihai-dimian-pus-de-pnl-ministru-la-educatie-2531872.html</guid>
     </item>
     <item>
-        <title>Șase medalii și o mențiune pentru lotul României la Olimpiada Asiatică de Fizică din Coreea de Sud</title>
-        <link>https://www.libertatea.ro/educatie/sase-medalii-si-o-mentiune-pentru-lotul-romaniei-la-olimpiada-asiatica-de-fizica-5751948</link>
+        <title>Un șofer începător de BMW a trăit cu impresia că nu există limită de viteză în localitate și a rămas patru luni fără permis, în Constanța</title>
+        <link>https://www.libertatea.ro/stiri/sofer-incepator-de-bmw-credea-nu-exista-limita-de-viteza-in-localitate-constanta-5751844</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/educatie/sase-medalii-si-o-mentiune-pentru-lotul-romaniei-la-olimpiada-asiatica-de-fizica-5751948</guid>
-    </item>
-    <item>
-        <title>Ilie Bolojan: Am încercat să limităm risipa și să corectăm nedreptăţile. Asta a fost cauza pentru care acest guvern a fost demis</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-am-incercat-sa-limitam-risipa-si-sa-corectam-nedreptatile-asta-a-fost-cauza-pentru-care-acest-guvern-a-fost-demis-3783745</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-am-incercat-sa-limitam-risipa-si-sa-corectam-nedreptatile-asta-a-fost-cauza-pentru-care-acest-guvern-a-fost-demis-3783745</guid>
-    </item>
-    <item>
-        <title>Un zbor din Tenerife spre Birmingham, deviat de urgență după ce pilotul a suferit un infarct. „Luminile clipeau, iar stewardesele căutau un doctor”</title>
-        <link>https://adevarul.ro/stiri-externe/europa/un-zbor-din-tenerife-spre-birmingham-deviat-de-2531886.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/un-zbor-din-tenerife-spre-birmingham-deviat-de-2531886.html</guid>
-    </item>
-    <item>
-        <title>1 Iunie: Cadouri care îi țin pe copii departe de ecrane. Ce câștigă teren în fața jucăriilor clasice</title>
-        <link>https://www.mediafax.ro/life-entertaiment/1-iunie-cadouri-care-ii-tin-pe-copii-departe-de-ecrane-ce-castiga-teren-in-fata-jucariilor-clasice-23742681</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/1-iunie-cadouri-care-ii-tin-pe-copii-departe-de-ecrane-ce-castiga-teren-in-fata-jucariilor-clasice-23742681</guid>
-    </item>
-    <item>
-        <title>Tanczos Barna: „Alegerile anticipate rămân doar o soluție teoretică”. Care este principalul motiv</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/tanczos-barna-alegerile-anticipate-raman-doar-o-solutie-teoretica-care-este-principalul-motiv-3783543</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/tanczos-barna-alegerile-anticipate-raman-doar-o-solutie-teoretica-care-este-principalul-motiv-3783543</guid>
-    </item>
-    <item>
-        <title>Greșeli care pot compromite grădina: plante ale căror flori ofilite nu trebuie îndepărtate</title>
-        <link>https://www.mediafax.ro/life-inedit/greseli-care-pot-compromite-gradina-plante-ale-caror-flori-ofilite-nu-trebuie-indepartate-23742661</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/greseli-care-pot-compromite-gradina-plante-ale-caror-flori-ofilite-nu-trebuie-indepartate-23742661</guid>
-    </item>
-    <item>
-        <title>România, pe ultimul loc în UE la accesul la medicamente inovatoare. Pacienții așteaptă peste trei ani pentru tratamente noi</title>
-        <link>https://adevarul.ro/stiri-interne/sanatate/romania-pe-ultimul-loc-in-ue-la-accesul-la-2531571.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/romania-pe-ultimul-loc-in-ue-la-accesul-la-2531571.html</guid>
-    </item>
-    <item>
-        <title>Bucureștiul pe care nu-l știi: de ce merită să fii turist în propriul oraș cel puțin o dată pe lună</title>
-        <link>https://www.g4media.ro/bucurestiul-pe-care-nu-l-stii-de-ce-merita-sa-fii-turist-in-propriul-oras-cel-putin-o-data-pe-luna.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/bucurestiul-pe-care-nu-l-stii-de-ce-merita-sa-fii-turist-in-propriul-oras-cel-putin-o-data-pe-luna.html</guid>
-    </item>
-    <item>
-        <title>Urme de viață de peste 20.000 de ani, descoperite sub un crater de asteroid</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/urme-de-viata-de-peste-20-000-de-ani-descoperite-sub-un-crater-de-asteroid-23742729</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/urme-de-viata-de-peste-20-000-de-ani-descoperite-sub-un-crater-de-asteroid-23742729</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/sofer-incepator-de-bmw-credea-nu-exista-limita-de-viteza-in-localitate-constanta-5751844</guid>
     </item>
     <item>
         <title>Noi dezvăluiri despre viața ascunsă a cuplului Macron. Brigitte Macron, „foarte geloasă“ pe femeile „prădătoare” din jurul președintelui</title>
@@ -362,10 +128,244 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/noi-dezvaluiri-despre-viata-ascunsa-a-cuplului-2531876.html</guid>
     </item>
     <item>
+        <title>Universitatea Craiova a demarat discuțiile pentru transferul lui Ștefan Târnovanu. Mihai Rotaru confirmă interesul</title>
+        <link>https://adevarul.ro/sport/universitatea-craiova-a-demarat-discutiile-pentru-2531892.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/universitatea-craiova-a-demarat-discutiile-pentru-2531892.html</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan: Am încercat să limităm risipa și să corectăm nedreptăţile. Asta a fost cauza pentru care acest guvern a fost demis</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-am-incercat-sa-limitam-risipa-si-sa-corectam-nedreptatile-asta-a-fost-cauza-pentru-care-acest-guvern-a-fost-demis-3783745</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-am-incercat-sa-limitam-risipa-si-sa-corectam-nedreptatile-asta-a-fost-cauza-pentru-care-acest-guvern-a-fost-demis-3783745</guid>
+    </item>
+    <item>
+        <title>Bolojan susține că PNL are nevoie de o reorganizare: „Să-l deschidem către oamenii valoroși, către oamenii care muncesc în țara asta”</title>
+        <link>https://adevarul.ro/politica/bolojan-sustine-ca-pnl-are-nevoie-de-o-2531901.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/bolojan-sustine-ca-pnl-are-nevoie-de-o-2531901.html</guid>
+    </item>
+    <item>
+        <title>Proteste la Belgrad: 23 de persoane au fost reținute. Mai mulți manifestanți au fost răniți</title>
+        <link>https://www.digi24.ro/stiri/externe/proteste-la-belgrad-23-de-persoane-au-fost-retinute-mai-multi-manifestanti-au-fost-raniti-3783771</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/proteste-la-belgrad-23-de-persoane-au-fost-retinute-mai-multi-manifestanti-au-fost-raniti-3783771</guid>
+    </item>
+    <item>
+        <title>Cireșele din pomii din Europa, puse în pericol de o musculiță / Drosophila suzukii atacă fructele sănătoase</title>
+        <link>https://www.g4media.ro/ciresele-din-pomii-din-europa-puse-in-pericol-de-o-musculita-drosophila-suzukii-ataca-fructele-sanatoase.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ciresele-din-pomii-din-europa-puse-in-pericol-de-o-musculita-drosophila-suzukii-ataca-fructele-sanatoase.html</guid>
+    </item>
+    <item>
+        <title>Bolojan: „Dacă acest guvern a căzut, este pentru că am încercat și în mare parte am reușit să limităm risipa, să corectăm nedreptățile”</title>
+        <link>https://www.g4media.ro/bolojan-daca-acest-guvern-a-cazut-este-pentru-ca-am-incercat-si-in-mare-parte-am-reusit-sa-limitam-risipa-sa-corectam-nedreptatile.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/bolojan-daca-acest-guvern-a-cazut-este-pentru-ca-am-incercat-si-in-mare-parte-am-reusit-sa-limitam-risipa-sa-corectam-nedreptatile.html</guid>
+    </item>
+    <item>
+        <title>Crin Antonescu: ⁠Unde ați fost, Ciucu și Bolojan, când PNL „lingea clanțe” la Cotroceni?</title>
+        <link>https://www.mediafax.ro/politic/crin-antonescu-%e2%81%a0unde-ati-fost-ciucu-si-bolojan-cand-pnl-lingea-clante-la-cotroceni-23742821</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/crin-antonescu-%e2%81%a0unde-ati-fost-ciucu-si-bolojan-cand-pnl-lingea-clante-la-cotroceni-23742821</guid>
+    </item>
+    <item>
+        <title>SUA și Iranul au ajuns la un acord de principiu pentru redeschiderea Strâmtorii Ormuz, spune un oficial SUA</title>
+        <link>https://www.mediafax.ro/externe/sua-si-iranul-au-ajuns-la-un-acord-de-principiu-pentru-redeschiderea-stramtorii-ormuz-spune-un-oficial-sua-23742835</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/sua-si-iranul-au-ajuns-la-un-acord-de-principiu-pentru-redeschiderea-stramtorii-ormuz-spune-un-oficial-sua-23742835</guid>
+    </item>
+    <item>
+        <title>Maia Sandu, felicitări pentru Cristian Mungiu. Regizorul român are rădăcini în Republica Moldova</title>
+        <link>https://adevarul.ro/stiri-externe/republica-moldova/maia-sandu-felicitari-pentru-cristian-mungiu-2531900.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/maia-sandu-felicitari-pentru-cristian-mungiu-2531900.html</guid>
+    </item>
+    <item>
+        <title>Patru vaci au căzut dintr-un camion pe autostrada A7. Șoferii speriați au sunat la 112</title>
+        <link>https://www.libertatea.ro/stiri/4-vaci-au-cazut-din-camion-pe-autostrada-a7-5751922</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/4-vaci-au-cazut-din-camion-pe-autostrada-a7-5751922</guid>
+    </item>
+    <item>
+        <title>Ministerul Economiei schimbă regulile pentru ghizii turistici, după 25 de ani: anunțul lui Irineu Darău</title>
+        <link>https://www.digi24.ro/stiri/ministerul-economiei-schimba-regulile-pentru-ghizii-turistici-dupa-25-de-ani-anuntul-lui-irineu-darau-3783743</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/ministerul-economiei-schimba-regulile-pentru-ghizii-turistici-dupa-25-de-ani-anuntul-lui-irineu-darau-3783743</guid>
+    </item>
+    <item>
+        <title>Lacul misterios din Antarctica unde apa nu îngheață nici la -50°C, se face sirop și ar putea ascunde secretul apei de pe Marte</title>
+        <link>https://www.libertatea.ro/stiri/lacul-don-juan-antarctica-nu-ingheata-minus-50-grade-sirop-nasa-secret-apa-marte-5751896</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/lacul-don-juan-antarctica-nu-ingheata-minus-50-grade-sirop-nasa-secret-apa-marte-5751896</guid>
+    </item>
+    <item>
+        <title>Alertă de călătorie pentru românii care merg în Statele Unite. Avertismentul transmis de MAE</title>
+        <link>https://www.digi24.ro/stiri/alerta-de-calatorie-pentru-romanii-care-merg-in-statele-unite-avertismentul-transmis-de-mae-3783879</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/alerta-de-calatorie-pentru-romanii-care-merg-in-statele-unite-avertismentul-transmis-de-mae-3783879</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan: Nu poţi să modernizezi România cu 15% în Parlament. E nevoie să reorganizăm partidul</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-nu-poti-sa-modernizezi-romania-cu-15-in-parlament-e-nevoie-sa-reorganizam-partidul-3784005</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-nu-poti-sa-modernizezi-romania-cu-15-in-parlament-e-nevoie-sa-reorganizam-partidul-3784005</guid>
+    </item>
+    <item>
+        <title>Ciprian Ciucu: PNL e dispus să meargă în opoziție. Să ne lepădăm de PSD-ismul care ne-a contaminat cu voia noastră</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ciprian-ciucu-pnl-e-dispus-sa-mearga-in-opozitie-sa-ne-lepadam-de-psd-ismul-care-ne-a-contaminat-cu-voia-noastra-3783989</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ciprian-ciucu-pnl-e-dispus-sa-mearga-in-opozitie-sa-ne-lepadam-de-psd-ismul-care-ne-a-contaminat-cu-voia-noastra-3783989</guid>
+    </item>
+    <item>
+        <title>Linia istorică de tramvai Arad-Ghioroc va fi readusă la viață: Investiție de peste 1.000.000 de euro</title>
+        <link>https://www.libertatea.ro/stiri/linia-istorica-tramvai-arad-ghioroc-modernizata-investitie-1-milion-euro-5751898</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/linia-istorica-tramvai-arad-ghioroc-modernizata-investitie-1-milion-euro-5751898</guid>
+    </item>
+    <item>
+        <title>„Nebunia progresează”. Moment de neputință la Kremlin: Putin a fost pus în dificultate în fața ofițerilor săi</title>
+        <link>https://adevarul.ro/stiri-externe/nebunia-progreseaza-moment-de-neputinta-la-2531891.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/nebunia-progreseaza-moment-de-neputinta-la-2531891.html</guid>
+    </item>
+    <item>
+        <title>Tanczos Barna: „Nu vom merge niciodată cu un guvern din care face parte AUR sau e susținut de AUR”</title>
+        <link>https://www.mediafax.ro/stirile-zilei/tanczos-barna-nu-vom-merge-niciodata-cu-un-guvern-din-care-face-parte-aur-sau-e-sustinut-de-aur-23742756</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/tanczos-barna-nu-vom-merge-niciodata-cu-un-guvern-din-care-face-parte-aur-sau-e-sustinut-de-aur-23742756</guid>
+    </item>
+    <item>
+        <title>Pisicile ar putea ajuta la descoperirea unor noi tratamente împotriva cancerului</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/pisicile-ar-putea-ajuta-la-descoperirea-unor-noi-tratamente-impotriva-cancerului-23742761</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/pisicile-ar-putea-ajuta-la-descoperirea-unor-noi-tratamente-impotriva-cancerului-23742761</guid>
+    </item>
+    <item>
+        <title>Urme de viață de peste 20.000 de ani, descoperite sub un crater de asteroid</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/urme-de-viata-de-peste-20-000-de-ani-descoperite-sub-un-crater-de-asteroid-23742729</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/urme-de-viata-de-peste-20-000-de-ani-descoperite-sub-un-crater-de-asteroid-23742729</guid>
+    </item>
+    <item>
+        <title>Un aeroport din Europa le oferă pasagerilor o experiență neobișnuită: artă de muzeu direct în terminal</title>
+        <link>https://www.mediafax.ro/life-inedit/un-aeroport-din-europa-le-ofera-pasagerilor-o-experienta-neobisnuita-arta-de-muzeu-direct-in-terminal-23742805</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/un-aeroport-din-europa-le-ofera-pasagerilor-o-experienta-neobisnuita-arta-de-muzeu-direct-in-terminal-23742805</guid>
+    </item>
+    <item>
+        <title>Fostul județ industrial care mizează pe energie. Investiții uriașe pentru 2.500 MW, la Mintia, Retezat și Paroșeni</title>
+        <link>https://adevarul.ro/stiri-locale/hunedoara/fostul-judet-industrial-care-mizeaza-pe-energie-2531613.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/hunedoara/fostul-judet-industrial-care-mizeaza-pe-energie-2531613.html</guid>
+    </item>
+    <item>
         <title>Vremea se încălzește, dar pentru scurt timp. ANM: „Așteptăm un proces de răcire asociat unui front atmosferic rece”</title>
         <link>https://www.digi24.ro/meteo/vremea-se-incalzeste-dar-pentru-scurt-timp-anm-asteptam-un-proces-de-racire-asociat-unui-front-atmosferic-rece-3783849</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/meteo/vremea-se-incalzeste-dar-pentru-scurt-timp-anm-asteptam-un-proces-de-racire-asociat-unui-front-atmosferic-rece-3783849</guid>
+    </item>
+    <item>
+        <title>Descoperire uluitoare în Germania: Arheologii au găsit un caiet vechi de aproximativ 800 de ani într-o toaletă medievală</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/descoperire-uluitoare-in-germania-arheologii-au-2531874.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/descoperire-uluitoare-in-germania-arheologii-au-2531874.html</guid>
+    </item>
+    <item>
+        <title>Urme de viață de peste 20.000 de ani, descoperite sub un crater de asteroid / Ipoteză: ciocnirile cu asteroizi ar fi creat mici „oaze de oxigen”, favo</title>
+        <link>https://www.g4media.ro/urme-de-viata-de-peste-20-000-de-ani-descoperite-sub-un-crater-de-asteroid-ipoteza-ciocnirile-cu-asteroizi-ar-fi-creat-mici-oaze-de-oxigen-favorizand-dezvoltarea-vietii-microbie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/urme-de-viata-de-peste-20-000-de-ani-descoperite-sub-un-crater-de-asteroid-ipoteza-ciocnirile-cu-asteroizi-ar-fi-creat-mici-oaze-de-oxigen-favorizand-dezvoltarea-vietii-microbie.html</guid>
+    </item>
+    <item>
+        <title>Premieră pentru exporturile românești: țara noastră livrează ovine cu avioane cargo către Algeria / Întreg necesarul pentru 2026 va veni din țara noas</title>
+        <link>https://www.g4media.ro/premiera-pentru-exporturile-romanesti-tara-noastra-livreaza-ovine-cu-avioane-cargo-catre-algeria-intreg-necesarul-pentru-2026-va-veni-din-tara-noastra.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/premiera-pentru-exporturile-romanesti-tara-noastra-livreaza-ovine-cu-avioane-cargo-catre-algeria-intreg-necesarul-pentru-2026-va-veni-din-tara-noastra.html</guid>
+    </item>
+    <item>
+        <title>Polițist din Galați, atacat cu spray lacrimogen de un adolescent. Ce l-a făcut pe tânăr să recurgă la gestul violent</title>
+        <link>https://www.digi24.ro/regional/digi24-galati/politist-din-galati-atacat-cu-spray-lacrimogen-de-un-adolescent-ce-l-a-facut-pe-tanar-sa-recurga-la-gestul-violent-3783881</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/regional/digi24-galati/politist-din-galati-atacat-cu-spray-lacrimogen-de-un-adolescent-ce-l-a-facut-pe-tanar-sa-recurga-la-gestul-violent-3783881</guid>
+    </item>
+    <item>
+        <title>Skincare de vară: ce cremă pui dimineața, ce pui seara și cum scapi de senzația de piele lipicioasă</title>
+        <link>https://www.g4media.ro/skincare-de-vara-ce-crema-pui-dimineata-ce-pui-seara-si-cum-scapi-de-senzatia-de-piele-lipicioasa.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/skincare-de-vara-ce-crema-pui-dimineata-ce-pui-seara-si-cum-scapi-de-senzatia-de-piele-lipicioasa.html</guid>
+    </item>
+    <item>
+        <title>Gisele Pelicot, supraviețuitoarea a sute de violuri puse la cale de soțul său, a anunțat că iubește din nou. „Am cunoscut acest tânăr de 73 de ani”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/gisele-pelicot-supravietuitoarea-a-sute-de-2531906.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/gisele-pelicot-supravietuitoarea-a-sute-de-2531906.html</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan: PNL trebuie reorganizat și deschis către oameni valoroși</title>
+        <link>https://www.mediafax.ro/politic/ilie-bolojan-pnl-trebuie-reorganizat-si-deschis-catre-oameni-valorosi-23742790</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ilie-bolojan-pnl-trebuie-reorganizat-si-deschis-catre-oameni-valorosi-23742790</guid>
+    </item>
+    <item>
+        <title>Cristian Mungiu critică lipsa sprijinului pentru cinematografie din partea statului: „Să dea un pic mai mult înapoi culturii. Noi ne-am făcut partea n</title>
+        <link>https://adevarul.ro/showbiz/film/cristian-mungiu-critica-lipsa-sprijinului-pentru-2531915.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/film/cristian-mungiu-critica-lipsa-sprijinului-pentru-2531915.html</guid>
+    </item>
+    <item>
+        <title>„Survivor România” 24 mai 2026. Una dintre concurente va pleca diseară acasă. O nouă miză va fi pusă la bătaie</title>
+        <link>https://www.libertatea.ro/entertainment/survivor-romania-24-mai-2026-una-dintre-concurente-va-pleca-diseara-acasa-5751779</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/survivor-romania-24-mai-2026-una-dintre-concurente-va-pleca-diseara-acasa-5751779</guid>
+    </item>
+    <item>
+        <title>Bolojan invocă lecțiile lui Ion I.C. Brătianu: „Autoritate, cinste, simplificare și economie”</title>
+        <link>https://www.mediafax.ro/politic/bolojan-invoca-lectiile-lui-ion-i-c-bratianu-autoritate-cinste-simplificare-si-economie-23742775</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/bolojan-invoca-lectiile-lui-ion-i-c-bratianu-autoritate-cinste-simplificare-si-economie-23742775</guid>
+    </item>
+    <item>
+        <title>Povestea fabuloasă a aventurierului Constantin Catemir. A fost mercenar, gardă de corp, ucigaș plătit și domn al Moldovei la bătrânețe</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/povestea-fabuloasa-a-aventurierului-constantin-2531600.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/povestea-fabuloasa-a-aventurierului-constantin-2531600.html</guid>
+    </item>
+    <item>
+        <title>Fiul cel mare al președintelui Donald Trump s-a căsătorit cu Bettina Anderson în Bahamas. Președintele SUA a lipsit de la eveniment</title>
+        <link>https://adevarul.ro/stiri-externe/sua/fiul-cel-mare-al-presedintelui-donald-trump-s-a-2531881.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/fiul-cel-mare-al-presedintelui-donald-trump-s-a-2531881.html</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan, după Palme d’Or-ul câștigat de Mungiu la Cannes: „Filmul românesc contemporan este o carte de vizită excelentă pentru România”</title>
+        <link>https://adevarul.ro/politica/nicusor-dan-dupa-palme-dor-ul-castigat-de-mungiu-2531870.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/nicusor-dan-dupa-palme-dor-ul-castigat-de-mungiu-2531870.html</guid>
+    </item>
+    <item>
+        <title>România, trei medalii de aur la Campionatele Europene de Canotaj pentru Juniori de la Brandenburg</title>
+        <link>https://www.mediafax.ro/sport/romania-trei-medalii-de-aur-la-campionatele-europene-de-canotaj-pentru-juniori-de-la-brandenburg-23742730</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/romania-trei-medalii-de-aur-la-campionatele-europene-de-canotaj-pentru-juniori-de-la-brandenburg-23742730</guid>
+    </item>
+    <item>
+        <title>MAI: Imaginile distribuite online despre concertul lui Max Korzh de pe Arena Națională sunt false</title>
+        <link>https://www.mediafax.ro/social/mai-imaginile-distribuite-online-despre-concertul-lui-marx-korzh-de-pe-arena-nationala-sunt-false-23742791</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/mai-imaginile-distribuite-online-despre-concertul-lui-marx-korzh-de-pe-arena-nationala-sunt-false-23742791</guid>
+    </item>
+    <item>
+        <title>Două persoane au murit după ce un tren de călători a lovit un autoturism la o trecere la nivel cu calea ferată din Oradea</title>
+        <link>https://www.mediafax.ro/social/doua-persoane-au-murit-dupa-ce-un-tren-de-calatori-a-lovit-un-autoturism-la-o-trecere-la-nivel-cu-calea-ferata-din-oradea-23742834</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/doua-persoane-au-murit-dupa-ce-un-tren-de-calatori-a-lovit-un-autoturism-la-o-trecere-la-nivel-cu-calea-ferata-din-oradea-23742834</guid>
+    </item>
+    <item>
+        <title>Peste 10.500 de copii au fost dați dispăruți în ultimul an în România / Cele mai multe cazuri vizează adolescenți între 14 și 18 ani</title>
+        <link>https://www.g4media.ro/peste-10-500-de-copii-au-fost-dati-disparuti-in-ultimul-an-in-romania-cele-mai-multe-cazuri-vizeaza-adolescenti-intre-14-si-18-ani.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/peste-10-500-de-copii-au-fost-dati-disparuti-in-ultimul-an-in-romania-cele-mai-multe-cazuri-vizeaza-adolescenti-intre-14-si-18-ani.html</guid>
     </item>
 </channel>
 </rss>
