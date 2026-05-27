@@ -766,18 +766,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Rac", msg: "Intuiție puternică" },
-            { sign: "Gemeni", msg: "Inspirație creativă" },
-            { sign: "Taur", msg: "Progrese în carieră" },
-            { sign: "Leu", msg: "Succes în afaceri" },
-            { sign: "Pești", msg: "Creativitate artistică" },
-            { sign: "Capricorn", msg: "Obiective clare" },
-            { sign: "Balanță", msg: "Justiție și fair-play" },
-            { sign: "Vărsător", msg: "Comunitate și prietenie" },
-            { sign: "Scorpion", msg: "Descoperiri importante" },
-            { sign: "Fecioară", msg: "Sănătate și bunăstare" },
-            { sign: "Berbec", msg: "Energie maximă, profită de ea" },
             { sign: "Săgetător", msg: "Călătorii benefice" },
+            { sign: "Capricorn", msg: "Disciplină de fier" },
+            { sign: "Pești", msg: "Lume interioară bogată" },
+            { sign: "Berbec", msg: "Zi perfectă pentru inițiative noi" },
+            { sign: "Taur", msg: "Zi de relaxare și reflecție" },
+            { sign: "Fecioară", msg: "Organizare impecabilă" },
+            { sign: "Vărsător", msg: "Comunitate și prietenie" },
+            { sign: "Balanță", msg: "Diplomație excelentă" },
+            { sign: "Leu", msg: "Strălucești în orice situație" },
+            { sign: "Rac", msg: "Intuiție puternică" },
+            { sign: "Scorpion", msg: "Mister și charisma" },
+            { sign: "Gemeni", msg: "Noi cunoștințe valoroase" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
