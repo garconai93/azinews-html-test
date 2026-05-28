@@ -5,241 +5,13 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 27 May 2026 23:03:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 01:24:43 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Iranul susține că 23 de nave au trecut prin Strâmtoarea Ormuz, dar navele țărilor ostile sunt încă blocate</title>
-        <link>https://www.mediafax.ro/externe/iranul-sustine-ca-23-de-nave-au-trecut-prin-stramtoarea-ormuz-dar-navele-tarilor-ostile-sunt-inca-blocate-23744855</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/iranul-sustine-ca-23-de-nave-au-trecut-prin-stramtoarea-ormuz-dar-navele-tarilor-ostile-sunt-inca-blocate-23744855</guid>
-    </item>
-    <item>
-        <title>Europa riscă să devină un focar pentru virusul chikungunya, pe fondul extinderii habitatelor țânțarilor</title>
-        <link>https://www.mediafax.ro/sanatate/europa-risca-sa-devina-un-focar-pentru-virusul-chikungunya-pe-fondul-extinderii-habitatelor-tantarilor-23744810</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/europa-risca-sa-devina-un-focar-pentru-virusul-chikungunya-pe-fondul-extinderii-habitatelor-tantarilor-23744810</guid>
-    </item>
-    <item>
-        <title>Actorul Pierre Deny, cunoscut din serialul „Emily in Paris”, a murit la 69 de ani. Suferea de aceeași boală care l-a răpus, recent, pe Eric Dane</title>
-        <link>https://adevarul.ro/stiri-externe/europa/actorul-pierre-deny-cunoscut-din-serialul-emily-2532753.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/actorul-pierre-deny-cunoscut-din-serialul-emily-2532753.html</guid>
-    </item>
-    <item>
-        <title>Încă opt secții de neonatologie din țară primesc aparatură modernă și mobilier adecvat: s-au triat cereri de la 42 de spitale</title>
-        <link>https://www.libertatea.ro/lifestyle/opt-sectii-neonatologie-din-romania-primesc-aparatura-moderna-mobilier-5756025</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/opt-sectii-neonatologie-din-romania-primesc-aparatura-moderna-mobilier-5756025</guid>
-    </item>
-    <item>
-        <title>Procurorii din Constanța spun că învăţătoarea care a bătut un elev l-a strâns de gât cu mâinile</title>
-        <link>https://www.g4media.ro/procurorii-din-constanta-spun-ca-invatatoarea-care-a-batut-un-elev-l-a-strans-de-gat-cu-mainile.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/procurorii-din-constanta-spun-ca-invatatoarea-care-a-batut-un-elev-l-a-strans-de-gat-cu-mainile.html</guid>
-    </item>
-    <item>
-        <title>Bivolul poreclit Donald Trump a fost grațiat de ministrul de Interne. Animalul vedetă a fost mutat într-un parc zoo</title>
-        <link>https://www.mediafax.ro/life-entertaiment/bivolul-poreclit-donald-trump-a-fost-gratiat-de-ministrul-de-interne-animalul-vedeta-a-fost-mutat-intr-un-parc-zoo-23744825</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/bivolul-poreclit-donald-trump-a-fost-gratiat-de-ministrul-de-interne-animalul-vedeta-a-fost-mutat-intr-un-parc-zoo-23744825</guid>
-    </item>
-    <item>
-        <title>YouTube va eticheta automat videoclipurile generate cu AI. Noile marcaje vor fi mai vizibile pe Shorts și clipurile lungi</title>
-        <link>https://www.mediafax.ro/tehnologie/youtube-va-eticheta-automat-videoclipurile-generate-cu-ai-noile-marcaje-vor-fi-mai-vizibile-pe-shorts-si-clipurile-lungi-23744803</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/youtube-va-eticheta-automat-videoclipurile-generate-cu-ai-noile-marcaje-vor-fi-mai-vizibile-pe-shorts-si-clipurile-lungi-23744803</guid>
-    </item>
-    <item>
-        <title>Directorul RAR îi dă replica lui Ciprian Ciucu și explică de ce instituția a cerut 66.000 de lei Primăriei București pentru date statistice</title>
-        <link>https://www.libertatea.ro/stiri/directorul-rar-ii-da-replica-lui-ciprian-ciucu-5756022</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/directorul-rar-ii-da-replica-lui-ciprian-ciucu-5756022</guid>
-    </item>
-    <item>
-        <title>Sindicaliştii feroviari avertizează asupra riscului unei „crize fără precedent” la CFR SA</title>
-        <link>https://www.g4media.ro/sindicalistii-feroviari-avertizeaza-asupra-riscului-unei-crize-fara-precedent-la-cfr-sa.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/sindicalistii-feroviari-avertizeaza-asupra-riscului-unei-crize-fara-precedent-la-cfr-sa.html</guid>
-    </item>
-    <item>
-        <title>Un bărbat din Aiud a murit după ce a căzut de plafonul unei mașini și s-a lovit la cap</title>
-        <link>https://www.mediafax.ro/social/un-barbat-din-aiud-a-murit-dupa-ce-a-cazut-de-plafonul-unei-masini-si-s-a-lovit-la-cap-23744837</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/un-barbat-din-aiud-a-murit-dupa-ce-a-cazut-de-plafonul-unei-masini-si-s-a-lovit-la-cap-23744837</guid>
-    </item>
-    <item>
-        <title>Cine salvează satele aflate pe cale de dispariție? Spania mizează pe imigrație</title>
-        <link>https://adevarul.ro/stiri-externe/europa/cine-salveaza-satele-aflate-pe-cale-de-disparitie-2532670.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/cine-salveaza-satele-aflate-pe-cale-de-disparitie-2532670.html</guid>
-    </item>
-    <item>
-        <title>Centrul Medical Emerald Timișoara s-a inaugurat oficial. Are medici de elită în cardiologie, neurologie, imagistică performantă și genetică</title>
-        <link>https://www.libertatea.ro/lifestyle/centrul-medical-emerald-timisoara-inaugurat-medici-elita-cardiologie-neurologie-genetica-5756037</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/centrul-medical-emerald-timisoara-inaugurat-medici-elita-cardiologie-neurologie-genetica-5756037</guid>
-    </item>
-    <item>
-        <title>Bruxelles-ul are, în sfârșit, un calendar pentru aderarea Republicii Moldova și Ucrainei la Uniunea Europeană</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/bruxelles-ul-are-in-sfarsit-un-calendar-pentru-aderarea-republicii-moldova-si-ucrainei-la-uniunea-europeana-3788841</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/bruxelles-ul-are-in-sfarsit-un-calendar-pentru-aderarea-republicii-moldova-si-ucrainei-la-uniunea-europeana-3788841</guid>
-    </item>
-    <item>
-        <title>O bunică și doi nepoți, găsiți morți într-un apartament. Anchetatorii iau în calcul o crimă urmată de sinucidere: „Se certau des”</title>
-        <link>https://adevarul.ro/stiri-locale/targu-jiu/o-bunica-si-doi-nepoti-gasiti-morti-intr-un-2532749.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/targu-jiu/o-bunica-si-doi-nepoti-gasiti-morti-intr-un-2532749.html</guid>
-    </item>
-    <item>
-        <title>Povestea incredibilă a unui copil norvegian de 10 ani, abandonat de părinți în India pentru a învăța să supraviețuiască</title>
-        <link>https://www.mediafax.ro/social/povestea-incredibila-a-unui-copil-norvegian-de-10-ani-abandonat-de-parinti-in-india-pentru-a-invata-sa-supravietuiasca-23744798</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/povestea-incredibila-a-unui-copil-norvegian-de-10-ani-abandonat-de-parinti-in-india-pentru-a-invata-sa-supravietuiasca-23744798</guid>
-    </item>
-    <item>
-        <title>Criză diplomatică la Roma. Meloni, în conflict simultan cu Trump și Netanyahu: „Când te comporți ca un chelner, șeful te tratează ca atare”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/criza-diplomatica-la-roma-meloni-in-conflict-2532752.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/criza-diplomatica-la-roma-meloni-in-conflict-2532752.html</guid>
-    </item>
-    <item>
-        <title>Papa Leon l-a citat pe Gandalf din „Stăpânul Inelelor” în prima sa enciclică despre inteligența artificială</title>
-        <link>https://www.digi24.ro/stiri/externe/papa-leon-l-a-citat-pe-gandalf-din-stapanul-inelelor-in-prima-sa-enciclica-despre-inteligenta-artificiala-3788943</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/papa-leon-l-a-citat-pe-gandalf-din-stapanul-inelelor-in-prima-sa-enciclica-despre-inteligenta-artificiala-3788943</guid>
-    </item>
-    <item>
-        <title>Horoscop 28 mai 2026. Racilor le este foarte greu să se retragă din orice situație care îi stresează peste măsură</title>
-        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-28-mai-2026-5754758</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-28-mai-2026-5754758</guid>
-    </item>
-    <item>
-        <title>Tenis. Sorana Cîrstea s-a calificat în turul trei la Roland Garros după o victorie clară</title>
-        <link>https://www.mediafax.ro/sport/tenis-sorana-cirstea-s-a-calificat-in-turul-trei-la-roland-garros-dupa-o-victorie-clara-23744829</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/tenis-sorana-cirstea-s-a-calificat-in-turul-trei-la-roland-garros-dupa-o-victorie-clara-23744829</guid>
-    </item>
-    <item>
-        <title>Triplă crimă în Târgu Jiu: O femeie și doi bărbați au fost găsiți morți în apartamentul în care locuiau</title>
-        <link>https://www.digi24.ro/stiri/actualitate/tripla-crima-in-targu-jiu-o-bunica-si-cei-doi-nepoti-ai-sai-au-fost-gasiti-morti-in-apartamentul-in-care-locuiau-3788903</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/tripla-crima-in-targu-jiu-o-bunica-si-cei-doi-nepoti-ai-sai-au-fost-gasiti-morti-in-apartamentul-in-care-locuiau-3788903</guid>
-    </item>
-    <item>
-        <title>Care e profitul unui restaurant care rulează un milion de lei pe an: „La final se aduc bani de acasă”</title>
-        <link>https://www.libertatea.ro/stiri/profit-restaurant-cifra-afaceri-un-milion-lei-analiza-domneiul-horeca-iasi-5755957</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/profit-restaurant-cifra-afaceri-un-milion-lei-analiza-domneiul-horeca-iasi-5755957</guid>
-    </item>
-    <item>
-        <title>Primăria Sectorului 2 își va înființa și propriul club sportiv / “Oxigen București” își propună să ajungă la 10 mii de copii înscriși / Deocamdată sun</title>
-        <link>https://www.g4media.ro/primaria-sectorului-2-isi-va-infiinta-si-propriul-club-sportiv-oxigen-bucuresti-isi-propuna-sa-ajunga-la-10-mii-de-copii-inscrisi-deocamdata-sunt-5-000-de-copii-cei-inclusi-in-p.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/primaria-sectorului-2-isi-va-infiinta-si-propriul-club-sportiv-oxigen-bucuresti-isi-propuna-sa-ajunga-la-10-mii-de-copii-inscrisi-deocamdata-sunt-5-000-de-copii-cei-inclusi-in-p.html</guid>
-    </item>
-    <item>
-        <title>Ludovic Orban, despre varianta unui premier tehnocrat: „Este o sfidare orice desemnare care nu are legătură cu realitatea politică din Parlament” | VI</title>
-        <link>https://www.europafm.ro/ludovic-orban-despre-varianta-unui-premier-tehnocrat-este-o-sfidare-orice-desemnare-care-nu-are-legatura-cu-realitatea-politica-din-parlament/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ludovic-orban-despre-varianta-unui-premier-tehnocrat-este-o-sfidare-orice-desemnare-care-nu-are-legatura-cu-realitatea-politica-din-parlament/</guid>
-    </item>
-    <item>
-        <title>O turistă a fost reținută și amendată pentru că a vrut să ia acasă nisip și scoici din Sardinia</title>
-        <link>https://www.libertatea.ro/stiri/turista-retinuta-amendata-a-plecat-acasa-nisip-scoici-sardinia-italia-5756057</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/turista-retinuta-amendata-a-plecat-acasa-nisip-scoici-sardinia-italia-5756057</guid>
-    </item>
-    <item>
-        <title>Bivolul „Donald Trump” a scăpat de le sacrificare după ce a devenit vedetă pe rețelel sociale. Unde va fi dus</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/bivolul-donald-trump-a-fost-salvat-de-la-2532734.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/bivolul-donald-trump-a-fost-salvat-de-la-2532734.html</guid>
-    </item>
-    <item>
-        <title>Primarul orașului Cernavodă a fost eliberat din penitenciar  / Liviu Cristian Negoiță a fost achitat și se poate întoarce în funcție / La începutul an</title>
-        <link>https://www.g4media.ro/primarul-orasului-cernavoda-a-fost-eliberat-din-penitenciar-liviu-cristian-negoita-a-fost-achitat-si-se-poate-intoarce-in-functie-la-inceputul-anului-a-fost-condamnat-la-4-ani-de-inchisoare.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/primarul-orasului-cernavoda-a-fost-eliberat-din-penitenciar-liviu-cristian-negoita-a-fost-achitat-si-se-poate-intoarce-in-functie-la-inceputul-anului-a-fost-condamnat-la-4-ani-de-inchisoare.html</guid>
-    </item>
-    <item>
-        <title>Când se va ieftini curentul în România. Ilie Bolojan: „Pentru a ne redresa economic, scăderea preţului energiei electrice este o condiţie de bază”</title>
-        <link>https://adevarul.ro/economie/cand-se-va-ieftini-curentul-in-romania-ilie-2532731.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/cand-se-va-ieftini-curentul-in-romania-ilie-2532731.html</guid>
-    </item>
-    <item>
-        <title>O țară nordică va intra sub umbrela nucleară a Franței: „Am luat decizia ținând cont de situația politicii de securitate din Europa”</title>
-        <link>https://www.mediafax.ro/externe/o-tara-nordica-va-intra-sub-umbrela-nucleara-a-frantei-am-luat-decizia-tinand-cont-de-situatia-politicii-de-securitate-din-europa-23744832</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/o-tara-nordica-va-intra-sub-umbrela-nucleara-a-frantei-am-luat-decizia-tinand-cont-de-situatia-politicii-de-securitate-din-europa-23744832</guid>
-    </item>
-    <item>
-        <title>Greșelile absolut aberante care au schimbat cursul istoriei. Deciziile de neînțeles ale unora dintre cei mai mari lideri</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/greselile-absolut-aberante-care-au-schimbat-cursul-2531375.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/greselile-absolut-aberante-care-au-schimbat-cursul-2531375.html</guid>
-    </item>
     <item>
         <title>Șeful poliției din Minneapolis a demisionat după ce a intervenit într-o anchetă</title>
         <link>https://www.mediafax.ro/externe/seful-politiei-din-minneapolis-a-demisionat-dupa-ce-a-intervenit-intr-o-ancheta-23744849</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/externe/seful-politiei-din-minneapolis-a-demisionat-dupa-ce-a-intervenit-intr-o-ancheta-23744849</guid>
-    </item>
-    <item>
-        <title>YouTube va eticheta automat videoclipurile generate cu AI. Noile marcaje vor fi mai vizibile pe Shorts și clipurile lungi</title>
-        <link>https://www.g4media.ro/youtube-va-eticheta-automat-videoclipurile-generate-cu-ai-noile-marcaje-vor-fi-mai-vizibile-pe-shorts-si-clipurile-lungi.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/youtube-va-eticheta-automat-videoclipurile-generate-cu-ai-noile-marcaje-vor-fi-mai-vizibile-pe-shorts-si-clipurile-lungi.html</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 90. Motivul pentru care Donald Trump nu se grăbește să sfârșească războiul cu Iranul / Dilema uraniului îmbogățit</title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-28-mai-5756111</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-28-mai-5756111</guid>
-    </item>
-    <item>
-        <title>Asistentul personal al lui Matthew Perry, condamnat la trei ani de închisoare în cazul morții actorului</title>
-        <link>https://www.mediafax.ro/externe/asistentul-personal-al-lui-matthew-perry-condamnat-la-trei-ani-de-inchisoare-in-cazul-mortii-actorului-23744847</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/asistentul-personal-al-lui-matthew-perry-condamnat-la-trei-ani-de-inchisoare-in-cazul-mortii-actorului-23744847</guid>
-    </item>
-    <item>
-        <title>Ruptura dintre Meloni, Trump și Netanyahu: Italia schimbă tonul față de SUA și Israel</title>
-        <link>https://www.digi24.ro/stiri/externe/ruptura-dintre-meloni-trump-si-netanyahu-italia-schimba-tonul-fata-de-sua-si-israel-3788881</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ruptura-dintre-meloni-trump-si-netanyahu-italia-schimba-tonul-fata-de-sua-si-israel-3788881</guid>
-    </item>
-    <item>
-        <title>Ciprian Ciucu prezintă nereguli sesizate în cei peste 5 ani ca primar: „Am văzut multe. Aș putea scrie o culegere”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ciprian-ciucu-prezinta-nereguli-sesizate-in-cei-peste-5-ani-ca-primar-am-vazut-multe-as-putea-scrie-o-culegere-3788971</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ciprian-ciucu-prezinta-nereguli-sesizate-in-cei-peste-5-ani-ca-primar-am-vazut-multe-as-putea-scrie-o-culegere-3788971</guid>
-    </item>
-    <item>
-        <title>Crystal Palace scrie istorie: Londonezii au cucerit Conference League / Rayo Vallecano și Rațiu, înfrângere în finală, scor 0-1</title>
-        <link>https://www.g4media.ro/rayo-vallecano-si-ratiu-infrangere-in-finala-conference-league-cu-crystal-palace-scor-0-1.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/rayo-vallecano-si-ratiu-infrangere-in-finala-conference-league-cu-crystal-palace-scor-0-1.html</guid>
-    </item>
-    <item>
-        <title>Ludovic Orban, despre posibila nominalizare a lui Eugen Tomac ca premier: „Președintele e jucător la cacealma, dacă vine cu astfel de soluții. Asta ar</title>
-        <link>https://adevarul.ro/politica/ludovic-orban-despre-posibila-nominalizare-a-lui-2532717.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/ludovic-orban-despre-posibila-nominalizare-a-lui-2532717.html</guid>
-    </item>
-    <item>
-        <title>Trump: „Omanul se va comporta la fel ca toți ceilalți, altfel va trebui să-i aruncăm în aer”</title>
-        <link>https://www.mediafax.ro/externe/trump-omanul-se-va-comporta-la-fel-ca-toti-ceilalti-altfel-va-trebui-sa-i-aruncam-in-aer-23744857</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-omanul-se-va-comporta-la-fel-ca-toti-ceilalti-altfel-va-trebui-sa-i-aruncam-in-aer-23744857</guid>
-    </item>
-    <item>
-        <title>Experiența unei tinere cu avortul medicamentos, subiect de dezbatere pe internet</title>
-        <link>https://adevarul.ro/stiri-interne/societate/experienta-unei-tinere-cu-avortul-medicamentos-2532610.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/experienta-unei-tinere-cu-avortul-medicamentos-2532610.html</guid>
     </item>
     <item>
         <title>A fost achitat la ÎCCJ astăzi și eliberat „de îndată”. Fapta nu este prevăzută de legea penală</title>
@@ -248,88 +20,40 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/liviu-cristian-negoita-primar-navodari-achitat-la-iccj-si-eliberat-de-indata-5756024</guid>
     </item>
     <item>
-        <title>Horoscop joi, 28 mai. O zodie învață din greșelile trecutului, alt nativ profită de oportunități ce îi ies în cale</title>
-        <link>https://adevarul.ro/stil-de-viata/horoscop/horoscop-joi-28-mai-o-zodie-invata-din-greselile-2532729.html</link>
+        <title>Livetext Război în Iran, ziua 90. Motivul pentru care Donald Trump nu se grăbește să sfârșească războiul cu Iranul / Dilema uraniului îmbogățit</title>
+        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-28-mai-5756111</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-28-mai-5756111</guid>
+    </item>
+    <item>
+        <title>Greșelile absolut aberante care au schimbat cursul istoriei. Deciziile de neînțeles ale unora dintre cei mai mari lideri</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/greselile-absolut-aberante-care-au-schimbat-cursul-2531375.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/horoscop/horoscop-joi-28-mai-o-zodie-invata-din-greselile-2532729.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/greselile-absolut-aberante-care-au-schimbat-cursul-2531375.html</guid>
     </item>
     <item>
-        <title>Un petrolier rus care urma să ajungă în Cuba și-a schimbat cursul după mai multe săptămâni petrecute pe mare</title>
-        <link>https://www.digi24.ro/stiri/externe/un-petrolier-rus-care-urma-sa-ajunga-in-cuba-si-a-schimbat-cursul-dupa-mai-multe-saptamani-petrecute-pe-mare-3788873</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/un-petrolier-rus-care-urma-sa-ajunga-in-cuba-si-a-schimbat-cursul-dupa-mai-multe-saptamani-petrecute-pe-mare-3788873</guid>
-    </item>
-    <item>
-        <title>Arad: tânăr de 19 ani, trimis în judecată după ce ar fi răspândit afișe cu fotografia lui Corneliu Zelea Codreanu | AUDIO</title>
-        <link>https://www.europafm.ro/tanar-19-ani-arad-judecat-propaganda-fascista-legionara-ineu/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/tanar-19-ani-arad-judecat-propaganda-fascista-legionara-ineu/</guid>
-    </item>
-    <item>
-        <title>Realitatea Plus, pusă la colț de CNA: Postul, obligat să difuzeze doar textul sancțiunii, timp de 3 ore</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/realitatea-plus-pusa-la-colt-de-cna-postul-2532720.html</link>
+        <title>Criză diplomatică la Roma. Meloni, în conflict simultan cu Trump și Netanyahu: „Când te comporți ca un chelner, șeful te tratează ca atare”</title>
+        <link>https://adevarul.ro/stiri-externe/sua/criza-diplomatica-la-roma-meloni-in-conflict-2532752.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/realitatea-plus-pusa-la-colt-de-cna-postul-2532720.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/criza-diplomatica-la-roma-meloni-in-conflict-2532752.html</guid>
     </item>
     <item>
-        <title>Femeie din Moscova, închisoare pentru un clip cu o narghilea din cozonac de Paște. „Vinovată de jignirea sentimentelor credincioșilor”</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/femeie-din-moscova-inchisoare-pentru-un-clip-cu-o-narghilea-din-cozonac-de-paste-vinovata-de-jignirea-sentimentelor-credinciosilor-3788945</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/femeie-din-moscova-inchisoare-pentru-un-clip-cu-o-narghilea-din-cozonac-de-paste-vinovata-de-jignirea-sentimentelor-credinciosilor-3788945</guid>
+        <title>O turistă a fost reținută și amendată pentru că a vrut să ia acasă nisip și scoici din Sardinia</title>
+        <link>https://www.libertatea.ro/stiri/turista-retinuta-amendata-a-plecat-acasa-nisip-scoici-sardinia-italia-5756057</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/turista-retinuta-amendata-a-plecat-acasa-nisip-scoici-sardinia-italia-5756057</guid>
     </item>
     <item>
-        <title>Simion, după decizia CNA de sancționare a postului Realitatea Plus: „România nu este o democrație dar asta până într-o zi”</title>
-        <link>https://www.g4media.ro/simion-dupa-decizia-cna-de-sanctionare-a-postului-realitatea-plus-jos-cenzura-realitatea-tv-are-iar-oprita-emisia-pentru-3-ore-pentru-ca-a-prezentat-si-pozitiile-aur-romania-nu-este-o-democratie.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/simion-dupa-decizia-cna-de-sanctionare-a-postului-realitatea-plus-jos-cenzura-realitatea-tv-are-iar-oprita-emisia-pentru-3-ore-pentru-ca-a-prezentat-si-pozitiile-aur-romania-nu-este-o-democratie.html</guid>
-    </item>
-    <item>
-        <title>Sindicaliștii din vămi vor protesta de joi, prin exces de zel, nemulțumiți de proiectul legii salarizării unitare, și amenință cu greva</title>
-        <link>https://www.digi24.ro/stiri/sindicalistii-din-vami-vor-protesta-de-joi-prin-exces-de-zel-nemultumiti-de-proiectul-legii-salarizarii-unitare-si-ameninta-cu-greva-3788951</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sindicalistii-din-vami-vor-protesta-de-joi-prin-exces-de-zel-nemultumiti-de-proiectul-legii-salarizarii-unitare-si-ameninta-cu-greva-3788951</guid>
-    </item>
-    <item>
-        <title>Dieta care ne întinerește biologic în doar o lună. Ce au descoperit cercetătorii australieni că trebuie să mâncăm</title>
-        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/dieta-care-ne-intinereste-biologic-in-doar-o-luna-2531849.html</link>
+        <title>Sub spectrul presiunilor de la Washington, Islanda ia în calcul abandonarea izolării și aderarea la Uniunea Europeană</title>
+        <link>https://adevarul.ro/stiri-externe/europa/sub-spectrul-presiunilor-de-la-washington-islanda-2532655.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/dieta-care-ne-intinereste-biologic-in-doar-o-luna-2531849.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/sub-spectrul-presiunilor-de-la-washington-islanda-2532655.html</guid>
     </item>
     <item>
-        <title>Norvegia va intra sub umbrela nucleară a Franței / Pe timp de pace nu vor fi amplasate arme nucleare pe teritoriul țării / Există teamă legată de reîn</title>
-        <link>https://www.g4media.ro/norvegia-va-intra-sub-umbrela-nucleara-a-frantei-pe-timp-de-pace-nu-vor-fi-amplasate-arme-nucleare-pe-teritoriul-tarii-exista-teama-legata-de-reinarmarea-masiva-a-rusiei.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/norvegia-va-intra-sub-umbrela-nucleara-a-frantei-pe-timp-de-pace-nu-vor-fi-amplasate-arme-nucleare-pe-teritoriul-tarii-exista-teama-legata-de-reinarmarea-masiva-a-rusiei.html</guid>
-    </item>
-    <item>
-        <title>Crystal Palace a câştigat Conference League învingând în finală Rayo Vallecano. Andrei Raţiu, integralist</title>
-        <link>https://www.digi24.ro/stiri/sport/fotbal/crystal-palace-a-castigat-conference-league-invingand-in-finala-rayo-vallecano-andrei-ratiu-integralist-3788977</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/fotbal/crystal-palace-a-castigat-conference-league-invingand-in-finala-rayo-vallecano-andrei-ratiu-integralist-3788977</guid>
-    </item>
-    <item>
-        <title>Ministrul Darău, schimb dur de replici cu jurnalista Cătălina Porumbel, în direct la Antena3: „Sunteți în conflict de interese. Dl Caragea a arestat n</title>
-        <link>https://www.g4media.ro/ministrul-darau-schimb-dur-de-replici-cu-jurnalista-catalina-porumbel-in-direct-la-antena3-sunteti-in-conflict-de-interese-dl-caragea-a-arestat-niste-oameni-din-partidul-lui-dan-voiculesc.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ministrul-darau-schimb-dur-de-replici-cu-jurnalista-catalina-porumbel-in-direct-la-antena3-sunteti-in-conflict-de-interese-dl-caragea-a-arestat-niste-oameni-din-partidul-lui-dan-voiculesc.html</guid>
-    </item>
-    <item>
-        <title>MAE condamnă amenințările Rusiei la adresa Ucrainei: o escaladare gravă și iresponsabilă. „Nu vom fi intimidați”</title>
-        <link>https://www.europafm.ro/mae-condamna-amenintarile-rusiei-la-adresa-ucrainei-o-escaladare-grava-si-iresponsabila-nu-vom-fi-intimidati/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/mae-condamna-amenintarile-rusiei-la-adresa-ucrainei-o-escaladare-grava-si-iresponsabila-nu-vom-fi-intimidati/</guid>
-    </item>
-    <item>
-        <title>Horoscop 28 mai 2026. Zodiile care primesc vești neașteptate și schimbări importante în dragoste și carieră</title>
-        <link>https://www.mediafax.ro/horoscop/horoscop-28-mai-2026-zodiile-care-primesc-vesti-neasteptate-si-schimbari-importante-in-dragoste-si-cariera-23744831</link>
+        <title>Iranul susține că 23 de nave au trecut prin Strâmtoarea Ormuz, dar navele țărilor ostile sunt încă blocate</title>
+        <link>https://www.mediafax.ro/externe/iranul-sustine-ca-23-de-nave-au-trecut-prin-stramtoarea-ormuz-dar-navele-tarilor-ostile-sunt-inca-blocate-23744855</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-28-mai-2026-zodiile-care-primesc-vesti-neasteptate-si-schimbari-importante-in-dragoste-si-cariera-23744831</guid>
-    </item>
-    <item>
-        <title>Gândul: Google nu a plătit niciun leu la bugetul de stat din impozit pe profit în ultimii 4 ani</title>
-        <link>https://www.mediafax.ro/economic/gandul-google-nu-a-platit-niciun-leu-la-bugetul-de-stat-din-impozit-pe-profit-in-ultimii-4-ani-23744816</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/gandul-google-nu-a-platit-niciun-leu-la-bugetul-de-stat-din-impozit-pe-profit-in-ultimii-4-ani-23744816</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/iranul-sustine-ca-23-de-nave-au-trecut-prin-stramtoarea-ormuz-dar-navele-tarilor-ostile-sunt-inca-blocate-23744855</guid>
     </item>
     <item>
         <title>28 mai: 214 ani de la ziua în care Moldova a fost ruptă în două, prin Tratatul de la București</title>
@@ -338,22 +62,100 @@
         <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/28-mai-214-ani-de-la-ziua-in-care-moldova-a-fost-2532124.html</guid>
     </item>
     <item>
-        <title>Atacurile cu drone ale Ucrainei în interiorul Rusiei provoacă tensiuni în NATO. Țările baltice se tem de efectele politice</title>
-        <link>https://adevarul.ro/stiri-externe/europa/atacurile-cu-drone-ale-ucrainei-in-interiorul-2532391.html</link>
+        <title>Cum arătau verile austere din România anilor ’80. „Cumva, românii par să se adapteze. Nu știu cum. Nimeni nu știe”</title>
+        <link>https://adevarul.ro/stiri-interne/societate/cum-aratau-verile-austere-din-romania-anilor-80-2532430.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/atacurile-cu-drone-ale-ucrainei-in-interiorul-2532391.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/cum-aratau-verile-austere-din-romania-anilor-80-2532430.html</guid>
     </item>
     <item>
-        <title>Doi polițiști amendau șoferi în timpul liber și băgau banii în buzunar, în Slovacia</title>
-        <link>https://www.libertatea.ro/stiri/doi-politisti-slovacia-amendau-soferi-timpul-liber-opreau-banii-5756039</link>
+        <title>Crystal Palace – Rayo Vallecano, 1-0 în finala Conference League. Andrei Rațiu a fost integralist, încă o echipă din Anglia câștigă un trofeu european</title>
+        <link>https://www.libertatea.ro/sport/crystal-palace-rayo-vallecano-finala-conference-league-andrei-ratiu-5755905</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/doi-politisti-slovacia-amendau-soferi-timpul-liber-opreau-banii-5756039</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/sport/crystal-palace-rayo-vallecano-finala-conference-league-andrei-ratiu-5755905</guid>
     </item>
     <item>
-        <title>Condiția impusă de Dragoș Pîslaru ca să intre într‑un guvern de tehnocrați condus de Alexandru Nazare</title>
-        <link>https://adevarul.ro/politica/conditia-impusa-de-dragos-pislaru-ca-sa-intre-2532719.html</link>
+        <title>Horoscop 28 mai 2026. Racilor le este foarte greu să se retragă din orice situație care îi stresează peste măsură</title>
+        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-28-mai-2026-5754758</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-28-mai-2026-5754758</guid>
+    </item>
+    <item>
+        <title>Directorul RAR îi dă replica lui Ciprian Ciucu și explică de ce instituția a cerut 66.000 de lei Primăriei București pentru date statistice</title>
+        <link>https://www.libertatea.ro/stiri/directorul-rar-ii-da-replica-lui-ciprian-ciucu-5756022</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/directorul-rar-ii-da-replica-lui-ciprian-ciucu-5756022</guid>
+    </item>
+    <item>
+        <title>Armata americană a lansat noi atacuri în Iran</title>
+        <link>https://www.mediafax.ro/externe/armata-americana-a-lansat-noi-atacuri-in-iran-23744865</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/armata-americana-a-lansat-noi-atacuri-in-iran-23744865</guid>
+    </item>
+    <item>
+        <title>Încă opt secții de neonatologie din țară primesc aparatură modernă și mobilier adecvat: s-au triat cereri de la 42 de spitale</title>
+        <link>https://www.libertatea.ro/lifestyle/opt-sectii-neonatologie-din-romania-primesc-aparatura-moderna-mobilier-5756025</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/opt-sectii-neonatologie-din-romania-primesc-aparatura-moderna-mobilier-5756025</guid>
+    </item>
+    <item>
+        <title>Hamas confirmă că noul său lider militar a fost ucis în atacurile aeriene israeliene din Gaza</title>
+        <link>https://www.mediafax.ro/externe/hamas-confirma-ca-noul-sau-lider-militar-a-fost-ucis-in-atacurile-aeriene-israeliene-din-gaza-23744859</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/hamas-confirma-ca-noul-sau-lider-militar-a-fost-ucis-in-atacurile-aeriene-israeliene-din-gaza-23744859</guid>
+    </item>
+    <item>
+        <title>Actorul Pierre Deny, cunoscut din serialul „Emily in Paris”, a murit la 69 de ani. Suferea de aceeași boală care l-a răpus, recent, pe Eric Dane</title>
+        <link>https://adevarul.ro/stiri-externe/europa/actorul-pierre-deny-cunoscut-din-serialul-emily-2532753.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/conditia-impusa-de-dragos-pislaru-ca-sa-intre-2532719.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/actorul-pierre-deny-cunoscut-din-serialul-emily-2532753.html</guid>
+    </item>
+    <item>
+        <title>Dieta care ne întinerește biologic în doar o lună. Ce au descoperit cercetătorii australieni că trebuie să mâncăm</title>
+        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/dieta-care-ne-intinereste-biologic-in-doar-o-luna-2531849.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/dieta-care-ne-intinereste-biologic-in-doar-o-luna-2531849.html</guid>
+    </item>
+    <item>
+        <title>Mark Zuckerberg și soția sa prezintă un atlas de proteine pentru a accelera cercetarea biomedicală</title>
+        <link>https://www.mediafax.ro/externe/mark-zuckerberg-si-sotia-sa-prezinta-un-atlas-de-proteine-pentru-a-accelera-cercetarea-biomedicala-23744861</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/mark-zuckerberg-si-sotia-sa-prezinta-un-atlas-de-proteine-pentru-a-accelera-cercetarea-biomedicala-23744861</guid>
+    </item>
+    <item>
+        <title>Fost oficial CIA acuzat că a furat lingouri de aur în valoare de zeci de milioane de dolari de la guvernul federal</title>
+        <link>https://www.mediafax.ro/externe/fost-oficial-cia-acuzat-ca-a-furat-lingouri-de-aur-in-valoare-de-zeci-de-milioane-de-dolari-de-la-guvernul-federal-23744869</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/fost-oficial-cia-acuzat-ca-a-furat-lingouri-de-aur-in-valoare-de-zeci-de-milioane-de-dolari-de-la-guvernul-federal-23744869</guid>
+    </item>
+    <item>
+        <title>Care e profitul unui restaurant care rulează un milion de lei pe an: „La final se aduc bani de acasă”</title>
+        <link>https://www.libertatea.ro/stiri/profit-restaurant-cifra-afaceri-un-milion-lei-analiza-domneiul-horeca-iasi-5755957</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/profit-restaurant-cifra-afaceri-un-milion-lei-analiza-domneiul-horeca-iasi-5755957</guid>
+    </item>
+    <item>
+        <title>Crystal Palace scrie istorie: Londonezii au cucerit Conference League / Rayo Vallecano și Rațiu, înfrângere în finală, scor 0-1</title>
+        <link>https://www.g4media.ro/rayo-vallecano-si-ratiu-infrangere-in-finala-conference-league-cu-crystal-palace-scor-0-1.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/rayo-vallecano-si-ratiu-infrangere-in-finala-conference-league-cu-crystal-palace-scor-0-1.html</guid>
+    </item>
+    <item>
+        <title>Centrul Medical Emerald Timișoara s-a inaugurat oficial. Are medici de elită în cardiologie, neurologie, imagistică performantă și genetică</title>
+        <link>https://www.libertatea.ro/lifestyle/centrul-medical-emerald-timisoara-inaugurat-medici-elita-cardiologie-neurologie-genetica-5756037</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/centrul-medical-emerald-timisoara-inaugurat-medici-elita-cardiologie-neurologie-genetica-5756037</guid>
+    </item>
+    <item>
+        <title>Experiența unei tinere cu avortul medicamentos, subiect de dezbatere pe internet</title>
+        <link>https://adevarul.ro/stiri-interne/societate/experienta-unei-tinere-cu-avortul-medicamentos-2532610.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/experienta-unei-tinere-cu-avortul-medicamentos-2532610.html</guid>
+    </item>
+    <item>
+        <title>Crystal Palace a câştigat Conference League învingând în finală Rayo Vallecano. Andrei Raţiu, integralist</title>
+        <link>https://www.digi24.ro/stiri/sport/fotbal/crystal-palace-a-castigat-conference-league-invingand-in-finala-rayo-vallecano-andrei-ratiu-integralist-3788977</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/fotbal/crystal-palace-a-castigat-conference-league-invingand-in-finala-rayo-vallecano-andrei-ratiu-integralist-3788977</guid>
     </item>
     <item>
         <title>Pam Bondi, fost procuror general al SUA, diagnosticată cu cancer</title>
@@ -362,10 +164,208 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/pam-bondi-fost-procuror-general-al-sua-diagnosticata-cu-cancer-23744852</guid>
     </item>
     <item>
+        <title>Cine salvează satele aflate pe cale de dispariție? Spania mizează pe imigrație</title>
+        <link>https://adevarul.ro/stiri-externe/europa/cine-salveaza-satele-aflate-pe-cale-de-disparitie-2532670.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/cine-salveaza-satele-aflate-pe-cale-de-disparitie-2532670.html</guid>
+    </item>
+    <item>
+        <title>Ciprian Ciucu prezintă nereguli sesizate în cei peste 5 ani ca primar: „Am văzut multe. Aș putea scrie o culegere”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ciprian-ciucu-prezinta-nereguli-sesizate-in-cei-peste-5-ani-ca-primar-am-vazut-multe-as-putea-scrie-o-culegere-3788971</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ciprian-ciucu-prezinta-nereguli-sesizate-in-cei-peste-5-ani-ca-primar-am-vazut-multe-as-putea-scrie-o-culegere-3788971</guid>
+    </item>
+    <item>
+        <title>Trump: „Omanul se va comporta la fel ca toți ceilalți, altfel va trebui să-i aruncăm în aer”</title>
+        <link>https://www.mediafax.ro/externe/trump-omanul-se-va-comporta-la-fel-ca-toti-ceilalti-altfel-va-trebui-sa-i-aruncam-in-aer-23744857</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-omanul-se-va-comporta-la-fel-ca-toti-ceilalti-altfel-va-trebui-sa-i-aruncam-in-aer-23744857</guid>
+    </item>
+    <item>
+        <title>„Următoarele șase luni sunt decisive”. Un comandant ucrainean vorbește despre un posibil punct de cotitură în război</title>
+        <link>https://adevarul.ro/stiri-externe/europa/urmatoarele-sase-luni-sunt-decisive-un-2532666.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/urmatoarele-sase-luni-sunt-decisive-un-2532666.html</guid>
+    </item>
+    <item>
+        <title>Doi polițiști amendau șoferi în timpul liber și băgau banii în buzunar, în Slovacia</title>
+        <link>https://www.libertatea.ro/stiri/doi-politisti-slovacia-amendau-soferi-timpul-liber-opreau-banii-5756039</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/doi-politisti-slovacia-amendau-soferi-timpul-liber-opreau-banii-5756039</guid>
+    </item>
+    <item>
+        <title>Asistentul personal al lui Matthew Perry, condamnat la trei ani de închisoare în cazul morții actorului</title>
+        <link>https://www.mediafax.ro/externe/asistentul-personal-al-lui-matthew-perry-condamnat-la-trei-ani-de-inchisoare-in-cazul-mortii-actorului-23744847</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/asistentul-personal-al-lui-matthew-perry-condamnat-la-trei-ani-de-inchisoare-in-cazul-mortii-actorului-23744847</guid>
+    </item>
+    <item>
+        <title>Ludovic Orban, despre varianta unui premier tehnocrat: „Este o sfidare orice desemnare care nu are legătură cu realitatea politică din Parlament” | VI</title>
+        <link>https://www.europafm.ro/ludovic-orban-despre-varianta-unui-premier-tehnocrat-este-o-sfidare-orice-desemnare-care-nu-are-legatura-cu-realitatea-politica-din-parlament/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ludovic-orban-despre-varianta-unui-premier-tehnocrat-este-o-sfidare-orice-desemnare-care-nu-are-legatura-cu-realitatea-politica-din-parlament/</guid>
+    </item>
+    <item>
+        <title>Donald Trump ameninţă să „arunce în aer” Omanul, într-o aparentă confuzie legată de controlul asupra Strâmtorii Ormuz</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/donald-trump-ameninta-sa-arunce-in-aer-omanul-intr-o-aparenta-confuzie-legata-de-controlul-asupra-stramtorii-ormuz-3788901</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/donald-trump-ameninta-sa-arunce-in-aer-omanul-intr-o-aparenta-confuzie-legata-de-controlul-asupra-stramtorii-ormuz-3788901</guid>
+    </item>
+    <item>
+        <title>Premierul ungar încearcă resetarea relației cu Bruxelles: miza uriașă a întâlnirii cu Ursula von der Leyen. Ce va solicita Peter Magyar</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/premierul-ungar-incearca-resetarea-relatiei-cu-bruxelles-miza-uriasa-a-intalnirii-cu-ursula-von-der-leyen-ce-va-solicita-peter-magyar-3788819</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/premierul-ungar-incearca-resetarea-relatiei-cu-bruxelles-miza-uriasa-a-intalnirii-cu-ursula-von-der-leyen-ce-va-solicita-peter-magyar-3788819</guid>
+    </item>
+    <item>
+        <title>Norvegia va intra sub umbrela nucleară a Franței / Pe timp de pace nu vor fi amplasate arme nucleare pe teritoriul țării / Există teamă legată de reîn</title>
+        <link>https://www.g4media.ro/norvegia-va-intra-sub-umbrela-nucleara-a-frantei-pe-timp-de-pace-nu-vor-fi-amplasate-arme-nucleare-pe-teritoriul-tarii-exista-teama-legata-de-reinarmarea-masiva-a-rusiei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/norvegia-va-intra-sub-umbrela-nucleara-a-frantei-pe-timp-de-pace-nu-vor-fi-amplasate-arme-nucleare-pe-teritoriul-tarii-exista-teama-legata-de-reinarmarea-masiva-a-rusiei.html</guid>
+    </item>
+    <item>
+        <title>Bruxelles-ul are, în sfârșit, un calendar pentru aderarea Republicii Moldova și Ucrainei la Uniunea Europeană</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/bruxelles-ul-are-in-sfarsit-un-calendar-pentru-aderarea-republicii-moldova-si-ucrainei-la-uniunea-europeana-3788841</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/bruxelles-ul-are-in-sfarsit-un-calendar-pentru-aderarea-republicii-moldova-si-ucrainei-la-uniunea-europeana-3788841</guid>
+    </item>
+    <item>
+        <title>Horoscop 28 mai 2026. Zodiile care primesc vești neașteptate și schimbări importante în dragoste și carieră</title>
+        <link>https://www.mediafax.ro/horoscop/horoscop-28-mai-2026-zodiile-care-primesc-vesti-neasteptate-si-schimbari-importante-in-dragoste-si-cariera-23744831</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-28-mai-2026-zodiile-care-primesc-vesti-neasteptate-si-schimbari-importante-in-dragoste-si-cariera-23744831</guid>
+    </item>
+    <item>
+        <title>Sindicaliștii din vămi vor protesta de joi, prin exces de zel, nemulțumiți de proiectul legii salarizării unitare, și amenință cu greva</title>
+        <link>https://www.digi24.ro/stiri/sindicalistii-din-vami-vor-protesta-de-joi-prin-exces-de-zel-nemultumiti-de-proiectul-legii-salarizarii-unitare-si-ameninta-cu-greva-3788951</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sindicalistii-din-vami-vor-protesta-de-joi-prin-exces-de-zel-nemultumiti-de-proiectul-legii-salarizarii-unitare-si-ameninta-cu-greva-3788951</guid>
+    </item>
+    <item>
+        <title>Bivolul poreclit Donald Trump a fost grațiat de ministrul de Interne. Animalul vedetă a fost mutat într-un parc zoo</title>
+        <link>https://www.mediafax.ro/life-entertaiment/bivolul-poreclit-donald-trump-a-fost-gratiat-de-ministrul-de-interne-animalul-vedeta-a-fost-mutat-intr-un-parc-zoo-23744825</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/bivolul-poreclit-donald-trump-a-fost-gratiat-de-ministrul-de-interne-animalul-vedeta-a-fost-mutat-intr-un-parc-zoo-23744825</guid>
+    </item>
+    <item>
+        <title>Condiția impusă de Dragoș Pîslaru ca să intre într‑un guvern de tehnocrați condus de Alexandru Nazare</title>
+        <link>https://adevarul.ro/politica/conditia-impusa-de-dragos-pislaru-ca-sa-intre-2532719.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/conditia-impusa-de-dragos-pislaru-ca-sa-intre-2532719.html</guid>
+    </item>
+    <item>
+        <title>Un bărbat din Aiud a murit după ce a căzut de plafonul unei mașini și s-a lovit la cap</title>
+        <link>https://www.mediafax.ro/social/un-barbat-din-aiud-a-murit-dupa-ce-a-cazut-de-plafonul-unei-masini-si-s-a-lovit-la-cap-23744837</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/un-barbat-din-aiud-a-murit-dupa-ce-a-cazut-de-plafonul-unei-masini-si-s-a-lovit-la-cap-23744837</guid>
+    </item>
+    <item>
+        <title>Femeie din Moscova, închisoare pentru un clip cu o narghilea din cozonac de Paște. „Vinovată de jignirea sentimentelor credincioșilor”</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/femeie-din-moscova-inchisoare-pentru-un-clip-cu-o-narghilea-din-cozonac-de-paste-vinovata-de-jignirea-sentimentelor-credinciosilor-3788945</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/femeie-din-moscova-inchisoare-pentru-un-clip-cu-o-narghilea-din-cozonac-de-paste-vinovata-de-jignirea-sentimentelor-credinciosilor-3788945</guid>
+    </item>
+    <item>
+        <title>O țară nordică va intra sub umbrela nucleară a Franței: „Am luat decizia ținând cont de situația politicii de securitate din Europa”</title>
+        <link>https://www.mediafax.ro/externe/o-tara-nordica-va-intra-sub-umbrela-nucleara-a-frantei-am-luat-decizia-tinand-cont-de-situatia-politicii-de-securitate-din-europa-23744832</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/o-tara-nordica-va-intra-sub-umbrela-nucleara-a-frantei-am-luat-decizia-tinand-cont-de-situatia-politicii-de-securitate-din-europa-23744832</guid>
+    </item>
+    <item>
+        <title>MAE condamnă amenințările Rusiei la adresa Ucrainei: o escaladare gravă și iresponsabilă. „Nu vom fi intimidați”</title>
+        <link>https://www.europafm.ro/mae-condamna-amenintarile-rusiei-la-adresa-ucrainei-o-escaladare-grava-si-iresponsabila-nu-vom-fi-intimidati/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/mae-condamna-amenintarile-rusiei-la-adresa-ucrainei-o-escaladare-grava-si-iresponsabila-nu-vom-fi-intimidati/</guid>
+    </item>
+    <item>
+        <title>Povestea incredibilă a unui copil norvegian de 10 ani, abandonat de părinți în India pentru a învăța să supraviețuiască</title>
+        <link>https://www.mediafax.ro/social/povestea-incredibila-a-unui-copil-norvegian-de-10-ani-abandonat-de-parinti-in-india-pentru-a-invata-sa-supravietuiasca-23744798</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/povestea-incredibila-a-unui-copil-norvegian-de-10-ani-abandonat-de-parinti-in-india-pentru-a-invata-sa-supravietuiasca-23744798</guid>
+    </item>
+    <item>
+        <title>Horoscop joi, 28 mai. O zodie învață din greșelile trecutului, alt nativ profită de oportunități ce îi ies în cale</title>
+        <link>https://adevarul.ro/stil-de-viata/horoscop/horoscop-joi-28-mai-o-zodie-invata-din-greselile-2532729.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/horoscop/horoscop-joi-28-mai-o-zodie-invata-din-greselile-2532729.html</guid>
+    </item>
+    <item>
+        <title>Gândul: Google nu a plătit niciun leu la bugetul de stat din impozit pe profit în ultimii 4 ani</title>
+        <link>https://www.mediafax.ro/economic/gandul-google-nu-a-platit-niciun-leu-la-bugetul-de-stat-din-impozit-pe-profit-in-ultimii-4-ani-23744816</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/gandul-google-nu-a-platit-niciun-leu-la-bugetul-de-stat-din-impozit-pe-profit-in-ultimii-4-ani-23744816</guid>
+    </item>
+    <item>
+        <title>Bivolul „Donald Trump” a scăpat de le sacrificare după ce a devenit vedetă pe rețelel sociale. Unde va fi dus</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/bivolul-donald-trump-a-fost-salvat-de-la-2532734.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/bivolul-donald-trump-a-fost-salvat-de-la-2532734.html</guid>
+    </item>
+    <item>
+        <title>YouTube va eticheta automat videoclipurile generate cu AI. Noile marcaje vor fi mai vizibile pe Shorts și clipurile lungi</title>
+        <link>https://www.mediafax.ro/tehnologie/youtube-va-eticheta-automat-videoclipurile-generate-cu-ai-noile-marcaje-vor-fi-mai-vizibile-pe-shorts-si-clipurile-lungi-23744803</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/youtube-va-eticheta-automat-videoclipurile-generate-cu-ai-noile-marcaje-vor-fi-mai-vizibile-pe-shorts-si-clipurile-lungi-23744803</guid>
+    </item>
+    <item>
+        <title>Ruptura dintre Meloni, Trump și Netanyahu: Italia schimbă tonul față de SUA și Israel</title>
+        <link>https://www.digi24.ro/stiri/externe/ruptura-dintre-meloni-trump-si-netanyahu-italia-schimba-tonul-fata-de-sua-si-israel-3788881</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ruptura-dintre-meloni-trump-si-netanyahu-italia-schimba-tonul-fata-de-sua-si-israel-3788881</guid>
+    </item>
+    <item>
+        <title>Simion, după decizia CNA de sancționare a postului Realitatea Plus: „România nu este o democrație dar asta până într-o zi”</title>
+        <link>https://www.g4media.ro/simion-dupa-decizia-cna-de-sanctionare-a-postului-realitatea-plus-jos-cenzura-realitatea-tv-are-iar-oprita-emisia-pentru-3-ore-pentru-ca-a-prezentat-si-pozitiile-aur-romania-nu-este-o-democratie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/simion-dupa-decizia-cna-de-sanctionare-a-postului-realitatea-plus-jos-cenzura-realitatea-tv-are-iar-oprita-emisia-pentru-3-ore-pentru-ca-a-prezentat-si-pozitiile-aur-romania-nu-este-o-democratie.html</guid>
+    </item>
+    <item>
+        <title>Un petrolier rus care urma să ajungă în Cuba și-a schimbat cursul după mai multe săptămâni petrecute pe mare</title>
+        <link>https://www.digi24.ro/stiri/externe/un-petrolier-rus-care-urma-sa-ajunga-in-cuba-si-a-schimbat-cursul-dupa-mai-multe-saptamani-petrecute-pe-mare-3788873</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/un-petrolier-rus-care-urma-sa-ajunga-in-cuba-si-a-schimbat-cursul-dupa-mai-multe-saptamani-petrecute-pe-mare-3788873</guid>
+    </item>
+    <item>
+        <title>Europa riscă să devină un focar pentru virusul chikungunya, pe fondul extinderii habitatelor țânțarilor</title>
+        <link>https://www.mediafax.ro/sanatate/europa-risca-sa-devina-un-focar-pentru-virusul-chikungunya-pe-fondul-extinderii-habitatelor-tantarilor-23744810</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/europa-risca-sa-devina-un-focar-pentru-virusul-chikungunya-pe-fondul-extinderii-habitatelor-tantarilor-23744810</guid>
+    </item>
+    <item>
+        <title>Sindicaliştii feroviari avertizează asupra riscului unei „crize fără precedent” la CFR SA</title>
+        <link>https://www.g4media.ro/sindicalistii-feroviari-avertizeaza-asupra-riscului-unei-crize-fara-precedent-la-cfr-sa.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/sindicalistii-feroviari-avertizeaza-asupra-riscului-unei-crize-fara-precedent-la-cfr-sa.html</guid>
+    </item>
+    <item>
+        <title>Arad: tânăr de 19 ani, trimis în judecată după ce ar fi răspândit afișe cu fotografia lui Corneliu Zelea Codreanu | AUDIO</title>
+        <link>https://www.europafm.ro/tanar-19-ani-arad-judecat-propaganda-fascista-legionara-ineu/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/tanar-19-ani-arad-judecat-propaganda-fascista-legionara-ineu/</guid>
+    </item>
+    <item>
+        <title>Atacurile cu drone ale Ucrainei în interiorul Rusiei provoacă tensiuni în NATO. Țările baltice se tem de efectele politice</title>
+        <link>https://adevarul.ro/stiri-externe/europa/atacurile-cu-drone-ale-ucrainei-in-interiorul-2532391.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/atacurile-cu-drone-ale-ucrainei-in-interiorul-2532391.html</guid>
+    </item>
+    <item>
+        <title>Papa Leon l-a citat pe Gandalf din „Stăpânul Inelelor” în prima sa enciclică despre inteligența artificială</title>
+        <link>https://www.digi24.ro/stiri/externe/papa-leon-l-a-citat-pe-gandalf-din-stapanul-inelelor-in-prima-sa-enciclica-despre-inteligenta-artificiala-3788943</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/papa-leon-l-a-citat-pe-gandalf-din-stapanul-inelelor-in-prima-sa-enciclica-despre-inteligenta-artificiala-3788943</guid>
+    </item>
+    <item>
         <title>Sorana Cîrstea s-a calificat în turul trei la Roland Garros după o victorie clară</title>
         <link>https://www.g4media.ro/sorana-cirstea-s-a-calificat-in-turul-trei-la-roland-garros-dupa-o-victorie-clara.html</link>
         <description>G4Media</description>
         <guid isPermaLink="true">https://www.g4media.ro/sorana-cirstea-s-a-calificat-in-turul-trei-la-roland-garros-dupa-o-victorie-clara.html</guid>
+    </item>
+    <item>
+        <title>Triplă crimă în Târgu Jiu: O femeie și doi bărbați au fost găsiți morți în apartamentul în care locuiau</title>
+        <link>https://www.digi24.ro/stiri/actualitate/tripla-crima-in-targu-jiu-o-bunica-si-cei-doi-nepoti-ai-sai-au-fost-gasiti-morti-in-apartamentul-in-care-locuiau-3788903</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/tripla-crima-in-targu-jiu-o-bunica-si-cei-doi-nepoti-ai-sai-au-fost-gasiti-morti-in-apartamentul-in-care-locuiau-3788903</guid>
     </item>
 </channel>
 </rss>
