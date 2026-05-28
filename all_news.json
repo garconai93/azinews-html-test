@@ -1,6 +1,496 @@
 [
   {
     "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sport/continuam-impreuna-capitane-alexandru-benga-si-a-prelungit-contractul-cu-uta-arad-23745278",
+    "title": "„Continuăm împreună, căpitane!”. Alexandru Benga și-a prelungit contractul cu UTA Arad",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/benga-1024x844.jpg",
+    "time": "14:12",
+    "date": "28 May",
+    "content": "Căpitanul UTA Arad și unul dintre cei mai apreciați jucători ai ultimilor ani a semnat prelungirea contractului până în 2027.",
+    "fetched_at": "2026-05-28T14:23:57.137829"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/norvegia-spune-ca-europa-trebuie-sa-participe-la-discutiile-rusia-ucraina-dar-nu-ca-mediator-23745272",
+    "title": "Norvegia spune că Europa trebuie să participe la discuțiile Rusia-Ucraina, dar „nu ca mediator”",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/8129342-mediafax_foto-alexandru_nechez-1024x682.jpg",
+    "time": "14:02",
+    "date": "28 May",
+    "content": "Norvegia a transmis că Europa ar trebui să participe la negocierile dintre Rusia și Ucraina pentru a-și apăra propriile interese, dar nu în rol de mediator neutru.",
+    "fetched_at": "2026-05-28T14:23:57.137841"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/reuters-trei-petroliere-au-fost-atacate-de-drone-in-marea-neagra-23745256",
+    "title": "Reuters. Trei petroliere au fost atacate de drone în Marea Neagră",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/hepta_8763289-1024x683.jpg",
+    "time": "13:26",
+    "date": "28 May",
+    "content": "Trei petroliere au fost atacate cu drone în largul coastelor Turciei, în Marea Neagră, în timp ce una dintre nave se îndrepta spre Novorossiisk.",
+    "fetched_at": "2026-05-28T14:23:57.137872"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/nato-planifica-un-conflict-de-amploare-in-est-sustine-seful-serviciilor-secrete-ruse.html",
+    "title": "NATO planifică un „conflict de amploare în est”, susține șeful serviciilor secrete ruse",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/08/dreamstime_xxl_131540427-1024x683.jpg",
+    "time": "14:04",
+    "date": "28 May",
+    "content": "Șeful serviciilor secrete ruse a acuzat NATO că se pregătește pentru un „conflict de amploare în est”, potrivit agenției de știri de stat din Moscova, RIA, citată de Sky News. Serghei Narișkin, șeful serviciului de informații externe al Rusiei (SVR), a afirmat că alianța face pregătiri concrete pentru un astfel de conflict. De asemenea, el [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688387"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/sefa-diplomatiei-europene-pune-conditii-rusiei-in-2532889.html",
+    "title": "Șefa diplomației europene pune condiții Rusiei în negocierile de pace: retragerea trupelor ruse din Transnistria și Georgia",
+    "image": "https://cdn.adh.reperio.news/image-6/6921136b-57e6-4079-9ecd-b5977b92bcc7/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:43",
+    "date": "28 May",
+    "content": "Trupele ruse trebuie retrase din Republica Moldova şi Georgia - acesta este mesajul ferm transmis de Înaltul Reprezentant al UE pentru afaceri externe, Kaja Kallas, înaintea reuniunii informale a miniştrilor europeni de externe.",
+    "fetched_at": "2026-05-28T14:23:59.048986"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/off-the-record/off-the-record-invitat-irineu-darau-ministrul-economiei-23745258",
+    "title": "OFF The Record. Invitat: Irineu Darău, ministrul Economiei",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/whatsapp-image-2026-05-28-at-16-24-01-1024x576.jpeg",
+    "time": "13:29",
+    "date": "28 May",
+    "content": "De aproape o lună România nu mai are Guvern funcțional, dar paradoxal Guvernul demis și interimar impune – în ciuda Constituției – politici publice și ia măsuri în multe domenii importante.",
+    "fetched_at": "2026-05-28T14:23:57.137866"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/justitie/ccr-discuta-pe-10-iunie-sesizarea-trimisa-de-grindeanu-despre-un-posibil-conflict-juridic-intre-guvern-si-parlament-privind-safe-3789849",
+    "title": "CCR discută pe 10 iunie sesizarea trimisă de Grindeanu despre un posibil conflict juridic între Guvern și Parlament privind SAFE",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOSUyRjI0JTJGMjM1OTU5OF8yMzU5/NTk4X1NFUF9DQ1JfSUxVU1RSQVRJRV8x/NV9JTlFVQU1fUGhvdG9zX09jdGF2X0dh/bmVhLmpwZyZoYXNoPTVhZWJiMTFmMDViZDhiOTliNDA3ZjI0ZmJlMzc5ZWJm.jpg",
+    "time": "16:40",
+    "date": "28 May",
+    "content": "Curtea Constituţională va discuta pe data de 10 iunie cererea preşedintelui Camerei Deputaţilor Sorin Grindeanu de soluţionare a conflictului juridic de natură constituţională dintre Parlament şi Guvern, privind Ordonanţa SAFE, iar în data de 4 iunie sesizarea depusă de Avocatul Poporului pe aceeaşi Ordonanţă.",
+    "fetched_at": "2026-05-28T14:23:56.719662"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/rusia/cum-se-baricadeaza-moscova-in-fata-atacurilor-2532886.html",
+    "title": "Cum se baricadează Moscova în fața atacurilor ucrainene: imagini cu sisteme Pantsir montate cu elicopterul pe zgârie-nori",
+    "image": "https://cdn.adh.reperio.news/image-8/8b761688-a01e-4a90-9993-8b18cad5f16a/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:04",
+    "date": "28 May",
+    "content": "Rusia continuă să își consolideze apărarea aeriană în jurul Moscovei, iar noi imagini apărute online arată instalarea unor sisteme moderne Pantsir-SMD-E pe acoperișurile clădirilor civile din capitala rusă.",
+    "fetched_at": "2026-05-28T14:23:59.048972"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/companii/nazare-romania-are-nevoie-de-experienta-si-capitalul-diasporei-lansam-un-program-de-100-de-milioane-de-euro-pentru-investitii-3789869",
+    "title": "Nazare: „România are nevoie de experiența și capitalul diasporei. Lansăm un program de 100 de milioane de euro pentru investiții”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjI4JTJGMjcwMjMwNV8yNzAy/MzA1X2FsZXhhbmRydS1uYXphcmUtZmIu/anBnJmhhc2g9YzBiZGVkYzM1ODlhMGM0ZmQ0MzUxNjBiZmY4ZjA1MTU=.jpg",
+    "time": "16:53",
+    "date": "28 May",
+    "content": "Ministrul interimar al Finanțelor, Alexandru Nazare, a anunțat joi publicarea în transparență decizională a proiectului de hotărâre de guvern privind lansarea programului „Diaspora Investește Acasă”, prin care statul pune la dispoziție 100 de milioane de euro pentru românii din străinătate care vor să investească și să dezvolte afaceri în România.",
+    "fetched_at": "2026-05-28T14:23:56.719633"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/rusia-semneaza-un-pact-militar-cu-talibani-moscova-este-singura-tara-din-lume-care-recunoaste-oficial-guvernul-islamist-din-afganistan.html",
+    "title": "Rusia semnează un pact militar cu talibani / Moscova este singura țară din lume care recunoaște oficial guvernul islamist din Afganistan",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/08/33Q79EL-highres-1024x683.jpg",
+    "time": "13:27",
+    "date": "28 May",
+    "content": "Rusia a semnat un acord pentru extinderea cooperării militare cu talibanii, consolidând astfel relațiile cu regimul islamist din Afganistan. Moscova rămâne în prezent singura țară din lume care recunoaște oficial guvernul taliban, transmite MEDIAFAX. Acordul a fost semnat la Moscova, în cadrul unui eveniment numit „Forumul Internațional de Securitate”. La reuniune a participat și Mohammad [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688440"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/hunedoara/un-tanar-care-ameninta-ca-se-arunca-de-pe-2532898.html",
+    "title": "Un tânăr care amenința că se aruncă de pe acoperișul unui bloc s-a dezechilibrat și s-a prăbușit în gol. Starea sa e critică",
+    "image": "https://cdn.adh.reperio.news/image-d/d3a38b20-1dec-485b-91f5-9679e08d803e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:05",
+    "date": "28 May",
+    "content": "Poliţişti, jandarmi şi reprezentanţi ai ISU Hunedoara au intervenit, joi, după ce au fost sesizaţi că un tânăr de 21 de ani s-a urcat pe acoperişul unui bloc dezafectat din Deva şi ameninţa că se aruncă.",
+    "fetched_at": "2026-05-28T14:23:59.048965"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/moscova-il-convoaca-pe-ambasadorul-luxemburgului-dupa-repatrierea-la-kiev-a-ramasitelor-lui-andrii-melnik-un-nationalist-ucrainean.html",
+    "title": "Moscova îl convoacă pe ambasadorul Luxemburgului după repatrierea la Kiev a rămășițelor lui Andrii Melnik, un naționalist ucrainean",
+    "image": "https://www.g4media.ro//wp-content/uploads/2021/12/FFyhi6bWUAorfH1-1024x576.jpg",
+    "time": "14:18",
+    "date": "28 May",
+    "content": "Ministerul rus de Externe l-a convocat joi pe ambasadorul Luxemburgului la Moscova, după transferul din Luxemburg și înhumarea, în apropiere de Kiev, a rămășițelor pământești ale naționalistului ucrainean Andrii Melnik, care a condus un grup ce a luptat împotriva sovieticilor și a colaborat cu Germania nazistă, transmite agenția de știri France Presse, citată de Agerpres. [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688368"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/mormant-5000-ani-prahova-dn1-descoperire-arheologica/",
+    "title": "Mormânt vechi de 5.000 de ani, descoperit în Prahova, lângă DN1. Ar putea aparține unui „prinț” din Epoca Bronzului timpuriu | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/FotoJet-45-200x200.jpg",
+    "time": "09:30",
+    "date": "28 May",
+    "content": "Un mormânt vechi de 5.000 de ani a fost descoperit în Prahova, în timpul lucrărilor la un pasaj lângă DN1. Arheologii au găsit bijuterii și artefacte.",
+    "fetched_at": "2026-05-28T14:23:58.452035"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/romania-achizitie-drone-germania-quantum-systems/",
+    "title": "România cumpără, prin SAFE, 34 de sisteme de drone militare din Germania, în valoare de peste 30 de milioane de dolari. Când vor ajunge acestea în țar",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/Radu-Miruta-Inquam-Photos-George-Calin-200x200.jpg",
+    "time": "10:40",
+    "date": "28 May",
+    "content": "Ministerul Apărării a semnat un contract de peste 30 de milioane de dolari pentru 34 de sisteme de drone militare care vor fi livrate României în 2027.",
+    "fetched_at": "2026-05-28T14:23:58.452008"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/sport/sorana-cirstea-nu-este-singura-romanca-la-roland-2532888.html",
+    "title": "Sorana Cîrstea nu este singura româncă la Roland Garros. O junioare a trecut un tur în calificări",
+    "image": "https://cdn.adh.reperio.news/image-d/db1921a0-7a8e-4523-907a-0e31711525af/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.111%252C0.694%252C0.625%26f%3Djpeg&file=image.jpeg",
+    "time": "13:19",
+    "date": "28 May",
+    "content": "Maria Valentina Pop joacă pe zgura de la Paris.",
+    "fetched_at": "2026-05-28T14:23:59.048997"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/caldura-extrema-ar-putea-sterge-3-din-pib-ul-germaniei-pana-in-2030-potrivit-unei-analize-de-specialitate.html",
+    "title": "Căldura extremă ar putea şterge 3% din PIB-ul Germaniei până în 2030, potrivit unei analize de specialitate",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/04/dreamstime_l_327506122-1024x683.jpg",
+    "time": "13:22",
+    "date": "28 May",
+    "content": "Până în 2030, căldura extremă ar putea costa Germania până la 131 miliarde de dolari şi ar putea şterge 3% din PIB dacă persistă tiparul recentelor valuri de căldură, se arată într-o analiză a Allianz Trade, transmite agenția de știri Reuters, citată de Agerpres. În perioada 2026-2030, Germania se va confrunta cu pierderi de până [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688448"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/florin-manole-despre-noua-lege-a-salarizarii-veniturile-nu-vor-scadea-multe-sporuri-integrate-in-salariul-de-baza/",
+    "title": "Florin Manole, despre noua lege a salarizării: Veniturile nu vor scădea. Multe sporuri, integrate în salariul de bază | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/Florin-Manole-Inquam-Photos-George-Calin-200x200.jpg",
+    "time": "12:14",
+    "date": "28 May",
+    "content": "Noua lege a salarizării nu va afecta salariile bugetarilor, asigură fostul ministru al Muncii, Florin Manole, care precizează că anumite sporuri vor fi incluse în salariul de bază al angajaților. Prezent în cadrul emisiunii „România în direct”, moderată de jurnalistul Cătălin Striblea, Manole a explicat ce se va întâmpla cu sporurile. Florin Manole: Veniturile nu [&#8230;]",
+    "fetched_at": "2026-05-28T14:23:58.451974"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/penitenciare-ccr-lege-salarizare-guvern-demis/",
+    "title": "Federația sindicatelor din penitenciare cere Avocatului Poporului să sesizeze CCR pe legea salarizării | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2020/06/inchisoare-penitenciar-150x150.jpg",
+    "time": "08:57",
+    "date": "28 May",
+    "content": "Sindicatele din penitenciare cer Avocatului Poporului să sesizeze CCR privind legea salarizării, invocând faptul că un Guvern demis nu poate iniția reforme.",
+    "fetched_at": "2026-05-28T14:23:58.452042"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/pitesti/marturia-pasagerei-incatusate-dupa-bataia-intr-un-2532897.html",
+    "title": "Mărturia pasagerei încătușate după bătaia într-un autobuz din Pitești: „Am 38 de kg, nu am vrut să mă bat cu șoferul!”",
+    "image": "https://cdn.adh.reperio.news/image-f/fe1bf6cf-4a9f-4d9e-9117-774c51698e3e/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:14",
+    "date": "28 May",
+    "content": "Cazul șocant petrecut într-un autobuz din Pitești, miercuri seară, ia o nouă turnură după ce femeia luată în cătușe a oferit propria versiune asupra incidentului. De pe patul de spital, aceasta a susținut că nu ea a fost agresoarea, ci victima unui abuz violent.",
+    "fetched_at": "2026-05-28T14:23:59.048947"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/life-entertaiment/regula-necunoscuta-care-strica-finalul-concediului-pe-unele-insule-grecesti-23745248",
+    "title": "Regula necunoscută care strică finalul concediului pe unele insule grecești",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/pexels-zakynthos-1281685_1920-1024x681.jpg",
+    "time": "13:36",
+    "date": "28 May",
+    "content": "O regulă necunoscută poate strica finalul concediului în cazul turiștilor care se află pe unele insule grecești. Este vorba despre turiștii care călătoresc cu avionul. Avertismentul a fost lansat de un utilizator de TikTok.",
+    "fetched_at": "2026-05-28T14:23:57.137860"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/rata-somajului-a-scazut-la-324-in-aprilie-peste-259-000-de-persoane-figurau-in-evidentele-anofm-3789929",
+    "title": "Rata șomajului a scăzut la 3,24% în aprilie. Peste 259.000 de persoane figurau în evidențele ANOFM",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAzdHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTMl/MkYxMCUyRjE0JTJGMTQ4NTAzXzE0ODUw/M19TT01FUkktTWVkaWFmYXhfRm90by1M/aXZpdV9BZGFzY2FsaXRlaS5qcGcmaGFz/aD04MzQwZDQ1NmJkMDk3NjFkY2RjMDg4MTI4ZWI3NDA1Mg==.jpg",
+    "time": "17:06",
+    "date": "28 May",
+    "content": "Rata șomajului înregistrat la nivel național a fost de 3,24% la sfârșitul lunii aprilie 2026, în scădere cu 0,01 puncte procentuale față de luna martie și față de aceeași perioadă a anului trecut, potrivit datelor publicate joi de Agenția Națională pentru Ocuparea Forței de Muncă (ANOFM).",
+    "fetched_at": "2026-05-28T14:23:56.719589"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/moldova/scandal-in-parlamentul-de-la-chisinau-primarul-capitalei-de-peste-prut-a-dat-buza-in-plen-si-a-fost-scos-cu-forta-de-ofiterii-spps-3789871",
+    "title": "Scandal în Parlamentul de la Chișinău. Primarul Capitalei de peste Prut a dat buzna în plen și a fost scos cu forța de ofițerii SPPS",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMSUyRjE0JTJGMjQ0MjE3M18yNDQy/MTczX3BhcmxhbWVudHVsLXJlcHVibGlj/aWktbW9sZG92YS1jaGlzaW5hdS5qcGcm/aGFzaD03NTNlMjJhMGRjZmE2YmJkYTY3M2I1NDc5OTMxNjMxZQ==.jpg",
+    "time": "16:52",
+    "date": "28 May",
+    "content": "Scandal în plenul Parlamentului de la Chișinău. Primarul Capitalei de peste Prut, Ion Ceban, a dat buzna în sală, iar ședința a degenerat rapid în tensiuni și schimburi de replici între participanți. Președintele Parlamentului, Igor Grosu, l-a numit pe primarul capitalei „provocator”, acuzându-l de perturbarea ședinței.",
+    "fetched_at": "2026-05-28T14:23:56.719627"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/nadia-comaneci-va-fi-decorata-vineri-de-presedintele-nicusor-dan.html",
+    "title": "Nadia Comăneci va fi decorată vineri de președintele Nicușor Dan",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/11/Nadia-Comaneci-la-63-de-ani.jpg",
+    "time": "13:28",
+    "date": "28 May",
+    "content": "Nadia Comăneci, legendă a gimnasticii mondiale, va fi decorată vineri, 29 mai, de la ora 17:00, de către președintele Nicușor Dan, transmite Administrația Prezidențială. De altfel, anul 2026 a fost declarat oficial „Anul Nadia Comăneci”. Se împlinesc 50 de ani de la istoricul „10 perfect” al Nadiei de la Jocurile Olimpice de la Montreal din [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688431"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/atac-cu-cutitul-intr-o-gara-de-langa-orasul-elvetian-zurich-trei-persoane-au-fost-ranite.html",
+    "title": "Atac cu cuțitul într-o gară de lângă orașul elvețian Zurich / Trei persoane au fost rănite",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/11/Politie-Elvetia-masina-politie-elvetia-1024x474.jpg",
+    "time": "13:47",
+    "date": "28 May",
+    "content": "Un bărbat a rănit trei persoane cu un cuţit joi dimineaţă în gara din oraşul Winterthur, în apropiere de Zurich, înainte de a fi arestat de forţele de ordine, a anunţat poliţia elveţiană, relatează agențiile de știri AFP şi Reuters, citate de Agerpres. &#8222;La scurt timp după ora locală 08:30 (06:30 GMT), un bărbat a [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688407"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/bnr-riscuri-curs-valutar-stabilitate-politica/",
+    "title": "BNR avertizează că riscurile pentru cursul valutar rămân ridicate în contextul instabilității politice și dezminte informațiile potrivit cărora cursul",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/Leu-Euro-Shutterstock-3-200x200.jpg",
+    "time": "11:21",
+    "date": "28 May",
+    "content": "Banca Națională avertizează că riscurile pentru cursul de schimb rămân ridicate și spune că este nevoie de stabilitate politică și guvernamentală. Un euro a ajuns la 5,24 lei.",
+    "fetched_at": "2026-05-28T14:23:58.452001"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/comunicate/sgs-a-aparut-versiunea-7-a-fssc-22000-ce-noutati-aduce-23745277",
+    "title": "SGS: A apărut versiunea 7 a FSSC 22000 Ce noutăți aduce?",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/sgs-fssc-1024x614.jpg",
+    "time": "14:17",
+    "date": "28 May",
+    "content": "Industria alimentară traversează o perioadă de transformări accelerate, în care siguranța produselor, trasabilitatea, sustenabilitatea și reziliența lanțurilor de aprovizionare devin priorități strategice. În acest context, noua versiune a FSSC 22000 marchează una dintre cele mai importante actualizări din ultimii ani pentru organizațiile din sectorul alimentar.",
+    "fetched_at": "2026-05-28T14:23:57.137821"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sport/balonul-de-aur-paraseste-parisul-unde-va-avea-loc-gala-din-2026-23745280",
+    "title": "Balonul de Aur părăsește Parisul. Unde va avea loc gala din 2026",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/8095790-mediafax_foto-abacapress_hepta-1024x700.jpg",
+    "time": "14:17",
+    "date": "28 May",
+    "content": "Ceremonia Balonului de Aur 2026 va avea loc la Londra, pentru prima dată în istoria competiției, au anunțat organizatorii premiului considerat cel mai prestigios din fotbalul mondial.",
+    "fetched_at": "2026-05-28T14:23:57.137803"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/record-viteza-everest-andrews-tyler/",
+    "title": "Un american a stabilit un nou record de viteză pe Everest: a ajuns pe cel mai înalt vârf din lume în mai puțin de 10 ore",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/munte-everest-foto-shutterstock-200x200.jpg",
+    "time": "12:37",
+    "date": "28 May",
+    "content": "Alpinistul american Andrews Tyler a stabilit un nou record de viteză pe Everest, după ce a urcat pe cel mai înalt vârf din lume în mai puțin de 10 ore.",
+    "fetched_at": "2026-05-28T14:23:58.451953"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/fratii-tate-vor-sa-se-mute-la-cluj-napoca-si-sa-cumpere-un-hotel-celebru-cladire-istorica-unde-sa-locuiasca-reactia-clujenilor-3789877",
+    "title": "Frații Tate vor să se mute la Cluj-Napoca și să cumpere un hotel celebru, clădire istorică, unde să locuiască. Ce spune primăria",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMiUyRjI3JTJGMjE5OTQzMF8yMTk5/NDMwX2ZyYXRpaS10YXRlLWlucXVhbS1v/Y3Rhdi1nYW5lYS5qcGcmaGFzaD04ZmRi/MWRmZjcwYjg3OTIxODVjZmZkYWVlMGRjZmIyNQ==.jpg",
+    "time": "16:59",
+    "date": "28 May",
+    "content": "Controversații frați Tate fac din nou valuri. Andrew și Tristan vor să se mute la Cluj-Napoca, unde intenționează să cumpere un hotel celebru. Clădirea este însă una istorică. De aici și reacția Primăriei, care spune că statul are prioritate la cumpărarea acestui hotel.",
+    "fetched_at": "2026-05-28T14:23:56.719620"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/rusia/seful-spionajului-rus-acuza-nato-ca-planifica-un-conflict-de-amploare-in-est-ce-a-spus-serghei-nariskin-despre-ue-3789867",
+    "title": "Șeful spionajului rus acuză NATO că planifică un „conflict de amploare în est”. Ce a spus Serghei Narîșkin despre UE",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMiUyRjEzJTJGMjE4OTg3MV8yMTg5/ODcxX1NlcmdoZWktTmFyaXNraW4uanBn/Jmhhc2g9ZDNjMWRhMWI5MGIxNTM1MTc2NDg3ZjJjZjBlNTExZjM=.jpg",
+    "time": "16:48",
+    "date": "28 May",
+    "content": "Șeful spionajului rus a acuzat NATO că se pregătește pentru un „conflict de amploare în est”. Afirmația vine în contextul în care două surse au afirmat pentru Reuters, în urmă cu o zi, că Alianța Nord-Atlantică va consolida apărarea flancului său estic cu o nouă structură care va facilita desfăşurarea rapidă a forţelor în Letonia şi Estonia în cazul unui război cu Rusia.",
+    "fetched_at": "2026-05-28T14:23:56.719647"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/influencerul-andrew-tate-chemat-la-diicot-pentru-a-i-se-aduce-la-cunostinta-o-noua-acuzatie-incitare-la-ura-impotriva-femeilor.html",
+    "title": "Influencerul Andrew Tate, chemat la DIICOT pentru a i se aduce la cunoștință o nouă acuzație – incitare la ură împotriva femeilor",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/03/INSTANT_TATE_006_INQUAM_Photos_Eduard_Vinatoru-1024x683.jpg",
+    "time": "14:02",
+    "date": "28 May",
+    "content": "Procurorii DIICOT &#8211; Structura Centrală au dispus joi extinderea cercetărilor, sub aspectul săvârșirii infracțiunii de incitare la ură sau discriminare, față de Andrew Tate, în legătură cu discursurile promovate de acesta în social media, prin care a incitat publicul la ură și discriminare împotriva femeilor. DIICOT a dat publicității un comunicat pe această temă, fără [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688398"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/economic/un-gigant-apare-in-zootehnie-unde-se-construieste-un-complex-urias-pentru-zeci-de-mii-de-bovine-destinate-exportului-23745274",
+    "title": "Un gigant apare în zootehnie. Unde se construiește un complex uriaș pentru zeci de mii de bovine destinate exportului",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/bovina.jpg",
+    "time": "14:12",
+    "date": "28 May",
+    "content": "Un gigant apare în domeniul zootehniei. Un complex în care vor sta zecii de mii de vite va fi construit în Brazilia. Ferma uriașă va ocupa 158 de hectare, iar bovinele vor fi crescute pentru a fi exportate.",
+    "fetched_at": "2026-05-28T14:23:57.137835"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/petrisor-peiu-dezvaluiri-despre-discutiile-de-la-2532879.html",
+    "title": "Petrișor Peiu, dezvăluiri despre discuțiile de la Cotroceni: ce spune despre varianta Eugen Tomac premier",
+    "image": "https://cdn.adh.reperio.news/image-4/492003e0-b68c-4fa5-8b95-dc58905e664a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "12:55",
+    "date": "28 May",
+    "content": "Liderul senatorilor AUR, Petrișor Peiu, a declarat joi că partidul nu ar susține în Parlament o eventuală nominalizare a europarlamentarului Eugen Tomac pentru funcția de prim-ministru.",
+    "fetched_at": "2026-05-28T14:23:59.049015"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/de-ce-banca-transilvania-trimite-doi-clienti-sa-2532908.html",
+    "title": "De ce Banca Transilvania trimite doi clienți să fie alături de echipa McLaren Mastercard F1? Experiența neprețuită care vine la pachet cu un card banc",
+    "image": "https://cdn.adh.reperio.news/image-b/b9ce2929-040d-4e78-b916-52e173ba381a/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:01",
+    "date": "28 May",
+    "content": "Banca Transilvania oferă acces la o experiență exclusivă de Formula 1 printr-un quiz online. Condiția: să fii clientul potrivit. Căci momentul potrivit pare chiar acesta!",
+    "fetched_at": "2026-05-28T14:23:59.048980"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/trei-petroliere-au-fost-atacate-de-drone-in-marea-neagra-reuters.html",
+    "title": "Trei petroliere au fost atacate de drone în Marea Neagră (Reuters)",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/07/Screenshot-2025-07-17-at-17.05.54-1024x545.jpg",
+    "time": "13:31",
+    "date": "28 May",
+    "content": "Trei petroliere au fost atacate cu drone în largul coastelor Turciei, în Marea Neagră, în timp ce una dintre nave se îndrepta spre Novorossiisk, transmite MEDIAFAX. Dronele au atacat trei petroliere în largul coastei de nord a Mării Negre a Turciei, relatează joi Reuters, citând date de la compania de transport maritim Tribeca. Potrivit Marinetraffic [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688423"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/romania-in-direct-noua-lege-a-salarizarii-trebuie-sa-fie-platiti-mai-bine-bugetarii/",
+    "title": "România în Direct. Noua lege a salarizării. Trebuie să fie plătiți mai bine bugetarii?",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/10/FotoJet-2025-10-28T141723.086-200x200.jpg",
+    "time": "09:54",
+    "date": "28 May",
+    "content": "Partidele din fosta coaliție de guvernare au ajuns la un acord care prevede adoptarea noii legi a salarizării. Potrivit acestora, veniturile angajaților de la stat nu vor scădea. Mai mult, anvelopa salarială a bugetarilor va crește cu 8 miliarde de lei. Pe de altă parte, legea a dus la numeroase proteste ale sindicatelor, care spun [&#8230;]",
+    "fetched_at": "2026-05-28T14:23:58.452023"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/studiu-un-test-sangvin-ofera-perspective-promitatoare-pentru-personalizarea-terapiei-impotriva-cancerului-pulmonar.html",
+    "title": "STUDIU: Un test sangvin oferă perspective promiţătoare pentru personalizarea terapiei împotriva cancerului pulmonar",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/03/plamani-analiza-sanatate-doctor-1024x683.jpg",
+    "time": "13:18",
+    "date": "28 May",
+    "content": "Un singur test de sânge ar putea să îi ajute pe medici să prevadă modul în care pacienţii cu cancer pulmonar vor răspunde la tratament înainte de începerea terapiei, a dezvăluit un studiu condus de cercetători din Australia, informează agenția de știri Xinhua, citată de Agerpres. Concentrându-se pe cancerul pulmonar fără celule mici (NSCLC), cea [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688456"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/satu-mare/un-pacient-se-afla-in-coma-dupa-ce-a-incercat-sa-2532885.html",
+    "title": "Un pacient se află în comă, după ce a încercat să fugă din spitalul din Carei pe geamul băii și a căzut de la etaj",
+    "image": "https://cdn.adh.reperio.news/image-f/fe54a4f8-c75c-4ed2-bb2a-652194b5068c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:14",
+    "date": "28 May",
+    "content": "Un bărbat de 67 de ani din Tiream a ajuns în stare gravă la Terapie Intensivă după ce a căzut de la etajul 1 al Spitalului Municipal Carei, în timp ce ar fi încercat să părăsească unitatea medicală pe geamul băii. Autorităţile au deschis o anchetă.",
+    "fetched_at": "2026-05-28T14:23:59.049002"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/emil-constantinescu-dezvaluie-ca-a-fost-la-un-pas-2532884.html",
+    "title": "Emil Constantinescu dezvăluie că a fost la un pas să fie asasinat de un om de încredere al lui Iliescu. Cine a oprit „execuția”",
+    "image": "https://cdn.adh.reperio.news/image-9/98271396-2121-453d-b214-3b3dd2eedcef/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:40",
+    "date": "28 May",
+    "content": "Fostul președinte al României Emil Constantinescu a vorbit într-un interviu acordat recent despre un eveniment din 1999, când a fost la un pas de a fi asasinat.",
+    "fetched_at": "2026-05-28T14:23:59.048991"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/de-ce-cresc-temerile-privind-o-posibila-2532672.html",
+    "title": "De ce cresc temerile privind o posibilă confruntare între Rusia și NATO. Unde poate ataca Putin",
+    "image": "https://cdn.adh.reperio.news/image-2/2d73ebfb-9f81-4e36-9a35-b84b027ec034/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:01",
+    "date": "28 May",
+    "content": "Pe fondul consolidării flancului estic al NATO și al războiului din Ucraina, analiști și oficiali din Europa de Est discută tot mai des despre posibilitatea unor noi tensiuni în regiunea baltică.",
+    "fetched_at": "2026-05-28T14:23:59.049008"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/kaja-kallas-crede-ca-razboiul-incepe-sa-se-intoarca-impotriva-rusiei-moscova-e-in-defensiva-3789873",
+    "title": "Kaja Kallas crede că războiul începe să se întoarcă împotriva Rusiei: „Moscova e în defensivă”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMyUyRjE5JTJGMjIxNjE3Nl8yMjE2/MTc2X0thamEtS2FsbGFzLTEuanBnJmhh/c2g9MGMyNjk5MTYyNzdhZmMwZTYzYTAzMWUyODQzZWFhYzU=.jpg",
+    "time": "17:04",
+    "date": "28 May",
+    "content": "Șefa politicii externe a Uniunii Europene, Kaja Kallas, afirmă că Rusia traversează un moment dificil pe plan militar, economic și diplomatic, susținând că evoluția războiului începe să favorizeze Ucraina. Oficialul european spune însă că ultimele atacuri asupra Kievului arată că Moscova „nu manifestă încă un interes real pentru pace”, conform The Guardian.",
+    "fetched_at": "2026-05-28T14:23:56.719613"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/uniunea-europeana-a-sanctionat-compania-temu-cu-o-amenda-de-200-de-milioane-de-ce-sunt-acuzati-comerciantii-chinezi-3789931",
+    "title": "Uniunea Europeană a sancționat compania Temu cu o amendă de 200 de milioane $. De ce sunt acuzați comercianții chinezi",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI4JTJGMjc1MTEyOF8yNzUx/MTI4X3Byb2ZpbWVkaWEtMDk4NDA0Nzkx/OS5qcGcmaGFzaD02ZmFmNDgxYWJiZmQxNTMzNTk0ZWY2MTkxNjJlMDFkMg==.jpg",
+    "time": "17:06",
+    "date": "28 May",
+    "content": "Comisia Europeană a aplicat gigantului chinez de comerț electronic Temu o amendă de 200 de milioane de euro pentru că nu și-a verificat serviciul în ceea ce privește produsele ilegale vândute în Europa.",
+    "fetched_at": "2026-05-28T14:23:56.719601"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/bnr-a-lansat-monede-dedicate-implinirii-a-50-de-ani-de-la-primul-10-obtinut-de-nadia-comaneci-la-jocurile-olimpice-3789969",
+    "title": "BNR a lansat monede dedicate împlinirii a 50 de ani de la primul 10 obţinut de Nadia Comăneci la Jocurile Olimpice",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI4JTJGMjc1MTEzOF8yNzUx/MTM4X05hZGlhLUNvbWFuZWNpLmpwZyZo/YXNoPWI0NTcxNDEzYjk3MDBjMGYzY2Q1MWYwZmIxMjNhYjVh.jpg",
+    "time": "17:21",
+    "date": "28 May",
+    "content": "Banca Naţională a României a lansat în circuitul numismatic o monedă din aur, o monedă din argint şi o monedă din tombac cuprat cu tema 50 de ani de la obţinerea primei note de 10 din istoria Jocurilor Olimpice la gimnastică feminină, notă obţinută de Nadia Comăneci.",
+    "fetched_at": "2026-05-28T14:23:56.719568"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/comunicate/securizarea-productiei-de-legume-intr-o-piata-tot-mai-competitiva-23745267",
+    "title": "Securizarea producției de legume într-o piață tot mai competitivă",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/crop_corteva-agriscience-1024x576.jpeg",
+    "time": "13:47",
+    "date": "28 May",
+    "content": "Sectorul producției de legume reprezintă un pilon esențial al economiei agricole a României și joacă un rol important la nivelul Uniunii Europene. Conform datelor Institutului Național de Statistică (INS)1, producția de legume a României a atins aproximativ 2,53 milioane de tone în 2025, marcând o creștere semnificativă de aproximativ 20,8% comparativ cu anul precedent.",
+    "fetched_at": "2026-05-28T14:23:57.137854"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/turisti-romani-inteligenta-artificiala-planificare-vacante/",
+    "title": "Vacanțele în era inteligenței artificiale. 64% dintre românii care călătoresc folosesc instrumente AI pentru planificarea vacanțelor, arată un sondaj ",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/telefon-planificare-vacanta-foto-shutterstock-200x200.jpg",
+    "time": "11:43",
+    "date": "28 May",
+    "content": "Un studiu realizat în mai multe țări din Europa Centrală și de Est arată că aproape doi din trei turiști români folosesc Inteligența Artificială pentru vacanțe și economii de călătorie.",
+    "fetched_at": "2026-05-28T14:23:58.451994"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/sua-mentin-ambasada-deschisa-la-kiev-in-ciuda-avertismentelor-kremlinului-23745271",
+    "title": "SUA mențin ambasada deschisă la Kiev, în ciuda avertismentelor Kremlinului",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/02/steag-sua-1024x685.jpg",
+    "time": "13:52",
+    "date": "28 May",
+    "content": "Statele Unite au anunțat că ambasada lor din Ucraina va rămâne deschisă, în pofida avertismentelor lansate de Moscova, potrivit cărora diplomații străini care rămân la Kiev riscă să fie loviți de bombardamente.",
+    "fetched_at": "2026-05-28T14:23:57.137848"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/video-surpriza-anului-in-tenis-jannik-sinner-eliminat-de-la-roland-garros-dupa-ce-a-condus-cu-2-0-la-seturi-si-5-1.html",
+    "title": "VIDEO Surpriza anului în tenis: Jannik Sinner, eliminat de la Roland Garros după ce a condus cu 2-0 la seturi și 5-1",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/8048557-Hepta_Mediafax_Foto-DPA_Hepta-1024x683.jpg",
+    "time": "13:46",
+    "date": "28 May",
+    "content": "Juan Manuel Cerundolo (locul 56 mondial) a reușit joi surpriza anului în tenisul masculin: l-a eliminat de la Roland Garros în turul al doilea pe Jannik Sinner, liderul ATP. Italianul a pierdut un meci în care a avut 2-0 la seturi și 5-1. Sinner a fost în control total până la un pas de încheierea [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-28T14:23:59.688415"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/urs-agresiv-impuscat-dumitresti-vrancea/",
+    "title": "Un urs văzut de de mai multe ori în satul Dumitrești, Vrancea, a fost împușcat după ce a atacat echipa de intervenție | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/07/ursi-animal-foto-shutterstock-200x200.jpg",
+    "time": "12:10",
+    "date": "28 May",
+    "content": "Un urs care a intrat în gospodăriile oamenilor din Dumitrești, Vrancea, a fost împușcat după ce a devenit agresiv în timpul unei intervenții de tranchilizare.",
+    "fetched_at": "2026-05-28T14:23:58.451986"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/cost-banchet-clasa-8-parinti-cheltuieli-2026/",
+    "title": "Cât costă un banchet de clasa a VIII-a în 2026. Părinții ajung să plătească și 2.000 de lei pentru un copil | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/09/FotoJet-16-1-200x200.jpg",
+    "time": "10:33",
+    "date": "28 May",
+    "content": "Este perioada banchetelor pentru elevii din anii terminali. Bucuria unei petreceri cu colegii și profesorii de care urmează să te desparți este, însă, un mare stres pentru unii părinți, din cauza costurilor tot mai ridicate. În cazul elevilor de clasa a VIII-a, costurile variază între 800 și 1.000 de lei, la care se adaugă cheltuielile [&#8230;]",
+    "fetched_at": "2026-05-28T14:23:58.452016"
+  },
+  {
+    "source": "Mediafax",
     "url": "https://www.mediafax.ro/social/bnr-a-lansat-monedele-dedicate-marcarii-a-50-de-ani-de-la-primul-10-perfect-din-istorie-obtinut-de-nadia-comaneci-la-jocurile-olimpice-de-la-montreal-23745139",
     "title": "BNR a lansat monedele dedicate marcării a 50 de ani de la primul 10 perfect din istorie, obținut de Nadia Comăneci la Jocurile Olimpice de la Montreal",
     "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/isarescu-nadia-1024x577.jpg",
