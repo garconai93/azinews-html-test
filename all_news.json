@@ -1,5 +1,475 @@
 [
   {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/bucuresti/restrictii-de-trafic-pe-dn1-si-in-zona-pasajului-2533145.html",
+    "title": "Restricții de trafic pe DN1 și în zona Pasajului Băneasa. Circulația va fi deviată începând din noaptea de vineri spre sâmbătă",
+    "image": "https://cdn.adh.reperio.news/image-f/fc7d1959-c21d-4ed6-beb5-600d8e7f4192/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:23",
+    "date": "29 May",
+    "content": "Vor fi restricții de circulație pe DN1, în zona Pasajului Băneasa și a intersecției dintre DN1 și Bulevardul Aerogării, ca urmare a unor lucrări de infrastructură.",
+    "fetched_at": "2026-05-29T13:47:28.043359"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/bolojan-a-discutat-cu-maia-sandu-despre-consolidarea-apararii-pe-flancul-estic-dupa-incidentul-cu-drona-de-la-galati-3792021",
+    "title": "Bolojan a discutat cu Maia Sandu despre consolidarea apărării pe flancul estic, după incidentul cu drona de la Galați",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMyUyRjAxJTJGMjIwMTE1Ml8yMjAx/MTUyX2ZvdG8tbWFpYS1jdS1ib2xvLmpw/ZyZoYXNoPTI3YWI3YzVjNjI2NWViYWNlZTBmMGMzYzI3MGQ4NzVk.jpg",
+    "time": "16:08",
+    "date": "29 May",
+    "content": "Ilie Bolojan a discutat, vineri la Chișinău, cu președinta Republicii Moldova Maia Sandu despre securitatea regională, în contextul incidentului de la Galați, unde o dronă a căzut peste un bloc de locuințe. Premierul interimar a subliniat necesitatea consolidării apărării pe flancul estic al NATO și a cooperării cu partenerii europeni pentru gestionarea riscurilor de securitate generate de războiul din Ucraina.",
+    "fetched_at": "2026-05-29T13:47:25.878338"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/surse-nicusor-dan-merge-la-galati-dupa-incidentul-2533143.html",
+    "title": "Nicușor Dan a ajuns la Galați după incidentul cu drona prăbușită pe un bloc: șeful statului vizitează mama și copilul răniți în urma exploziei",
+    "image": "https://cdn.adh.reperio.news/image-6/6baf3091-805b-4086-b09f-5dd95b0e2935/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:08",
+    "date": "29 May",
+    "content": "Președintele Nicușor Dan a ajuns vineri, 29 mai, la Galați în urma incidentului grav produs în cursul nopții, când o dronă rusească a lovit un bloc de locuințe din centrul orașului.",
+    "fetched_at": "2026-05-29T13:47:28.043365"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/in-lume/oms-anunta-ca-un-prim-bolnav-de-ebola-s-a-2533140.html",
+    "title": "OMS anunță că un prim bolnav de Ebola s-a însănătoșit și se așteaptă „ca multe persoane să se vindece”",
+    "image": "https://cdn.adh.reperio.news/image-2/21dadcab-1bee-4450-ab42-d0d77ba7b6fb/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:03",
+    "date": "29 May",
+    "content": "Organizația Mondială a Sănătății (OMS) a anunțat vineri, 29 mai, că un prim pacient confirmat pozitiv cu virusul care cauzează epidemia de ebola în Republica Democratică Congo (RDC) a fost declarat vindecat miercuri.",
+    "fetched_at": "2026-05-29T13:47:28.043370"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/trebuie-sa-fie-pierderi-de-vieti-ca-sa-se-ia-masuri-fosta-prefecta-a-galatiului-dupa-drona-ruseasca-23746038",
+    "title": "„Trebuie să fie pierderi de vieți ca să se ia măsuri?” – fosta prefectă a Galațiului, după drona rusească",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/8133200-mediafax_foto-sorin_pana-1-1024x768.jpg",
+    "time": "13:37",
+    "date": "29 May",
+    "content": "Andreea Naggar, fosta prefectă a județului Galați, spune că a cerut măsuri de protecție după incidentul cu dronă din 25 aprilie, dar Ministerul Apărării nu a transmis niciun răspuns. „Dacă se luau măsuri, probabil că nu am mai fi fost în această situație\", a spus ea.",
+    "fetched_at": "2026-05-29T13:47:26.383058"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/pacient-mort-dupa-o-transfuzie-cu-sange-incompatibil-asistent-ati-trimis-in-judecata-pentru-ucidere-din-culpa-3792097",
+    "title": "Pacient mort după o transfuzie cu sânge incompatibil. Asistent ATI trimis în judecată pentru ucidere din culpă",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI5JTJGMjc1MjE0OF8yNzUy/MTQ4X3Byb2ZpbWVkaWEtMTA5MTg4Mjc2/Ny5qcGcmaGFzaD1jOGIyNThiMjFiYjU3MzUzNGEwZjY5YjIwNWRiNzJkZQ==.jpg",
+    "time": "16:41",
+    "date": "29 May",
+    "content": "Un asistent medical ATI de la o clinică privată din București a fost trimis în judecată pentru ucidere din culpă, după ce ar fi administrat unui pacient o transfuzie cu sânge incompatibil, fără să verifice corespunzător grupa sanguină și fără supravegherea strictă a unui medic. Potrivit procurorilor, eroarea a provocat un șoc hemolitic și insuficiență multiplă de organe, iar pacientul a murit la cinci zile după incident.",
+    "fetched_at": "2026-05-29T13:47:25.878296"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/restrictii-de-circulatie-in-ungaria-sambata-pentru-camioanele-de-mare-tonaj.html",
+    "title": "Restricții de circulație în Ungaria, sâmbătă, pentru camioanele de mare tonaj",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/10/WhatsApp-Image-2023-08-03-at-19.03.30-2-e1718891243934-1024x620.jpeg",
+    "time": "13:26",
+    "date": "29 May",
+    "content": "Ministerul Afacerilor Externe (MAE) informează transportatorii de marfă români care se află, tranzitează sau intenţionează să călătorească în Ungaria că sâmbătă, în intervalul orar 5:00 &#8211; 17:00, ora locală, în ţara vecină vor fi introduse restricţii de trafic pentru camioanele de mare tonaj, transmite Agerpres. Potrivit unui comunicat al MAE transmis Agerpres, scopul acestei măsuri [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671239"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/reactia-germaniei-dupa-ce-o-drona-ruseasca-a-cazut-2533146.html",
+    "title": "Reacția Germaniei după ce o dronă rusească a căzut la Galați: „Suntem pregătiți să apărăm fiecare centimetru din teritoriul aliat”",
+    "image": "https://cdn.adh.reperio.news/image-a/aea249e4-1ab7-43da-945d-8649e444a4b4/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:36",
+    "date": "29 May",
+    "content": "Cancelarul Germaniei, Friedrich Merz, a transmis un mesaj ferm de susținere pentru România și aliații NATO după incidentul cu drone rusești care a vizat zona Galați și a provocat rănirea unor cetățeni români.",
+    "fetched_at": "2026-05-29T13:47:28.043346"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/un-cetatean-al-greciei-a-fost-inculpat-pentru-vizarea-unui-jurnalist-iranian-de-opozitie-rezident-in-marea-britanie-doi-romani-sunt-judecati-la-londra-in-acelasi-caz.html",
+    "title": "Un cetățean al Greciei a fost inculpat pentru vizarea unui jurnalist iranian de opoziție  rezident în Marea Britanie. Doi români sunt judecați la Lond",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/02/Curtea-de-Magistrati-Westminster-1024x683.jpg",
+    "time": "12:57",
+    "date": "29 May",
+    "content": "“Ioannis Aidinidis, în vârstă de 46 de ani, cetățean grec cu domiciliul în München, Germania, a fost trimis în judecată vineri, 29 mai, de complicitate cu un serviciu de informații străin, încălcând astfel secțiunea 3 (2) din Legea privind securitatea națională din 2023. Se bănuiește că țara la care se referă acuzațiile este Iranul, iar [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671290"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/pastor-penticostal-din-bucuresti-trimis-in-judecata-sub-acuzatia-ca-a-violat-o-fata-de-15-ani.html",
+    "title": "Pastor penticostal din București, trimis în judecată sub acuzaţia că a violat o fată de 15 ani",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/09/viol-abuz-acuzatii-sexuale-violenta-domestica-bataie-depresie-anxietate-singuratate-suferinta-tanara-fata-adolescenta-abuzata-tinere-fete-1024x683.jpg",
+    "time": "13:43",
+    "date": "29 May",
+    "content": "Un pastor penticostal, în vârstă de 72 de ani, a fost trimis în judecată de procurori sub acuzaţia că a agresat sexual şi a violat o fată de 15 ani, transmite Agerpres. &#8222;În cauză s-a reţinut că, în perioada 2021 &#8211; 2022, inculpatul, având calitatea de pastor la o biserică penticostală situată în Bucureşti, a [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671221"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/dosar-penal-pentru-drona-ruseasca-prabusita-intr-un-bloc-din-galati-tentativa-de-omor-calificat-si-distrugere-23745625",
+    "title": "UPDATE: Dosar penal pentru drona rusească prăbușită într-un bloc din Galați: Tentativă de omor calificat și distrugere | PÎCCJ a preluat dosarul drone",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/8133191-mediafax_foto-sorin_pana-1-1024x638.jpg",
+    "time": "13:02",
+    "date": "29 May",
+    "content": "Procurorii Parchetului de pe lângă Curtea de Apel Galați au deschis dosar penal după explozia dronei rusești. Se cercetează tentativă de omor calificat, distrugere și încălcarea Codului aerian.",
+    "fetched_at": "2026-05-29T13:47:26.383100"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/premierul-slovac-robert-fico-reactioneaza-dupa-ce-o-drona-a-lovit-un-bloc-din-galati-ue-trebuie-sa-inceapa-imediat-dialogul-cu-rusia.html",
+    "title": "Premierul slovac Robert Fico reacționează după ce o dronă a lovit un bloc din Galați: „UE trebuie să înceapă imediat dialogul cu Rusia”",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/drona-bloc-Galati-12-1024x576.jpeg",
+    "time": "13:34",
+    "date": "29 May",
+    "content": "Premierul slovac Robert Fico a reacționat după prăbușirea unei drone asupra unui bloc de locuințe din Galați, cel mai grav incident produs pe teritoriul României în contextul războiului din Ucraina, transmite MEDIAFAX. Liderul de la Bratislava a cerut deschiderea urgentă a unui dialog între Uniunea Europeană și Federația Rusă și a făcut apel la evitarea [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671231"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/societate/la-74-de-ani-se-trezeste-la-4-dimineata-si-merge-2533142.html",
+    "title": "La 74 de ani, se trezește la 4 dimineața și merge la serviciu: povestea pensionarei care a uimit un manager: „Omului în vârstă îi trebuie mișcare”",
+    "image": "https://cdn.adh.reperio.news/image-1/1d59baf3-e251-4c03-8d18-1c11c2e611fd/index.webp?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:43",
+    "date": "29 May",
+    "content": "O femeie de 74 de ani din Bistrița demonstrează că vârsta nu este o barieră atunci când există dorință de muncă.",
+    "fetched_at": "2026-05-29T13:47:28.043338"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue-a-decis-deblocarea-a-miliarde-de-euro-pentru-ungaria-3792003",
+    "title": "UE a decis deblocarea a miliarde de euro pentru Ungaria",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI5JTJGMjc1MjExOV8yNzUy/MTE5X1Vyc3VsYS12b24tZGVyLUxleWVu/LXNpLVBldGVyLU1hZ3lhcl8tRm90by1Q/cm9maW1lZGlhLmpwZyZoYXNoPTZlZmVl/MTFkMTU2Mjk5NzkyOWE2YTFhMzNkMDQzOGVl.jpg",
+    "time": "16:03",
+    "date": "29 May",
+    "content": "Progresele înregistrate de Ungaria în materie de reforme sub noul guvern condus de Peter Magyar permit Uniunii Europene să deblocheze miliarde de euro pentru această țară din fondurile de redresare și de coeziune, a declarat Comisia Europeană, potrivit TVPWorld.",
+    "fetched_at": "2026-05-29T13:47:25.878346"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-contractele-safe-se-semneaza-zilele-acestea-si-livrarea-o-sa-avem-intr-un-an-sau-doi-3791967",
+    "title": "Nicușor Dan: Contractele SAFE se semnează zilele acestea și livrarea o să avem într-un an sau doi",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA4JTJGMjY3ODE3Nl8yNjc4/MTc2X25pY3Vzb3ItZGFuLWNvbmZlcmlu/dGEtaW5xdWFtLW9jdGF2LWdhbmVhLTQu/cG5nJmhhc2g9NDM2NjZlNzg0MmI2NTRlYTY5NWNjMTI5Y2VjZDE3ZjU=.png",
+    "time": "15:48",
+    "date": "29 May",
+    "content": "Președintele Nicușor Dan a declarat, vineri, că în perioada următoare vor fi semnate contractele din cadrul programului SAFE, care vizează dotarea României cu capabilități antiaeriene, în contextul incidentului de la Galați, unde o dronă provenită din Rusia s-a prăbușit peste un bloc de locuințe.",
+    "fetched_at": "2026-05-29T13:47:25.878373"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/parlamentul-poloniei-a-adoptat-legea-parteneriatului-civil-insa-presedintele-nawrocki-a-anuntat-ca-nu-o-va-promulga-3792005",
+    "title": "Parlamentul Poloniei a adoptat legea parteneriatului civil, însă președintele Nawrocki a anunțat că nu o va promulga",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI5JTJGMjc1MjExM18yNzUy/MTEzX3Byb2ZpbWVkaWEtMTA5NDM1MDM1/Ni5qcGcmaGFzaD04MDJkNzU5NmQxODBmMmI2NGYwMWMzNTRmNjE5ZWUwMg==.jpg",
+    "time": "16:00",
+    "date": "29 May",
+    "content": "Parlamentul de la Varșovia a adoptat vineri o lege care permite înregistrarea parteneriatelor civile, însă președintele conservator al Poloniei Karol Nawrocki a anunțat că nu o va promulga.",
+    "fetched_at": "2026-05-29T13:47:25.878352"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/sua-interzice-dronele-deasupra-stadioanelor-unde-vor-avea-loc-meciuri-la-cm-2026-de-fotbal.html",
+    "title": "SUA interzice dronele deasupra stadioanelor unde vor avea loc meciuri la CM 2026 de fotbal",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/06/CM-2026-logo.jpg",
+    "time": "13:12",
+    "date": "29 May",
+    "content": "Administraţia Federală a Aviaţiei din SUA a precizat că prezența dronelor va fi strict interzisă deasupra arenelor în timpul duelurilor contând pentru Campionatul Mondial de fotbal din vara acestui an. De asemenea, dronele vor fi interise și deasupra locurilor unde fanii se vor aduna cu ocazia meciurilor de fotbal. Explicația este simplă: pentru a consolida [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671265"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/mapn-drona-ruseasca-galati-sisteme-antidrone-safe/",
+    "title": "MApN, precizări despre riscurile doborârii imediate a dronei care a căzut la Galați: Oricum ai încadra o țintă, riști fie ca ea să se ducă în Ucraina,",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/drona-explozie-galati-foto-inquam-george-calin-200x200.jpg",
+    "time": "09:46",
+    "date": "29 May",
+    "content": "Cristian Popovici, reprezentant al MApN, spune că România este limitată în interceptarea dronelor rusești în apropierea graniței și cere sprijin suplimentar din partea aliaților NATO.",
+    "fetched_at": "2026-05-29T13:47:27.572617"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/justitie/un-comisar-sef-de-la-politia-sectorului-3-a-fost-prins-in-flagrant-primind-mita-50-000-de-lei-dna-3791977",
+    "title": "Un comisar-şef de la Poliţia Sectorului 3 a fost prins în flagrant primind mită 50.000 de lei (DNA)",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI3JTJGMjc0OTE3MV8yNzQ5/MTcxX0lEMzM2NzRfSU5RVUFNX1Bob3Rv/c19MaXZpdS1GbG9yaW5fQWxiZWktc2Nh/bGVkLTEuanBnJmhhc2g9NDkyZGY3MjBhMDgzYmU4YTM1MDgxY2MyZWQzM2UxZjU=.jpg",
+    "time": "15:46",
+    "date": "29 May",
+    "content": "DNA a anunțat vineri arestarea unui comisar-şef în cadrul Poliţiei Sectorului 3, care a fost prins în flagrant când primea 50.000 de lei mită de la o persoană cercetată într-un dosar de evaziune fiscală.",
+    "fetched_at": "2026-05-29T13:47:25.878358"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/armata-transmite-mesaje-de-linistire-a-populatiei-pe-retelele-de-socializare-in-aparare-curajul-nu-inseamna-sa-apesi-pe-tragaci-siguranta-cetatenilor-este-prioritatea-no.html",
+    "title": "Armata transmite mesaje de liniștire a populației, pe rețelele de socializare / „În apărare, curajul nu înseamnă să apeși pe trăgaci”/„Siguranța cetăț",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/mapn.png",
+    "time": "13:17",
+    "date": "29 May",
+    "content": "Ministerul Apărării Naționale a postat, la interval de 30 de minute, două clipuri video în care miliari transmit mesaje românilor. Și să explice de ce nu a fost doborâtă drona care a lovit un bloc din Galați. Comentariile oamenilor de la cele două postări nu sunt din cele mai favorabile. „Știu că mulți dintre voi [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671248"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/nicusor-dan-dupa-sedinta-csat-consulul-rusiei-de-la-constanta-a-fost-declarat-persona-non-grata-si-intregul-consulat-va-fi-inchis/",
+    "title": "Nicușor Dan, după ședința CSAT: Am insistat în discuția cu secretarul general al NATO pentru urgentarea trimiterii de echipamente antiaeriene cât mai ",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/nicusor-dan-fotopresidency-200x200.jpg",
+    "time": "11:40",
+    "date": "29 May",
+    "content": "România le cere aliaților NATO să-i trimită drone și sisteme anti-drone, în baza unor acorduri bilaterale, până când statul va avea propriile astfel de capabilități antiaeriene, a anunțat vineri președintele Nicușor Dan, după ședința Consiliului Suprem de Apărare a Țării. Șeful statului a anunțat și o măsură diplomatică: consultatul Rusiei de la Constanța va fi [&#8230;]",
+    "fetched_at": "2026-05-29T13:47:27.572555"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/nicusor-dan-si-ministrul-apararii-radu-miruta-merg-la-galati-presedintele-ar-urma-sa-viziteze-la-spital-cele-doua-victime-ale-dronei-rusesti-care-a-explodat-pe-blocul-in-care-locuiau-surse.html",
+    "title": "Nicușor Dan și ministrul Apărării, Radu Miruță, merg la Galați / Președintele ar urma să viziteze la spital cele două victime ale dronei rusești care ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/8133187-Mediafax_Foto-Sorin_Pana-1024x683.jpg",
+    "time": "13:03",
+    "date": "29 May",
+    "content": "Președintele Nicușor Dan și ministrul Apărării, Radu Miruță, merg la Galați, vineri după-amiază, acolo unde o dronă rusească a căzut pe un bloc și a explodat. Dan ar urma să meargă la spital, conform informațiilor G4Media, acolo unde o mamă și copilul ei sunt internați în urma incidentului care a avut loc în jurul orei [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671282"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/tyla-si-future-lanseaza-piesa-dedicata-cupei-mondiale-inainte-de-concertele-de-la-beach-please-2026.html",
+    "title": "Tyla și Future lansează piesa dedicată Cupei Mondiale, înainte de concertele de la Beach, Please! 2026",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/Tyla-x-Future.jpeg",
+    "time": "13:15",
+    "date": "29 May",
+    "content": "Tyla și Future, doi dintre headlinerii Beach, Please! 2026, au lansat astăzi piesa dedicată Cupei Mondiale, o colaborare care îi aduce împreună pe artiștii momentului din muzica globală. Track-ul se înscrie în tradiția marilor producții muzicale asociate competiției, un eveniment care depășește industria sportivă și devine, la fiecare ediție, un fenomen cultural urmărit de miliarde [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671257"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/sistemul-de-achizitionare-a-rovinietei-si-peajului-este-indisponibil-din-cauza-unor-probleme-tehnice-23746041",
+    "title": "Sistemul de achiziționare a rovinietei și peajului este indisponibil din cauza unor probleme tehnice",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/rovinieta-1024x576.jpg",
+    "time": "13:41",
+    "date": "29 May",
+    "content": "Sistemul de achiziționare a rovinietei și a peajului este indisponibil, vineri, din cauza unor probleme tehnice, a anunțat Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR).",
+    "fetched_at": "2026-05-29T13:47:26.383023"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/retorica-agresiva-a-moscovei-escaladeaza-dupa-2533137.html",
+    "title": "Retorica agresivă a Moscovei escaladează după incidentul din România. Medvedev amenință direct Europa: „Pregătiți-vă, se va mai întâmpla!”",
+    "image": "https://cdn.adh.reperio.news/image-8/8dfd2942-c02c-4a36-bb03-0ee6a53cc68e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "12:16",
+    "date": "29 May",
+    "content": "Reacțiile la vârful puterii de la Moscova după prăbușirea unei drone pe un imobil din Galați capătă accente de o agresivitate fără precedent.",
+    "fetched_at": "2026-05-29T13:47:28.043389"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/comisar-sef-de-la-politia-sectorului-3-arestat-2533144.html",
+    "title": "Comisar-șef de la Poliția Sectorului 3, arestat după ce a fost prins în flagrant cu 50.000 de lei mită într-un dosar de evaziune fiscală",
+    "image": "https://cdn.adh.reperio.news/image-f/fa6537a4-9637-4f07-b99e-a408dd0c36ea/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:25",
+    "date": "29 May",
+    "content": "Un comisar-șef din cadrul Poliției Sectorului 3 a fost arestat preventiv pentru 30 de zile după ce a fost prins în flagrant de procurorii DNA în timp ce primea 50.000 de lei mită de la o persoană cercetată într-un dosar de evaziune fiscală.",
+    "fetched_at": "2026-05-29T13:47:28.043353"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/tarifele-de-referinta-rca-au-crescut-cu-peste-12-in-ultimele-sase-luni-asf-invoca-majorarea-costurilor-cu-daunele-si-reparatiile-3791951",
+    "title": "Tarifele de referință RCA au crescut cu peste 12% în ultimele șase luni. ASF invocă majorarea costurilor cu daunele și reparațiile",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYxMCUyRjExJTJGMTM5NzgyNl8xMzk3/ODI2X3BvbGl0YS1yY2Etc2N1bXBpcmUt/R2V0dHlJbWFnZXMtOTM2OTg3MzM4Lmpw/ZyZoYXNoPWQzYjA4ZTdlYTU0OGQ2MWM0OWNkODA5YmJhYjdjNTA3.jpg",
+    "time": "15:45",
+    "date": "29 May",
+    "content": "Tarifele de referință RCA au crescut, în medie, cu 12,3% pentru autoturisme și cu 11,7% pentru autovehiculele de transport bunuri în ultimele șase luni, comparativ cu nivelurile publicate în noiembrie 2025, potrivit Raportului semestrial privind tarifele de referință RCA, publicat vineri de Autoritatea de Supraveghere Financiară (ASF).",
+    "fetched_at": "2026-05-29T13:47:25.878381"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/reactii-politice-interne-dupa-incidentul-cu-drona-cazuta-la-galati-deputata-pnl-raluca-turcan-exista-un-singur-vinovat-si-acela-este-rusia-aur-insista-pentru-formarea-unui-guvern/",
+    "title": "Drona căzută la Galați. Raluca Turcan: „Există un singur vinovat: Rusia”. PSD se apără privind sesizarea CCR în legătură cu SAFE. AUR insistă pentru f",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/bloc-galati-drona-ruseasca-Inquam-Photos-George-Calin-200x200.jpg",
+    "time": "10:27",
+    "date": "29 May",
+    "content": "Reacții politice interne după ce o dronă rusească a lovit azi-noapte un apartament din Galați și a rănit o mamă și fiul său. Din opoziție, liderul AUR, George Simion, condamnă atacul, dar nu menționează Rusia și critică incompetența guvernanților români. George Simion acuză, în schimb, incompetența guvernanților și insistă pentru instalarea unui nou guvern, din [&#8230;]",
+    "fetched_at": "2026-05-29T13:47:27.572594"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/drone-geran-2-shahed-ucraina-caracteristici-galati/",
+    "title": "Ce caracteristici prezintă drona Geran-2, prăbușită peste un bloc din Galați | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/Drona-geran-2-Shutterstock-200x200.jpg",
+    "time": "09:33",
+    "date": "29 May",
+    "content": "Drona Geran-2, utilizată de Rusia în Ucraina și derivată din Shahed iranian, are autonomie mare și capacitate explozivă. Acest tip ar fi implicat în incidentul din Galați.",
+    "fetched_at": "2026-05-29T13:47:27.572624"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/comisar-sef-la-serviciul-de-investigare-a-criminalitatii-economice-arestat-preventiv-pentru-luare-de-mita-si-trafic-de-influenta-a-fost-prins-in-flagrant-cand-primea-50-000-de-lei-de-la-un-suspect.html",
+    "title": "Comisar șef la Serviciul de Investigare a Criminalității Economice din Capitală, arestat preventiv pentru luare de mită și trafic de influență / A fos",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/02/FB1A9432-640x400-1.jpg",
+    "time": "13:07",
+    "date": "29 May",
+    "content": "George-Cătălin Sîrbu, comisar-șef în cadrul Poliției Sectorului 3 – Serviciul de Investigare a Criminalității Economice, a fost arestat vineri sub acuzațiile de luare de mită și trafic de influență. În 29 mai, judecătorul de drepturi și libertăți din cadrul Tribunalului București a admis propunerea de arestare preventivă pentru o perioadă de 30 de zile formulată [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671274"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/magazin/timp-liber/duminica-incepe-festivalul-copiilor-oradea-3791955",
+    "title": "Duminică începe Festivalul Copiilor Oradea",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI5JTJGMjc1MjE0N18yNzUy/MTQ3X05ldy1Qcm9qZWN0LTI2LnBuZyZo/YXNoPTgwMDgwNjVkZTQwMzZkNWI4MTM1MTdjMjk2N2VmN2Y1.png",
+    "time": "16:43",
+    "date": "29 May",
+    "content": "Duminică începe Festivalul Copiilor Oradea! Evenimentul se desfășoară anul acesta pe parcursul a două zile dedicate celor mici. Duminică, 31 mai, activitățile vor avea loc în Cetatea Oradea, iar luni, 1 iunie, festivalul continuă în Cetatea Oradea, Orășelul Copiilor și Parcul Barcăului, între orele 10:00 și 21:00.",
+    "fetched_at": "2026-05-29T13:47:25.878388"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/life-entertaiment/tyla-si-future-lanseaza-piesa-dedicata-cupei-mondiale-inainte-de-concertele-de-la-beach-please-2026-p-23746026",
+    "title": "Tyla și Future lansează piesa dedicată Cupei Mondiale, înainte de concertele de la Beach, Please! 2026 (P)",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/tyla-x-future.jpeg",
+    "time": "13:23",
+    "date": "29 May",
+    "content": "Tyla și Future, doi dintre headlinerii Beach, Please! 2026, au lansat astăzi piesa dedicată Cupei Mondiale, o colaborare care îi aduce împreună pe artiștii momentului din muzica globală. Track-ul se înscrie în tradiția marilor producții muzicale asociate competiției, un eveniment care depășește industria sportivă și devine, la fiecare ediție, un fenomen cultural urmărit de miliarde [&#8230;]",
+    "fetched_at": "2026-05-29T13:47:26.383087"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/editie-speciala-o-drona-ruseasca-a-lovit-un-bloc-din-galati-cum-reactioneaza-romania/",
+    "title": "Ediție specială: o dronă rusească a lovit un bloc din Galați. Cum reacționează România?",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/drona-ruseasca-bloc-Galati-Inquam-Photos-George-Calin-200x200.jpg",
+    "time": "09:55",
+    "date": "29 May",
+    "content": "O dronă rusească a lovit azi-noapte un bloc din orașul Galați. Doi oameni au ajuns la spital cu mai multe arsuri pe suprafața corpului. Este cel mai grav incident de securitate la adresa României de la începutul războiului din Ucraina. Oficialii ministerului apărării au susținut că drona nu a putut fi doborâtă cu echipamentele din [&#8230;]",
+    "fetched_at": "2026-05-29T13:47:27.572609"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/ilije-bolojan-avion-spartan-csat-galati-drone/",
+    "title": "Ilie Bolojan ar fi cerut un avion Spartan pentru a reveni de urgență din Republica Moldova. L-a delegat pe Radu Miruță pentru a-l înlocui la ședința C",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/Ilie-Bolojan-Inquam-Photos-George-Calin-200x200.jpg",
+    "time": "09:07",
+    "date": "29 May",
+    "content": "Premierul Ilie Bolojan a solicitat un avion militar Spartan pentru a reveni de urgență din Republica Moldova la CSAT convocat după incidentul din Galați.",
+    "fetched_at": "2026-05-29T13:47:27.572637"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/therme-bucuresti-redeschide-cea-mai-mare-plaja-urbana-din-europa-si-lanseaza-therme-summer-fest-100-de-zile-de-vara-ca-un-festival-p/",
+    "title": "Therme București redeschide cea mai mare plajă urbană din Europa și lansează Therme Summer Fest: 100 de zile de vară ca un festival (P)",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/Sands-of-therme-landscape-KV_V2-copy-200x200.jpg",
+    "time": "10:38",
+    "date": "29 May",
+    "content": "Therme București dă startul oficial al verii și redeschide, începând cu 30 mai, plajele Sands of Therme și Galaxy Horizon, sub conceptul noului sezon estival: Therme Summer Fest „O vară ca un Festival”, 100 de zile de vacanță, muzică și wellness. O experiență care transformă vara în oraș într-o vacanță continuă, la doar câteva minute [&#8230;]",
+    "fetched_at": "2026-05-29T13:47:27.572585"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/sport/universitatea-craiova-domina-echipa-sezonului-2533149.html",
+    "title": "Universitatea Craiova domină ECHIPA SEZONULUI! Lista completă a celor mai buni jucători din Superliga, ediția 2025/2026",
+    "image": "https://cdn.adh.reperio.news/image-2/2df68106-6dcb-4e9f-aa8f-43911facbd7c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "13:45",
+    "date": "29 May",
+    "content": "Universitatea Craiova a avut un sezon excelent în campionatul intern.",
+    "fetched_at": "2026-05-29T13:47:28.043322"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/sistemul-de-achizitionare-a-rovinietei-si-peajului-este-indisponibil-vineri-din-cauza-unor-probleme-tehnice.html",
+    "title": "Sistemul de achiziționare a rovinietei și peajului este indisponibil, vineri, din cauza unor probleme tehnice",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/rovigneta-Picsart-AiImageEnhancer-1024x683.jpg",
+    "time": "13:46",
+    "date": "29 May",
+    "content": "Sistemul de achiziționare a rovinietei și a peajului este indisponibil, vineri, din cauza unor probleme tehnice, a anunțat Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR), transmite MEDIAFAX. Potrivit CNAIR, rovinieta și peajul nu pot fi cumpărate momentan prin niciuna dintre metodele disponibile pentru utilizatorii infrastructurii rutiere, inclusiv prin SMS, platforme online sau benzinării. Echipele [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-05-29T13:47:28.671199"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/mae-ungaria-introduce-restrictii-de-circulatie-pentru-camioane-in-ziua-finalei-ligii-campionilor-uefa-23746007",
+    "title": "MAE: Ungaria introduce restricții de circulație pentru camioane, în ziua finalei Ligii Campionilor UEFA",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/amrothman-night-6015583_1920-1024x683.jpg",
+    "time": "12:57",
+    "date": "29 May",
+    "content": "Ministerul Afacerilor Externe (MAE) îi informează pe cetățenii români transportatori de marfă care se află, tranzitează sau intenționează să călătorească în Ungaria că autoritățile ungare vor introduce restricții de circulație pentru camioanele de peste 7,5 tone în data de 30 mai 2026.",
+    "fetched_at": "2026-05-29T13:47:26.383117"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/sport/nadia-comaneci-va-fi-decorata-de-presedintele-2533139.html",
+    "title": "Nadia Comăneci va fi decorată de președintele Nicușor Dan, după 50 de ani de la Montreal",
+    "image": "https://cdn.adh.reperio.news/image-8/8a4c965a-4762-47c6-a744-8d1ba0f20cc8/index.webp?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "12:28",
+    "date": "29 May",
+    "content": "Nadia Comăneci este una dintre cele mai mari legende ale sportului românesc.",
+    "fetched_at": "2026-05-29T13:47:28.043375"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/comunicate/tuca-zbarcea-asociatii-castiga-premiul-deal-ul-anului-in-romania-2-23746010",
+    "title": "Țuca Zbârcea & Asociații câștigă premiul „Deal-ul Anului în România”",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/tuca-zbarcea-asociatii-wins-deal-of-the-year-award-scaled-e1780059674324-1024x636.jpg",
+    "time": "13:01",
+    "date": "29 May",
+    "content": "Publicația CEE Legal Matters a desemnat câștigătorii Deals of The Year Awards (DOTY) din 23 de jurisdicții, în cadrul ceremoniei anuale dedicate celor mai importante tranzacții din CEE/SEE. Decizia juriului din acest an a fost ca achiziția de către Vodafone România a pachetului de acțiuni deținut de Hellenic Telecommunications Organization S.A. (OTE) în Telekom România Mobile Communications S.A. și, respectiv achiziția de către DIGI România a anumitor active ale Telekom România Mobile...",
+    "fetched_at": "2026-05-29T13:47:26.383111"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/documente-contractul-de-consultanta-pe-securitate-nationala-al-administratiei-nicusor-dan-cu-firma-de-lobby-din-sua-afacerea-subcontractata-consilierului-lui-donald-trump-jason-23746016",
+    "title": "(DOCUMENTE) Contractul de consultanță pe „securitate națională” al Administrației Nicușor Dan cu firma de lobby din SUA. Afacerea, subcontractată cons",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/nicusor-miller-trump-1024x576.jpg",
+    "time": "13:32",
+    "date": "29 May",
+    "content": "Ministerul Justiției din SUA a publicat, potrivit legii, contractul de consultanță între firma Eversheds Sutherland (US) LLP din SUA și Administrația Prezidențială a României.",
+    "fetched_at": "2026-05-29T13:47:26.383066"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/1-iunie-e-ziua-cu-mami-sau-tati-la-serviciu-la-europa-fm/",
+    "title": "1 Iunie e Ziua cu mami sau tati la serviciu la Europa FM",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/1-iunie-200x200.png",
+    "time": "10:13",
+    "date": "29 May",
+    "content": "Pe 1 Iunie, Deșteptarea, Europa Express, România în Direct și Drum cu prioritate stau de vorbă cu viitorul la Europa FM. Este o zi specială în care studio-ul Europa FM nu va fi plin doar de breaking news-uri și cea mai bună muzică de ieri și de azi, ci și de râsete, chicoteli, conversații surprinzătoare [&#8230;]",
+    "fetched_at": "2026-05-29T13:47:27.572602"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/comunicate/lidl-continua-digitalizarea-experientei-de-cumparaturi-prin-extinderea-scan-go-in-toate-magazinele-din-bucuresti-si-ilfov-23746033",
+    "title": "Lidl continuă digitalizarea experienței de cumpărături prin extinderea Scan & Go în toate magazinele din București și Ilfov",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/comunicat-de-presa_lidl-continua-digitalizarea-experientei-de-cumparaturi-prin-extinderea-scan-go-in-toate-magazinele-din-bucuresti-si-ilfov-e1780061197903-1024x599.jpg",
+    "time": "13:26",
+    "date": "29 May",
+    "content": "Începând de joi, 28 mai, funcționalitatea Scan &#038; Go din aplicația Lidl Plus devine disponibilă în toate magazinele Lidl din București și județul Ilfov. Extinderea serviciului marchează un nou pas în dezvoltarea soluțiilor digitale prin care Lidl simplifică experiența de cumpărături și le oferă clienților mai mult control asupra produselor alese și asupra valorii coșului de cumpărături.",
+    "fetched_at": "2026-05-29T13:47:26.383080"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/austria-reactioneaza-dur-dupa-caderea-dronei-rusesti-in-romania-europa-nu-cedeaza-intimidarii-ce-masuri-s-au-luat-la-viena-3792059",
+    "title": "Austria reacționează dur după căderea dronei rusești în România: „Europa nu cedează intimidării”. Ce măsuri s-au luat la Viena",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjE4JTJGMjY0Mjk3M18yNjQy/OTczX3Byb2ZpbWVkaWEtMDk3ODgzMTQ3/Ny5qcGcmaGFzaD02ZmU2NTAzNDRhOTU5Y2EwN2RjZjJlMDlkMWU0ZDQyZQ==.jpg",
+    "time": "16:42",
+    "date": "29 May",
+    "content": "Ministrul austriac de Externe, Beate Meinl-Reisinger, a anunțat vineri că l-a convocat pe ambasadorul rus la Viena pentru a-i transmite „în mod clar protestul Austriei faţă de escaladarea Rusiei”, după ce a condamnat prăbușirea dronei ruseşti în România.",
+    "fetched_at": "2026-05-29T13:47:25.878318"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/presedintele-nicusor-dan-remarc-2533134.html",
+    "title": "Președintele Nicușor Dan: „Remarc iresponsabilitatea unor lideri politici şi lideri de opinie români care încearcă să scuze Rusia faţă de acest incide",
+    "image": "https://cdn.adh.reperio.news/image-4/4320f621-62cc-479b-b742-ebd4b0091914/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "12:26",
+    "date": "29 May",
+    "content": "Președintele României, Nicușor Dan, a declarat vineri, 29 mai, că remarcă „iresponsabilitatea” unor lideri politici şi lideri de opinie români, care încearcă „să scuze Rusia” față de incidentul cu drona rusească din Galați.",
+    "fetched_at": "2026-05-29T13:47:28.043382"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/ue-deblocheaza-142-miliarde-de-euro-pentru-ungaria-ursula-von-der-leyen-putem-elibera-fondurile-dupa-reformele-noului-guvern-23746024",
+    "title": "UE deblochează 14,2 miliarde de euro pentru Ungaria. Ursula von der Leyen: „Putem elibera fondurile după reformele noului guvern”",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/8126478-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "time": "13:29",
+    "date": "29 May",
+    "content": "Uniunea Europeană va debloca miliarde de euro pentru Ungaria, după ce Comisia Europeană a constatat progrese în implementarea reformelor asumate de noul guvern condus de premierul Peter Magyar.",
+    "fetched_at": "2026-05-29T13:47:26.383073"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/nicusor-dan-merge-la-galati-23745972",
+    "title": "Nicușor Dan merge la Galați",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/8133200-mediafax_foto-sorin_pana-1-1024x768.jpg",
+    "time": "13:06",
+    "date": "29 May",
+    "content": "Președintele Nicușor Dan merge vineri la Galați. Potrivit unor surse politice, el va vizita victimele internate în spital și va inspecta blocul afectat de impactul cu drona rusească. De asemenea, Administrația Prezidențială a amânat o ceremonie la care urmă să participe Nadia Comăneci.",
+    "fetched_at": "2026-05-29T13:47:26.383094"
+  },
+  {
     "source": "Digi24",
     "url": "https://www.digi24.ro/stiri/externe/ue/bulgaria-limiteaza-stationarea-avioanelor-militare-americane-dupa-ce-sua-nu-au-aprobat-eliminarea-vizelor-pentru-bulgari-3791599",
     "title": "Bulgaria limitează staționarea avioanelor militare americane, după ce SUA nu au aprobat eliminarea vizelor pentru bulgari",
