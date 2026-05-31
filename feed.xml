@@ -5,19 +5,31 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 31 May 2026 15:03:33 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 16:44:33 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Premierul Maltei anunță o victorie istorică în urma alegerilor anticipate / Partidului Laburist al lui Robert Abela își asigură un al patrulea mandat </title>
-        <link>https://www.g4media.ro/premierul-maltei-anunta-o-victorie-istorica-in-urma-alegerilor-anticipate-partidului-laburist-al-lui-robert-abela-isi-asigura-un-al-patrulea-mandat-la-putere-fapt-fara-precedent.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/premierul-maltei-anunta-o-victorie-istorica-in-urma-alegerilor-anticipate-partidului-laburist-al-lui-robert-abela-isi-asigura-un-al-patrulea-mandat-la-putere-fapt-fara-precedent.html</guid>
+        <title>Fenomen astronomic rar în această seară: „Lună Albastră” pe cerul României. Ce înseamnă, de fapt, acest eveniment</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/fenomen-astronomic-rar-in-aceasta-seara-luna-2532068.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/fenomen-astronomic-rar-in-aceasta-seara-luna-2532068.html</guid>
     </item>
     <item>
-        <title>Nicușor Dan a declarat la BBC că România îl va expulza pe ambasadorul Rusiei dacă vor mai exista incidente cu drone</title>
-        <link>https://www.mediafax.ro/politic/nicusor-dan-a-declarat-la-bbc-ca-romania-il-va-expulza-pe-ambasadorul-rusiei-daca-vor-mai-exista-incidente-cu-drone-23746772</link>
+        <title>Ce se întâmplă în coloniile de viespi când rămân fără regină</title>
+        <link>https://www.mediafax.ro/stirile-zilei/ce-se-intampla-in-coloniile-de-viespi-cand-raman-fara-regina-23744001</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-a-declarat-la-bbc-ca-romania-il-va-expulza-pe-ambasadorul-rusiei-daca-vor-mai-exista-incidente-cu-drone-23746772</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ce-se-intampla-in-coloniile-de-viespi-cand-raman-fara-regina-23744001</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan, mesaj de Ziua Românilor de Pretutindeni: România trebuie să rămână aproape de cetățenii săi oriunde s-ar afla</title>
+        <link>https://www.mediafax.ro/politic/ilie-bolojan-mesaj-de-ziua-romanilor-de-pretutindeni-romania-trebuie-sa-ramana-aproape-de-cetatenii-sai-oriunde-s-ar-afla-23746776</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ilie-bolojan-mesaj-de-ziua-romanilor-de-pretutindeni-romania-trebuie-sa-ramana-aproape-de-cetatenii-sai-oriunde-s-ar-afla-23746776</guid>
+    </item>
+    <item>
+        <title>Sorana Cîrstea, calificare de senzație în sferturi la Roland Garros! Discurs manifest: „Societatea ne etichetează!”</title>
+        <link>https://adevarul.ro/sport/sorana-cirstea-calificare-de-senzatie-in-sferturi-2533437.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/sorana-cirstea-calificare-de-senzatie-in-sferturi-2533437.html</guid>
     </item>
     <item>
         <title>Bursa de la Bucureşti a pierdut în această săptămână aproape 383 de milioane de lei la capitalizare</title>
@@ -26,208 +38,58 @@
         <guid isPermaLink="true">https://www.g4media.ro/bursa-de-la-bucuresti-a-pierdut-in-aceasta-saptamana-aproape-383-de-milioane-de-lei-la-capitalizare.html</guid>
     </item>
     <item>
+        <title>Nicușor Dan avertizează Moscova cu expulzarea ambasadorului rus, într-un interviu BBC. Detaliile care demonstrează că drona e rusească</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-avertizeaza-moscova-cu-expulzarea-2533445.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-avertizeaza-moscova-cu-expulzarea-2533445.html</guid>
+    </item>
+    <item>
         <title>Intrigi, scrisori de dragoste și leacuri: secrete medievale dezvăluite de inteligența artificială</title>
         <link>https://www.mediafax.ro/life-inedit/intrigi-scrisori-de-dragoste-si-leacuri-secrete-medievale-dezvaluite-de-inteligenta-artificiala-23745990</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/intrigi-scrisori-de-dragoste-si-leacuri-secrete-medievale-dezvaluite-de-inteligenta-artificiala-23745990</guid>
     </item>
     <item>
-        <title>Peste 10 kilograme de canabis și un kilogram de cocaină, aduse din Spania prin curier. Un bărbat a fost arestat</title>
-        <link>https://www.mediafax.ro/social/peste-10-kilograme-de-canabis-si-un-kilogram-de-cocaina-aduse-din-spania-prin-curier-un-barbat-a-fost-arestat-23746747</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/peste-10-kilograme-de-canabis-si-un-kilogram-de-cocaina-aduse-din-spania-prin-curier-un-barbat-a-fost-arestat-23746747</guid>
+        <title>Nicușor Dan, despre ajutorul pe care îl așteptăm de la NATO: „SUA ne-au dat deja echipamente, dar pentru o mică parte din graniță”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-ajutorul-pe-care-il-asteptam-de-la-nato-sua-ne-au-dat-deja-echipamente-dar-pentru-o-mica-parte-din-granita-3793667</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-ajutorul-pe-care-il-asteptam-de-la-nato-sua-ne-au-dat-deja-echipamente-dar-pentru-o-mica-parte-din-granita-3793667</guid>
     </item>
     <item>
-        <title>Avertizare nowcasting cod portocaliu de furtună în Ilfov, cod galben la București: vântul depășește 75 km/h</title>
-        <link>https://www.libertatea.ro/stiri/avertizare-nowcasting-cod-portocaliu-furtuna-ilfov-cod-galben-bucuresti-5760014</link>
+        <title>Pilotul român care a doborât o dronă în Estonia explică de ce nu s-a tras asupra celei care a lovit blocul din Galați | VIDEO</title>
+        <link>https://www.libertatea.ro/stiri/pilotul-roman-doborat-drona-estonia-explica-de-ce-nu-tras-lovit-blocul-galati-5759977</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/avertizare-nowcasting-cod-portocaliu-furtuna-ilfov-cod-galben-bucuresti-5760014</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/pilotul-roman-doborat-drona-estonia-explica-de-ce-nu-tras-lovit-blocul-galati-5759977</guid>
     </item>
     <item>
-        <title>Doi aliați ai rușilor construiesc o rută de transport între China și Europa care ocolește Rusia</title>
-        <link>https://www.mediafax.ro/politic/transport/doi-aliati-ai-rusilor-construiesc-o-ruta-de-transport-intre-china-si-europa-care-ocoleste-rusia-23746792</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/transport/doi-aliati-ai-rusilor-construiesc-o-ruta-de-transport-intre-china-si-europa-care-ocoleste-rusia-23746792</guid>
-    </item>
-    <item>
-        <title>Violențe în centrul Parisului după victoria PSG din finala Ligii Campionilor. Poliția a făcut sute de arestări</title>
-        <link>https://www.mediafax.ro/externe/violente-in-centrul-parisului-dupa-victoria-psg-din-finala-ligii-campionilor-politia-a-facut-sute-de-arestari-23746731</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/violente-in-centrul-parisului-dupa-victoria-psg-din-finala-ligii-campionilor-politia-a-facut-sute-de-arestari-23746731</guid>
-    </item>
-    <item>
-        <title>Iranul, pe punctul de a lansa mai multe rachete cu rază lungă de acțiune asupra Israelului și a altor țări din Orientul Mijlociu, după ce și-a dezgrop</title>
-        <link>https://www.g4media.ro/iranul-pe-punctul-de-a-lansa-rachete-cu-raza-lunga-de-actiune-asupra-israelului-si-a-altor-tari-din-orientul-mijlociu-dupa-ce-si-a-dezgropat-arsenalele-ingropate.html</link>
+        <title>Trump a retrimis textul acordului cu Iranul, cu modificări, insistând asupra unei formulări mai ferme privind angajamentele nucleare ale Iranului și r</title>
+        <link>https://www.g4media.ro/trump-a-retrimis-textul-acordului-cu-iranul-cu-modificari-insistand-asupra-unei-formulari-mai-ferme-privind-angajamentele-nucleare-ale-iranului-si-redeschiderea-stramtorii-ormuz.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/iranul-pe-punctul-de-a-lansa-rachete-cu-raza-lunga-de-actiune-asupra-israelului-si-a-altor-tari-din-orientul-mijlociu-dupa-ce-si-a-dezgropat-arsenalele-ingropate.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/trump-a-retrimis-textul-acordului-cu-iranul-cu-modificari-insistand-asupra-unei-formulari-mai-ferme-privind-angajamentele-nucleare-ale-iranului-si-redeschiderea-stramtorii-ormuz.html</guid>
     </item>
     <item>
-        <title>Geoagiu-Băi, oaza de relaxare de la poalele Munților Apuseni bogată în ape termale. Sejur mai ieftin pentru pensionari, cu bilete prin CNPP</title>
-        <link>https://www.g4media.ro/geoagiu-bai-oaza-de-relaxare-de-la-poalele-muntilor-apuseni-bogata-in-ape-termale-sejur-mai-ieftin-pentru-pensionari-cu-bilete-prin-cnpp.html</link>
+        <title>Alegeri prezidenţiale în Columbia, într-un context marcat de intensificarea violenţelor / Peste 400.000 de soldaţi şi poliţişti au fost mobilizaţi pen</title>
+        <link>https://www.g4media.ro/alegeri-prezidentiale-in-columbia-intr-un-context-marcat-de-intensificarea-violentelor-peste-400-000-de-soldati-si-politisti-au-fost-mobilizati-pentru-securizarea-scrutinului.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/geoagiu-bai-oaza-de-relaxare-de-la-poalele-muntilor-apuseni-bogata-in-ape-termale-sejur-mai-ieftin-pentru-pensionari-cu-bilete-prin-cnpp.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/alegeri-prezidentiale-in-columbia-intr-un-context-marcat-de-intensificarea-violentelor-peste-400-000-de-soldati-si-politisti-au-fost-mobilizati-pentru-securizarea-scrutinului.html</guid>
     </item>
     <item>
-        <title>Războiul americano-isrelian împotriva Iranului nu a răsturnat regimul, ci a distrus viețile oamenilor obișnuiți. „Prioritatea nu mai este politica, ci</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/razboiul-americano-isrelian-impotriva-iranului-nu-2533432.html</link>
+        <title>Avertisment de Ziua fără Tutun: Tot mai muți tineri folosesc simultan mai multe produse cu nicotină</title>
+        <link>https://www.mediafax.ro/social/avertisment-de-ziua-fara-tutun-tot-mai-muti-tineri-folosesc-simultan-mai-multe-produse-cu-nicotina-23745830</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/avertisment-de-ziua-fara-tutun-tot-mai-muti-tineri-folosesc-simultan-mai-multe-produse-cu-nicotina-23745830</guid>
+    </item>
+    <item>
+        <title>„A zis «mami» și a căzut secerat”. Declarația sfâșietoare a tatălui care și-a pierdut fiul de 2 ani pe un tobogan gonflabil</title>
+        <link>https://adevarul.ro/stiri-locale/satu-mare/a-zis-mami-si-a-cazut-secerat-declaratia-2533448.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/razboiul-americano-isrelian-impotriva-iranului-nu-2533432.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/satu-mare/a-zis-mami-si-a-cazut-secerat-declaratia-2533448.html</guid>
     </item>
     <item>
-        <title>Un singur fruct susține sănătatea inimii, creierului și intestinului. Nutriționiștii îl recomandă zilnic</title>
-        <link>https://www.mediafax.ro/sanatate/un-singur-fruct-sustine-sanatatea-inimii-creierului-si-intestinului-nutritionistii-il-recomanda-zilnic-23745970</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/un-singur-fruct-sustine-sanatatea-inimii-creierului-si-intestinului-nutritionistii-il-recomanda-zilnic-23745970</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan, interviu la BBC: Avem deja echipamente americane antidronă, dar acoperă doar puțin din graniță / Luăm în calcul expulzarea ambasadorului </title>
-        <link>https://www.g4media.ro/nicusor-dan-interviu-la-bbc-avem-deja-echipamente-americane-antidrona-dar-acopera-doar-putin-din-granita-luam-in-calcul-expulzare-ambasadorului-rus-daca-incidentele-cu-drona-se-mai-repeta.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/nicusor-dan-interviu-la-bbc-avem-deja-echipamente-americane-antidrona-dar-acopera-doar-putin-din-granita-luam-in-calcul-expulzare-ambasadorului-rus-daca-incidentele-cu-drona-se-mai-repeta.html</guid>
-    </item>
-    <item>
-        <title>„Este o nebunie”. „Noua realitate” climatică în Europa: valurile de căldură fac mai multe victime decât accidentele rutiere</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/este-o-nebunie-noua-realitate-climatica-in-europa-valurile-de-caldura-fac-mai-multe-victime-decat-crimele-sau-accidentele-3788423</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/este-o-nebunie-noua-realitate-climatica-in-europa-valurile-de-caldura-fac-mai-multe-victime-decat-crimele-sau-accidentele-3788423</guid>
-    </item>
-    <item>
-        <title>EXCLUSIV Sondaj Avangarde, privind dezinformarea pe TikTok / Cum se raportează românii la informațiile pe care le primesc pe TikTok</title>
-        <link>https://www.g4media.ro/exclusiv-sondaj-avangarde-privind-dezinformarea-pe-tiktok-cum-se-raporteaza-romanii-la-informatiile-pe-care-le-primesc-pe-tiktok.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/exclusiv-sondaj-avangarde-privind-dezinformarea-pe-tiktok-cum-se-raporteaza-romanii-la-informatiile-pe-care-le-primesc-pe-tiktok.html</guid>
-    </item>
-    <item>
-        <title>S-a auzit un dublu boom sonic și clădirile s-au zguduit: momentul în care un meteor s-a fragmentat deasupra SUA</title>
-        <link>https://adevarul.ro/stiri-externe/sua/s-a-auzit-un-dublu-boom-sonic-si-cladirile-s-au-2533440.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/s-a-auzit-un-dublu-boom-sonic-si-cladirile-s-au-2533440.html</guid>
-    </item>
-    <item>
-        <title>Ce punem în coșul de cumpărături când toate s-au scumpit. Alimente ieftine, dar valoroase nutrițional: „Avem nevoie de trei macronutrienți”</title>
-        <link>https://www.libertatea.ro/stiri/alimente-ieftine-valoroase-nutritional-buna-functionare-organism-trei-macronutrienti-5756776</link>
+        <title>Un primar PSD care conduce din 1990 o comună din Olt și-a dat demisia: „PSD n-a făcut nimic pentru oamenii simpli”</title>
+        <link>https://www.libertatea.ro/stiri/nicolae-stan-primar-critica-psd-conduce-din-1990-comuna-olt-dat-demisia-5760007</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/alimente-ieftine-valoroase-nutritional-buna-functionare-organism-trei-macronutrienti-5756776</guid>
-    </item>
-    <item>
-        <title>Sorana Cîrstea, prima reacție după ce s-a calificat în sferturi la Roland Garros. „Dacă pierzi 1% din concentrare, plătești”</title>
-        <link>https://www.digi24.ro/stiri/sport/sorana-cirstea-prima-reactie-dupa-ce-s-a-calificat-in-sferturi-la-roland-garros-daca-pierzi-1-din-concentrare-platesti-3793767</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/sorana-cirstea-prima-reactie-dupa-ce-s-a-calificat-in-sferturi-la-roland-garros-daca-pierzi-1-din-concentrare-platesti-3793767</guid>
-    </item>
-    <item>
-        <title>Boicot  la aniversarea a 250 de ani a SUA. Cum s-a prăbușit agenda culturală a evenimentului patronat de administrația Trump</title>
-        <link>https://adevarul.ro/stiri-externe/sua/boicot-la-aniversarea-a-250-de-ani-a-sua-cum-s-a-2533429.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/boicot-la-aniversarea-a-250-de-ani-a-sua-cum-s-a-2533429.html</guid>
-    </item>
-    <item>
-        <title>„Drumul departe de casă vine cu sacrificii”: mesajele liderilor politici de Ziua Românilor de Pretutindeni</title>
-        <link>https://adevarul.ro/stiri-interne/societate/drumul-departe-de-casa-vine-cu-sacrificii-2533460.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/drumul-departe-de-casa-vine-cu-sacrificii-2533460.html</guid>
-    </item>
-    <item>
-        <title>Roland Garros: Sorana Cârstea s-a calificat în sferturile de finală</title>
-        <link>https://www.europafm.ro/roland-garros-sorana-carstea-s-a-calificat-in-sferturile-de-finala/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/roland-garros-sorana-carstea-s-a-calificat-in-sferturile-de-finala/</guid>
-    </item>
-    <item>
-        <title>Oana Țoiu | Convorbiri cu omologii din Germania și Marea Britanie după incidentul cu drona de la Galați. „Am mulțumit pentru solidaritate” / „Acțiunil</title>
-        <link>https://www.g4media.ro/oana-toiu-convorbiri-cu-omologii-din-germania-si-marea-britanie-dupa-incidentul-cu-drona-de-la-galati-am-multumit-pentru-solidaritate-actiunile-rusiei-nu-ne-vor-slabi-h.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/oana-toiu-convorbiri-cu-omologii-din-germania-si-marea-britanie-dupa-incidentul-cu-drona-de-la-galati-am-multumit-pentru-solidaritate-actiunile-rusiei-nu-ne-vor-slabi-h.html</guid>
-    </item>
-    <item>
-        <title>11 kilograme de droguri aduse din Spania prin curier, confiscate de DIICOT Constanța. Cocaină și canabis de 220.000 de euro, destinate pieței din Româ</title>
-        <link>https://www.g4media.ro/11-kilograme-de-droguri-aduse-din-spania-prin-curier-confiscate-de-diicot-constanta-cocaina-si-canabis-de-220-000-de-euro-destinate-pietei-din-romania.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/11-kilograme-de-droguri-aduse-din-spania-prin-curier-confiscate-de-diicot-constanta-cocaina-si-canabis-de-220-000-de-euro-destinate-pietei-din-romania.html</guid>
-    </item>
-    <item>
-        <title>Nadia Comăneci, primită cu aplauze la Onești. Mirabela Grădinaru și copiii familiei prezidențiale, prezenți la eveniment</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/nadia-comaneci-primita-cu-aplauze-la-onesti-2533439.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/nadia-comaneci-primita-cu-aplauze-la-onesti-2533439.html</guid>
-    </item>
-    <item>
-        <title>Chelsea o ironizează pe Arsenal după ratarea Ligii Campionilor: Invitație pentru „casa trofeelor” de pe Stamford Bridge</title>
-        <link>https://www.g4media.ro/chelsea-o-ironizeaza-pe-arsenal-dupa-ratarea-champions-league-ului-invitatie-pentru-casa-trofeelor-din-londra-de-pe-stamford-bridge.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/chelsea-o-ironizeaza-pe-arsenal-dupa-ratarea-champions-league-ului-invitatie-pentru-casa-trofeelor-din-londra-de-pe-stamford-bridge.html</guid>
-    </item>
-    <item>
-        <title>Planul secret al mișcării MAGA pentru Viktor Orbán: o funcție la ONU pentru fostul premier ungar pentru imunitate diplomatică</title>
-        <link>https://adevarul.ro/stiri-externe/europa/planul-secret-al-miscarii-maga-pentru-viktor-2533444.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/planul-secret-al-miscarii-maga-pentru-viktor-2533444.html</guid>
-    </item>
-    <item>
-        <title>Un nou trofeu, aceeași exprimare în celebrare. Sărbătoare umbrită de tragedii la Paris: Un mort și 780 de persoane arestate cu ocazia câștigării Champ</title>
-        <link>https://www.g4media.ro/un-nou-trofeu-aceeasi-exprimare-in-celebrare-sarbatoare-umbrita-de-tragedii-la-paris-un-mort-si-780-de-persoane-arestate-cu-ocazia-castigarii-champions-league-de-psg.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/un-nou-trofeu-aceeasi-exprimare-in-celebrare-sarbatoare-umbrita-de-tragedii-la-paris-un-mort-si-780-de-persoane-arestate-cu-ocazia-castigarii-champions-league-de-psg.html</guid>
-    </item>
-    <item>
-        <title>Procurorul Dan Voinea: Dosarul Mineriadei stă sub prescripţia imprescriptibilității</title>
-        <link>https://www.mediafax.ro/social/procurorul-dan-voinea-dosarul-mineriadei-sta-sub-prescriptia-imprescriptibilitatii-23746436</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/procurorul-dan-voinea-dosarul-mineriadei-sta-sub-prescriptia-imprescriptibilitatii-23746436</guid>
-    </item>
-    <item>
-        <title>Accident grav în județul Sibiu. Patru mașini sunt implicate, traficul pe DN1 este blocat</title>
-        <link>https://www.mediafax.ro/social/accident-grav-in-judetul-sibiu-patru-masini-sunt-implicate-traficul-pe-dn1-este-blocat-23746766</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/accident-grav-in-judetul-sibiu-patru-masini-sunt-implicate-traficul-pe-dn1-este-blocat-23746766</guid>
-    </item>
-    <item>
-        <title>Schimbare pentru bolnavii cronici şi oncologici de la 1 iunie. Concediul medical va fi plătit din prima zi</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/schimbare-pentru-bolnavii-cronici-si-oncologici-de-la-1-iunie-concediul-medical-va-fi-platit-din-prima-zi-3793815</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/schimbare-pentru-bolnavii-cronici-si-oncologici-de-la-1-iunie-concediul-medical-va-fi-platit-din-prima-zi-3793815</guid>
-    </item>
-    <item>
-        <title>Ilie Bolojan, mesaj de Ziua Românilor de Pretutindeni: România trebuie să rămână aproape de cetățenii săi oriunde s-ar afla</title>
-        <link>https://www.g4media.ro/ilie-bolojan-mesaj-de-ziua-romanilor-de-pretutindeni-romania-trebuie-sa-ramana-aproape-de-cetatenii-sai-oriunde-s-ar-afla.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ilie-bolojan-mesaj-de-ziua-romanilor-de-pretutindeni-romania-trebuie-sa-ramana-aproape-de-cetatenii-sai-oriunde-s-ar-afla.html</guid>
-    </item>
-    <item>
-        <title>De ce nu a fost folosit sistemul antidronă Merops, aflat în dotarea Armatei române, în cazul de la Galați</title>
-        <link>https://www.digi24.ro/stiri/actualitate/evenimente/de-ce-nu-a-fost-folosit-sistemul-antidrona-merops-aflat-in-dotarea-armatei-romane-in-cazul-de-la-galati-3793759</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/de-ce-nu-a-fost-folosit-sistemul-antidrona-merops-aflat-in-dotarea-armatei-romane-in-cazul-de-la-galati-3793759</guid>
-    </item>
-    <item>
-        <title>Ministra de Externe Oana Țoiu a discutat cu omologul german Johann Wadephul. Despre ce au discutat</title>
-        <link>https://www.mediafax.ro/politic/ministra-de-externe-oana-toiu-a-discutat-cu-omologul-german-johann-wadephul-despre-ce-au-discutat-23746796</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/ministra-de-externe-oana-toiu-a-discutat-cu-omologul-german-johann-wadephul-despre-ce-au-discutat-23746796</guid>
-    </item>
-    <item>
-        <title>Medici fără Frontiere: Răspândirea Ebola în RD Congo este profund alarmantă</title>
-        <link>https://www.mediafax.ro/externe/medici-fara-frontiere-raspandirea-ebola-in-rd-congo-este-profund-alarmanta-23746745</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/medici-fara-frontiere-raspandirea-ebola-in-rd-congo-este-profund-alarmanta-23746745</guid>
-    </item>
-    <item>
-        <title>Călin Georgescu, prima reacție după incidentul cu drona de la Galați: „Un conducător de glie ascultă de Dumnezeu, nu de oameni”</title>
-        <link>https://adevarul.ro/politica/calin-georgescu-prima-reactie-dupa-incidentul-cu-2533434.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/calin-georgescu-prima-reactie-dupa-incidentul-cu-2533434.html</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan: România îl va expluza pe ambasadorul Rusiei dacă vor mai fi incidente cu drone rusești</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-romania-il-va-expluza-pe-ambasadorul-rusiei-daca-vor-mai-fi-incidente-cu-drone-rusesti-3793631</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-romania-il-va-expluza-pe-ambasadorul-rusiei-daca-vor-mai-fi-incidente-cu-drone-rusesti-3793631</guid>
-    </item>
-    <item>
-        <title>Cine este Nick Adams, „americanul alfa” alături de care s-a afișat George Simion la Cluj, care a comparat limba română cu „limbajul iubirii”</title>
-        <link>https://adevarul.ro/politica/cine-este-nick-adams-americanul-alfa-alaturi-de-2533455.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/cine-este-nick-adams-americanul-alfa-alaturi-de-2533455.html</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/nicolae-stan-primar-critica-psd-conduce-din-1990-comuna-olt-dat-demisia-5760007</guid>
     </item>
     <item>
         <title>Sorana Cîrstea s-a calificat în sferturi la Roland Garros</title>
@@ -236,16 +98,94 @@
         <guid isPermaLink="true">https://www.mediafax.ro/sport/sorana-cirstea-s-a-calificat-in-sferturi-la-roland-garros-23746748</guid>
     </item>
     <item>
-        <title>BBC, reportaj din blocul lovit de dronă la Galați: „Ne-au spus că suntem protejați de NATO. Uite unde suntem acum”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/bbc-reportaj-din-blocul-lovit-de-drona-la-galati-2533422.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/bbc-reportaj-din-blocul-lovit-de-drona-la-galati-2533422.html</guid>
+        <title>EXCLUSIV Sondaj Avangarde, privind dezinformarea pe TikTok / Cum se raportează românii la informațiile pe care le primesc pe TikTok</title>
+        <link>https://www.g4media.ro/exclusiv-sondaj-avangarde-privind-dezinformarea-pe-tiktok-cum-se-raporteaza-romanii-la-informatiile-pe-care-le-primesc-pe-tiktok.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/exclusiv-sondaj-avangarde-privind-dezinformarea-pe-tiktok-cum-se-raporteaza-romanii-la-informatiile-pe-care-le-primesc-pe-tiktok.html</guid>
     </item>
     <item>
-        <title>Dmitri Medvedev amenință Occidentul, printr-o memă cu figurile îngrozite ale lui Macron, Merz, Starmer și von der Leyen</title>
-        <link>https://www.digi24.ro/stiri/externe/dmitri-medvedev-ameninta-occidentul-printr-o-mema-cu-figurile-ingrozite-ale-lui-macron-merz-starmer-si-von-der-leyen-3793633</link>
+        <title>Ministra de Externe Oana Țoiu a discutat cu omologul german Johann Wadephul. Despre ce au discutat</title>
+        <link>https://www.mediafax.ro/politic/ministra-de-externe-oana-toiu-a-discutat-cu-omologul-german-johann-wadephul-despre-ce-au-discutat-23746796</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ministra-de-externe-oana-toiu-a-discutat-cu-omologul-german-johann-wadephul-despre-ce-au-discutat-23746796</guid>
+    </item>
+    <item>
+        <title>Pilotul român care a doborât recent o dronă în Estonia explică de ce situaţia de la Galaţi a fost diferită</title>
+        <link>https://www.digi24.ro/stiri/actualitate/evenimente/pilotul-roman-care-a-doborat-recent-o-drona-in-estonia-explica-de-ce-situatia-de-la-galati-a-fost-diferita-3793703</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/dmitri-medvedev-ameninta-occidentul-printr-o-mema-cu-figurile-ingrozite-ale-lui-macron-merz-starmer-si-von-der-leyen-3793633</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/pilotul-roman-care-a-doborat-recent-o-drona-in-estonia-explica-de-ce-situatia-de-la-galati-a-fost-diferita-3793703</guid>
+    </item>
+    <item>
+        <title>Geoagiu-Băi, oaza de relaxare de la poalele Munților Apuseni bogată în ape termale. Sejur mai ieftin pentru pensionari, cu bilete prin CNPP</title>
+        <link>https://www.g4media.ro/geoagiu-bai-oaza-de-relaxare-de-la-poalele-muntilor-apuseni-bogata-in-ape-termale-sejur-mai-ieftin-pentru-pensionari-cu-bilete-prin-cnpp.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/geoagiu-bai-oaza-de-relaxare-de-la-poalele-muntilor-apuseni-bogata-in-ape-termale-sejur-mai-ieftin-pentru-pensionari-cu-bilete-prin-cnpp.html</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan spune, într-un interviu pentru BBC, că România ia în calcul noi măsuri dacă incidentul cu drona se repetă</title>
+        <link>https://www.libertatea.ro/stiri/nicusor-dan-interviu-bbc-romania-ia-in-calcul-noi-masuri-daca-incidentul-cu-drona-se-repeta-5759964</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/nicusor-dan-interviu-bbc-romania-ia-in-calcul-noi-masuri-daca-incidentul-cu-drona-se-repeta-5759964</guid>
+    </item>
+    <item>
+        <title>Polonia semnează contracte de apărare de 18,4 miliarde de euro. Record istoric pentru armata poloneză</title>
+        <link>https://www.mediafax.ro/externe/polonia-semneaza-contracte-de-aparare-de-184-miliarde-de-euro-record-istoric-pentru-armata-poloneza-23746754</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/polonia-semneaza-contracte-de-aparare-de-184-miliarde-de-euro-record-istoric-pentru-armata-poloneza-23746754</guid>
+    </item>
+    <item>
+        <title>MApN prezintă detalii tehnice despre drona de la Galați</title>
+        <link>https://www.mediafax.ro/breaking-news/mapn-prezinta-detalii-tehnice-despre-drona-de-la-galati-23746816</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/breaking-news/mapn-prezinta-detalii-tehnice-despre-drona-de-la-galati-23746816</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan publică probele care confirmă că drona care a lovit Galațiul e rusească: concluziile raportului tehnic</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-publica-probele-care-confirma-ca-drona-2533463.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-publica-probele-care-confirma-ca-drona-2533463.html</guid>
+    </item>
+    <item>
+        <title>Cine este Nick Adams, „americanul alfa” alături de care s-a afișat George Simion la Cluj, care a comparat limba română cu „limbajul iubirii”</title>
+        <link>https://adevarul.ro/politica/cine-este-nick-adams-americanul-alfa-alaturi-de-2533455.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/cine-este-nick-adams-americanul-alfa-alaturi-de-2533455.html</guid>
+    </item>
+    <item>
+        <title>De unde știe Nicușor Dan că drona prăbușită pe blocul din Galați este rusească. „Putem spune cu siguranță”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/de-unde-stie-nicusor-dan-ca-drona-prabusita-pe-blocul-din-galati-este-ruseasca-putem-spune-cu-siguranta-3793661</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/de-unde-stie-nicusor-dan-ca-drona-prabusita-pe-blocul-din-galati-este-ruseasca-putem-spune-cu-siguranta-3793661</guid>
+    </item>
+    <item>
+        <title>Sancțiunile aplicate Rusiei: SUA prelungesc termenul pentru vânzarea activelor de 22 de miliarde de dolari ale Lukoil</title>
+        <link>https://adevarul.ro/economie/sanctiunile-aplicate-rusiei-sua-prelungesc-2533438.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/sanctiunile-aplicate-rusiei-sua-prelungesc-2533438.html</guid>
+    </item>
+    <item>
+        <title>Număr record de 94.000 de fani la concertul Metallica de pe Stadionul Olimpic din Berlin</title>
+        <link>https://www.g4media.ro/numar-record-de-94-000-de-fani-la-concertul-metallica-de-pe-stadionul-olimpic-din-berlin.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/numar-record-de-94-000-de-fani-la-concertul-metallica-de-pe-stadionul-olimpic-din-berlin.html</guid>
+    </item>
+    <item>
+        <title>Premierul Maltei anunță o victorie istorică în urma alegerilor anticipate / Partidului Laburist al lui Robert Abela își asigură un al patrulea mandat </title>
+        <link>https://www.g4media.ro/premierul-maltei-anunta-o-victorie-istorica-in-urma-alegerilor-anticipate-partidului-laburist-al-lui-robert-abela-isi-asigura-un-al-patrulea-mandat-la-putere-fapt-fara-precedent.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/premierul-maltei-anunta-o-victorie-istorica-in-urma-alegerilor-anticipate-partidului-laburist-al-lui-robert-abela-isi-asigura-un-al-patrulea-mandat-la-putere-fapt-fara-precedent.html</guid>
+    </item>
+    <item>
+        <title>MApN a făcut publice detaliile tehnice despre drona căzută pe un bloc din Galați: probele, identice cu alte resturi de Geran-2 rusești</title>
+        <link>https://www.digi24.ro/stiri/actualitate/evenimente/mapn-a-facut-publice-detaliile-tehnice-despre-drona-cazuta-pe-un-bloc-din-galati-probele-identice-cu-alte-resturi-de-geran-2-rusesti-3793837</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/mapn-a-facut-publice-detaliile-tehnice-despre-drona-cazuta-pe-un-bloc-din-galati-probele-identice-cu-alte-resturi-de-geran-2-rusesti-3793837</guid>
+    </item>
+    <item>
+        <title>Palatul Cotroceni își deschide porțile de Ziua Copilului. Ateliere, teatru și activități educative pentru cei mici</title>
+        <link>https://www.mediafax.ro/social/palatul-cotroceni-isi-deschide-portile-de-ziua-copilului-ateliere-teatru-si-activitati-educative-pentru-cei-mici-23746768</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/palatul-cotroceni-isi-deschide-portile-de-ziua-copilului-ateliere-teatru-si-activitati-educative-pentru-cei-mici-23746768</guid>
     </item>
     <item>
         <title>Paris: Bucurie și violențe pe străzi după ce Paris Saint-Germain a câștigat Liga Campionilor | VIDEO</title>
@@ -254,52 +194,46 @@
         <guid isPermaLink="true">https://www.europafm.ro/paris-bucurie-si-violente-pe-strazi-dupa-ce-paris-saint-germain-a-castigat-liga-campionilor/</guid>
     </item>
     <item>
-        <title>ZdG: Înaltpreasfințitul Petru se retrage din funcția de Arhiepiscop al Chișinăului și Mitropolit al Basarabiei</title>
-        <link>https://www.g4media.ro/zdg-inaltpreasfintitul-petru-se-retrage-din-functia-de-arhiepiscop-al-chisinaului-si-mitropolit-al-basarabiei.html</link>
+        <title>Explicațiile lui Zelenski despre drona de la Galați. Care a fost scopul rușilor</title>
+        <link>https://www.g4media.ro/explicatiile-lui-zelenski-despre-drona-de-la-galati-care-a-fost-scopul-rusilor.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/zdg-inaltpreasfintitul-petru-se-retrage-din-functia-de-arhiepiscop-al-chisinaului-si-mitropolit-al-basarabiei.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/explicatiile-lui-zelenski-despre-drona-de-la-galati-care-a-fost-scopul-rusilor.html</guid>
     </item>
     <item>
-        <title>Statistica dezastrului | Raport MAI: Doar 10% din adăposturile civile sunt complet funcționale</title>
-        <link>https://www.g4media.ro/statistica-dezastrului-raport-mai-doar-10-din-adaposturile-civile-sunt-complet-functionale.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/statistica-dezastrului-raport-mai-doar-10-din-adaposturile-civile-sunt-complet-functionale.html</guid>
-    </item>
-    <item>
-        <title>Pilotul român care a doborât o dronă în Estonia: „Vorbim despre două situații diferite / Fragmentele rezultate în urma distrugerii unei drone sau schi</title>
-        <link>https://www.g4media.ro/pilotul-roman-care-a-doborat-o-drona-in-estonia-vorbim-despre-doua-situatii-diferite-fragmentele-rezultate-in-urma-distrugerii-unei-drone-sau-schimbarea-necontrolata-a-traiectoriei-acesteia-pot-pro.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pilotul-roman-care-a-doborat-o-drona-in-estonia-vorbim-despre-doua-situatii-diferite-fragmentele-rezultate-in-urma-distrugerii-unei-drone-sau-schimbarea-necontrolata-a-traiectoriei-acesteia-pot-pro.html</guid>
-    </item>
-    <item>
-        <title>O lideră AUR cere invocarea articolului 4 din Tratatul NATO: Am discutat cu generali și politicieni de peste tot</title>
-        <link>https://www.mediafax.ro/politic/o-lidera-aur-cere-invocarea-articolului-4-din-tratatul-nato-am-discutat-cu-generali-si-politicieni-de-peste-tot-23746804</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/o-lidera-aur-cere-invocarea-articolului-4-din-tratatul-nato-am-discutat-cu-generali-si-politicieni-de-peste-tot-23746804</guid>
-    </item>
-    <item>
-        <title>Scene de groază după finala UCL! Capitala Franței a fost distrusă de suporteri: 426 arestări, incendii și polițiști răniți</title>
-        <link>https://adevarul.ro/sport/scene-de-groaza-dupa-finala-ucl-capitala-frantei-2533405.html</link>
+        <title>Escaladare în Orientul Mijlociu. Israelul extinde ofensiva terestră în Liban și ocupă fortăreața strategică Beaufort</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/escaladare-in-orientul-mijlociu-israelul-extinde-2533456.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/scene-de-groaza-dupa-finala-ucl-capitala-frantei-2533405.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/escaladare-in-orientul-mijlociu-israelul-extinde-2533456.html</guid>
+    </item>
+    <item>
+        <title>Sorana Cîrstea, prima reacție după ce s-a calificat în sferturi la Roland Garros. „Dacă pierzi 1% din concentrare, plătești”</title>
+        <link>https://www.digi24.ro/stiri/sport/sorana-cirstea-prima-reactie-dupa-ce-s-a-calificat-in-sferturi-la-roland-garros-daca-pierzi-1-din-concentrare-platesti-3793767</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/sorana-cirstea-prima-reactie-dupa-ce-s-a-calificat-in-sferturi-la-roland-garros-daca-pierzi-1-din-concentrare-platesti-3793767</guid>
+    </item>
+    <item>
+        <title>Patru mașini, în care se aflau 10 persoane, implicate într-un accident pe DN 1 în Sibiu. Traficul este complet blocat</title>
+        <link>https://www.libertatea.ro/stiri/accident-dn1-brasov-sibiu-patru-masini-persoane-ajuns-spital-trafic-blocat-5760031</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/accident-dn1-brasov-sibiu-patru-masini-persoane-ajuns-spital-trafic-blocat-5760031</guid>
+    </item>
+    <item>
+        <title>Cum a transformat un ceasornicar finlandez oțelul unui tanc rusesc distrus în sprijin umanitar pentru Ucraina</title>
+        <link>https://adevarul.ro/stiri-externe/europa/cum-a-transformat-un-ceasornicar-finlandez-otelul-2533449.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/cum-a-transformat-un-ceasornicar-finlandez-otelul-2533449.html</guid>
+    </item>
+    <item>
+        <title>Ministerul Apărării, după investigația tehnică privind drona rusească prăbușită peste blocul din Galați: Încărcătură de luptă explozivă, de 30 de kg</title>
+        <link>https://www.g4media.ro/ministerul-apararii-in-urma-investigatiei-tehnice-privind-drona-ruseasca-prabusita-peste-blocul-din-galati-incarcatura-de-lupta-exploziva-30-de-kg.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ministerul-apararii-in-urma-investigatiei-tehnice-privind-drona-ruseasca-prabusita-peste-blocul-din-galati-incarcatura-de-lupta-exploziva-30-de-kg.html</guid>
     </item>
     <item>
         <title>Minorul dispărut în Dunăre, găsit decedat după două zile de căutări</title>
         <link>https://www.mediafax.ro/social/minorul-disparut-in-dunare-gasit-decedat-dupa-doua-zile-de-cautari-23746779</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/social/minorul-disparut-in-dunare-gasit-decedat-dupa-doua-zile-de-cautari-23746779</guid>
-    </item>
-    <item>
-        <title>Kevin De Bruyne salută plecarea lui Antonio Conte de la Napoli: „Nu era necesar să rămână”</title>
-        <link>https://www.g4media.ro/kevin-de-bruyne-saluta-plecarea-lui-antonio-conte-de-la-napoli-nu-era-necesar-sa-ramana.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/kevin-de-bruyne-saluta-plecarea-lui-antonio-conte-de-la-napoli-nu-era-necesar-sa-ramana.html</guid>
-    </item>
-    <item>
-        <title>Nicuşor Dan, mesaj pentru militarii în rezervă şi în retragere: Sunteţi repere de care societatea noastră are nevoie</title>
-        <link>https://www.digi24.ro/stiri/actualitate/nicusor-dan-mesaj-pentru-militarii-in-rezerva-si-in-retragere-sunteti-repere-de-care-societatea-noastra-are-nevoie-3793629</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/nicusor-dan-mesaj-pentru-militarii-in-rezerva-si-in-retragere-sunteti-repere-de-care-societatea-noastra-are-nevoie-3793629</guid>
     </item>
     <item>
         <title>Gafă de proporții! Visa la Budapesta și s-a trezit în București. Suporterul PSG care a ratat finala Ligii Campionilor: „O greșeală bolnavă!”</title>
@@ -314,28 +248,34 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/sua-extind-termenul-limita-pentru-vanzarea-activelor-internationale-ale-lukoil-care-este-data-anuntata-3793695</guid>
     </item>
     <item>
-        <title>BREAKING Galerie FOTO Nicușor Dan prezintă dovezile că drona căzută la Galați a fost un Geran-2, de provenineță rusească. Rezultatele anchetei vor fi </title>
-        <link>https://www.g4media.ro/breaking-galerie-foto-nicusor-dan-prezinta-dovezile-ca-drona-cazuta-la-galati-a-fost-un-geran-2-de-provenineta-ruseasca-rezultatele-anchetei-vor-fi-comunicate-aliatilor-si-structurilor-competente-di.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/breaking-galerie-foto-nicusor-dan-prezinta-dovezile-ca-drona-cazuta-la-galati-a-fost-un-geran-2-de-provenineta-ruseasca-rezultatele-anchetei-vor-fi-comunicate-aliatilor-si-structurilor-competente-di.html</guid>
+        <title>Nicușor Dan a prezentat dovezile: Drona prǎbușitǎ la Galați este Geran-2, de proveniențǎ ruseascǎ</title>
+        <link>https://www.mediafax.ro/breaking-news/nicusor-dan-a-prezentat-dovezile-drona-prabusita-la-galati-este-geran-2-de-provenienta-ruseasca-23746781</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/breaking-news/nicusor-dan-a-prezentat-dovezile-drona-prabusita-la-galati-este-geran-2-de-provenienta-ruseasca-23746781</guid>
     </item>
     <item>
-        <title>Pilotul român care a doborât recent o dronă în Estonia explică de ce situaţia de la Galaţi a fost diferită</title>
-        <link>https://www.digi24.ro/stiri/actualitate/evenimente/pilotul-roman-care-a-doborat-recent-o-drona-in-estonia-explica-de-ce-situatia-de-la-galati-a-fost-diferita-3793703</link>
+        <title>Avertizare nowcasting cod portocaliu de furtună în Ilfov, cod galben la București: vântul depășește 75 km/h</title>
+        <link>https://www.libertatea.ro/stiri/avertizare-nowcasting-cod-portocaliu-furtuna-ilfov-cod-galben-bucuresti-5760014</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/avertizare-nowcasting-cod-portocaliu-furtuna-ilfov-cod-galben-bucuresti-5760014</guid>
+    </item>
+    <item>
+        <title>Florin Piersic a reacționat după ce a fost recreat din LEGO în finala Românii au talent 2026. Ce mesaj i-a transmis lui Albert Oprea</title>
+        <link>https://www.libertatea.ro/entertainment/florin-piersic-mesaj-emotionant-pentru-albert-oprea-dupa-finala-romanii-au-talent-5759972</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/florin-piersic-mesaj-emotionant-pentru-albert-oprea-dupa-finala-romanii-au-talent-5759972</guid>
+    </item>
+    <item>
+        <title>Fotbalist din Superliga, acuzat de evaziune fiscală, într-un dosar cu prejudiciu de 3,5 milioane de euro! Cazul a fost trimis la DIICOT</title>
+        <link>https://adevarul.ro/sport/fotbalist-din-superliga-acuzat-de-evaziune-2533477.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/fotbalist-din-superliga-acuzat-de-evaziune-2533477.html</guid>
+    </item>
+    <item>
+        <title>Trafic blocat pe DN 1, în jud. Sibiu, din cauza unui accident în care au fost implicate patru maşini. Trei victime, duse la UPU</title>
+        <link>https://www.digi24.ro/stiri/actualitate/trafic-complet-blocat-pe-dn-1-in-judetul-sibiu-din-cauza-unui-accident-in-care-sunt-implicate-patru-masini-cu-mai-multe-persoane-3793719</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/pilotul-roman-care-a-doborat-recent-o-drona-in-estonia-explica-de-ce-situatia-de-la-galati-a-fost-diferita-3793703</guid>
-    </item>
-    <item>
-        <title>Sorana Cîrstea, victorie muncită la Roland-Garros: Calificare în sferturi după 17 ani de absență</title>
-        <link>https://www.g4media.ro/sorana-cirstea-victorie-muncita-la-roland-garros-calificare-in-sferturi-la-paris.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/sorana-cirstea-victorie-muncita-la-roland-garros-calificare-in-sferturi-la-paris.html</guid>
-    </item>
-    <item>
-        <title>Violențe în centrul Parisului după victoria PSG din finala Ligii Campionilor</title>
-        <link>https://www.g4media.ro/violente-in-centrul-parisului-dupa-victoria-psg-din-finala-ligii-campionilor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/violente-in-centrul-parisului-dupa-victoria-psg-din-finala-ligii-campionilor.html</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/trafic-complet-blocat-pe-dn-1-in-judetul-sibiu-din-cauza-unui-accident-in-care-sunt-implicate-patru-masini-cu-mai-multe-persoane-3793719</guid>
     </item>
     <item>
         <title>Avertismentul lui Cristian Grosu: România ar putea ajunge pe mâna FMI dacă vom fi retrogradați la „junk”</title>
@@ -344,28 +284,88 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/avertismentul-lui-cristian-grosu-romania-ar-putea-ajunge-pe-mana-fmi-daca-vom-fi-retrogradati-la-junk-3793775</guid>
     </item>
     <item>
-        <title>Cum a transformat un ceasornicar finlandez oțelul unui tanc rusesc distrus în sprijin umanitar pentru Ucraina</title>
-        <link>https://adevarul.ro/stiri-externe/europa/cum-a-transformat-un-ceasornicar-finlandez-otelul-2533449.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/cum-a-transformat-un-ceasornicar-finlandez-otelul-2533449.html</guid>
+        <title>Cum s-a transformat pasiunea japonezilor pentru pisici într-o industrie de miliarde: „Preferă să stea în casă într-o zi toridă”</title>
+        <link>https://www.digi24.ro/magazin/stil-de-viata/animale/cum-s-a-transformat-pasiunea-japonezilor-pentru-pisici-intr-o-industrie-de-miliarde-prefera-sa-stea-in-casa-intr-o-zi-torida-3788489</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/stil-de-viata/animale/cum-s-a-transformat-pasiunea-japonezilor-pentru-pisici-intr-o-industrie-de-miliarde-prefera-sa-stea-in-casa-intr-o-zi-torida-3788489</guid>
     </item>
     <item>
-        <title>Câștiguri de peste 27,5 milioane de lei la tragerea Loto de duminică</title>
-        <link>https://www.mediafax.ro/social/castiguri-de-peste-275-milioane-de-lei-la-tragerea-loto-de-duminica-23746729</link>
+        <title>Hotelul emblematic din Istanbul care a găzduit spioni, regi și pe Greta Garbo</title>
+        <link>https://www.mediafax.ro/stirile-zilei/hotelul-emblematic-din-istanbul-care-a-gazduit-spioni-regi-si-pe-greta-garbo-23745502</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/castiguri-de-peste-275-milioane-de-lei-la-tragerea-loto-de-duminica-23746729</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/hotelul-emblematic-din-istanbul-care-a-gazduit-spioni-regi-si-pe-greta-garbo-23745502</guid>
     </item>
     <item>
-        <title>Sorana Cîrstea, calificare de senzație în sferturi la Roland Garros! Discurs manifest: „Societatea ne etichetează!”</title>
-        <link>https://adevarul.ro/sport/sorana-cirstea-calificare-de-senzatie-in-sferturi-2533437.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/sorana-cirstea-calificare-de-senzatie-in-sferturi-2533437.html</guid>
+        <title>România ia în calcul expulzarea ambasadorului Rusiei, dacă incidente ca cel de la Galați se vor repeta</title>
+        <link>https://www.europafm.ro/romania-ia-in-calcul-expulzarea-ambasadorului-rusiei-daca-incidente-ca-cel-de-la-galati-se-vor-repeta/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/romania-ia-in-calcul-expulzarea-ambasadorului-rusiei-daca-incidente-ca-cel-de-la-galati-se-vor-repeta/</guid>
     </item>
     <item>
-        <title>Universitate din Rusia caută un specialist pentru a studia cum au ajuns strămoșii lui Putin de la plug la afaceri</title>
-        <link>https://adevarul.ro/stiri-externe/rusia/universitate-din-rusia-cauta-un-specialist-pentru-2533436.html</link>
+        <title>Țări si orașe care te plătesc ca să te muți acolo. Lista actualizata pentru 2026</title>
+        <link>https://adevarul.ro/stiri-interne/tari-si-orase-care-te-platesc-ca-sa-te-muti-acolo-2533271.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/universitate-din-rusia-cauta-un-specialist-pentru-2533436.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/tari-si-orase-care-te-platesc-ca-sa-te-muti-acolo-2533271.html</guid>
+    </item>
+    <item>
+        <title>Pericol de inundații în România de la 1 iunie: Hidrologii au emis Cod galben pentru Someș, Mureș și Argeș</title>
+        <link>https://www.libertatea.ro/stiri/cod-galben-inundatii-17-judete-harta-zone-afectate-5760003</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cod-galben-inundatii-17-judete-harta-zone-afectate-5760003</guid>
+    </item>
+    <item>
+        <title>Pilotul român care a doborât o dronă în Estonia: „Vorbim despre două situații diferite / Fragmentele rezultate în urma distrugerii unei drone sau schi</title>
+        <link>https://www.g4media.ro/pilotul-roman-care-a-doborat-o-drona-in-estonia-vorbim-despre-doua-situatii-diferite-fragmentele-rezultate-in-urma-distrugerii-unei-drone-sau-schimbarea-necontrolata-a-traiectoriei-acesteia-pot-pro.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/pilotul-roman-care-a-doborat-o-drona-in-estonia-vorbim-despre-doua-situatii-diferite-fragmentele-rezultate-in-urma-distrugerii-unei-drone-sau-schimbarea-necontrolata-a-traiectoriei-acesteia-pot-pro.html</guid>
+    </item>
+    <item>
+        <title>Detaliul care îți poate salva grădina: care este cel mai bun moment al zilei pentru udarea grădinilor în sezonul cald</title>
+        <link>https://www.mediafax.ro/social/detaliul-care-iti-poate-salva-gradina-care-este-cel-mai-bun-moment-al-zilei-pentru-udarea-gradinilor-in-sezonul-cald-23744817</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/detaliul-care-iti-poate-salva-gradina-care-este-cel-mai-bun-moment-al-zilei-pentru-udarea-gradinilor-in-sezonul-cald-23744817</guid>
+    </item>
+    <item>
+        <title>Cvadruplă campioană la French Open, Iga Swiatek a fost eliminată în turul al treilea de locul 15 mondial</title>
+        <link>https://www.g4media.ro/cvadrupla-campioana-la-roland-garros-iga-swiatek-eliminata-in-turul-al-treilea-de-kostyuk.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cvadrupla-campioana-la-roland-garros-iga-swiatek-eliminata-in-turul-al-treilea-de-kostyuk.html</guid>
+    </item>
+    <item>
+        <title>Ce punem în coșul de cumpărături când toate s-au scumpit. Alimente ieftine, dar valoroase nutrițional: „Avem nevoie de trei macronutrienți”</title>
+        <link>https://www.libertatea.ro/stiri/alimente-ieftine-valoroase-nutritional-buna-functionare-organism-trei-macronutrienti-5756776</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/alimente-ieftine-valoroase-nutritional-buna-functionare-organism-trei-macronutrienti-5756776</guid>
+    </item>
+    <item>
+        <title>Schimbare pentru bolnavii cronici şi oncologici de la 1 iunie. Concediul medical va fi plătit din prima zi</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/schimbare-pentru-bolnavii-cronici-si-oncologici-de-la-1-iunie-concediul-medical-va-fi-platit-din-prima-zi-3793815</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/schimbare-pentru-bolnavii-cronici-si-oncologici-de-la-1-iunie-concediul-medical-va-fi-platit-din-prima-zi-3793815</guid>
+    </item>
+    <item>
+        <title>Kremlinul susține că s-a înțeles cu Trump în Alaska privind războiul din Ucraina. „Kievul a complicat totul”</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/kremlinul-sustine-ca-s-a-inteles-cu-trump-in-2533479.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/kremlinul-sustine-ca-s-a-inteles-cu-trump-in-2533479.html</guid>
+    </item>
+    <item>
+        <title>Nadia Comăneci, primită cu aplauze la Onești. Mirabela Grădinaru și copiii familiei prezidențiale, prezenți la eveniment</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/nadia-comaneci-primita-cu-aplauze-la-onesti-2533439.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/nadia-comaneci-primita-cu-aplauze-la-onesti-2533439.html</guid>
+    </item>
+    <item>
+        <title>Explicațiile lui Zelenski despre drona de la Galați. Care a fost scopul rușilor</title>
+        <link>https://www.mediafax.ro/social/explicatiile-lui-zelenski-despre-drona-de-la-galati-care-a-fost-scopul-rusilor-23746812</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/explicatiile-lui-zelenski-despre-drona-de-la-galati-care-a-fost-scopul-rusilor-23746812</guid>
+    </item>
+    <item>
+        <title>Israelul a cucerit un castel în Liban, pe fondul extinderii ofensivei terestre</title>
+        <link>https://www.g4media.ro/israelul-a-cucerit-un-castel-in-liban-pe-fondul-extinderii-ofensivei-terestre.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/israelul-a-cucerit-un-castel-in-liban-pe-fondul-extinderii-ofensivei-terestre.html</guid>
     </item>
 </channel>
 </rss>
