@@ -1,5 +1,505 @@
 [
   {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/bloomberg-putin-avertizat-de-oficiali-ca-rusia-nu-isi-mai-permite-cheltuielile-de-razboi-23747339",
+    "title": "Bloomberg: Putin, avertizat de oficiali că Rusia nu își mai permite cheltuielile de război",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/8069403-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg",
+    "time": "15:32",
+    "date": "01 Jun",
+    "content": "Înalți oficiali guvernamentali l-au avertizat pe președintele Rusiei, Vladimir Putin, că nivelul cheltuielilor pentru războiul din Ucraina a ajuns pe o traiectorie nesustenabilă.",
+    "fetched_at": "2026-06-01T17:03:36.397750"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/sua-au-propus-un-plan-israelului-si-libanului-pentru-a-putea-continua-negocierile-de-pace-3795273",
+    "title": "SUA au propus un plan Israelului şi Libanului pentru a putea continua negocierile de pace",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjE3JTJGMjczNDgyMV8yNzM0/ODIxX0dldHR5SW1hZ2VzLTIxODcwMzY0/MDkuanBnJmhhc2g9NGVjODczODU1NTY3OTVmZmFhYjMwZTk3NTc0ODYxMTg=.jpg",
+    "time": "18:57",
+    "date": "01 Jun",
+    "content": "Secretarul de stat american Marco Rubio a propus Israelului şi Libanului un plan pentru o „dezescaladare graduală” a conflictului, pe fondul intensificării ofensivei israeliene pe teritoriul libanez, ceea ce pune în pericol negocierile de pace, relatează luni EFE, potrivit Agerpres.",
+    "fetched_at": "2026-06-01T17:03:35.884540"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/grefieri-instante-parchete-protest-suspendare-activitate-lege-salarizare/",
+    "title": "Grefierii din instanțe și parchete își vor suspenda parțial activitatea începând de mâine, nemulțumiți de noul proiect al legii salarizării | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/10/FotoJet-8-200x200.jpg",
+    "time": "14:38",
+    "date": "01 Jun",
+    "content": "Grefierii din instanțe și parchete suspendă parțial activitatea timp de 4 zile, în semn de protest față de noul proiect al legii salarizării.",
+    "fetched_at": "2026-06-01T17:03:37.272571"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/iranul-deschide-stramtoarea-ormuz-pentru-navele-japoneze.html",
+    "title": "Iranul deschide Strâmtoarea Ormuz pentru navele japoneze",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/06/dreamstime_s_220736519.jpg",
+    "time": "15:04",
+    "date": "01 Jun",
+    "content": "Președintele iranian, Masoud Pezeshkian a anunțat luni că Strâmtoarea Ormuz va fi deschisă pentru transportatorii japonezi. Acesta a dat asigurări guvernului de la Tokyo că Teheranul va facilita trecerea în siguranță a navelor japoneze prin Strâmtoare, transmite MEDIAFAX. Angajamentul Teheranului a fost transmis direct de către Masoud Pezeshkian în cadrul unei convorbiri telefonice purtate cu [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595542"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/zapada-continua-sa-se-topeasca-accelerat-in-masivele-fagaras-si-bucegi-strat-de-90-de-centimetri-la-varful-omu.html",
+    "title": "Zăpada continuă să se topească accelerat în masivele Făgăraş şi Bucegi / Strat de 90 de centimetri la Vârful Omu",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/03/Muntii-Bucegi-1024x768.jpeg",
+    "time": "14:52",
+    "date": "01 Jun",
+    "content": "Stratul de zăpadă va continua să se topească accelerat în masivele Făgăraş şi Bucegi, la peste 2.000 de metri, pe fondul temperaturilor pozitive şi al ploilor însemnate cantitativ, potrivit informării nivometeorologice emisă de Administraţia Naţională de Meteorologie, pentru perioada 1 iunie, ora 21:00 &#8211; 4 iunie, ora 21:00, transmite Agerpres. &#8222;Zăpada este umezită în tot [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595550"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/berlinul-analizeaza-posibilitatea-de-a-mobiliza-in-mod-obligatoriu-rezervistii-chiar-si-in-timp-de-pace-germania-are-aproximativ-185-000-de-soldati-in-serviciu-activ.html",
+    "title": "Berlinul analizează posibilitatea de a mobiliza în mod obligatoriu rezerviştii chiar şi în timp de pace / Germania are aproximativ 185.000 de soldaţi ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/06/62545415-1024x576.jpg",
+    "time": "16:14",
+    "date": "01 Jun",
+    "content": "Ministerul german al Apărării elaborează un proiect de lege prin care rezerviştii armatei ar putea fi mobilizaţi pentru a îndeplini diverse sarcini, dincolo de exerciţiile militare obişnuite, chiar şi în timp de pace, plan care a stârnit critici din partea patronatului, potrivit Agerpres, care citează EFE. &#8222;Ne dorim ca rezerviştii să-şi îndeplinească serviciul în mod [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595507"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/mai-a-semnat-contracte-de-aproape-un-miliard-de-euro-prin-programul-european-safe-avioane-spartan-elicoptere-airbus-si-mii-de-autospeciale-23747385",
+    "title": "MAI a semnat contracte de aproape un miliard de euro prin programul european SAFE. Avioane Spartan, elicoptere Airbus și mii de autospeciale.",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/8063443-mediafax_foto-mihai_pop_gmn-1024x683.jpg",
+    "time": "17:01",
+    "date": "01 Jun",
+    "content": "Ministerul Afacerilor Interne anunță că a încheiat contracte și acorduri-cadru în valoare totală de peste 973 milioane de euro, în cadrul programului SAFE. Printre contracte se numără și 12 elicoptere Airbus, două avioane tactice Spartan și mii de noi autospeciale.",
+    "fetched_at": "2026-06-01T17:03:36.397675"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/consul-rus-constanta-a-parasit-romania/",
+    "title": "Consulul rus de la Constanța a părăsit România cu 24 de ore mai devreme decât s-a stabilit în CSAT. Personalul consulatului are la dispoziție 30 de zi",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/06/consultat-rusia-constanta-foto-nicusor-busurica-200x200.jpg",
+    "time": "13:03",
+    "date": "01 Jun",
+    "content": "Andrei Kosilin, consulul general al Federației Ruse la Constanța, a părăsit România înainte de expirarea termenului de 72 de ore. Consulatul urmează să fie închis.",
+    "fetched_at": "2026-06-01T17:03:37.272633"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/ialomita-o-femeie-a-murit-si-un-copil-de-5-ani-a-fost-ranit-dupa-ce-au-fost-loviti-de-un-tren-23747366",
+    "title": "Ialomița: O femeie a murit și un copil de 5 ani a fost rănit după ce au fost loviți de un tren",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/whatsapp-image-2026-06-01-at-18-53-45-1024x728.jpeg",
+    "time": "16:15",
+    "date": "01 Jun",
+    "content": "O femeie în vârstă de aproximativ 70 de ani și-a pierdut viața, iar un minor de 5 ani a fost grav rănit în această după-amiază, după ce au fost loviți de un tren în timp ce încercau să traverseze calea ferată.",
+    "fetched_at": "2026-06-01T17:03:36.397731"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/contracte-de-aproape-un-miliard-de-euro-pentru-2533660.html",
+    "title": "Contracte de aproape un miliard de euro pentru MAI. Cu ce echipamente se dotează Poliția, Jandarmeria și pompierii",
+    "image": "https://cdn.adh.reperio.news/image-2/28186ff7-cb08-4ee9-a4e1-ad10914e05a9/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:04",
+    "date": "01 Jun",
+    "content": "Ministerul Afacerilor Interne anunță că a încheiat în cadrul programului SAFE contracte și acorduri-cadru în valoare totală de peste 973 de milioane de euro.",
+    "fetched_at": "2026-06-01T17:03:37.951884"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/imm-europa-deficit-angajati-recrutare-afara-ue-eurobarometru/",
+    "title": "Aproape jumătate dintre IMM-urile din Europa găsesc greu angajați calificați. Recrutarea din afara UE rămâne dificilă | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2023/02/interviu-angajare-200x200.jpg",
+    "time": "13:48",
+    "date": "01 Jun",
+    "content": "Un sondaj Eurobarometru arată că aproape jumătate dintre IMM-urile din Europa întâmpină dificultăți în găsirea de angajați pregătiți.",
+    "fetched_at": "2026-06-01T17:03:37.272598"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/cultura-media/pictorul-roman-care-are-o-lucrare-in-colectia-privata-a-regelui-charles-majestatea-sa-este-extrem-de-incantata-23747334",
+    "title": "Pictorul român care are o lucrare în colecția privată a Regelui Charles / „Majestatea Sa este extrem de încântată”",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/20260601_125650-1024x768.jpg",
+    "time": "16:16",
+    "date": "01 Jun",
+    "content": "A fost paralizat de la gât în jos timp de doi ani de zile. A pictat cu gura. A reînvățat să meargă. Astăzi, lucrările lui sunt expuse internațional, în colecții private iar una dintre ele se află chiar în colecția privată a Regelui Marii Britanii.",
+    "fetched_at": "2026-06-01T17:03:36.397724"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/explozie-intr-un-depozit-minier-din-myanmar-cel-putin-43-de-persoane-ucise-intre-victime-se-afla-si-copii-23747342",
+    "title": "Explozie într-un depozit minier din Myanmar: Cel puțin 43 de persoane, ucise. Între victime se află și copii",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/myanmar-explozie-1024x576.jpg",
+    "time": "16:16",
+    "date": "01 Jun",
+    "content": "Zeci de echipe de salvare, dar și organizații caritabile au folosit, luni, utilaje de excavare pentru a recupera cadavrele persoanelor ucise în urma exploziei la un depozit minier din Myanmar.",
+    "fetched_at": "2026-06-01T17:03:36.397718"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/ucraina-integreaza-rachete-s-5-din-epoca-sovietica-2533663.html",
+    "title": "Ucraina integrează rachete S-5 din epoca sovietică pe drone FPV, într-o nouă etapă a războiului la distanță",
+    "image": "https://cdn.adh.reperio.news/image-8/82c07682-1c7f-4449-8b02-d4f3959254cd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:39",
+    "date": "01 Jun",
+    "content": "Ucraina a confirmat că a început să echipeze unele dintre dronele sale de atac cu rachete nedirijate S-5, dezvoltate în perioada sovietică, într-o inițiativă care reflectă transformarea rapidă a tehnologiilor utilizate pe câmpul de luptă.",
+    "fetched_at": "2026-06-01T17:03:37.951903"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/reuniune-a-consiliului-de-securitate-al-onu-la-solicitarea-romaniei-dupa-incidentul-cu-drona-ruseasca-de-la-galati-oana-toiu-voi-prezenta-incalcarile-flagrante-ale-dreptului-international-si-riscu.html",
+    "title": "Reuniune a Consiliului de Securitate al ONU, la solicitarea României după incidentul cu drona rusească de la Galați / Oana Țoiu: Voi prezenta încălcăr",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/06/Oana-Toiu--1024x683.jpg",
+    "time": "15:07",
+    "date": "01 Jun",
+    "content": "Consiliul de Securitate al ONU se reunește, luni, la solicitarea României, după ce o dronă rusească a căzut pe un bloc din Galați și a explodat, două persoane fiind rănite. Ministra Afacerilor Externe, Oana Țoiu, va susține un discurs la ora 22.00 ora României. „Pentru prima dată, Consiliul de Securitate al ONU se reunește la [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595533"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/bloomberg-oficialii-rusi-l-au-avertizat-pe-putin-ca-rusia-nu-isi-mai-permite-cheltuielile-de-razboi.html",
+    "title": "Bloomberg: Oficialii ruși l-au avertizat pe Putin că Rusia nu își mai permite cheltuielile de război",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/03/AFP__20240327__34MM3QL__v3__HighRes__RussiaPoliticsPutin-1024x683.jpg",
+    "time": "15:49",
+    "date": "01 Jun",
+    "content": "Oficiali din Ministerul rus de Finanțe și din banca centrală au transmis Kremlinului că nivelul actual al cheltuielilor de apărare prognozate riscă să ducă la o creștere periculoasă a deficitului bugetar, potrivit unor persoane familiarizate cu situația și unor documente analizate de Bloomberg, transmite MEDIAFAX. Oficialii, tot mai îngrijorați în ultimele luni de starea economiei [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595515"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/autospeciala-de-politie-oprita-in-trafic-de-un-echipaj-de-la-rutiera-pentru-depasirea-vitezei-legale-ipj-galati-face-verificari-3795303",
+    "title": "Autospecială de Poliţie, oprită în trafic de un echipaj de la Rutieră pentru depăşirea vitezei legale. IPJ Galaţi face verificări",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMSUyRjA2JTJGMjQyODgyNF8yNDI4/ODI0X3Byb2ZpbWVkaWEtMDk4MjEyMjc2/MC5qcGcmaGFzaD1iOWUyZWY0ZmU1NjY1NGZlMDY4YjE1MjFmMDM2ZDNlNg==.jpg",
+    "time": "18:49",
+    "date": "01 Jun",
+    "content": "O autospecială de Poliţie a fost oprită în trafic, duminică, 31 mai, de un echipaj de la Poliţia Rutieră pentru că ar fi circulat prin municipiul Galaţi cu o viteză peste limita legală admisă. Conducerea Inspectoratului de Poliţie Judeţean Galaţi a dispus verificări pentru stabilirea tuturor împrejurărilor în care a avut loc incidentul şi pentru clarificarea modului de acţiune al personalului implicat.",
+    "fetched_at": "2026-06-01T17:03:35.884548"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/iran-suspenda-negocierile-statele-unite-operatiuni-israel-liban-gaza/",
+    "title": "Iranul a suspendat negocierile de pace cu SUA. Teheranul amenință cu blocarea totală a strâmtorii Ormuz | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/03/iran-sua-foto-shutterstock-2-200x200.jpg",
+    "time": "14:58",
+    "date": "01 Jun",
+    "content": "Teheranul a anunțat suspendarea negocierilor cu Statele Unite și condiționează reluarea acestora de încetarea operațiunilor israeliene din Liban și Gaza.",
+    "fetched_at": "2026-06-01T17:03:37.272550"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/copiii-romani-din-diaspora-mesaje-in-romana-de-1-iunie-in-cadrul-unei-campanii-organizate-de-administratia-prezidentiala-si-mae/",
+    "title": "Copiii români din diaspora, mesaje în română de 1 Iunie, în cadrul unei campanii organizate de Administrația Prezidențială și MAE | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/12/FotoJet-2025-12-01T145722.338-200x200.jpg",
+    "time": "12:50",
+    "date": "01 Jun",
+    "content": "Copiii români din toată lumea au transmis de 1 Iunie câteva cuvinte în limba română. Este vorba de o campanie a Administrației Prezidențiale și a Ministerului Afacerilor Externe. Cei mici s-au înregistrat și au transmis scurte mesaje cu cele mai importante cuvinte pentru ei, în limba pe care nu au uitat-o.  Într-un mesaj pe pagina [&#8230;]",
+    "fetched_at": "2026-06-01T17:03:37.272640"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/trump-doreste-inghetarea-conflictului-din-ucraina-2533657.html",
+    "title": "Trump dorește înghețarea conflictului din Ucraina înainte de alegerile intermediare din 3 noiembrie din SUA",
+    "image": "https://cdn.adh.reperio.news/image-7/75bf9fa1-f6d3-426a-af00-e495ab6d7a57/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:19",
+    "date": "01 Jun",
+    "content": "Kievul se așteaptă la o implicare politică masivă a Casei Albe în lunile următoare. Oficialii ucraineni cred că administrația Trump va încerca să „calmeze” conflictul de pe front pentru a securiza majoritatea republicană în Congres.",
+    "fetched_at": "2026-06-01T17:03:37.951916"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/alerta-furtuna-romania-anm-cod-galben-instabilitate-atmosferica/",
+    "title": "Aproape toată țara, sub cod galben de instabilitate. ANM anunță averse torențiale, vijelii și grindină | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/10/FotoJet-2025-10-08T151219.671-200x200.jpg",
+    "time": "13:59",
+    "date": "01 Jun",
+    "content": "Alertă de furtună în țară: Administrația Națională de Meteorologie a emis două coduri galbene valabile astăzi și mâine. Sunt anunțate averse torențiale, descărcări electrice, vijelii și căderi de grindină în mare parte a țării, precum în Banat, Crișana, Transilvania și nordul Munteniei. Meteorologul ANM, Alexandra Roșioară: „Temperaturile maxime vor fi cuprinse în general între 20 [&#8230;]",
+    "fetched_at": "2026-06-01T17:03:37.272591"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/ministerul-afacerilor-interne-a-incheiat-contracte-de-aproape-un-miliard-de-euro-prin-mecanismul-safe-lista-contractelor.html",
+    "title": "Ministerul Afacerilor Interne a încheiat contracte de aproape un miliard de euro prin mecanismul SAFE / Lista contractelor",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/07/profimedia-1016949912-800x506-1.jpg",
+    "time": "15:46",
+    "date": "01 Jun",
+    "content": "Ministerul Afacerilor Interne a anunțat, luni, într-un comunicat de presă, că în cadrul Planului Național de Investiții al României aprobat de Comisia Europeană pentru finanțare prin Instrumentul SAFE au fost încheiate, până la data de 30 mai 2026, contracte și acorduri-cadru în valoare totală de 973.113.125 euro. Contractele vizează proiecte majore de investiții destinate creșterii [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595524"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/premiera-pentru-diplomatia-romaneasca-onu-discuta-2533656.html",
+    "title": "Premieră pentru diplomația românească: ONU discută o temă solicitată de București. Țoiu va prezenta „încălcările flagrante ale dreptului internațional",
+    "image": "https://cdn.adh.reperio.news/image-7/77967192-d933-4102-960d-a45bc6b71e3f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:05",
+    "date": "01 Jun",
+    "content": "Pentru prima dată, Consiliul de Securitate al ONU se reunește la solicitarea expresă a României pe o temă care o implică direct, a anunțat ministrul de Externe, Oana Țoiu, care va prezenta, luni seară, încălcările flagrante dreptului internațional de care se face vinovată Rusia",
+    "fetched_at": "2026-06-01T17:03:37.951878"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/podul-giurgiu-ruse-inchis-joi-din-cauza-lucrarilor-pe-partea-romaneasca.html",
+    "title": "Podul Giurgiu-Ruse, închis joi din cauza lucrărilor pe partea românească",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/11/Podul-Giurgiu-Ruse-Romania-Bulgaria-1024x768.jpeg",
+    "time": "16:32",
+    "date": "01 Jun",
+    "content": "Traficul pe Podul Dunării dintre Ruse și Giurgiu va fi suspendat temporar pe 4 iunie, deoarece lucrările de reparații intră într-o etapă critică pe partea românească a structurii, notează Novinite. Agenția pentru Infrastructură Rutieră a anunțat că închiderea este necesară pentru finalizarea lucrărilor pe ultimul tronson de 320 de metri aflat în reabilitare. Potrivit agenției, [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595488"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/anm-topire-accelerata-a-zapezii-din-masivele-fagaras-si-bucegi-e-strat-de-aproape-un-metru-la-vf-omu-si-petice-la-balea-lac-pe-vai-zapada-ajunge-la-15-metri.html",
+    "title": "ANM: Topire accelerată a zăpezii din masivele Făgăraş şi Bucegi / E strat de aproape un metru la Vf. Omu şi petice la Bâlea-Lac / Pe văi, zăpada ajung",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/03/lucian-v_mTgSs6UiY-unsplash-1024x683.jpg",
+    "time": "16:27",
+    "date": "01 Jun",
+    "content": "Stratul de zăpadă va continua să se topească accelerat în masivele Făgăraş şi Bucegi, la peste 2.000 de metri, pe fondul temperaturilor pozitive şi al ploilor însemnate cantitativ, potrivit informării nivometeorologice emisă de Administraţia Naţională de Meteorologie, pentru perioada 1 iunie, ora 21:00 &#8211; 4 iunie, ora 21:00, anunță Agerpres. &#8222;Zăpada este umezită în tot [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595497"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/neamt-un-copil-de-12-ani-s-a-electrocutat-dupa-ce-a-urcat-pe-un-vagon-de-tren-minorul-a-fost-transportat-la-spital/",
+    "title": "Neamț: Un copil de 12 ani s-a electrocutat după ce a urcat pe un vagon de tren. Minorul a fost transportat la spital",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/03/ambulanta-shutterstock-200x200.jpg",
+    "time": "14:25",
+    "date": "01 Jun",
+    "content": "Un băiat de 12 ani a ajuns la spital, luni după-amiază, după ce s-a urcat pe un vagon de tren staționat în gara din orașul Târgu-Neamț și s-a electrocutat, minorul suferind arsuri pe o suprafață mare a corpului, a informat Inspectoratul pentru Situații de Urgență Neamț. Băiatul a urcat pe vagonul de tren împreună cu [&#8230;]",
+    "fetched_at": "2026-06-01T17:03:37.272581"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/social/tragedie-pe-calea-ferata-in-ialomita-femeie-de-70-de-ani-a-murit-copil-de-5-ani-ranit-grav-dupa-ce-au-fost-loviti-de-un-tren-3795297",
+    "title": "Tragedie pe calea ferată în Ialomița: femeie de 70 de ani a murit, copil de 5 ani rănit grav după ce au fost loviți de un tren",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjAxJTJGMjUxNjc5MV8yNTE2/NzkxX3RyZW4tZm90by1mYi1jZnIuanBn/Jmhhc2g9NGM5OGNjOTAxYmRlMDIyZmFkNDEyYjgxM2FhNjUzMGU=.jpg",
+    "time": "18:42",
+    "date": "01 Jun",
+    "content": "O femeie de 70 de ani a murit, iar un copil de cinci ani a fost rănit grav, după ce au fost loviţi, luni seară, în timp ce traversau calea ferată, de un tren InterRegio care circula pe ruta Constanţa – Bucureşti. Niciunul dintre cei aproximativ 200 de călători nu a avut nevoie de îngrijiri medicale.",
+    "fetched_at": "2026-06-01T17:03:35.884555"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/in-lume/in-interiorul-imperiilor-mafiei-2533465.html",
+    "title": "În interiorul imperiilor mafiei: conace-fortăreață, averi uriașe ascunse și grădini zoologice private",
+    "image": "https://cdn.adh.reperio.news/image-1/1cc89236-af45-4535-be71-cd0ad12e28fe/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:48",
+    "date": "01 Jun",
+    "content": "În spatele legendelor care au inspirat filme, seriale și romane despre lumea interlopă s-au aflat averi greu de imaginat, palate fortificate și rețele criminale care au generat miliarde de dolari.",
+    "fetched_at": "2026-06-01T17:03:37.951897"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/sondaj-romani-resping-premier-independent-alegeri-anticipate/",
+    "title": "Sondaj: peste 50% dintre români resping varianta unui premier independent. Ce părere au despre organizarea de alegeri anticipate | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/Guvernul-Romaniei-foto-inquam-george-calin-200x200.jpg",
+    "time": "13:21",
+    "date": "01 Jun",
+    "content": "În următoarele 48 de ore, președintele Nicușor Dan este așteptat să desemneze un nou premier. Pe surse, cel mai vehiculat nume este cel al consilierului său onorific, Eugen Tomac. Între timp, peste jumătate dintre români consideră că desemnarea unui premier independent care să conducă un guvern format din partidele fostei alianțe de guvernare ar fi [&#8230;]",
+    "fetched_at": "2026-06-01T17:03:37.272615"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/rusia-ameninta-direct-romania-dupa-decizia-lui-nicusor-dan-actiunile-autoritatilor-romane-nu-vor-ramane-fara-raspuns-3795293",
+    "title": "Rusia amenință direct România după decizia lui Nicușor Dan. „Acțiunile autorităților române nu vor rămâne fără răspuns”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNiUyRjE2JTJGMjI4NDU4MF8yMjg0/NTgwX21hcmlhLXphaGFyb3ZhLXNodXR0/ZXJzdG9ja18yMTY3OTQxMjQ3LnBuZyZo/YXNoPTFkYTRlNTVmYWExNzVlMjQ5OWRiYzhiY2IyYjgzNDc0.png",
+    "time": "19:08",
+    "date": "01 Jun",
+    "content": "Rusia va lua măsuri în urma deciziei României de a-l expulza pe consulul Moscovei la Constanța, a dat asigurări luni purtătoarea de cuvânt a ministerului rus de externe, Maria Zaharova.",
+    "fetched_at": "2026-06-01T17:03:35.884520"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/in-lume/misterul-din-jurul-bijuteriilor-extraterestre-2533671.html",
+    "title": "Misterul din jurul „bijuteriilor extraterestre” ale lui Tutankhamon se adâncește. Ce au descoperit oamenii de știință în deșertul libian?",
+    "image": "https://cdn.adh.reperio.news/image-b/b7e2f155-c350-4ac3-ab96-66567e7f2748/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:13",
+    "date": "01 Jun",
+    "content": "Misterul persistă în jurul așa-numitei „sticle de origine extraterestră” asociată cu artefactele din mormântul lui Tutankhamun, după ce cercetătorii au făcut o nouă descoperire care ar putea clarifica originea acestui material neobișnuit.",
+    "fetched_at": "2026-06-01T17:03:37.951870"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/sport/tenis/serena-williams-revine-in-tenis-ea-s-a-reinregistrat-pe-listele-antidoping-si-va-juca-in-proba-de-dublu-de-la-queens-3795351",
+    "title": "Serena Williams revine în tenis. Ea s-a reînregistrat pe listele antidoping și va juca în proba de dublu de la Queen's",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjAxJTJGMjc1NTcwOF8yNzU1/NzA4X3NlcmVuYS13aWxsaWFtcy1wcm9m/aW1lZGlhLTEwMzA1OTQ1NDQucG5nJmhh/c2g9MmQ4YjI0ZjM2NDE3MjAxMTNkZjU1ZTg1NTNlNjg2MTQ=.png",
+    "time": "19:54",
+    "date": "01 Jun",
+    "content": "Fostul număr 1 mondial Serena Williams, câştigătoare a 23 de titluri de Grand Slam şi absentă de pe circuit de la US Open 2022, îşi va relua cariera săptămâna viitoare la dublu la Queen's, au anunţat luni organizatorii acestui turneu londonez pe iarbă.",
+    "fetched_at": "2026-06-01T17:03:35.884484"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/alpinistul-adrian-ahritculesei-a-plecat-spre-alaska-unde-si-a-propus-sa-cucereasca-muntele-mckinley-este-ultimul-din-circuitul-seven-summits/",
+    "title": "Alpinistul Adrian Ahrițculesei a plecat spre Alaska, unde și-a propus să cucerească Muntele McKinley. Este ultimul din circuitul Seven Summits | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/06/Facebook-Adrian-Ahritculesei-200x200.jpg",
+    "time": "13:37",
+    "date": "01 Jun",
+    "content": "Alpinistul Adrian Ahrițculesei a plecat azi spre Alaska, unde și-a propus să cucerească Muntele McKinley. Cu o altitudine de 6.194 de metri, acesta este cel mai înalt de pe continentul nord-american și ultimul pe care alpinistul din Petroșani îl mai are de escaladat din circuitul internațional Seven Summits. Circuitul Seven Summits reunește cele mai înalte [&#8230;]",
+    "fetched_at": "2026-06-01T17:03:37.272607"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sport/serena-williams-revine-in-tenis-dupa-aproape-patru-ani-de-pauza-la-ce-turneu-va-juca-23747354",
+    "title": "Serena Williams revine în tenis după aproape patru ani de pauză. La ce turneu va juca",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/8051706-hepta_mediafax_foto-bestimage_hepta-1024x683.jpg",
+    "time": "16:22",
+    "date": "01 Jun",
+    "content": "Serena Williams, una dintre cele mai mari jucătoare din istoria tenisului, revine pe teren după aproape patru ani de pauză.",
+    "fetched_at": "2026-06-01T17:03:36.397711"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/germania-ia-in-considerare-posibilitatea-de-a-mobiliza-rezervistii-chiar-si-in-timp-de-pace-3795309",
+    "title": "Germania ia în considerare posibilitatea de a mobiliza rezerviştii chiar şi în timp de pace",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjAxJTJGMjc1NTYxNF8yNzU1/NjE0X21pbGl0YXJpLWdlcm1hbmktcHJv/ZmltZWRpYS5qcGcmaGFzaD1jNWVmMWY4/ZDBmOWQwMDFlYzcyYTM2YmUwNzRmNTI2Nw==.jpg",
+    "time": "18:59",
+    "date": "01 Jun",
+    "content": "Ministerul german al Apărării elaborează un proiect de lege prin care rezerviştii armatei ar putea fi mobilizaţi pentru a îndeplini diverse sarcini, dincolo de exerciţiile militare obişnuite, chiar şi în timp de pace, plan care a stârnit critici din partea patronatului, potrivit EFE.",
+    "fetched_at": "2026-06-01T17:03:35.884526"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/peste-20-de-politisti-insarcinati-cu-protectia-2533667.html",
+    "title": "Peste 20 de polițiști însărcinați cu protecția familiei regale britanice, suspendați după ce au dormit în post",
+    "image": "https://cdn.adh.reperio.news/image-5/5f638402-55e1-4502-af68-5c8a664d8a36/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:30",
+    "date": "01 Jun",
+    "content": "Peste douăzeci de polițiști britanici din cadrul unității responsabile cu protejarea familiei regale au fost suspendați și se află sub o anchetă internă după ce au apărut acuzații potrivit cărora ar fi adormit și ar fi lăsat posturile nesupravegheate.",
+    "fetched_at": "2026-06-01T17:03:37.951861"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/suedia-schimba-legislatia-privind-deportarea-adolescentilor-migranti-dar-mentine-reguli-stricte-pentru-azil-3795331",
+    "title": "Suedia schimbă legislația privind deportarea adolescenților migranți, dar menține reguli stricte pentru azil",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjAxJTJGMjc1NTY3MF8yNzU1/NjcwX3Byb2ZpbWVkaWEtMDgwOTA3MTg2/Ny5qcGcmaGFzaD0xYTc0MTRjNjZiYjA1NDIwN2I1ODc4NTlhZTVjY2EyZg==.jpg",
+    "time": "19:29",
+    "date": "01 Jun",
+    "content": "Suedia a anunțat modificarea legislației care permitea deportarea adolescenților migranți după împlinirea vârstei de 18 ani, chiar dacă familiile lor aveau dreptul să rămână în țară. Noile reguli ridică la 21 de ani pragul de vârstă pentru astfel de cazuri și oferă posibilitatea depunerii unor noi cereri de permis de ședere, însă guvernul de la Stockholm insistă că va menține o politică de azil strictă.",
+    "fetched_at": "2026-06-01T17:03:35.884508"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/mai-multi-politisti-din-structura-de-protectie-a-familiei-regale-britanice-sunt-anchetati-dupa-ce-ar-fi-adormit-la-post-23747349",
+    "title": "Mai mulți polițiști din structura de protecție a familiei regale britanice sunt anchetați după ce ar fi adormit la post",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/8075262-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "time": "15:44",
+    "date": "01 Jun",
+    "content": "Peste douăzeci de polițiști britanici din cadrul unității responsabile cu protejarea familiei regale au fost suspendați și se află sub o anchetă internă după ce au apărut acuzații potrivit cărora ar fi adormit și ar fi lăsat posturile nesupravegheate.",
+    "fetched_at": "2026-06-01T17:03:36.397744"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/social/mai-avertizeaza-conturi-false-pe-retelele-de-social-media-raspandesc-informatii-despre-ilie-bolojan-si-catalin-predoiu-3795359",
+    "title": "MAI avertizează: conturi false pe rețelele de social-media răspândesc informații despre Ilie Bolojan și Cătălin Predoiu",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjAxJTJGMjc1NTcyN18yNzU1/NzI3X2Zha2UtbmV3cy1NQUktMS5qcGcm/aGFzaD05ZDdhMjJmNmU2OWM5MTBkMDRmZjAzNTJhNzljMjEwNQ==.jpg",
+    "time": "20:02",
+    "date": "01 Jun",
+    "content": "Ministerul Afacerilor Interne a atenționat cu privire la apariția unor conturi pe rețelele de social media care răspândesc informații false despre premierul interimar Ilie Bolojan și ministrul interimar al Afacerilor Interne, Cătălin Predoiu, inclusiv acuzații nefondate și date medicale sau juridice inventate.",
+    "fetched_at": "2026-06-01T17:03:35.884462"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/social/investitii-strategice-de-aproape-1-miliard-de-euro-pentru-romania-avioane-spartan-elicoptere-airbus-si-salupe-de-salvare-prin-safe-3795335",
+    "title": "Investiții strategice de aproape 1 miliard de euro pentru România: avioane Spartan, elicoptere Airbus și șalupe de salvare prin SAFE",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjAxJTJGMjc1NTcxOF8yNzU1/NzE4X1NjcmVlbnNob3QtMjAyNi0wNi0w/MS0xOTU1NTMucG5nJmhhc2g9ZjVhMjJj/ZWQ3NTY3ZDVlMDJlYjJkZTk0MGU0MTI3NzI=.png",
+    "time": "19:56",
+    "date": "01 Jun",
+    "content": "Ministerul Afacerilor Interne a anunțat că, în cadrul Planului Național de Investiții al României, aprobat de Comisia Europeană pentru finanțare prin Instrumentul SAFE – Security Action for Europe, au fost semnate până la 30 mai a acestui an contracte și acorduri-cadru în valoare totală de 973.113.125 euro.",
+    "fetched_at": "2026-06-01T17:03:35.884501"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/protest-pentru-drepturile-animalelor-la-cluj-activistii-reclama-conditiile-in-care-sunt-tinute-animalele-de-la-zoo-park-activitatea-seamana-cu-cea-a-unui-circ-ambulant.html",
+    "title": "Protest pentru drepturile animalelor la Cluj / Activiștii reclamă condițiile în care sunt ținute animalele de la Zoo Park / „Activitatea seamănă cu ce",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/06/protest-zoo-park-1024x768.webp",
+    "time": "17:00",
+    "date": "01 Jun",
+    "content": "Mai mulți clujeni au protestat duminică după-amiaza în fața Zoo Park Cluj, amenajat în incinta fostului Cora de pe Bulevardul 1 Decembrie 1918 din Cluj-Napoca, unde a avut loc o expoziție cu animale exotice, relatează Cluj24. Participanții la acțiune au acuzat organizatorii că animalele sunt supuse unor condiții care le provoacă suferință și au cerut [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595455"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/kaia-kallas-vrea-ca-ue-sa-aiba-un-rol-in-negocierile-de-pace-sua-iran-ce-propune-sefa-diplomatiei-europene-3795333",
+    "title": "Kaia Kallas vrea ca UE să aibă un rol în negocierile de pace SUA-Iran. Ce propune șefa diplomației europene",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjEwJTJGMjU4NTU4MF8yNTg1/NTgwX0thamEtS2FsbGFzLXByb2ZpbWVk/aWEuanBnJmhhc2g9OTY4YTQzZWVmNjVjMDEyMzgyZjQwZTg1M2Y5NWE4NWI=.jpg",
+    "time": "19:50",
+    "date": "01 Jun",
+    "content": "Uniunea Europeană poate juca un rol esențial în asigurarea unui armistițiu durabil între Iran și SUA, care să răspundă preocupărilor legate de ambițiile nucleare ale Teheranului, a declarat pentru Politico șefa politicii externe a UE, Kaja Kallas.",
+    "fetched_at": "2026-06-01T17:03:35.884492"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/oradea/la-salonta-s-a-preparat-cel-mai-mare-ceaun-de-2533669.html",
+    "title": "La Salonta s-a preparat cel mai mare ceaun de gulaș de bizon din lume. S-a folosit aproape o tonă de carne",
+    "image": "https://cdn.adh.reperio.news/image-4/40c8f465-a267-4e98-8b58-3fa4dff1175f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:31",
+    "date": "01 Jun",
+    "content": "Orașul bihorean Salonta a stabilit un nou record culinar în cadrul evenimentelor dedicate centenarului: un uriaș ceaun de peste 5.000 de litri de gulaș cu carne de bizon, preparat cu ajutorul a aproximativ 200 de voluntari și bucătari locali.",
+    "fetched_at": "2026-06-01T17:03:37.951843"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/horoscop-2-iunie-trei-zodii-au-noroc-incredibil-incepe-o-perioada-de-prosperitate-pentru-mai-multi-nativi-23747381",
+    "title": "Horoscop 2 iunie: Trei zodii au noroc incredibil. Începe o perioadă de prosperitate pentru mai mulți nativi",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/02/whatsapp-image-2026-02-07-at-18-59-40-1024x682.jpeg",
+    "time": "16:57",
+    "date": "01 Jun",
+    "content": "La începutul lunii iunie, trei semne zodiacale vor avea parte de o îmbunătățire semnificativă a situației financiare, intrând într-o perioadă de prosperitate și oportunități pentru progrese importante.",
+    "fetched_at": "2026-06-01T17:03:36.397697"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/stirile-zilei/nato-afirma-ca-europa-raspunde-apelurilor-sua-pentru-cresterea-cheltuielilor-de-aparare-23747352",
+    "title": "NATO afirmă că Europa răspunde apelurilor SUA pentru creșterea cheltuielilor de apărare",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/05/hepta_8740594-1024x646.jpg",
+    "time": "15:52",
+    "date": "01 Jun",
+    "content": "Europa răspunde presiunilor venite din partea administrației lui Donald Trump prin creșterea semnificativă a cheltuielilor pentru apărare, potrivit amiralului Giuseppe Cavo Dragone, președintele Comitetului Militar al NATO.",
+    "fetched_at": "2026-06-01T17:03:36.397737"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/in-lume/o-fata-de-15-ani-a-fost-omorata-dupa-ce-a-refuzat-2533653.html",
+    "title": "O fată de 15 ani a fost omorâtă după ce a refuzat să se mărite cu un văr. Calvarul prin care a trecut adolescenta",
+    "image": "https://cdn.adh.reperio.news/image-e/ebc51dc0-4d39-4241-8529-77e3e6ca84ac/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:36",
+    "date": "01 Jun",
+    "content": "O adolescentă de 15 ani din Irak a fost ucisă pentru că a refuzat să se căsătorească cu verișorul ei. O rudă a dezvăluit presei ce s-a întâmplat.",
+    "fetched_at": "2026-06-01T17:03:37.951909"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/serena-williams-revine-in-tenis-dupa-aproape-patru-ani-de-pauza-wildcard-primit-la-un-turneu-din-londra.html",
+    "title": "Serena Williams revine în tenis după aproape patru ani de pauză / Wildcard primit la un turneu din Londra",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/06/serena-williams-1024x648.jpg",
+    "time": "16:37",
+    "date": "01 Jun",
+    "content": "Serena Williams, una dintre cele mai mari jucătoare din istoria tenisului, revine pe teren după aproape patru ani de pauză, transmite Mediafax. Serena Williams a primit un wildcard pentru turneul de la Queen’s Club, care începe pe 8 iunie, la Londra. Fosta mare campioană americană va evolua în proba de dublu feminin, conform BBC. Partenera [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-01T17:03:38.595478"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/copil-de-12-ani-electrocutat-dupa-ce-s-a-urcat-pe-un-vagon-de-tren-in-neamt-23747374",
+    "title": "Copil de 12 ani, electrocutat după ce s-a urcat pe un vagon de tren în Neamț",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/11/7647634-mediafax_foto-eduard_vinatoru-1024x682.jpg",
+    "time": "16:32",
+    "date": "01 Jun",
+    "content": "Luni, un copil de 12 ani a fost electrocutat, după ce s-a urcat pe vagonul unui tren staționat în gara din orașul Târgu Neamț.",
+    "fetched_at": "2026-06-01T17:03:36.397705"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/o-femeie-a-murit-iar-un-copil-de-cinci-ani-este-2533664.html",
+    "title": "O femeie a murit iar un copil de cinci ani este grav rănit, după ce au fost loviți de tren în timp ce traversau calea ferată",
+    "image": "https://cdn.adh.reperio.news/image-f/fb82dd8b-53f7-439e-a2c9-ab51f45e7a12/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:01",
+    "date": "01 Jun",
+    "content": "O femeie de 70 de ani a murit, iar un copil de cinci ani a fost rănit grav, după ce au fost loviți, luni seară, în timp ce traversau calea ferată, de un tren InterRegio care circula pe ruta Constanţa – Bucureşti.",
+    "fetched_at": "2026-06-01T17:03:37.951891"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/academia-europa-fm-religia-la-bacalaureat-materie-de-examen-sau-alegere-personala/",
+    "title": "Academia Europa FM. Religia la Bacalaureat: materie de examen sau alegere personală?",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/03/examen-foto-shutterstock-200x200.jpg",
+    "time": "13:08",
+    "date": "01 Jun",
+    "content": "Astăzi, de la ora 18:15, la Academia Europa FM, analizăm o temă de actualitate din sistemul de educație: propunerea ca religia să devină disciplină de examen. Consiliul Național al Elevilor și-a exprimat recent dezacordul față de această inițiativă, solicitând o structură predictibilă și adaptată a examenelor naționale. Care sunt argumentele liceenilor și cum ar trebui [&#8230;]",
+    "fetched_at": "2026-06-01T17:03:37.272622"
+  },
+  {
     "source": "G4Media",
     "url": "https://www.g4media.ro/usr-ii-propune-pe-roxana-dumitrache-coordonatoare-de-programe-in-cadrul-icr-la-conducerea-institutului-cultural-roman-si-pe-scriitorul-si-profesorul-radu-vancu-pentru-un-post-in-comitetul-de-conduce.html",
     "title": "USR îi propune pe Roxana Dumitrache, coordonatoare de programe în cadrul ICR, la conducerea Institutului Cultural Român și pe scriitorul și profesorul",
