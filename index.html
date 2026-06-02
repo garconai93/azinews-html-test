@@ -766,18 +766,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Leu", msg: "Atenție din partea celorlalți" },
-            { sign: "Fecioară", msg: "Organizare impecabilă" },
-            { sign: "Rac", msg: "Protecție și siguranță" },
-            { sign: "Taur", msg: "Harmonie în familie" },
-            { sign: "Balanță", msg: "Echilibru în toate" },
-            { sign: "Gemeni", msg: "Comunicare excelentă" },
-            { sign: "Capricorn", msg: "Ambitionează sus" },
+            { sign: "Săgetător", msg: "Călătorii benefice" },
+            { sign: "Pești", msg: "Compasiune profundă" },
+            { sign: "Capricorn", msg: "Succes garantat" },
+            { sign: "Scorpion", msg: "Putere și determinare" },
+            { sign: "Fecioară", msg: "Atenție la detalii" },
+            { sign: "Balanță", msg: "Justiție și fair-play" },
             { sign: "Vărsător", msg: "Comunitate și prietenie" },
-            { sign: "Săgetător", msg: "Libertate personală" },
-            { sign: "Berbec", msg: "Zi perfectă pentru inițiative noi" },
-            { sign: "Scorpion", msg: "Transformări pozitive" },
-            { sign: "Pești", msg: "Visatori romantici" },
+            { sign: "Gemeni", msg: "Flexibilitate și adaptabilitate" },
+            { sign: "Rac", msg: "Timp prețios cu familia" },
+            { sign: "Leu", msg: "Atenție din partea celorlalți" },
+            { sign: "Taur", msg: "Conexiuni emoționale puternice" },
+            { sign: "Berbec", msg: "Success în proiectele personale" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
