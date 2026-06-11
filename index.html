@@ -766,18 +766,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Pești", msg: "Creativitate artistică" },
+            { sign: "Rac", msg: "Intuiție puternică" },
+            { sign: "Gemeni", msg: "Inspirație creativă" },
+            { sign: "Capricorn", msg: "Disciplină de fier" },
+            { sign: "Vărsător", msg: "Viitor luminos" },
+            { sign: "Săgetător", msg: "Aventură și explorare" },
+            { sign: "Leu", msg: "Atenție din partea celorlalți" },
+            { sign: "Taur", msg: "Conexiuni emoționale puternice" },
+            { sign: "Pești", msg: "Compasiune profundă" },
+            { sign: "Berbec", msg: "Opportunități profesionale" },
+            { sign: "Fecioară", msg: "Sănătate și bunăstare" },
             { sign: "Balanță", msg: "Relații armonioase" },
-            { sign: "Capricorn", msg: "Ambitionează sus" },
-            { sign: "Săgetător", msg: "Filozofie de viață" },
-            { sign: "Gemeni", msg: "Flexibilitate și adaptabilitate" },
-            { sign: "Leu", msg: "Strălucești în orice situație" },
-            { sign: "Taur", msg: "Zi de relaxare și reflecție" },
-            { sign: "Vărsător", msg: "Schimbări benefice" },
-            { sign: "Scorpion", msg: "Intensitate emoțională" },
-            { sign: "Rac", msg: "Sentimente reciproce" },
-            { sign: "Berbec", msg: "Zi perfectă pentru inițiative noi" },
-            { sign: "Fecioară", msg: "Atenție la detalii" },
+            { sign: "Scorpion", msg: "Mister și charisma" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
