@@ -1,5 +1,535 @@
 [
   {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/sport/politia-a-oprit-marsul-mamelor-care-isi-cauta-copiii-disparuti-cu-cateva-ore-inainte-de-meciul-mexic-africa-de-sud-5773686",
+    "title": "Poliția a oprit marșul mamelor care își caută copiii dispăruți, cu câteva ore înainte de meciul Mexic – Africa de Sud: „Suferința noastră nu are pauze",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/gettyimages-22803713452-620x362.jpg",
+    "time": "12:23",
+    "date": "11 Jun",
+    "content": "Mamele îndurerate au fost oprite de poliție pe Calzada de Tlalpan, în Mexico City, lângă stadionul Azteca, joi, 11 iunie, în timp ce protestau pentru a-și găsi persoanele dragi dispărute, înainte de deschiderea Campionatului Mondial de Fotbal 2026, au relatat Cronica și El Sol. Mame din Mexic, în marș pe Calzada de Tlalpan, au fost [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627710"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/makaveli-ridicat-de-mascati-si-dus-la-audieri-2535773.html",
+    "title": "Makaveli, ridicat de mascați și dus la audieri. Influencerul lui Călin Georgescu, cercetat într-un dosar de evaziune fiscală",
+    "image": "https://cdn.adh.reperio.news/image-5/51fb003b-d6bd-4cbb-9895-d350fefd85cf/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "09:29",
+    "date": "11 Jun",
+    "content": "Virgil Alexandru Zidaru, cunoscut în mediul online sub numele de Makaveli, ar fi fost ridicat joi, 11 iunie, de mascați și dus la audieri la Direcția de Investigare a Criminalității Economice (DICE), într-un dosar ce vizează suspiciuni de evaziune fiscală și complicitate la evaziune fiscală.",
+    "fetched_at": "2026-06-11T09:52:46.890478"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/propagandisti-chinezi-au-folosit-chatgpt-pentru-influentarea-opiniei-publice-si-criticarea-politicilor-lui-donald-trump-openai-dezvaluie-o-ampla-campanie-de-propaganda-online.html",
+    "title": "Propagandiști chinezi au folosit ChatGPT pentru influențarea opiniei publice și criticarea politicilor lui Donald Trump / OpenAI dezvăluie o amplă cam",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/11/dreamstime_xl_277810060-scaled-1-1024x682.jpg",
+    "time": "09:51",
+    "date": "11 Jun",
+    "content": "Propagandiști chinezi au folosit ChatGPT pentru influențarea opiniei publice și criticarea politicilor lui Donald Trump, transmite MEDIAFAX. Compania OpenAI a dezvăluit că mai multe grupuri de propagandă asociate Chinei au folosit ChatGPT pentru a genera conținut destinat influențării opiniei publice și amplificării criticilor la adresa politicilor promovate de președintele american Donald Trump. Informațiile apar într-un [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523301"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/ministrul-interimar-al-agriculturii-vrea-scoaterea-ursului-de-pe-lista-speciilor-protejate-situatia-nu-mai-poate-fi-tolerata-au-murit-zeci-de-persoane.html",
+    "title": "Ministrul interimar al Agriculturii vrea scoaterea ursului de pe lista speciilor protejate / ”Situația nu mai poate fi tolerată” / ”Au murit zeci de p",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/12/Ursi-1024x732.jpg",
+    "time": "08:42",
+    "date": "11 Jun",
+    "content": "Viceprim-ministrul și ministru interimar al Agriculturii și Dezvoltării Rurale, Tanczos Barna, a anunțat miercuri că începe demersurile la nivelul Comisiei Europene pentru scoaterea ursului brun de pe lista speciilor protejate și trecerea sa într-o altă anexă, pentru aceasta România urmând să fie sprijinită de mai multe state membre ale Uniunii, anunță Agerpres. El a subliniat [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523423"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/propagandisti-chinezi-au-folosit-chatgpt-pentru-influentarea-opiniei-publice-openai-dezvaluie-o-ampla-campanie-de-propaganda-online-23753338",
+    "title": "Propagandiști chinezi au folosit ChatGPT pentru influențarea opiniei publice. OpenAI dezvăluie o amplă campanie de propagandă online",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/11/8061234-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg",
+    "time": "09:25",
+    "date": "11 Jun",
+    "content": "Propagandiști chinezi au folosit ChatGPT pentru influențarea opiniei publice și criticarea politicilor lui Donald Trump.",
+    "fetched_at": "2026-06-11T09:52:44.518429"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/surse-influencerul-makaveli-adus-la-audieri-intr-un-dosar-de-evaziune-fiscala-prejudiciul-estimat-depaseste-570-000-de-lei-23753336",
+    "title": "SURSE: Influencerul Makaveli, adus la audieri într-un dosar de evaziune fiscală. Prejudiciul estimat depășește 570.000 de lei",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/10/makaveli-1024x683.jpg",
+    "time": "09:24",
+    "date": "11 Jun",
+    "content": "SURSE: Influencerul Virgil Alexandru Zidaru, cunoscut în mediul online sub numele de Makaveli, a fost adus joi la audieri într-un dosar de evaziune fiscală instrumentat de Parchetul de pe lângă Tribunalul București, în cadrul operațiunii naționale JUPITER.",
+    "fetched_at": "2026-06-11T09:52:44.518435"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/presa-turca-securitatea-marii-negre-depinde-de-parteneriatul-tehnologic-dintre-ankara-si-bucuresti-turcii-se-gandesc-la-o-comisie-comuna-in-domeniul-informatiilor-supravegherii-si-recunoasterii-pr.html",
+    "title": "Presa turcă: Securitatea Mării Negre depinde de parteneriatul tehnologic dintre Ankara și București / Turcii se gândesc la o comisie comună în domeniu",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/05/turcia-ankara-steag-flag-drapel-istanbul-alegeri-e1683613937815-1024x684.jpg",
+    "time": "09:35",
+    "date": "11 Jun",
+    "content": "România și Turcia ar trebui să lanseze o alianță de securitate multidomenială cu ocazia summitului NATO de la Ankara, anunță Daily Sabah, un ziar apropiat partidului de guvernământ. Potrivit publicației turce, cele două state riverane Mării Negre urmează să pună bazele unei alianțe de securitate pe mai multe domenii, menită să răspundă turbulențelor geopolitice actuale [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523342"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/entertainment/dan-negru-nu-recomanda-vacanta-in-doua-tari-adorate-si-luate-cu-asalt-de-romani-vara-grecia-cipru-5773530",
+    "title": "Dan Negru nu recomandă vacanța în două țări adorate și luate cu asalt de români vara: „Suntem mult peste”",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/dan-negru-in-vacanta-620x360.jpg",
+    "time": "12:01",
+    "date": "11 Jun",
+    "content": "Au mai rămas doar câteva zile până când se intră oficial în vacanța de vară, însă românii și-au rezervat deja concediul pentru lunile călduroase, cele mai căutate destinații din străinătate fiind, an de an, Grecia, Turcia, Bulgaria și Cipru. După cum a afirmat chiar el, Dan Negru a fost plecat în Cipru în acest an, [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627737"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/societate/o-fetita-de-8-ani-a-cazut-intr-o-fantana-in-2535767.html",
+    "title": "Final fericit în Vrancea: fetița de 8 ani care a căzut într-o fântână în construcție a fost salvată de pompieri",
+    "image": "https://cdn.adh.reperio.news/image-e/e3ce86ef-64b9-4fc3-82dc-d2b21e07bcfa/index.webp?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.101%252C1%252C0.899%26f%3Djpeg&file=image.jpeg",
+    "time": "08:54",
+    "date": "11 Jun",
+    "content": "Intervenție de amploare a pompierilor vrânceni, după ce o copilă a căzut într-o fântână aflată în construcție, în comuna Garoafa. Salvatorii acționează pentru extragerea în siguranță a fetiței.",
+    "fetched_at": "2026-06-11T09:52:46.890490"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/ft-tarile-ue-iau-in-calcul-dezmembrarea-serviciului-diplomatic-al-uniunii-23753323",
+    "title": "FT: Țările UE iau în calcul „dezmembrarea” serviciului diplomatic al Uniunii",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/05/kaja-kallas-ue-mediafax_foto-anadolu_agency_hepta-1024x683.jpg",
+    "time": "09:31",
+    "date": "11 Jun",
+    "content": "Franţa şi Germania discută propuneri de revizuire a serviciului diplomatic al UE, care a fost creat în urmă cu 15 ani, cu scopul de a îmbunătăţi răspunsul Uniunii la crizele geopolitice. Potrivit Financial Times, există nemulțumiri legate de șefa diplomației UE, Kaja Kallas, care ar fi exprimat poziții proprii pe anumite subiecte sau a avansat propuneri fără aprobarea statelor UE.",
+    "fetched_at": "2026-06-11T09:52:44.518416"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/papa-leon-xiv-binecuvantare-turn-sagrada-familia-gaudi/",
+    "title": "Papa Leon al XIV-lea a binecuvântat cel mai înalt turn al catedralei Sagrada Familia, la 100 de ani de la moartea arhitectului bazilicii, Antoni Gaudí",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/06/sagrada-familia-slujba-papa-leon-foto-sagrdafamilia-FB-200x200.jpg",
+    "time": "05:45",
+    "date": "11 Jun",
+    "content": "Papa Leon al XIV-lea a binecuvântat Turnul lui Iisus Hristos de la Sagrada Familia din Barcelona, în cadrul unei ceremonii care a marcat și centenarul morții arhitectului Antoni Gaudí.",
+    "fetched_at": "2026-06-11T09:52:45.602006"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/bulgaria-trage-un-semnal-de-alarma-dupa-explozia-dronei-in-portul-constanta-exportul-de-bunuri-va-deveni-imposibil-3810471",
+    "title": "Bulgaria trage un semnal de alarmă după explozia dronei în Portul Constanţa: „Exportul de bunuri va deveni imposibil”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjA1JTJGMjc3MjMwN18yNzcy/MzA3X1NjcmVlbnNob3QtMjAyNi0wNi0w/NS0xMDUxMTIucG5nJmhhc2g9Mjg0NGFj/NTMzZDZkNTViNGUyMjI1YzdjNTExYWJhMWM=.png",
+    "time": "12:37",
+    "date": "11 Jun",
+    "content": "Explozia unei drone ucrainene în Portul Constanţa, dar şi situaţia tulbure, în general, din bazinul Mării Negre, stârneşte îngrijorare nu doar în rândul traderilor şi fermierilor români, ci şi la vecinii bulgari, care se tem că nicio navă nu va mai intra în porturile Varna şi Burgas.",
+    "fetched_at": "2026-06-11T09:52:43.996923"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/elon-musk-acuzat-de-alimentarea-violentelor-din-2535778.html",
+    "title": "Elon Musk, acuzat de alimentarea violențelor din Belfast după un atac cu cuțitul",
+    "image": "https://cdn.adh.reperio.news/image-e/e8ce60ed-1fd9-4234-9ad0-9e4e2e3e7dd2/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "09:40",
+    "date": "11 Jun",
+    "content": "Utilizarea platformelor de socializare pentru organizarea protestelor violente din Belfast, declanșate în urma unui atac cu cuțitul, a fost aspru condamnată de autorități.",
+    "fetched_at": "2026-06-11T09:52:46.890463"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/sedinta-la-pnl-oficial-liderii-de-partid-au-decis-in-unanimitate-sa-nu-voteze-cabinetul-tomac-lider-pnl-remarca-dura-la-adresa-lui-tomac-nu-stie-nici-unde-se-afla-ministerele-23753176",
+    "title": "Oficial! Liderii de partid au decis în unanimitate să nu voteze cabinetul Tomac / Lider PNL, remarcă dură la adresa lui Tomac: „Nu știe nici unde se a",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/8125053-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "time": "09:20",
+    "date": "11 Jun",
+    "content": "Conducerea PNL s-a reunit joi, începând cu ora 10:00, în ședința Biroului Politic Național. În urma acesteia, conducerea partidului a decis în unanimitate să nu voteze guvernul Tomac.",
+    "fetched_at": "2026-06-11T09:52:44.518451"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/un-oras-din-ucraina-ramane-fara-curent-si-gaz-fortele-aeriene-au-interceptat-221-de-drone-si-rachete-rusesti-23753325",
+    "title": "Un oraș din Ucraina rămâne fără curent și gaz. Forțele Aeriene au interceptat 221 de drone și rachete rusești",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/8132199-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "time": "09:34",
+    "date": "11 Jun",
+    "content": "Rusia a lansat, de miercuri și până joi, două atacuri de amploare asupra Ucrainei, cu peste 220 de drone și rachete Iskander-M asupra mai multor regiuni. Apărarea Aeriană a interceptat majoritatea munițiilor lansate, însă multe lovituri au provocat pagube în nouă localități.",
+    "fetched_at": "2026-06-11T09:52:44.518408"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/publicitate-advertorial/lista-completa-a-persoanelor-care-pot-cere-bani-dupa-un-accident-cu-raniti-5773555",
+    "title": "Lista completă a persoanelor care pot cere bani după un accident cu răniți",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/despagubiri-rca-620x393.jpg",
+    "time": "12:48",
+    "date": "11 Jun",
+    "content": "Un accident rutier cu răniți poate schimba complet viața unei persoane. În doar câteva secunde, victima poate ajunge să se confrunte cu dureri, tratamente, investigații medicale, recuperare, pierderi salariale și mult stres. În astfel de situații, este important de știut că persoanele rănite nu trebuie să suporte singure toate aceste consecințe. Dacă accidentul a fost [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627685"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/aeroportul-otopeni-va-avea-un-sistem-bazat-pe-2535756.html",
+    "title": "Aeroportul Otopeni va avea un sistem bazat pe inteligență artificială pentru predicția livrării bagajelor",
+    "image": "https://cdn.adh.reperio.news/image-0/09ad64f9-0684-42c9-81f9-ba53f651009d/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "08:25",
+    "date": "11 Jun",
+    "content": "Compania Națională Aeroporturi București (CNAB) a anunțat joi, 11 iunie, implementarea unui sistem bazat pe inteligență artificială pentru predicția livrării bagajelor pasagerilor la Aeroportul Henri Coandă.",
+    "fetched_at": "2026-06-11T09:52:46.890514"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cetateni-romani-se-afla-printre-cei-atacati-violent-in-irlanda-de-nord.html",
+    "title": "Cetățeni români se află printre cei atacați violent în Irlanda de Nord",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/04/33D32AE-highres-1024x634.jpg",
+    "time": "09:47",
+    "date": "11 Jun",
+    "content": "Pentru a doua noapte consecutiv în Irlanda de Nord au avut loc violențe în cursul cărora au fost atacați străini, printre care s-au numărat și cetățeni români. Violențele urmează unui atac cu cuțitul împotriva unui localnic de care a fost inculpat un migrant din Sudan, scrie RFI. În noaptea de miercuri spre joi a fost [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523322"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/sedinta-pnl-decizie-vot-sustinere-guvern-tomac-parlament-romania-5773366",
+    "title": "PNL a decis să nu susțină guvernul lui Eugen Tomac. Ilie Bolojan: „E un paravan pentru a scuti PSD de răspundere”",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/whatsapp-image-2026-06-08-at-12-47-45-e1780980481361-620x349.jpg",
+    "time": "12:50",
+    "date": "11 Jun",
+    "content": "Conducerea PNL s-a reunit joi, 11 iunie, într-o ședință a Biroului Politic Național extins pentru a decide că nu va susține, la votul din Parlament, guvernul propus de premierul desemnat Eugen Tomac. Ilie Bolojan a ieșit la declarații după finalizarea BNL și a explicat motivele pentru care PNL a decis să nu susțină guvernul propus [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627664"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/schimbare-pe-lista-lui-tomac-cine-va-fi-propus-sa-preia-ministerul-finantelor-surse-3810397",
+    "title": "Schimbare pe lista lui Tomac. Cine va fi propus să preia Ministerul Finanțelor (surse)",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjE4JTJGMjczNjQxNl8yNzM2/NDE2X0lEMjY3NjkyLUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTIyM2ZmNWFjZGNjZTYwMWYxZTcxY2E1YjY1NzE1NDE0.jpg",
+    "time": "12:22",
+    "date": "11 Jun",
+    "content": "A apărut un nou nume pe lista de miniștri a lui Eugen Tomac: Ionuț Simion, propus la Ministerul Finanțelor. Deși lista fusese definitivată miercuri seară pentru a fi trimisă către partidele politice, joi dimineață Bogdan Glăvan, vehiculat pentru portofoliul de la Finanțe, a fost înlocuit.",
+    "fetched_at": "2026-06-11T09:52:43.996946"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/un-candidat-vehiculat-pentru-functia-de-ministru-demisioneaza-si-acuza-tabara-ilie-bolojan-ludovic-orban-23753351",
+    "title": "Un candidat vehiculat pentru funcția de ministru demisionează și acuză tabăra Ilie Bolojan – Ludovic Orban",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/524583115_10229517018091466_8188188966748889361_n-1024x643.jpg",
+    "time": "09:44",
+    "date": "11 Jun",
+    "content": "Bogdan Glăvan, vehiculat pentru poziția de ministrul al Finanțelor pe lista lui Eugen Tomac, demisionează din partidul condus de Ludovic Orban, care susține poziția lui Ilie Bolojan, și acuză.",
+    "fetched_at": "2026-06-11T09:52:44.518388"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/ilie-bolojan-pnl-a-luat-decizia-sa-nu-voteze-2535777.html",
+    "title": "Ilie Bolojan: „PNL a luat decizia să nu voteze acest guvern. Nu are puterea să continue reformele. Este o formulă de paravan”",
+    "image": "https://cdn.adh.reperio.news/image-a/aa7d10a6-dc88-4570-9d40-bf2c2c18d4a0/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "09:43",
+    "date": "11 Jun",
+    "content": "Ilie Bolojan a explicat de ce conducerea Partidului Național Liberal a hotărât joi, în cadrul ședinței Biroului Politic Național, să nu acorde vot de încredere Guvernului propus de premierul desemnat Eugen Tomac.",
+    "fetched_at": "2026-06-11T09:52:46.890446"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/fara-voturile-pnl-guvernul-tomac-pare-compromis-cum-arata-calculele-23753301",
+    "title": "Fără voturile PNL, guvernul Tomac pare compromis. Cum arată calculele",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/8135304-mediafax_foto-raul_stef-1-1024x683.jpg",
+    "time": "09:22",
+    "date": "11 Jun",
+    "content": "PNL a decis să nu susțină la vot guvernul propus de premierul desemnat Eugen Tomac. Fără voturile liberalilor, șansele Cabinetului Tomac de a fi învestit de Parlament scad semnificativ.",
+    "fetched_at": "2026-06-11T09:52:44.518441"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stil-de-viata/viata-sanatoasa/cercetatorii-au-identificat-patru-factori-de-risc-2535766.html",
+    "title": "Cercetătorii au identificat patru factori de risc prezenți în majoritatea infarctelor și accidentelor vasculare",
+    "image": "https://cdn.adh.reperio.news/image-8/807c32b4-ef8e-41fa-9fcc-c03f54be1c99/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "09:06",
+    "date": "11 Jun",
+    "content": "Patru factori de risc sunt asociați cu aproape toate infarctele și accidentele vasculare cerebrale, arată un studiu realizat pe peste 9 milioane de persoane din Statele Unite și Coreea de Sud.",
+    "fetched_at": "2026-06-11T09:52:46.890484"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/surse-makaveli-influencer-asociat-cu-pro-rusii-diana-sosoaca-si-calin-georgescu-saltat-de-politisti-pentru-audieri-nu-si-ar-fi-declarat-veniturile-din-social-media.html",
+    "title": "SURSE: Makaveli, influencer asociat cu pro-rușii Diana Șoșoacă și Călin Georgescu, săltat de polițiști pentru audieri. Nu și-ar fi declarat veniturile",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/12/Makaveli-TikTok-20-12-2024-Captura-Profil.jpeg",
+    "time": "09:19",
+    "date": "11 Jun",
+    "content": "Influencerul Alexandru Zidaru, cunoscut în social media ca Makaveli, fostul ”consilier” al extremistei pro-ruse Diana Șoșoacă, a fost dus cu mandat, joi, la audieri într-un dosar de evaziune fiscală, conform surselor G4Media. E suspect că nu și-ar fi declarat veniturile de pe rețelele de socializare. Makaveli este asociat și cu pro-rusul Călin Georgescu, după ce [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523389"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/sport/messi-a-inscris-in-testul-cu-islanda-argentina-2535762.html",
+    "title": "Messi a înscris în „testul” cu Islanda, Argentina a câștigat",
+    "image": "https://cdn.adh.reperio.news/image-4/4cfee115-9526-471b-b7f6-51a741c7c567/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "08:35",
+    "date": "11 Jun",
+    "content": "Superstarul sud-american a contribuit substanțial la victoria (3-0) echipei Argentinei în meciul de verificare cu Islanda, ultimul înaintea debutului la CM de fotbal 2026.",
+    "fetched_at": "2026-06-11T09:52:46.890502"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/primesti-prima-notificare-privind-o-datorie-ce-faci-la-inceput-conteaza-mai-mult-decat-suma-in-sine-5773775",
+    "title": "Primești prima notificare privind o datorie? Ce faci la început contează mai mult decât suma în sine",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/shutterstock2387081373-620x413.jpg",
+    "time": "12:43",
+    "date": "11 Jun",
+    "content": "Campania &#8222;Înapoi la echilibru: deciziile care ne schimbă viața financiară&#8221; susținută de KRUK România   În cultura românească, datoria e trăită ca un eșec personal, iar primul impuls e să te ascunzi de ea. Paradoxal, tocmai perioada de început &#8211; Etapa Amiabilă &#8211; oferă cea mai mare flexibilitate. În România, datoria nu este percepută ca un [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627694"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/benzinariile-din-crimeea-au-ramas-fara-combustibili-dupa-o-noua-noapte-de-atacuri-ucrainene-cu-drone.html",
+    "title": "Benzinăriile din Crimeea au rămas fără combustibili după o nouă noapte de atacuri ucrainene cu drone",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/02/fuel-gf2b641c2a_1280-1024x1024.jpg",
+    "time": "09:24",
+    "date": "11 Jun",
+    "content": "Benzinăriile din peninsula Crimeea, controlată de Rusia, au rămas joi fără benzină, pe fondul intensificării atacurilor ucrainene cu drone împotriva liniilor de aprovizionare din peninsulă, informează agenția de știri Reuters, citată de Agerpres. Un martor din Sevastopol, cel mai mare oraş al peninsulei, a declarat că nu există combustibil la majoritatea benzinăriilor locale, existând probleme [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523375"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/un-lider-pnl-acuza-ca-nicusor-dan-a-avut-un-discurs-profund-fascist-stenograme-3810269",
+    "title": "Un lider PNL acuză că Nicusor Dan a avut un discurs „profund fascist” (Stenograme)",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA4JTJGMjY3ODE3N18yNjc4/MTc3X25pY3Vzb3ItZGFuLWNvbmZlcmlu/dGEtaW5xdWFtLW9jdGF2LWdhbmVhLTUu/cG5nJmhhc2g9ZjRmN2U1Y2E1NzhkZWNlY2IxYjdjOTc2NTI4YzRiNmE=.png",
+    "time": "12:13",
+    "date": "11 Jun",
+    "content": "Vicepreședintele PNL Alexandru Muraru a acuzat joi, în ședința Biroului Permanent Național al PNL, că Palatul Cotroceni sprijină un mesaj „profund fascist”, care transmite ideea că „toate partidele sunt la fel” și „niciun partid nu mai poate guverna”, potrivit unor stenograme obținute de Digi24.ro.",
+    "fetched_at": "2026-06-11T09:52:43.996986"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/ambulantierii-au-iesit-in-strada-proteste-la-2535768.html",
+    "title": "Ambulanțierii au ieșit în stradă. Proteste la Ministerului Sănătății și Ministerul Muncii: „Noua lege a salarizării ne taie veniturile!”",
+    "image": "https://cdn.adh.reperio.news/image-4/4ae682b5-e568-405f-be10-e77dd44c1dc9/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "09:30",
+    "date": "11 Jun",
+    "content": "Sute de angajați ai serviciilor publice de ambulanță din toată țara protestează, joi, la Ministerului Sănătății și Ministerul Muncii, după apelul Federației Naționale Sindicale „Ambulanța” din România (FNSAR).",
+    "fetched_at": "2026-06-11T09:52:46.890471"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/benzinariile-din-crimeea-au-ramas-fara-combustibili-dupa-o-noua-serie-de-atacuri-ucrainene-cu-drone-3810491",
+    "title": "Benzinăriile din Crimeea au rămas fără combustibili după o nouă serie de atacuri ucrainene cu drone",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjA5JTJGMjc3NzU4MF8yNzc3/NTgwX2NvYWRhLWJlbnppbmFyaWUtY3Jp/bWVlYS1wcm9maW1lZGlhLTExMDc1NDg5/OTUuanBnJmhhc2g9ZTg5MDNiMzgzNzEwNTIzMjM5MDU3NzVmNmQ4YzQxZGQ=.jpg",
+    "time": "12:46",
+    "date": "11 Jun",
+    "content": "Benzinăriile din peninsula Crimeea, controlată de Rusia, au rămas joi fără benzină, în urma intensificării atacurilor ucrainene cu drone împotriva liniilor de aprovizionare din peninsulă.",
+    "fetched_at": "2026-06-11T09:52:43.996890"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/ciprian-ciucu-ideea-ca-partidele-nu-mai-pot-guverna-este-extrem-de-periculoasa-solutia-e-responsabilizarea-partidelor-solutiile-politice-trebuie-date-de-parlament-sau-de-alegeri.html",
+    "title": "Ciprian Ciucu: Ideea că partidele nu mai pot guverna este extrem de periculoasă / Soluția e responsabilizarea partidelor / Soluțiile politice trebuie ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/12/FB1A1484-1024x683.jpg",
+    "time": "08:54",
+    "date": "11 Jun",
+    "content": "Ciprian Ciucu, primarul Capitalei și prim-vicepreședintele PNL, a transmis, joi, printr-un mesaj pe Facebook, că este periculoasă ideea conform căreia partidele nu mai pot guverna. Soluția este, dimpotrivă, spune Ciucu, responsabilizarea partidelor, iar problemele politice au soluții politice și nu tehnice, iar soluțiile politice trebuie date ”de Parlament sau de alegeri”, mai spune liderul PNL. [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523406"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/educatie/eugen-tomac-propune-un-sistem-de-invatamant-comun-pentru-romania-si-rep-moldova-sa-iesim-din-logica-fiecare-cu-treburile-lui-3810393",
+    "title": "Eugen Tomac propune un sistem de învățământ comun pentru România și Rep. Moldova: „Să ieșim din logica fiecare cu treburile lui”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjA4JTJGMjc3NjIxM18yNzc2/MjEzX0lOU1RBTlRfVE9NQUNfVVNSXzI4/X0lOUVVBTV9QaG90b3NfT2N0YXZfR2Fu/ZWEuanBnJmhhc2g9ZWUyZDRkNTk4NGQ3ODMwNmUwMDZkNzIxMGQyZjkzOTk=.jpg",
+    "time": "11:54",
+    "date": "11 Jun",
+    "content": "Premierul desemnat, Eugen Tomac, afirmă că România şi Republica Moldova trebuie să iasă din logica „ne cunoaştem, ne respectăm, dar fiecare cu treburile lui” şi să dezvolte proiecte „mult mai îndrăzneţe”, punctând că în cele două state ar trebui să existe „un sistem de învăţământ integrat, practic identic”.",
+    "fetched_at": "2026-06-11T09:52:43.996971"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/societate/asteptari-sumbre-in-randul-populatiei-8-din-10-2535760.html",
+    "title": "Așteptări sumbre în rândul populației: 8 din 10 români cred că urmează noi creșteri de prețuri",
+    "image": "https://cdn.adh.reperio.news/image-8/883a0bbe-35fe-4628-b97f-e1a0bf7846dd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0.067%252C0.085%252C0.913%252C0.881%26f%3Djpeg&file=image.jpeg",
+    "time": "08:39",
+    "date": "11 Jun",
+    "content": "Aproape trei sferturi dintre consumatorii români (72%) descriu situația economică a țării în termeni negativi, în creștere cu opt puncte procentuale față de anul trecut și semnificativ peste media europeană de 56%, arată cel mai recent studiu privind percepțiile consumatorilor.",
+    "fetched_at": "2026-06-11T09:52:46.890496"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/giorgia-meloni-mesaj-dupa-intalnirea-despre-ucraina-dintre-starmer-merz-si-macron-europa-merge-in-orb-3810477",
+    "title": "Giorgia Meloni, mesaj după întâlnirea despre Ucraina dintre Starmer, Merz și Macron: „Europa merge în orb”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMyUyRjIzJTJGMjY1MDk0NV8yNjUw/OTQ1X2dpb3JnaWEtbWVsb25pLXByb2Zp/bWVkaWEuanBnJmhhc2g9Y2I5YjUxZWE4ZWUwYmFhMGYzMjg4ZGU4OGM5OTJiYTc=.jpg",
+    "time": "12:38",
+    "date": "11 Jun",
+    "content": "Prim-ministrul Italiei, Giorgia Meloni, a îndemnat joi Uniunea Europeană să desemneze un reprezentant cu autoritate pentru eventualele negocieri privind Ucraina şi a criticat formatele „nereprezentative” de consultare dintre unele state europene, avertizând că, în caz contrar, „Europa merge în orb”.",
+    "fetched_at": "2026-06-11T09:52:43.996914"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/lifestyle/ce-este-espresso-tonic-bomb-bautura-virala-tiktok-5771821",
+    "title": "Ce este Espresso Tonic Bomb, băutura virală pe Tiktok",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/espresso-tonic-bomb-620x446.jpg",
+    "time": "12:18",
+    "date": "11 Jun",
+    "content": "Espresso Tonic Bomb este o băutură devenită virală pe rețele de socializare, în special pe TikTok, însă nu este neapărat o noutate, așa cum s-ar putea crede. Modul în care este preparată tinde să fie ceva mai spectaculos, nu și rețeta în sine. Descoperă ce este Espresso Tonic Bomb și cum se face. Ce este [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627724"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/sef-din-anpc-anchetat-si-plasat-sub-control-judiciar-pentru-coruptie-ar-fi-cerut-15-000-de-lei-de-la-reprezentantul-unui-club-din-mamaia-ca-sa-intervina-pe-langa-comisarii-de-la-protectia-consumato.html",
+    "title": "Șef din ANPC, anchetat și plasat sub control judiciar pentru corupție / Ar fi cerut 15.000 de lei de la reprezentantul unui club din Mamaia ca să inte",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/12/FB1A0510-1024x683.jpg",
+    "time": "09:09",
+    "date": "11 Jun",
+    "content": "Bogdan-Eduard Dragomirescu,, la data faptei șef al Serviciului Corp Control din cadrul Autorității Naționale pentru Protecția Consumatorilor, este urmărit penal și a fost plasat sub control judiciar pentru abuz în serviciu și trafic de influență. Procurorii din cadrul Direcției Naționale Anticorupție &#8211; Secția de combatere a corupției au dispus punerea în mișcare a acțiunii penale [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523398"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/sport/de-la-tiento-la-trionda-cum-a-evoluat-mingile-2535748.html",
+    "title": "De la „Tiento” la „Trionda”, cum a evoluat mingile de fotbal în 96 de ani",
+    "image": "https://cdn.adh.reperio.news/image-4/4444dd70-8067-4681-9771-7cf3e9a698f3/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "08:35",
+    "date": "11 Jun",
+    "content": "Mingea folosită la turneele finale al CM de fotbal a evoluat de la una din piele și cu șiret la aceea cusută termic și având „cip”-uri care transmit informații oficialilor.",
+    "fetched_at": "2026-06-11T09:52:46.890508"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/cei-trei-marinari-indieni-dati-disparuti-dupa-atacul-american-in-largul-omanului-sunt-morti-reactia-guvernului-de-la-new-delhi-3810455",
+    "title": "Cei trei marinari indieni daţi dispăruţi după atacul american în largul Omanului sunt morţi. Reacția guvernului de la New Delhi",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjEwJTJGMjc4MDE1NV8yNzgw/MTU1X25hdmEtcGV0cm9saWVyLVNldHRl/YmVsbG8tY2FwdHVyYS1jZW50Y29tLnBu/ZyZoYXNoPTI1YzFlYzgxZDg3MTExNmI1ZTUyODM5OTc3ZjMxZGQ4.png",
+    "time": "12:25",
+    "date": "11 Jun",
+    "content": "Cei trei marinari indieni daţi dispăruţi în urma atacului revendicat de armata americană împotriva unui petrolier sub pavilion al insulelor Palau, în largul Omanului, sunt morţi, a anunţat joi ministrul indian al transporturilor maritime, transmite AFP, potrivit Agerpres.",
+    "fetched_at": "2026-06-11T09:52:43.996932"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/entertainment/imagini-cu-vica-blochina-in-costum-de-baie-cum-a-aparut-fosta-amanta-a-lui-victor-piturca-5773413",
+    "title": "Imaginile cu Vica Blochina care îți vor tăia respirația. Cum arată în costum de baie la 50 de ani",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/vica-blochina-in-costum-de-baie-620x362.jpg",
+    "time": "12:42",
+    "date": "11 Jun",
+    "content": "Vica Blochina a atras atenția în vacanța din Mykonos, unde și-a etalat noua siluetă într-un costum de baie animal print. Vedeta a vorbit deschis despre metodele la care a apelat pentru a slăbi. Vica Blochina se bucură de o vacanță în Mykonos, una dintre cele mai populare destinații de lux din Grecia. Vedeta a publicat [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627702"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/ancheta-cazul-129-copii-murit-centrele-mures-reia-zero-anchetatorii-spus-minorii-primit-cele-mai-bune-conditii-5773675",
+    "title": "Ancheta în cazul celor 129 de copii care au murit în centrele din Mureș se reia de la zero. Anchetatorii au spus că minorii au primit „cele mai bune c",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/copil-1-620x413.jpg",
+    "time": "12:17",
+    "date": "11 Jun",
+    "content": "129 de copii au murit în doar trei ani în centrele de stat pentru copii cu dizabilități din județul Mureș, iar alte zeci de minori au fost găsiți în condiții alarmante: malnutriți, deshidratați, bolnavi și, în unele cazuri, infestați cu paraziți. În ciuda acestor realități, anchetele deschise de autorități s-au soldat cu clasări, procurorii invocând [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627730"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/dragos-pislaru-publicat-paginile-facebook-site-incearca-creeze-panica-printre-romani-5773602",
+    "title": "Dragoș Pîslaru a publicat paginile de Facebook și site-urile care încearcă să creeze panică printre români",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/dragos-pislaru--620x413.jpg",
+    "time": "11:59",
+    "date": "11 Jun",
+    "content": "Aproape 50 de pagini de Facebook au fost implicate într-o campanie coordonată de dezinformare pe tema proiectului legii salarizării unitare, susține Dragoș Pîslaru, ministrul interimar al Muncii. Într-o postare pe Facebook, acesta avertizează asupra unei &#8222;operațiuni premeditate&#8221; care manipulează opinia publică prin mesaje alarmiste și informații false. Cum funcționează rețeaua de dezinformare Potrivit lui Pîslaru, [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627743"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/eugen-tomac-dupa-acuzatiile-csm-un-stat-de-drept-puternic-nu-se-teme-de-libertatea-de-exprimare-3810385",
+    "title": "Eugen Tomac, după acuzațiile CSM: Un stat de drept puternic nu se teme de libertatea de exprimare",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMSUyRjE0JTJGMjQ0MjQ2NF8yNDQy/NDY0X0NTTS0xLmpwZyZoYXNoPWE1Mjc4/MjZmOTdiYzVkMTcxOTk0ZjIwYjk4NzNhMDRh.jpg",
+    "time": "11:48",
+    "date": "11 Jun",
+    "content": "Premierul desemnat Eugen Tomac a transmis, joi, că respectă autonomia constituţională a Consiliului Superior al Magistraturii şi dreptul acestei instituţii de a-şi exprima poziţia, dar crede că într-o democraţie matură este nevoie de garantarea libertăţii de exprimare.",
+    "fetched_at": "2026-06-11T09:52:43.996979"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/nicusor-dan-trimite-la-curtea-constitutionala-legea-vanatorii-si-a-protectiei-fondului-cinegetic-nu-este-previzibila-incalca-separarea-puterilor.html",
+    "title": "Nicușor Dan trimite la Curtea Constituțională Legea vânătorii şi a protecţiei fondului cinegetic: Nu este previzibilă, încalcă separarea puterilor",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/09/SEP_CCR_ILUSTRATIE_15_INQUAM_Photos_Octav_Ganea-1024x683.jpg",
+    "time": "08:51",
+    "date": "11 Jun",
+    "content": "Preşedintele Nicuşor Dan a trimis Curţii Constituţionale a României (CCR) o sesizare de neconstituţionalitate asupra Legii pentru completarea articolului 6 din Legea vânătorii şi a protecţiei fondului cinegetic 407/2006, precizând că modificările aduc imprevizibilitate şi încalcă principiul separării puterilor în stat, transmite Agerpres. Potrivit articolului criticat, printre principalele atribuţii ale administratorului faunei cinegetice se numără [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523415"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/economic/presedintele-executiv-emag-isi-vinde-ultimele-actiuni-pe-care-le-mai-avea-in-companie-cine-le-va-prelua-23753335",
+    "title": "Președintele executiv eMAG își vinde ultimele acțiuni pe care le mai avea în companie. Cine le va prelua",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/11/depozit-emag.jpg",
+    "time": "09:30",
+    "date": "11 Jun",
+    "content": "Iulian Stanciu anunță vânzarea participației pe care o deținea în eMAG către grupul olandez Prosus, acționarul majoritar al companiei. După tranzacție, omul de afaceri spune că se va concentra pe investiții și susținerea antreprenoriatului local.",
+    "fetched_at": "2026-06-11T09:52:44.518423"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/urs-eutanasiat-rasnov-aparitii-localitati-brasov/",
+    "title": "Un urs care a intrat în mai multe gospodării din Râșnov a fost capturat și eutanasiat | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/06/urs-animal-foto-Inquam-George-calin-200x200.jpg",
+    "time": "05:32",
+    "date": "11 Jun",
+    "content": "Autoritățile din Râșnov au capturat și eutanasiat un urs care a intrat în mai multe gospodării. În județul Brașov, numărul apelurilor privind prezența urșilor în localități rămâne ridicat.",
+    "fetched_at": "2026-06-11T09:52:45.602027"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/parlamentul-european-testeaza-reguli-noi-pentru-dezbateri-mai-scurte-si-mai-eficiente-care-sunt-principalele-schimbari-23753322",
+    "title": "Parlamentul European testează reguli noi pentru dezbateri mai scurte și mai eficiente. Care sunt principalele schimbări",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2025/04/8033279-hepta_mediafax_foto-dpa_hepta-683x1024.jpg",
+    "time": "09:08",
+    "date": "11 Jun",
+    "content": "Parlamentul European testează reguli noi pentru a face dezbaterile mai scurte și mai eficiente, cu scopul de a reduce absențele din plen.",
+    "fetched_at": "2026-06-11T09:52:44.518465"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/sci-tech/lumea-digitala/comisia-europeana-a-publicat-regulile-pentru-etichetarea-continutului-generat-de-ai-ce-obligatii-vor-avea-platformele-si-companiile-3810373",
+    "title": "Comisia Europeană a publicat regulile pentru etichetarea conținutului generat de AI. Ce obligații vor avea platformele și companiile",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMiUyRjExJTJGMTg1ODU1MF8xODU4/NTUwX2ZlbWVpZS1pbnRlbGlnZW50YS1h/cnRpZmljaWFsYS5qcGcmaGFzaD03NGYy/OGNjY2YxOWRjMzk3NjM0YjkyN2QwZWVlNmFlNw==.jpg",
+    "time": "12:23",
+    "date": "11 Jun",
+    "content": "Comisia Europeană a publicat miercuri versiunea finală a Codului de bune practici privind transparența conținutului generat de inteligența artificială, un document care explică modul în care companiile, platformele și operatorii de sisteme AI trebuie să aplice noile obligații prevăzute în AI Act, regulamentul european privind inteligența artificială.",
+    "fetched_at": "2026-06-11T09:52:43.996939"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/a-venit-factura-de-plata-in-procesul-vaccinurilor-covid-19-de-la-pfizer-ministrii-cseke-si-nazare-explica-ce-solutii-exista-3810399",
+    "title": "A venit nota de plată în procesul vaccinurilor COVID-19 de la Pfizer. Miniștrii Cseke și Nazare explică ce soluții există",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjAxJTJGMjY2MTQ1Nl8yNjYx/NDU2X3BmaXplci5qcGcmaGFzaD0yYjk2/YmViZTdhMDQyZGNiNzE0ODFhZDIxZmQzMjdhNQ==.jpg",
+    "time": "12:09",
+    "date": "11 Jun",
+    "content": "România a primit notificarea oficială care atestă că trebuie să plătească peste 3,4 miliarde de lei către compania Pfizer, după ce a pierdut în primă instanță procesul vaccinurilor COVID-19 cu compania farmaceutică. Anunțul a fost făcut joi, 11 iunie, de ministrul Sănătății, Cseke Attila. Guvernul, prin intermediul miniștrilor de Finanțe și al Sănătății, încearcă să găsească formule în așa fel încât această sumă, care reprezintă 0,2% din PIB, să nu fie plătită într-o singură tranșă, după cum a...",
+    "fetched_at": "2026-06-11T09:52:43.996956"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/sport/cina-de-gala-fifa-la-castelul-chapultepec-inainte-de-deschiderea-cupei-mondiale-5773720",
+    "title": "Cină de gală FIFA la Castelul Chapultepec, înainte de deschiderea Cupei Mondiale. Cine a fost invitat",
+    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/claudia-sheinbaum-pardo-i-gianni-infantino-620x349.jpg",
+    "time": "12:18",
+    "date": "11 Jun",
+    "content": "Claudia Sheinbaum Pardo, 63 de ani, președinta Mexicului, a participat, miercuri, 10 iunie, la cina de gală organizată de FIFA la Castelul Chapultepec, înainte de deschiderea de la Campionatul Mondial de Fotbal 2026, informează La La Jornada. &#8222;Este o mare plăcere și o onoare, domnule președinte, să fiu alături de dumneavoastră în această seară aici, [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:46.627717"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/foto-video-peste-343-000-de-euro-descoperiti-ascunsi-intr-un-microbuz-condus-de-un-cetatean-ucrainean-urmarit-international.html",
+    "title": "FOTO VIDEO: Peste 343.000 de euro, descoperiți ascunși într-un microbuz condus de un cetățean ucrainean urmărit internațional",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/06/euro-ascunsi-microbuz-cetatean-ucrainean-2-1024x614.jpeg",
+    "time": "09:42",
+    "date": "11 Jun",
+    "content": "Polițiștii Inspectoratului Teritorial al Poliției de Frontieră Giurgiu au descoperit joi, în urma unui control efectuat în cadrul unei acțiuni de tip BLITZ, suma de 343.700 de euro, ascunsă în compartimente special amenajate într-un microbuz. Șoferul microbuzului, un cetățean ucrainean, era căutat de autoritățile din Ucraina în vederea arestării. În data de 10 iunie 2026, [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-06-11T09:52:47.523332"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/perchezitii-timis-evaziune-fiscala-firma-imobiliara-timisoara/",
+    "title": "Percheziții în Timiș într-un dosar de evaziune fiscală. Una dintre cele mai cunoscute firme imobiliare din Timișoara, vizată de anchetă | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/06/perchezitii-timisoara-foto-europafm-200x200.jpg",
+    "time": "05:24",
+    "date": "11 Jun",
+    "content": "Sunt percheziții de amploare în această dimineață în Timiș. Polițiștii de la Servciul de Investigare a Criminalității Organizate au descins în zeci de locații din județ la persoane suspectate de evaziune fiscală. Vizată este una dintre cele mai cunoscute firme de imobiliare. Polițiștii de la economic însoțiți de jandarmii de la trupele speciale au verificat [&#8230;]",
+    "fetched_at": "2026-06-11T09:52:45.602036"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/mexicanii-au-ras-dupa-ce-au-vazut-investitia-facuta-inainte-de-cupa-mondiala-parca-suntem-in-titanic-23753309",
+    "title": "Mexicanii au râs după ce au văzut investiția făcută înainte de Cupa Mondială: „Parcă suntem în Titanic”",
+    "image": "https://www.mediafax.ro//wp-content/uploads/2026/06/statia-de-metrou-hidalgo-din-ciudad-de-mexico-cov-1024x576.jpg",
+    "time": "09:09",
+    "date": "11 Jun",
+    "content": "Pregătirile pentru Campionatul Mondial din 2026 au transformat o stație de metrou din Ciudad de Mexico într-un fenomen viral, scrie AP.",
+    "fetched_at": "2026-06-11T09:52:44.518458"
+  },
+  {
     "source": "Adevarul",
     "url": "https://adevarul.ro/politica/simion-si-georgescu-vor-suspendarea-presedintelui-2535645.html",
     "title": "Simion și Georgescu vor suspendarea președintelui, dar fără bază constituțională. Expert: „Sunt doar declarații politice”",
