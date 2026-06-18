@@ -766,18 +766,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Săgetător", msg: "Călătorii benefice" },
-            { sign: "Balanță", msg: "Frumusețe și artă" },
-            { sign: "Taur", msg: "Harmonie în familie" },
+            { sign: "Pești", msg: "Compasiune profundă" },
+            { sign: "Scorpion", msg: "Descoperiri importante" },
             { sign: "Vărsător", msg: "Inovație și originalitate" },
-            { sign: "Rac", msg: "Intuiție puternică" },
-            { sign: "Fecioară", msg: "Organizare impecabilă" },
-            { sign: "Gemeni", msg: "Noi cunoștințe valoroase" },
-            { sign: "Leu", msg: "Succes în afaceri" },
-            { sign: "Berbec", msg: "Zi perfectă pentru inițiative noi" },
-            { sign: "Pești", msg: "Intuiție spirituală" },
-            { sign: "Capricorn", msg: "Ambitionează sus" },
-            { sign: "Scorpion", msg: "Intensitate emoțională" },
+            { sign: "Berbec", msg: "Energie maximă, profită de ea" },
+            { sign: "Gemeni", msg: "Inspirație creativă" },
+            { sign: "Balanță", msg: "Frumusețe și artă" },
+            { sign: "Fecioară", msg: "Perfecțiune în lucruri" },
+            { sign: "Rac", msg: "Timp prețios cu familia" },
+            { sign: "Capricorn", msg: "Obiective clare" },
+            { sign: "Leu", msg: "Creativitate debordantă" },
+            { sign: "Săgetător", msg: "Filozofie de viață" },
+            { sign: "Taur", msg: "Harmonie în familie" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
