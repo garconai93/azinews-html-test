@@ -766,18 +766,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Pești", msg: "Compasiune profundă" },
-            { sign: "Scorpion", msg: "Descoperiri importante" },
-            { sign: "Vărsător", msg: "Inovație și originalitate" },
-            { sign: "Berbec", msg: "Energie maximă, profită de ea" },
-            { sign: "Gemeni", msg: "Inspirație creativă" },
-            { sign: "Balanță", msg: "Frumusețe și artă" },
-            { sign: "Fecioară", msg: "Perfecțiune în lucruri" },
-            { sign: "Rac", msg: "Timp prețios cu familia" },
-            { sign: "Capricorn", msg: "Obiective clare" },
+            { sign: "Capricorn", msg: "Succes garantat" },
+            { sign: "Berbec", msg: "Zi perfectă pentru inițiative noi" },
+            { sign: "Scorpion", msg: "Transformări pozitive" },
             { sign: "Leu", msg: "Creativitate debordantă" },
             { sign: "Săgetător", msg: "Filozofie de viață" },
-            { sign: "Taur", msg: "Harmonie în familie" },
+            { sign: "Gemeni", msg: "Flexibilitate și adaptabilitate" },
+            { sign: "Vărsător", msg: "Inovație și originalitate" },
+            { sign: "Taur", msg: "Zi de relaxare și reflecție" },
+            { sign: "Fecioară", msg: "Organizare impecabilă" },
+            { sign: "Pești", msg: "Compasiune profundă" },
+            { sign: "Balanță", msg: "Diplomație excelentă" },
+            { sign: "Rac", msg: "Timp prețios cu familia" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
