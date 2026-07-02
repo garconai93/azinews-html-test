@@ -5,61 +5,253 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 02 Jul 2026 01:35:41 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:41:11 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Greșeala pe care mulți o fac după ce tund gazonul. Poate distruge aspectul grădinii anul următor</title>
-        <link>https://www.mediafax.ro/life-inedit/greseala-pe-care-multi-o-fac-dupa-ce-tund-gazonul-poate-distruge-aspectul-gradinii-anul-urmator-23765132</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/greseala-pe-care-multi-o-fac-dupa-ce-tund-gazonul-poate-distruge-aspectul-gradinii-anul-urmator-23765132</guid>
-    </item>
-    <item>
-        <title>„Pot trăi cu asta, într-o oarecare măsură”. Un actor premiat cu un Oscar onorific a dezvăluit că suferă de Alzheimer</title>
-        <link>https://www.mediafax.ro/cultura-media/pot-trai-cu-asta-intr-o-oarecare-masura-un-actor-premiat-cu-un-oscar-onorific-a-dezvaluit-ca-sufera-de-alzheimer-23765146</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/pot-trai-cu-asta-intr-o-oarecare-masura-un-actor-premiat-cu-un-oscar-onorific-a-dezvaluit-ca-sufera-de-alzheimer-23765146</guid>
-    </item>
-    <item>
-        <title>Prețul petrolului a scăzut la cel mai mic nivel din ultimele 4 luni, pe fondul negocierilor dintre SUA și Iran</title>
-        <link>https://www.libertatea.ro/stiri/pretul-petrolului-a-scazut-la-cel-mai-mic-nivel-din-ultimele-4-luni-pe-fondul-negocierilor-dintre-sua-si-iran-5801826</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/pretul-petrolului-a-scazut-la-cel-mai-mic-nivel-din-ultimele-4-luni-pe-fondul-negocierilor-dintre-sua-si-iran-5801826</guid>
-    </item>
-    <item>
-        <title>Scandal de spionaj la Bruxelles. O rețea maghiară a vizat oficiali ai Uniunii Europene</title>
-        <link>https://www.mediafax.ro/externe/scandal-de-spionaj-la-bruxelles-o-retea-maghiara-a-vizat-oficiali-ai-uniunii-europene-23765139</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/scandal-de-spionaj-la-bruxelles-o-retea-maghiara-a-vizat-oficiali-ai-uniunii-europene-23765139</guid>
-    </item>
-    <item>
-        <title>Adio, cosmetice ieftine din Asia? Noua taxă UE care le lovește direct pe fanele K-Beauty a declanșat revolta pe Reddit</title>
-        <link>https://adevarul.ro/stiri-interne/societate/adio-cosmetice-ieftine-din-asia-noua-taxa-ue-2539427.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/adio-cosmetice-ieftine-din-asia-noua-taxa-ue-2539427.html</guid>
-    </item>
-    <item>
-        <title>SUA includ banda ecuadoriană „Los Chone Killers” pe lista organizațiilor teroriste</title>
-        <link>https://www.mediafax.ro/externe/sua-includ-banda-ecuadoriana-los-chone-killers-pe-lista-organizatiilor-teroriste-23765157</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/sua-includ-banda-ecuadoriana-los-chone-killers-pe-lista-organizatiilor-teroriste-23765157</guid>
-    </item>
-    <item>
-        <title>Cum scade plata cu ora la profesori de la 1 iulie: formula de calcul modificată de noul salariu minim</title>
-        <link>https://www.libertatea.ro/educatie/scade-plata-ora-profesori-1-iulie-formula-calcul-modificata-5801803</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/educatie/scade-plata-ora-profesori-1-iulie-formula-calcul-modificata-5801803</guid>
-    </item>
-    <item>
-        <title>Explozii puternice au zguduit Kievul la câteva ore după ce Zelenski a avertizat asupra unui atac „masiv” al Rusiei</title>
-        <link>https://www.mediafax.ro/externe/explozii-puternice-au-zguduit-kievul-la-cateva-ore-dupa-ce-zelenski-a-avertizat-asupra-unui-atac-masiv-al-rusiei-23765163</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/explozii-puternice-au-zguduit-kievul-la-cateva-ore-dupa-ce-zelenski-a-avertizat-asupra-unui-atac-masiv-al-rusiei-23765163</guid>
-    </item>
-    <item>
-        <title>CM 2026. Belgia s-a calificat nesperat în optimi după ce în minutul 86 era condusă cu două goluri de Senegal</title>
-        <link>https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/cm-2026-belgia-s-a-calificat-nesperat-in-optimi-dupa-ce-in-minutul-86-era-condusa-cu-doua-goluri-de-senegal-3843753</link>
+        <title>Ce scoruri ar obține Zelenski și Zalujnîi, fostul comandant al armatei, dacă ar fi alegeri prezidențiale în Ucraina (sondaj)</title>
+        <link>https://www.digi24.ro/stiri/externe/ce-scoruri-ar-obtine-zelenski-si-zalujnii-fostul-comandant-al-armatei-daca-ar-fi-alegeri-prezidentiale-in-ucraina-sondaj-3843723</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/cm-2026-belgia-s-a-calificat-nesperat-in-optimi-dupa-ce-in-minutul-86-era-condusa-cu-doua-goluri-de-senegal-3843753</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ce-scoruri-ar-obtine-zelenski-si-zalujnii-fostul-comandant-al-armatei-daca-ar-fi-alegeri-prezidentiale-in-ucraina-sondaj-3843723</guid>
+    </item>
+    <item>
+        <title>Președintele Belarusului a grațiat 28 de deținuți politici pentru a relaxa legăturile cu Occidentul</title>
+        <link>https://www.mediafax.ro/externe/presedintele-belarusului-a-gratiat-28-de-detinuti-politici-pentru-a-relaxa-legaturile-cu-occidentul-23765187</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/presedintele-belarusului-a-gratiat-28-de-detinuti-politici-pentru-a-relaxa-legaturile-cu-occidentul-23765187</guid>
+    </item>
+    <item>
+        <title>Anchetă a Comisiei Europene. Cum funcționa reţeaua de spionaj a Ungariei lui Orban, direct din sediul ambasadei maghiare la Bruxelles</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/ancheta-a-comisiei-europene-cum-functiona-reteaua-de-spionaj-a-ungariei-lui-orban-direct-din-sediul-ambasadei-maghiare-la-bruxelles-3843859</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ancheta-a-comisiei-europene-cum-functiona-reteaua-de-spionaj-a-ungariei-lui-orban-direct-din-sediul-ambasadei-maghiare-la-bruxelles-3843859</guid>
+    </item>
+    <item>
+        <title>Coloranții artificiali dispar din alimente. Ce se schimbă cu adevărat și de ce specialiștii spun că nu sunt principalul pericol</title>
+        <link>https://www.mediafax.ro/social/colorantii-artificiali-dispar-din-alimente-ce-se-schimba-cu-adevarat-si-de-ce-specialistii-spun-ca-nu-sunt-principalul-pericol-23765210</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/colorantii-artificiali-dispar-din-alimente-ce-se-schimba-cu-adevarat-si-de-ce-specialistii-spun-ca-nu-sunt-principalul-pericol-23765210</guid>
+    </item>
+    <item>
+        <title>VIDEO: Novak Djokovic, glumă virală la Wimbledon – A păcălit un copil de mingi prefăcându-se tăiat cu foarfeca</title>
+        <link>https://www.g4media.ro/video-novak-djokovic-gluma-virala-la-wimbledon-a-pacalit-un-copil-de-mingi-prefacandu-se-taiat-cu-foarfeca.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/video-novak-djokovic-gluma-virala-la-wimbledon-a-pacalit-un-copil-de-mingi-prefacandu-se-taiat-cu-foarfeca.html</guid>
+    </item>
+    <item>
+        <title>Munca remote nu are doar avantaje. Un studiu arată că smart working-ul poate afecta sănătatea mintală</title>
+        <link>https://www.mediafax.ro/social/munca-remote-nu-are-doar-avantaje-un-studiu-arata-ca-smart-working-ul-poate-afecta-sanatatea-mintala-23765175</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/munca-remote-nu-are-doar-avantaje-un-studiu-arata-ca-smart-working-ul-poate-afecta-sanatatea-mintala-23765175</guid>
+    </item>
+    <item>
+        <title>Intervenția de la stația de metrou Piața Victoriei s-a încheiat. Apa a fost evacuată după ore întregi de intervenții</title>
+        <link>https://adevarul.ro/stiri-locale/bucuresti/interventia-de-la-statia-de-metrou-piata-victoriei-2540401.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/interventia-de-la-statia-de-metrou-piata-victoriei-2540401.html</guid>
+    </item>
+    <item>
+        <title>Bilanțul cutremurelor din Venezuela urcă la 2.295 de morți. Medicii avertizează asupra unei noi crize: „Urmează valul de infecții”</title>
+        <link>https://www.mediafax.ro/externe/bilantul-cutremurelor-din-venezuela-urca-la-2-295-de-morti-medicii-avertizeaza-asupra-unei-noi-crize-urmeaza-valul-de-infectii-23765197</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/bilantul-cutremurelor-din-venezuela-urca-la-2-295-de-morti-medicii-avertizeaza-asupra-unei-noi-crize-urmeaza-valul-de-infectii-23765197</guid>
+    </item>
+    <item>
+        <title>Minciună grosolană lansată de Maria Zaharova: ”Chișinăul însuși împiedică retragerea trupelor rusești din Transnistria”</title>
+        <link>https://www.g4media.ro/minciuna-grosolana-lansata-de-maria-zaharova-chisinaul-insusi-impiedica-retragerea-trupelor-rusesti-din-transnistria.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/minciuna-grosolana-lansata-de-maria-zaharova-chisinaul-insusi-impiedica-retragerea-trupelor-rusesti-din-transnistria.html</guid>
+    </item>
+    <item>
+        <title>Traficul pe Transalpina rămâne restricționat după ploile abundente / Circulația se desfășoară pe un singur fir, alternativ</title>
+        <link>https://www.g4media.ro/traficul-pe-transalpina-ramane-restrictionat-dupa-ploile-abundente-circulatia-se-desfasoara-pe-un-singur-fir-alternativ.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/traficul-pe-transalpina-ramane-restrictionat-dupa-ploile-abundente-circulatia-se-desfasoara-pe-un-singur-fir-alternativ.html</guid>
+    </item>
+    <item>
+        <title>Atac masiv asupra Kievului. Cel puțin doi morți și mai mulți răniți în urma bombardamentelor rusești</title>
+        <link>https://adevarul.ro/stiri-externe/europa/atac-masiv-asupra-kievului-cel-putin-doi-morti-si-2540403.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/atac-masiv-asupra-kievului-cel-putin-doi-morti-si-2540403.html</guid>
+    </item>
+    <item>
+        <title>250 de kilometri de autostradă promiși în 2026, niciunul finalizat în primele șase luni. Unde se va lucra și în 2027</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/250-de-kilometri-de-autostrada-promisi-in-2026-2540055.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/250-de-kilometri-de-autostrada-promisi-in-2026-2540055.html</guid>
+    </item>
+    <item>
+        <title>Presa rusă independentă: Vraja lui Putin se prăbușește. Kremlinul a rupt contractul social prin controlul drastic asupra rețelelor de comunicare</title>
+        <link>https://www.g4media.ro/presa-rusa-independenta-vraja-lui-putin-se-prabuseste-kremlinul-a-rupt-contractul-social-prin-controlul-drastic-asupra-retelelor-de-comunicare.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/presa-rusa-independenta-vraja-lui-putin-se-prabuseste-kremlinul-a-rupt-contractul-social-prin-controlul-drastic-asupra-retelelor-de-comunicare.html</guid>
+    </item>
+    <item>
+        <title>Accident în Galați. Un microbuz a luat foc după o manevră greșită</title>
+        <link>https://www.mediafax.ro/social/accident-in-galati-un-microbuz-a-luat-foc-dupa-o-manevra-gresita-23765223</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/accident-in-galati-un-microbuz-a-luat-foc-dupa-o-manevra-gresita-23765223</guid>
+    </item>
+    <item>
+        <title>Metroul circulă din nou pe toată Magistrala 1, după ce stația Piața Victoriei 2 a fost redeschisă joi dimineață</title>
+        <link>https://www.digi24.ro/stiri/metroul-circula-din-nou-pe-toata-magistrala-1-dupa-ce-statia-piata-victoriei-2-a-fost-redeschisa-joi-dimineata-3843847</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/metroul-circula-din-nou-pe-toata-magistrala-1-dupa-ce-statia-piata-victoriei-2-a-fost-redeschisa-joi-dimineata-3843847</guid>
+    </item>
+    <item>
+        <title>Bilanțul cutremurelor din Venezuela se apropie de 2.300 de morți / Medicii se tem de un val de infecții severe / SUA au trimis 900 de militari pentru </title>
+        <link>https://www.g4media.ro/bilantul-cutremurelor-din-venezuela-se-apropie-de-2-300-de-morti-medicii-se-tem-de-un-val-de-infectii-severe-sua-au-trimis-900-de-militari-pentru-operatiuni-de-salvare-pagube-de-peste-67-miliar.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/bilantul-cutremurelor-din-venezuela-se-apropie-de-2-300-de-morti-medicii-se-tem-de-un-val-de-infectii-severe-sua-au-trimis-900-de-militari-pentru-operatiuni-de-salvare-pagube-de-peste-67-miliar.html</guid>
+    </item>
+    <item>
+        <title>Atac masiv asupra Kievului: cel puțin nouă morți și peste 30 de răniți în urma bombardamentelor rusești cu drone și rachete balistice</title>
+        <link>https://www.digi24.ro/stiri/externe/atac-masiv-asupra-kievului-cel-putin-noua-morti-si-peste-30-de-raniti-in-urma-bombardamentelor-rusesti-cu-drone-si-rachete-balistice-3843865</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/atac-masiv-asupra-kievului-cel-putin-noua-morti-si-peste-30-de-raniti-in-urma-bombardamentelor-rusesti-cu-drone-si-rachete-balistice-3843865</guid>
+    </item>
+    <item>
+        <title>Alianța „creștinului” Putin cu talibanii. Propagandiștii lui și idioții lui utili îl descriu drept salvator al unui Occident decadent aflat în declin</title>
+        <link>https://www.g4media.ro/alianta-crestinului-putin-cu-talibanii-propagandistii-lui-si-idiotii-lui-utili-il-descriu-drept-salvator-al-unui-occident-decadent-aflat-in-declin.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/alianta-crestinului-putin-cu-talibanii-propagandistii-lui-si-idiotii-lui-utili-il-descriu-drept-salvator-al-unui-occident-decadent-aflat-in-declin.html</guid>
+    </item>
+    <item>
+        <title>Războiul din Ucraina atinge un nou prag. Peste două milioane de militari au fost uciși, răniți sau dați dispăruți</title>
+        <link>https://adevarul.ro/stiri-externe/europa/razboiul-din-ucraina-atinge-un-nou-prag-peste-2540408.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/razboiul-din-ucraina-atinge-un-nou-prag-peste-2540408.html</guid>
+    </item>
+    <item>
+        <title>Simona Halep i-a dat peste nas Serenei Williams, înainte de finala de la Wimbledon. Românca nu s-a putut abține la vestiare: „Când a ieșit, m-am dus g</title>
+        <link>https://adevarul.ro/sport/simona-halep-i-a-dat-peste-nas-serenei-williams-2540398.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/simona-halep-i-a-dat-peste-nas-serenei-williams-2540398.html</guid>
+    </item>
+    <item>
+        <title>Spania și Portugalia intră în focul meciurilor eliminatorii din 16-imile Cupei Mondiale – Programul zilei</title>
+        <link>https://www.g4media.ro/spania-si-portugalia-intra-in-focul-meciurilor-eliminatorii-din-16-imile-cupei-mondiale-programul-zilei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/spania-si-portugalia-intra-in-focul-meciurilor-eliminatorii-din-16-imile-cupei-mondiale-programul-zilei.html</guid>
+    </item>
+    <item>
+        <title>Furnizorii de energie electrică trebuie să anunțe consumatorii când ating 80% din consumul lunar estimat și să le pună la dispoziţie acestora, până pe</title>
+        <link>https://www.europafm.ro/furnizorii-de-energie-electrica-trebuie-sa-anunte-consumatorii-cand-ating-80-din-consumul-lunar-estimat/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/furnizorii-de-energie-electrica-trebuie-sa-anunte-consumatorii-cand-ating-80-din-consumul-lunar-estimat/</guid>
+    </item>
+    <item>
+        <title>Cod galben de furtuni în toată România. ANM anunță ploi torențiale, vijelii și grindină</title>
+        <link>https://adevarul.ro/stiri-interne/meteo/cod-galben-de-furtuni-in-toata-romania-anm-anunta-2540411.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/meteo/cod-galben-de-furtuni-in-toata-romania-anm-anunta-2540411.html</guid>
+    </item>
+    <item>
+        <title>Sondaj: Ce scor ar obține Zelenski dacă ar avea loc alegeri prezidențiale în Ucraina / Cine se mai află în intențiile de vot</title>
+        <link>https://www.mediafax.ro/externe/sondaj-ce-scor-ar-obtine-zelenski-daca-ar-avea-loc-alegeri-prezidentiale-in-ucraina-cine-se-situeaza-pe-urmatoarele-doua-locuri-23765203</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/sondaj-ce-scor-ar-obtine-zelenski-daca-ar-avea-loc-alegeri-prezidentiale-in-ucraina-cine-se-situeaza-pe-urmatoarele-doua-locuri-23765203</guid>
+    </item>
+    <item>
+        <title>Actorul Danny Glover a anunţat că suferă de Alzheimer. „Cumva pot trăi cu asta. Pe măsură ce va avansa, lucrurile se vor schimba”</title>
+        <link>https://www.digi24.ro/magazin/timp-liber/showbiz/actorul-danny-glover-a-anuntat-ca-sufera-de-alzheimer-cumva-pot-trai-cu-asta-pe-masura-ce-va-avansa-lucrurile-se-vor-schimba-3843879</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/showbiz/actorul-danny-glover-a-anuntat-ca-sufera-de-alzheimer-cumva-pot-trai-cu-asta-pe-masura-ce-va-avansa-lucrurile-se-vor-schimba-3843879</guid>
+    </item>
+    <item>
+        <title>Atunci când iadul s-a pogorât pe Pământ. Unul dintre cele mai terifiante cazuri de posedare din istorie, rămas deocamdată un mister științific</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/atunci-cand-iadul-s-a-pogorat-pe-pamant-unul-2539307.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/atunci-cand-iadul-s-a-pogorat-pe-pamant-unul-2539307.html</guid>
+    </item>
+    <item>
+        <title>Traficul pe Transalpina rămâne restricționat după ploile abundente. Pe unde se poate circula</title>
+        <link>https://www.mediafax.ro/social/traficul-pe-transalpina-ramane-restrictionat-dupa-ploile-abundente-pe-unde-se-poate-circula-23765201</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/traficul-pe-transalpina-ramane-restrictionat-dupa-ploile-abundente-pe-unde-se-poate-circula-23765201</guid>
+    </item>
+    <item>
+        <title>BAC 2026. Joi are loc proba la alegere a profilului, ultima pentru mare parte din candidați</title>
+        <link>https://www.mediafax.ro/social/bac-2026-joi-are-loc-proba-la-alegere-a-profilului-ultima-pentru-mare-parte-din-candidati-23765192</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/bac-2026-joi-are-loc-proba-la-alegere-a-profilului-ultima-pentru-mare-parte-din-candidati-23765192</guid>
+    </item>
+    <item>
+        <title>Cod galben de instabilitate atmosferică în toată ţara; ploi torenţiale, vijelii şi grindină, până vineri dimineaţa</title>
+        <link>https://www.g4media.ro/od-galben-de-instabilitate-atmosferica-in-toata-tara-ploi-torentiale-vijelii-si-grindina-pana-vineri-dimineata.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/od-galben-de-instabilitate-atmosferica-in-toata-tara-ploi-torentiale-vijelii-si-grindina-pana-vineri-dimineata.html</guid>
+    </item>
+    <item>
+        <title>Ucraina trece la pasul următor: Va permite exportul armelor produse pe plan intern pentru prima dată de la debutul războiului</title>
+        <link>https://www.mediafax.ro/externe/ucraina-trece-la-pasul-urmator-va-permite-exportul-armelor-produse-pe-plan-intern-pentru-prima-data-de-la-debutul-razboiului-23765217</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/ucraina-trece-la-pasul-urmator-va-permite-exportul-armelor-produse-pe-plan-intern-pentru-prima-data-de-la-debutul-razboiului-23765217</guid>
+    </item>
+    <item>
+        <title>Moștenitorul imperiului Hilton din Malta, acuzat că a plătit 150.000 de euro pentru uciderea unei jurnaliste. Bombă ascunsă sub scaunul șoferului</title>
+        <link>https://adevarul.ro/stiri-externe/europa/mostenitorul-imperiului-hilton-din-malta-acuzat-2540412.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/mostenitorul-imperiului-hilton-din-malta-acuzat-2540412.html</guid>
+    </item>
+    <item>
+        <title>CM 2026: SUA s-au calificat în optimi după ce au eliminat Bosnia-Herțegovina</title>
+        <link>https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/cm-2026-sua-s-au-calificat-in-optimi-dupa-ce-au-eliminat-bosnia-hertegovina-3843819</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/cm-2026-sua-s-au-calificat-in-optimi-dupa-ce-au-eliminat-bosnia-hertegovina-3843819</guid>
+    </item>
+    <item>
+        <title>Danny Glover, starul din „Arma mortală”, a dezvăluit că suferă de Alzheimer: „Pot trăi cu asta”</title>
+        <link>https://adevarul.ro/showbiz/vedete/danny-glover-starul-din-arma-mortala-a-2540402.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/vedete/danny-glover-starul-din-arma-mortala-a-2540402.html</guid>
+    </item>
+    <item>
+        <title>UPDATE S-a reluat circulația metroului pe Magistrala 1 / S-a deschis și stația de metrou Piața Victoriei 2</title>
+        <link>https://www.g4media.ro/s-a-reluat-circulatia-metroului-pe-magistrala-1-statia-de-metrou-piata-victoriei-2-ramane-inchisa.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/s-a-reluat-circulatia-metroului-pe-magistrala-1-statia-de-metrou-piata-victoriei-2-ramane-inchisa.html</guid>
+    </item>
+    <item>
+        <title>Cadavrele administrative ale statului: companii fără activitate, fără angajați și cu sedii fictive</title>
+        <link>https://www.digi24.ro/special/statul-la-stat/cadavrele-administrative-ale-statului-companii-fara-activitate-fara-angajati-si-cu-sedii-fictive-3842669</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/special/statul-la-stat/cadavrele-administrative-ale-statului-companii-fara-activitate-fara-angajati-si-cu-sedii-fictive-3842669</guid>
+    </item>
+    <item>
+        <title>Subiectele la geografie, logică și filosofie. Ce au de rezolvat elevii de la profilul uman la proba la alegere de la Bacalaureat 2026</title>
+        <link>https://www.digi24.ro/stiri/actualitate/educatie/subiectele-la-geografie-logica-si-filosofie-ce-au-de-rezolvat-elevii-de-la-profilul-uman-bacalaureat-2026-3843221</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/educatie/subiectele-la-geografie-logica-si-filosofie-ce-au-de-rezolvat-elevii-de-la-profilul-uman-bacalaureat-2026-3843221</guid>
+    </item>
+    <item>
+        <title>Digistoria - cele mai importante evenimente petrecute pe 2 iulie</title>
+        <link>https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-2-iulie-2-3843833</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-2-iulie-2-3843833</guid>
+    </item>
+    <item>
+        <title>Nicuşor Dan, opinie în Newsmax: Leadershipul american se bucură de respect în rândul românilor. Parteneriatul trebuie consolidat</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-opinie-in-newsmax-leadershipul-american-se-bucura-de-respect-in-randul-romanilor-parteneriatul-trebuie-consolidat-3843827</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-opinie-in-newsmax-leadershipul-american-se-bucura-de-respect-in-randul-romanilor-parteneriatul-trebuie-consolidat-3843827</guid>
+    </item>
+    <item>
+        <title>Strategia Ucrainei de a duce războiul în inima Rusiei. Cum încearcă Kievul să-l pună sub presiune pe Vladimir Putin</title>
+        <link>https://adevarul.ro/stiri-externe/europa/strategia-ucrainei-de-a-duce-razboiul-in-inima-2540406.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/strategia-ucrainei-de-a-duce-razboiul-in-inima-2540406.html</guid>
+    </item>
+    <item>
+        <title>WhatsApp lansează nume de utilizator, dar întâmpină controverse în cea mai mare piață a sa. Care sunt motivele nemulțumirilor</title>
+        <link>https://www.mediafax.ro/tehnologie/whatsapp-lanseaza-nume-de-utilizator-dar-intampina-controverse-in-cea-mai-mare-piata-a-sa-care-sunt-motivele-nemultumirilor-23765224</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/whatsapp-lanseaza-nume-de-utilizator-dar-intampina-controverse-in-cea-mai-mare-piata-a-sa-care-sunt-motivele-nemultumirilor-23765224</guid>
+    </item>
+    <item>
+        <title>Banii despre care nu vorbim. Românii caută mai întâi sprijin emoțional, nu financiar, atunci când au probleme cu banii</title>
+        <link>https://www.g4media.ro/banii-despre-care-nu-vorbim-romanii-cauta-mai-intai-sprijin-emotional-nu-financiar-atunci-cand-au-probleme-cu-banii.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/banii-despre-care-nu-vorbim-romanii-cauta-mai-intai-sprijin-emotional-nu-financiar-atunci-cand-au-probleme-cu-banii.html</guid>
     </item>
     <item>
         <title>Horoscop 2 iulie 2026. Gemenii sunt avantajați de dinamica specială a acestei zile prin faptul că vor intra în contact cu idei noi, revoluționare</title>
@@ -68,64 +260,22 @@
         <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-2-iulie-2026-5793334</guid>
     </item>
     <item>
-        <title>Val de reacții în PNL după ce puciștii au obținut în instanță suspendarea tuturor hotărârilor luate la Congres: „Au încercat să schimbe conducerea din</title>
-        <link>https://www.libertatea.ro/stiri/reactii-pnl-instanta-suspendat-hotarari-luate-congres-5801715</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/reactii-pnl-instanta-suspendat-hotarari-luate-congres-5801715</guid>
-    </item>
-    <item>
-        <title>Turiștii transformă vacanța într-o competiție pentru șezlonguri. Măsurile dure luate de hoteluri</title>
-        <link>https://www.mediafax.ro/life-inedit/turistii-transforma-vacanta-intr-o-competitie-pentru-sezlonguri-masurile-dure-luate-de-hoteluri-23765143</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/turistii-transforma-vacanta-intr-o-competitie-pentru-sezlonguri-masurile-dure-luate-de-hoteluri-23765143</guid>
-    </item>
-    <item>
-        <title>Rușii ar putea viza fabricile militare din România: „Poate să zică: produceți armament care este folosit împotriva noastră. Așa că lovim”</title>
-        <link>https://adevarul.ro/securitate-si-aparare/rusii-ar-putea-viza-fabricile-militare-din-2540008.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/rusii-ar-putea-viza-fabricile-militare-din-2540008.html</guid>
-    </item>
-    <item>
-        <title>Profesorul de la Harvard care susține că extratereștrii ne-au vizitat va conduce noul consiliu OZN al lui Trump</title>
-        <link>https://www.mediafax.ro/externe/profesorul-de-la-harvard-care-sustine-ca-extraterestrii-ne-au-vizitat-va-conduce-noul-consiliu-ozn-al-lui-trump-23765135</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/profesorul-de-la-harvard-care-sustine-ca-extraterestrii-ne-au-vizitat-va-conduce-noul-consiliu-ozn-al-lui-trump-23765135</guid>
-    </item>
-    <item>
-        <title>De ce ambulanțele merg uneori încet, chiar dacă au sirena pornită. Explicația dată de ISU Cluj</title>
-        <link>https://adevarul.ro/stiri-interne/societate/de-ce-ambulantele-merg-uneori-incet-chiar-daca-au-2540235.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/de-ce-ambulantele-merg-uneori-incet-chiar-daca-au-2540235.html</guid>
-    </item>
-    <item>
         <title>O pisică a rămas blocată în tunelul de la metroul din București: mobilizare extraordinară de trei nopți pentru salvarea ei</title>
         <link>https://www.libertatea.ro/stiri/pisica-blocata-metrou-politehnica-bucuresti-operatiune-salvare-metrorex-5801821</link>
         <description>Libertatea</description>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/pisica-blocata-metrou-politehnica-bucuresti-operatiune-salvare-metrorex-5801821</guid>
     </item>
     <item>
-        <title>Radarele fixe au invadat România în 2026: unde sunt capcanele de pe drumul spre mare și munte</title>
-        <link>https://www.libertatea.ro/lifestyle/harta-radare-fixe-drum-munte-mare-vara-2026-5801817</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/harta-radare-fixe-drum-munte-mare-vara-2026-5801817</guid>
-    </item>
-    <item>
-        <title>„Miracolul spaniol”, un deliciu ideal pe timp de caniculă. Ce recomandă medicii să mâncăm atunci când afară sunt temperaturi extreme</title>
-        <link>https://adevarul.ro/stil-de-viata/bucatarie/miracolul-spaniol-un-deliciu-ideal-pe-timp-de-2540351.html</link>
+        <title>Se naște un Guvern fără precedent în România? Analistul Costin Ciobanu explică capcana din spatele ofertei lansate de Sorin Grindeanu</title>
+        <link>https://adevarul.ro/politica/se-naste-un-guvern-fara-precedent-in-romania-2540323.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/bucatarie/miracolul-spaniol-un-deliciu-ideal-pe-timp-de-2540351.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/se-naste-un-guvern-fara-precedent-in-romania-2540323.html</guid>
     </item>
     <item>
-        <title>Lista de localități lovite de fenomene meteo extreme. Avertizări nowcasting ANM de vreme severă imediată</title>
-        <link>https://www.libertatea.ro/stiri/lista-localitati-fenomene-meteo-extreme-avertizari-nowcasting-anm-vreme-severa-imediata-1-iulie-2026-5801123</link>
+        <title>Val de reacții în PNL după ce puciștii au obținut în instanță suspendarea tuturor hotărârilor luate la Congres: „Au încercat să schimbe conducerea din</title>
+        <link>https://www.libertatea.ro/stiri/reactii-pnl-instanta-suspendat-hotarari-luate-congres-5801715</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/lista-localitati-fenomene-meteo-extreme-avertizari-nowcasting-anm-vreme-severa-imediata-1-iulie-2026-5801123</guid>
-    </item>
-    <item>
-        <title>Îți afectează tehnologia corpul? Semnalele de alarmă pe care le ignorăm zilnic</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/iti-afecteaza-tehnologia-corpul-semnalele-de-alarma-pe-care-le-ignoram-zilnic-23765160</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/iti-afecteaza-tehnologia-corpul-semnalele-de-alarma-pe-care-le-ignoram-zilnic-23765160</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/reactii-pnl-instanta-suspendat-hotarari-luate-congres-5801715</guid>
     </item>
     <item>
         <title>Justificarea Apa Nova după inundații: rețeaua nu e proiectată pentru ploi excepționale, redimensionarea e prea scumpă</title>
@@ -140,34 +290,22 @@
         <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/recenzie-vacanta-lefkada-2026-preturi-taxe-parcare-trafic-5801798</guid>
     </item>
     <item>
-        <title>Belgia se califică în optimi după un final tensionat: 3-2 cu Senegal, după ce a fost condusă cu 0-2</title>
-        <link>https://www.mediafax.ro/sport/belgia-se-califica-in-optimi-dupa-un-final-tensionat-3-2-cu-senegal-dupa-ce-a-fost-condusa-cu-0-2-23765149</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/belgia-se-califica-in-optimi-dupa-un-final-tensionat-3-2-cu-senegal-dupa-ce-a-fost-condusa-cu-0-2-23765149</guid>
-    </item>
-    <item>
-        <title>Se naște un Guvern fără precedent în România? Analistul Costin Ciobanu explică capcana din spatele ofertei lansate de Sorin Grindeanu</title>
-        <link>https://adevarul.ro/politica/se-naste-un-guvern-fara-precedent-in-romania-2540323.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/se-naste-un-guvern-fara-precedent-in-romania-2540323.html</guid>
-    </item>
-    <item>
-        <title>De ce cad copacii din București la fiecare furtună? Explicațiile peisagistei Diana Culescu</title>
-        <link>https://adevarul.ro/stiri-interne/de-ce-cad-copacii-din-bucuresti-la-fiecare-2540273.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/de-ce-cad-copacii-din-bucuresti-la-fiecare-2540273.html</guid>
-    </item>
-    <item>
         <title>Dragoş Pîslaru susţine că a existat un plan de rupere a PNL şi de alipire apoi la PSD</title>
         <link>https://www.libertatea.ro/stiri/dragos-pislaru-plan-rupere-pnl-alipire-psd-declaratii-6123456-5801812</link>
         <description>Libertatea</description>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/dragos-pislaru-plan-rupere-pnl-alipire-psd-declaratii-6123456-5801812</guid>
     </item>
     <item>
-        <title>Un grup catolic tradiționalist a hirotonisit patru episcopi fără aprobarea Papei, riscând o nouă excomunicare</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/un-grup-catolic-traditionalist-a-hirotonisit-patru-2540329.html</link>
+        <title>Rușii ar putea viza fabricile militare din România: „Poate să zică: produceți armament care este folosit împotriva noastră. Așa că lovim”</title>
+        <link>https://adevarul.ro/securitate-si-aparare/rusii-ar-putea-viza-fabricile-militare-din-2540008.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/un-grup-catolic-traditionalist-a-hirotonisit-patru-2540329.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/rusii-ar-putea-viza-fabricile-militare-din-2540008.html</guid>
+    </item>
+    <item>
+        <title>Îți afectează tehnologia corpul? Semnalele de alarmă pe care le ignorăm zilnic</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/iti-afecteaza-tehnologia-corpul-semnalele-de-alarma-pe-care-le-ignoram-zilnic-23765160</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/iti-afecteaza-tehnologia-corpul-semnalele-de-alarma-pe-care-le-ignoram-zilnic-23765160</guid>
     </item>
     <item>
         <title>Proiectul MKUltra. Noi mărturii în Congresul SUA despre programul secret al CIA de control al minții</title>
@@ -176,196 +314,58 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/proiectul-mkultra-noi-marturii-in-congresul-sua-2540327.html</guid>
     </item>
     <item>
-        <title>Belgia obține calificarea în optimile Cupei Mondiale după ce Senegal a condus cu 0-2 timp de 80 de minute</title>
-        <link>https://www.g4media.ro/belgia-obtine-calificarea-in-optimile-cupei-mondiale-dupa-ce-a-revenit-de-la-0-2-cu-senegal-tielemans-a-transformat-un-penalti-in-minutul-120.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/belgia-obtine-calificarea-in-optimile-cupei-mondiale-dupa-ce-a-revenit-de-la-0-2-cu-senegal-tielemans-a-transformat-un-penalti-in-minutul-120.html</guid>
+        <title>Cum scade plata cu ora la profesori de la 1 iulie: formula de calcul modificată de noul salariu minim</title>
+        <link>https://www.libertatea.ro/educatie/scade-plata-ora-profesori-1-iulie-formula-calcul-modificata-5801803</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/educatie/scade-plata-ora-profesori-1-iulie-formula-calcul-modificata-5801803</guid>
     </item>
     <item>
-        <title>Un truc simplu cu apă reduce poluarea generată de motoarele diesel cu peste 60%</title>
-        <link>https://www.mediafax.ro/life-inedit/un-truc-simplu-cu-apa-reduce-poluarea-generata-de-motoarele-diesel-cu-peste-60-23765126</link>
+        <title>„Pot trăi cu asta, într-o oarecare măsură”. Un actor premiat cu un Oscar onorific a dezvăluit că suferă de Alzheimer</title>
+        <link>https://www.mediafax.ro/cultura-media/pot-trai-cu-asta-intr-o-oarecare-masura-un-actor-premiat-cu-un-oscar-onorific-a-dezvaluit-ca-sufera-de-alzheimer-23765146</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/un-truc-simplu-cu-apa-reduce-poluarea-generata-de-motoarele-diesel-cu-peste-60-23765126</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/pot-trai-cu-asta-intr-o-oarecare-masura-un-actor-premiat-cu-un-oscar-onorific-a-dezvaluit-ca-sufera-de-alzheimer-23765146</guid>
     </item>
     <item>
-        <title>Intervenție pe Podul Basarab: un bărbat salvat de jandarmi în ultimul moment</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/interventie-pe-podul-basarab-un-barbat-salvat-de-jandarmi-in-ultimul-moment-3843695</link>
+        <title>Un grup catolic tradiționalist a hirotonisit patru episcopi fără aprobarea Papei, riscând o nouă excomunicare</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/un-grup-catolic-traditionalist-a-hirotonisit-patru-2540329.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/un-grup-catolic-traditionalist-a-hirotonisit-patru-2540329.html</guid>
+    </item>
+    <item>
+        <title>Belgia se califică în optimi după un final tensionat: 3-2 cu Senegal, după ce a fost condusă cu 0-2</title>
+        <link>https://www.mediafax.ro/sport/belgia-se-califica-in-optimi-dupa-un-final-tensionat-3-2-cu-senegal-dupa-ce-a-fost-condusa-cu-0-2-23765149</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/belgia-se-califica-in-optimi-dupa-un-final-tensionat-3-2-cu-senegal-dupa-ce-a-fost-condusa-cu-0-2-23765149</guid>
+    </item>
+    <item>
+        <title>Explozii puternice au zguduit Kievul la câteva ore după ce Zelenski a avertizat asupra unui atac „masiv” al Rusiei</title>
+        <link>https://www.mediafax.ro/externe/explozii-puternice-au-zguduit-kievul-la-cateva-ore-dupa-ce-zelenski-a-avertizat-asupra-unui-atac-masiv-al-rusiei-23765163</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/explozii-puternice-au-zguduit-kievul-la-cateva-ore-dupa-ce-zelenski-a-avertizat-asupra-unui-atac-masiv-al-rusiei-23765163</guid>
+    </item>
+    <item>
+        <title>SUA includ banda ecuadoriană „Los Chone Killers” pe lista organizațiilor teroriste</title>
+        <link>https://www.mediafax.ro/externe/sua-includ-banda-ecuadoriana-los-chone-killers-pe-lista-organizatiilor-teroriste-23765157</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/sua-includ-banda-ecuadoriana-los-chone-killers-pe-lista-organizatiilor-teroriste-23765157</guid>
+    </item>
+    <item>
+        <title>CM 2026. Belgia s-a calificat nesperat în optimi după ce în minutul 86 era condusă cu două goluri de Senegal</title>
+        <link>https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/cm-2026-belgia-s-a-calificat-nesperat-in-optimi-dupa-ce-in-minutul-86-era-condusa-cu-doua-goluri-de-senegal-3843753</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/interventie-pe-podul-basarab-un-barbat-salvat-de-jandarmi-in-ultimul-moment-3843695</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/cm-2026-belgia-s-a-calificat-nesperat-in-optimi-dupa-ce-in-minutul-86-era-condusa-cu-doua-goluri-de-senegal-3843753</guid>
     </item>
     <item>
-        <title>Păcăleala de la 1 iulie: IRCC coboară pentru a patra oară, dar ratele scad cu doar 4 lei. Mutarea prin care salvezi 800 de lei pe lună</title>
-        <link>https://adevarul.ro/economie/pacaleala-de-la-1-iulie-ircc-coboara-pentru-a-2540196.html</link>
+        <title>„Miracolul spaniol”, un deliciu ideal pe timp de caniculă. Ce recomandă medicii să mâncăm atunci când afară sunt temperaturi extreme</title>
+        <link>https://adevarul.ro/stil-de-viata/bucatarie/miracolul-spaniol-un-deliciu-ideal-pe-timp-de-2540351.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/pacaleala-de-la-1-iulie-ircc-coboara-pentru-a-2540196.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/bucatarie/miracolul-spaniol-un-deliciu-ideal-pe-timp-de-2540351.html</guid>
     </item>
     <item>
-        <title>Bacalaureat 2026. Joi are loc proba la alegere a profilului – ultima, pentru majoritatea candidaților</title>
-        <link>https://adevarul.ro/stiri-interne/educatie/bacalaureat-2026-joi-are-loc-proba-la-alegere-a-2540367.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/bacalaureat-2026-joi-are-loc-proba-la-alegere-a-2540367.html</guid>
-    </item>
-    <item>
-        <title>Scandal în Franța: ecologiștii susțin că 10.000 de oameni au murit din cauza căldurii și vor să depună moțiune de cenzură</title>
-        <link>https://www.digi24.ro/stiri/externe/scandal-in-franta-ecologistii-sustin-ca-10-000-de-oameni-au-murit-din-cauza-caldurii-si-vor-sa-depuna-motiune-de-cenzura-3843645</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/scandal-in-franta-ecologistii-sustin-ca-10-000-de-oameni-au-murit-din-cauza-caldurii-si-vor-sa-depuna-motiune-de-cenzura-3843645</guid>
-    </item>
-    <item>
-        <title>Eurodeputații cer FIFA să excludă Rusia de la prima Cupă Mondială U15</title>
-        <link>https://www.g4media.ro/eurodeputatii-cer-fifa-sa-excluda-rusia-de-la-prima-cupa-mondiala-u15.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/eurodeputatii-cer-fifa-sa-excluda-rusia-de-la-prima-cupa-mondiala-u15.html</guid>
-    </item>
-    <item>
-        <title>Pîslaru: Nominalizarea lui Adrian Veștea a fost o ingerință directă în PNL. Nu așa se construiește încrederea</title>
-        <link>https://www.mediafax.ro/politic/pislaru-nominalizarea-lui-adrian-vestea-a-fost-o-ingerinta-directa-in-pnl-nu-asa-se-construieste-increderea-23765094</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/pislaru-nominalizarea-lui-adrian-vestea-a-fost-o-ingerinta-directa-in-pnl-nu-asa-se-construieste-increderea-23765094</guid>
-    </item>
-    <item>
-        <title>Bucureștiul pare verde în statistici, dar pe stradă te sufoci. Diferența uriașă dintre două zone vecine care se simte imediat pe piele</title>
-        <link>https://adevarul.ro/stiri-interne/societate/bucurestiul-pare-verde-in-statistici-dar-pe-2540212.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/bucurestiul-pare-verde-in-statistici-dar-pe-2540212.html</guid>
-    </item>
-    <item>
-        <title>Aryna Sabalenka, apel către organizatorii de la Wimbledon: „Lăsați câinii să intre, vă rog!”</title>
-        <link>https://www.mediafax.ro/sport/aryna-sabalenka-apel-catre-organizatorii-de-la-wimbledon-lasati-cainii-sa-intre-va-rog-23765104</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/aryna-sabalenka-apel-catre-organizatorii-de-la-wimbledon-lasati-cainii-sa-intre-va-rog-23765104</guid>
-    </item>
-    <item>
-        <title>Pîslaru: Profesorii sunt nemulțumiți pentru că promisiunea salarială din 2023 nu poate fi onorată</title>
-        <link>https://www.mediafax.ro/social/pislaru-profesorii-sunt-nemultumiti-pentru-ca-promisiunea-salariala-din-2023-nu-poate-fi-onorata-23765101</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/pislaru-profesorii-sunt-nemultumiti-pentru-ca-promisiunea-salariala-din-2023-nu-poate-fi-onorata-23765101</guid>
-    </item>
-    <item>
-        <title>Omul de afaceri Cristian Burci scapă de dosarul penal prin prescripție după ce judecătorul a fost schimbat și procesul s-a reluat / Instanța îi confis</title>
-        <link>https://www.g4media.ro/omul-de-afaceri-cristian-burci-scapa-de-dosarul-penal-prin-prescriptie-dupa-ce-judecatorul-a-fost-schimbat-si-procesul-s-a-reluat-instanta-ii-confisca-27-milioane-de-euro.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/omul-de-afaceri-cristian-burci-scapa-de-dosarul-penal-prin-prescriptie-dupa-ce-judecatorul-a-fost-schimbat-si-procesul-s-a-reluat-instanta-ii-confisca-27-milioane-de-euro.html</guid>
-    </item>
-    <item>
-        <title>Dezastru în Venezuela: autoritățile revizuiesc în creștere bilanțul cutremurelor, mii de morți și răniți</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/dezastru-in-venezuela-autoritatile-revizuiesc-in-crestere-bilantul-cutremurelor-mii-de-morti-si-raniti-3843735</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/dezastru-in-venezuela-autoritatile-revizuiesc-in-crestere-bilantul-cutremurelor-mii-de-morti-si-raniti-3843735</guid>
-    </item>
-    <item>
-        <title>Un bărbat din Capitală, salvat de jandarmi după ce ar fi încercat să se arunge de pe podul Basarab</title>
-        <link>https://adevarul.ro/stiri-locale/bucuresti/un-barbat-din-capitala-salvat-de-jandarmi-dupa-ce-2540400.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/un-barbat-din-capitala-salvat-de-jandarmi-dupa-ce-2540400.html</guid>
-    </item>
-    <item>
-        <title>Doi ruşi s-au urcat pe Empire State Bulding din New York pentru o cerere în căsătorie, afișând un banner care promova pacea mondială / Ulterior au fos</title>
-        <link>https://www.g4media.ro/doi-rusi-s-au-logodit-si-au-arborat-un-banner-pacifist-pe-empire-state-bulding-din-new-york-ulterior-au-fost-arestati.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/doi-rusi-s-au-logodit-si-au-arborat-un-banner-pacifist-pe-empire-state-bulding-din-new-york-ulterior-au-fost-arestati.html</guid>
-    </item>
-    <item>
-        <title>Un suspect a fost reținut, apoi eliberat în ancheta privind atentatul de la Monaco care l-ar fi vizat pe miliardarul ucrainean Vadim Ermolaev</title>
-        <link>https://adevarul.ro/stiri-externe/europa/un-suspect-a-fost-retinut-apoi-eliberat-in-2540388.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/un-suspect-a-fost-retinut-apoi-eliberat-in-2540388.html</guid>
-    </item>
-    <item>
-        <title>Eugen Sechila, unul dintre apropiații lui Călin Georgescu, a primit avertisment din partea instanței pentru afișare de simboluri legionare / Decizia n</title>
-        <link>https://www.g4media.ro/eugen-sechila-unul-dintre-apropiatii-lui-calin-georgescu-a-primit-avertisment-din-partea-instantei-pentru-afisare-de-simboluri-legionare-decizia-nu-este-definitiva.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/eugen-sechila-unul-dintre-apropiatii-lui-calin-georgescu-a-primit-avertisment-din-partea-instantei-pentru-afisare-de-simboluri-legionare-decizia-nu-este-definitiva.html</guid>
-    </item>
-    <item>
-        <title>2 iulie: Ziua în care a dispărut Amelia Earhart. Misterul care încă nu a fost rezolvat</title>
-        <link>https://adevarul.ro/istoria-zilei/2-iulie-ziua-in-care-a-disparut-amelia-earhart-2538726.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/2-iulie-ziua-in-care-a-disparut-amelia-earhart-2538726.html</guid>
-    </item>
-    <item>
-        <title>Ministrul canadian al Afacerilor Externe, Anita Anand, vizită oficială în România, în 6 iulie</title>
-        <link>https://www.g4media.ro/ministrul-canadian-al-afacerilor-externe-anita-anand-vizita-oficiala-in-romania.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ministrul-canadian-al-afacerilor-externe-anita-anand-vizita-oficiala-in-romania.html</guid>
-    </item>
-    <item>
-        <title>Cum îndepărtezi excrementele de pasăre de pe mașină folosind o metodă simplă</title>
-        <link>https://www.mediafax.ro/stirile-zilei/cum-indepartezi-excrementele-de-pasare-de-pe-masina-folosind-o-metoda-simpla-23765112</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/cum-indepartezi-excrementele-de-pasare-de-pe-masina-folosind-o-metoda-simpla-23765112</guid>
-    </item>
-    <item>
-        <title>Fostul premier Viorica Dăncilă: Nu aș fi început austeritatea de la cetățeni. Aș fi oprit ajutoarele pentru Ucraina</title>
-        <link>https://www.mediafax.ro/politic/fostul-premier-viorica-dancila-nu-as-fi-inceput-austeritatea-de-la-cetateni-as-fi-oprit-ajutoarele-pentru-ucraina-23765120</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/fostul-premier-viorica-dancila-nu-as-fi-inceput-austeritatea-de-la-cetateni-as-fi-oprit-ajutoarele-pentru-ucraina-23765120</guid>
-    </item>
-    <item>
-        <title>Instanța a aprobat plecarea lui Ciprian Ciucu în concediu, în ciuda controlului judiciar</title>
-        <link>https://www.g4media.ro/instanta-a-aprobat-plecarea-lui-ciprian-ciucu-in-concediu-in-ciuda-controlului-judiciar.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/instanta-a-aprobat-plecarea-lui-ciprian-ciucu-in-concediu-in-ciuda-controlului-judiciar.html</guid>
-    </item>
-    <item>
-        <title>Rusia începe să importe benzină din India după atacurile ucrainene asupra rafinăriilor</title>
-        <link>https://adevarul.ro/stiri-externe/rusia/rusia-incepe-sa-importe-benzina-din-india-dupa-2540395.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/rusia-incepe-sa-importe-benzina-din-india-dupa-2540395.html</guid>
-    </item>
-    <item>
-        <title>O teorie considerată depășită revine în atenția oamenilor de știință. Freud a avut dreptate</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/o-teorie-considerata-depasita-revine-in-atentia-oamenilor-de-stiinta-freud-a-avut-dreptate-23765111</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/o-teorie-considerata-depasita-revine-in-atentia-oamenilor-de-stiinta-freud-a-avut-dreptate-23765111</guid>
-    </item>
-    <item>
-        <title>Eurodeputații cer FIFA să excludă Rusia de la prima Cupă Mondială U15</title>
-        <link>https://www.mediafax.ro/externe/eurodeputatii-cer-fifa-sa-excluda-rusia-de-la-prima-cupa-mondiala-u15-23765109</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/eurodeputatii-cer-fifa-sa-excluda-rusia-de-la-prima-cupa-mondiala-u15-23765109</guid>
-    </item>
-    <item>
-        <title>Avioanele decolează „pe jumătate goale” din cauza cozilor provocate de noul sistem de control la frontieră al UE</title>
-        <link>https://www.digi24.ro/stiri/externe/avioanele-decoleaza-pe-jumatate-goale-din-cauza-cozilor-provocate-de-noul-sistem-de-control-la-frontiera-al-ue-3843717</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/avioanele-decoleaza-pe-jumatate-goale-din-cauza-cozilor-provocate-de-noul-sistem-de-control-la-frontiera-al-ue-3843717</guid>
-    </item>
-    <item>
-        <title>„Au fost decizii blitz. Așa ceva nu există”: Pîslaru, despre decizia CSM privind pensiile speciale</title>
-        <link>https://www.mediafax.ro/stirile-zilei/au-fost-decizii-blitz-asa-ceva-nu-exista-pislaru-despre-decizia-csm-privind-pensiile-speciale-23765091</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/au-fost-decizii-blitz-asa-ceva-nu-exista-pislaru-despre-decizia-csm-privind-pensiile-speciale-23765091</guid>
-    </item>
-    <item>
-        <title>Ministra de Externe a Canadei vine în România</title>
-        <link>https://www.digi24.ro/stiri/actualitate/ministra-de-externe-a-canadei-vine-in-romania-3843679</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/ministra-de-externe-a-canadei-vine-in-romania-3843679</guid>
-    </item>
-    <item>
-        <title>Pîslaru, despre decizia CSM privind pensiile speciale: Au fost decizii blitz. Așa ceva nu există</title>
-        <link>https://www.g4media.ro/pislaru-despre-decizia-csm-privind-pensiile-speciale-au-fost-decizii-blitz-asa-ceva-nu-exista.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pislaru-despre-decizia-csm-privind-pensiile-speciale-au-fost-decizii-blitz-asa-ceva-nu-exista.html</guid>
-    </item>
-    <item>
-        <title>Virusul transmis de țânțari care poate afecta creierul se răspândește mai repede decât de obicei. Avertismentul autorităților</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/virusul-transmis-de-tantari-care-poate-afecta-creierul-se-raspandeste-mai-repede-decat-de-obicei-avertismentul-autoritatilor-23765129</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/virusul-transmis-de-tantari-care-poate-afecta-creierul-se-raspandeste-mai-repede-decat-de-obicei-avertismentul-autoritatilor-23765129</guid>
-    </item>
-    <item>
-        <title>Preţurile la benzinăriile din Germania au crescut după expirarea reducerii taxei pe carburanţi. Cât costă acum benzina și motorina</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/preturile-la-benzinariile-din-germania-au-crescut-dupa-expirarea-reducerii-taxei-pe-carburanti-cat-costa-acum-benzina-si-motorina-3843741</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/preturile-la-benzinariile-din-germania-au-crescut-dupa-expirarea-reducerii-taxei-pe-carburanti-cat-costa-acum-benzina-si-motorina-3843741</guid>
-    </item>
-    <item>
-        <title>Juventus transferă pentru 16 milioane de euro un talent de la Genoa, echipă patronată de Dan Șucu</title>
-        <link>https://www.mediafax.ro/sport/juventus-transfera-pentru-16-milioane-de-euro-un-talent-de-la-genoa-echipa-patronata-de-dan-sucu-23765069</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/juventus-transfera-pentru-16-milioane-de-euro-un-talent-de-la-genoa-echipa-patronata-de-dan-sucu-23765069</guid>
+        <title>Radarele fixe au invadat România în 2026: unde sunt capcanele de pe drumul spre mare și munte</title>
+        <link>https://www.libertatea.ro/lifestyle/harta-radare-fixe-drum-munte-mare-vara-2026-5801817</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/harta-radare-fixe-drum-munte-mare-vara-2026-5801817</guid>
     </item>
 </channel>
 </rss>
