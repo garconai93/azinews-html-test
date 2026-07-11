@@ -5,13 +5,43 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 11 Jul 2026 17:38:45 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 18:33:46 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Nicușor Dan, de Ziua Prieteniei Româno-Americane: Consolidarea legăturii transatlantice și a Parteneriatului nostru Strategic este vitală</title>
-        <link>https://www.g4media.ro/nicusor-dan-de-ziua-prieteniei-romano-americane-consolidarea-legaturii-transatlantice-si-a-parteneriatului-nostru-strategic-este-vitala.html</link>
+        <title>Germania investighează un posibil sabotaj feroviar. Un grup de extremă stânga a revendicat atacul</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/germania-investigheaza-un-posibil-sabotaj-feroviar-un-grup-de-extrema-stanga-a-revendicat-atacul-3858263</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/germania-investigheaza-un-posibil-sabotaj-feroviar-un-grup-de-extrema-stanga-a-revendicat-atacul-3858263</guid>
+    </item>
+    <item>
+        <title>ProSport: Simona Halep și Dorin Mateiu, prima apariție publică împreună la Wimbledon</title>
+        <link>https://www.mediafax.ro/sport/prosport-simona-halep-si-dorin-mateiu-prima-aparitie-publica-impreuna-la-wimbledon-23770650</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/prosport-simona-halep-si-dorin-mateiu-prima-aparitie-publica-impreuna-la-wimbledon-23770650</guid>
+    </item>
+    <item>
+        <title>Discurs dur al președintelui polonez Karol Nawrocki despre naționaliștii ucraineni: „Nu sunt eroii de care Europa are nevoie”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/discurs-dur-al-presedintelui-polonez-karol-nawrocki-despre-nationalistii-ucraineni-nu-sunt-eroii-de-care-europa-are-nevoie-3858261</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/discurs-dur-al-presedintelui-polonez-karol-nawrocki-despre-nationalistii-ucraineni-nu-sunt-eroii-de-care-europa-are-nevoie-3858261</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan, mesaj de ziua dedicată Prieteniei Romano-Americane: Consolidarea legăturii transatlantice și a Parteneriatului nostru Strategic este vita</title>
+        <link>https://www.mediafax.ro/politic/nicusor-dan-mesaj-de-ziua-dedicata-prieteniei-romano-americane-consolidarea-legaturii-transatlantice-si-a-parteneriatului-nostru-strategic-este-vitala-23770649</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-mesaj-de-ziua-dedicata-prieteniei-romano-americane-consolidarea-legaturii-transatlantice-si-a-parteneriatului-nostru-strategic-este-vitala-23770649</guid>
+    </item>
+    <item>
+        <title>Doi bulgari condamnați pentru spionaj în favoarea Rusiei, expulzați din Marea Britanie după eliberare</title>
+        <link>https://adevarul.ro/stiri-externe/europa/doi-bulgari-condamnati-pentru-spionaj-in-favoarea-2542547.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/doi-bulgari-condamnati-pentru-spionaj-in-favoarea-2542547.html</guid>
+    </item>
+    <item>
+        <title>Arabia Saudită construiește „Maldivele Orientului Mijlociu” / Mega-proiectul turistic de la Marea Roșie începe să prindă contur</title>
+        <link>https://www.g4media.ro/arabia-saudita-construieste-maldivele-orientului-mijlociu-mega-proiectul-turistic-de-la-marea-rosie-incepe-sa-prinda-contur.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/nicusor-dan-de-ziua-prieteniei-romano-americane-consolidarea-legaturii-transatlantice-si-a-parteneriatului-nostru-strategic-este-vitala.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/arabia-saudita-construieste-maldivele-orientului-mijlociu-mega-proiectul-turistic-de-la-marea-rosie-incepe-sa-prinda-contur.html</guid>
     </item>
     <item>
         <title>Premieră medicală la Iași: Primul transplant de cord, realizat după două prelevări de organe</title>
@@ -20,46 +50,34 @@
         <guid isPermaLink="true">https://www.g4media.ro/premiera-medicala-la-iasi-primul-transplant-de-cord-realizat-dupa-doua-prelevari-de-organe.html</guid>
     </item>
     <item>
-        <title>Șofer de 77 de ani, prins după ce a circulat pe contrasens pe Autostrada A7. Câte zile rămâne fără permis</title>
-        <link>https://adevarul.ro/stiri-locale/focsani/sofer-de-77-de-ani-prins-dupa-ce-a-circulat-pe-2542549.html</link>
+        <title>Fotbalul sud-african, în doliu. Jayden Adams a murit la 25 de ani, la scurt timp după participarea la Cupa Mondială</title>
+        <link>https://adevarul.ro/sport/fotbalul-sud-african-in-doliu-jayden-adams-a-2542542.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/focsani/sofer-de-77-de-ani-prins-dupa-ce-a-circulat-pe-2542549.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/sport/fotbalul-sud-african-in-doliu-jayden-adams-a-2542542.html</guid>
     </item>
     <item>
-        <title>Polonia comemorează Masacrul din Volînia și anunță un Zid al Memoriei pentru victimele războaielor din Ucraina</title>
-        <link>https://www.mediafax.ro/externe/polonia-comemoreaza-masacrul-din-volinia-si-anunta-un-zid-al-memoriei-pentru-victimele-razboaielor-din-ucraina-23770660</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/polonia-comemoreaza-masacrul-din-volinia-si-anunta-un-zid-al-memoriei-pentru-victimele-razboaielor-din-ucraina-23770660</guid>
+        <title>„Nu sunt eroii de care Europa are nevoie”. Președintele Poloniei, mesaj dur la adresa naționaliștilor ucraineni</title>
+        <link>https://adevarul.ro/stiri-externe/europa/nu-sunt-eroii-de-care-europa-are-nevoie-2542569.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/nu-sunt-eroii-de-care-europa-are-nevoie-2542569.html</guid>
     </item>
     <item>
-        <title>Aproximativ 100 de medici au fost sancționați în Turcia, pentru că au făcut operaţii de cezariană</title>
-        <link>https://www.europafm.ro/aproximativ-100-de-medici-au-fost-sanctionati-in-turcia-pentru-ca-au-facut-operatii-de-cezariana/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/aproximativ-100-de-medici-au-fost-sanctionati-in-turcia-pentru-ca-au-facut-operatii-de-cezariana/</guid>
-    </item>
-    <item>
-        <title>Polițiștii l-au găsit pe șoferul care a mers pe contrasens pe Autostrada A7. Cine este și ce sancțiune a primit</title>
-        <link>https://www.mediafax.ro/social/politistii-l-au-gasit-pe-soferul-care-a-mers-pe-contrasens-pe-autostrada-a7-cine-este-si-ce-sanctiune-a-primit-23770654</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/politistii-l-au-gasit-pe-soferul-care-a-mers-pe-contrasens-pe-autostrada-a7-cine-este-si-ce-sanctiune-a-primit-23770654</guid>
-    </item>
-    <item>
-        <title>Canicula afectează marile atracții turistice din Paris / Turnul Eiffel, Luvrul și Muzeul Orsay își reduc programul</title>
-        <link>https://www.g4media.ro/canicula-afecteaza-marile-atractii-turistice-din-paris-turnul-eiffel-luvrul-si-muzeul-orsay-isi-reduc-programul.html</link>
+        <title>Premierul Magyar vrea să îl oblige pe președintele Ungariei să își semneze propria demitere</title>
+        <link>https://www.g4media.ro/premierul-magyar-vrea-sa-il-oblige-pe-presedintele-ungariei-sa-isi-semneze-propria-demitere.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/canicula-afecteaza-marile-atractii-turistice-din-paris-turnul-eiffel-luvrul-si-muzeul-orsay-isi-reduc-programul.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/premierul-magyar-vrea-sa-il-oblige-pe-presedintele-ungariei-sa-isi-semneze-propria-demitere.html</guid>
     </item>
     <item>
-        <title>Premierul ungar Peter Magyar îl pune pe președintele Sulyok să-și semneze propria demitere</title>
-        <link>https://www.digi24.ro/stiri/externe/premierul-ungar-peter-magyar-il-pune-pe-presedintele-sulyok-sa-si-semneze-propria-demitere-3858251</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/premierul-ungar-peter-magyar-il-pune-pe-presedintele-sulyok-sa-si-semneze-propria-demitere-3858251</guid>
+        <title>Srebrenica, cea mai mare atrocitate din Europa de după cel de-Al Doilea Război Mondial: 8.000 de musulamni au fost exterminați</title>
+        <link>https://www.europafm.ro/srebrenica-cea-mai-mare-atrocitate-din-europa-de-dupa-cel-de-al-doilea-razboi-mondial-8-000-de-musulamni-au-fost-exterminati/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/srebrenica-cea-mai-mare-atrocitate-din-europa-de-dupa-cel-de-al-doilea-razboi-mondial-8-000-de-musulamni-au-fost-exterminati/</guid>
     </item>
     <item>
-        <title>România își joacă viitorul la EURO 2028! Urna în care pot ajunge tricolorii lui Gică Hagi. De ce este importantă Liga Națiunilor</title>
-        <link>https://adevarul.ro/sport/romania-isi-joaca-viitorul-la-euro-2028-urna-in-2542550.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/romania-isi-joaca-viitorul-la-euro-2028-urna-in-2542550.html</guid>
+        <title>Linda Nosková câștigă Wimbledonul și obține primul titlu de Grand Slam al carierei</title>
+        <link>https://www.g4media.ro/linda-noskova-castiga-wimbledonul-si-obtine-primul-titlu-de-grand-slam-al-carierei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/linda-noskova-castiga-wimbledonul-si-obtine-primul-titlu-de-grand-slam-al-carierei.html</guid>
     </item>
     <item>
         <title>Turcia analizează aderarea la Banca pentru Apărare, Securitate și Reziliență. Decizia este încă în așteptare</title>
@@ -68,10 +86,202 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/turcia-analizeaza-aderarea-la-banca-pentru-aparare-securitate-si-rezilienta-decizia-este-inca-in-asteptare-23770655</guid>
     </item>
     <item>
+        <title>Europa ia în calcul introducerea unor taxe de navigație în Strâmtoarea Ormuz. Ce ar presupune planul analizat</title>
+        <link>https://www.digi24.ro/stiri/externe/europa-ia-in-calcul-introducerea-unor-taxe-de-navigatie-in-stramtoarea-ormuz-ce-ar-presupune-planul-analizat-3858225</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/europa-ia-in-calcul-introducerea-unor-taxe-de-navigatie-in-stramtoarea-ormuz-ce-ar-presupune-planul-analizat-3858225</guid>
+    </item>
+    <item>
+        <title>Președintele Poloniei critică glorificarea naționaliștilor ucraineni: „Nu sunt eroii de care Europa are nevoie”</title>
+        <link>https://www.g4media.ro/presedintele-poloniei-critica-glorificarea-nationalistilor-ucraineni-nu-sunt-eroii-de-care-europa-are-nevoie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/presedintele-poloniei-critica-glorificarea-nationalistilor-ucraineni-nu-sunt-eroii-de-care-europa-are-nevoie.html</guid>
+    </item>
+    <item>
+        <title>SONDAJ G4Media: Cât de des ieșiți la restaurant? Cât cheltuiți de obicei și cum alegeți restaurantul?</title>
+        <link>https://www.g4media.ro/sondaj-cat-de-des-iesiti-la-restaurant-cat-cheltuiti-de-obicei-si-cum-alegeti-restaurantul.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/sondaj-cat-de-des-iesiti-la-restaurant-cat-cheltuiti-de-obicei-si-cum-alegeti-restaurantul.html</guid>
+    </item>
+    <item>
+        <title>Dacia Striker schimbă regulile jocului. Ce oferă noul crossover românesc și ce preț va avea</title>
+        <link>https://adevarul.ro/stil-de-viata/auto/dacia-striker-schimba-regulile-jocului-ce-ofera-2542433.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/auto/dacia-striker-schimba-regulile-jocului-ce-ofera-2542433.html</guid>
+    </item>
+    <item>
+        <title>Ministrul interimar al Educației: S-a încheiat evaluarea contestațiilor la Bacalaureat. Când vor fi afișate rezultatele finale</title>
+        <link>https://www.mediafax.ro/social/ministrul-interimar-al-educatiei-s-a-incheiat-evaluarea-contestatiilor-la-bacalaureat-cand-vor-fi-afisate-rezultatele-finale-23770663</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/ministrul-interimar-al-educatiei-s-a-incheiat-evaluarea-contestatiilor-la-bacalaureat-cand-vor-fi-afisate-rezultatele-finale-23770663</guid>
+    </item>
+    <item>
+        <title>Un fotbalist a murit la doar câteva zile după ce a jucat la Cupa Mondială 2026. Jayden Adams avea 25 de ani</title>
+        <link>https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/un-fotbalist-a-murit-la-doar-cateva-zile-dupa-ce-a-jucat-la-cupa-mondiala-2026-jayden-adams-avea-25-de-ani-3858199</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/campionatul-mondal-de-fotbal-2026/un-fotbalist-a-murit-la-doar-cateva-zile-dupa-ce-a-jucat-la-cupa-mondiala-2026-jayden-adams-avea-25-de-ani-3858199</guid>
+    </item>
+    <item>
+        <title>Președintele Nicușor Dan, vizită de 2 zile la Paris. Pe agendă: reuniunea Coaliției de Voință pentru Ucraina și parada de Ziua Franței</title>
+        <link>https://www.europafm.ro/presedintele-nicusor-dan-vizita-de-2-zile-la-paris-pe-agenda-reuniunea-coalitiei-de-vointa-pentru-ucraina-si-parada-de-ziua-frantei/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/presedintele-nicusor-dan-vizita-de-2-zile-la-paris-pe-agenda-reuniunea-coalitiei-de-vointa-pentru-ucraina-si-parada-de-ziua-frantei/</guid>
+    </item>
+    <item>
+        <title>Cum a redus Guvernul cheltuielile în ultimii doi ani și de unde s-au tăiat banii? Fondul premierului: zero lei</title>
+        <link>https://www.europafm.ro/cum-a-redus-guvernul-cheltuielile-in-ultimii-doi-ani-si-de-unde-s-au-taiat-banii-fondul-premierului-zero-lei/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/cum-a-redus-guvernul-cheltuielile-in-ultimii-doi-ani-si-de-unde-s-au-taiat-banii-fondul-premierului-zero-lei/</guid>
+    </item>
+    <item>
+        <title>Un nou catalog al virusurilor dezăluie ce agenți patogeni reprezintă cea mai mare amenințare și care ar putea fi următoarea „boală X”</title>
+        <link>https://www.digi24.ro/stiri/sci-tech/un-nou-catalog-al-virusurilor-dezaluie-ce-agenti-patogeni-reprezinta-cea-mai-mare-amenintare-si-care-ar-putea-fi-urmatoarea-boala-x-3850007</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/un-nou-catalog-al-virusurilor-dezaluie-ce-agenti-patogeni-reprezinta-cea-mai-mare-amenintare-si-care-ar-putea-fi-urmatoarea-boala-x-3850007</guid>
+    </item>
+    <item>
+        <title>Premierul ungar Peter Magyar îl pune pe președintele Sulyok să-și semneze propria demitere</title>
+        <link>https://www.digi24.ro/stiri/externe/premierul-ungar-peter-magyar-il-pune-pe-presedintele-sulyok-sa-si-semneze-propria-demitere-3858251</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/premierul-ungar-peter-magyar-il-pune-pe-presedintele-sulyok-sa-si-semneze-propria-demitere-3858251</guid>
+    </item>
+    <item>
+        <title>Larissa, cea mai vârstnică femelă de urs polar aflată în captivitate, a murit la 36 de ani</title>
+        <link>https://www.g4media.ro/larissa-cea-mai-varstnica-femela-de-urs-polar-aflata-in-captivitate-a-murit-la-36-de-ani.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/larissa-cea-mai-varstnica-femela-de-urs-polar-aflata-in-captivitate-a-murit-la-36-de-ani.html</guid>
+    </item>
+    <item>
+        <title>Va elimina Inteligența Artificială tradiția meditațiilor la români? Expert în Educație: „Încurajez toți copiii să folosească AI“</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/va-elimina-inteligenta-artificiala-traditia-2542407.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/va-elimina-inteligenta-artificiala-traditia-2542407.html</guid>
+    </item>
+    <item>
+        <title>România își joacă viitorul la EURO 2028! Urna în care pot ajunge tricolorii lui Gică Hagi. De ce este importantă Liga Națiunilor</title>
+        <link>https://adevarul.ro/sport/romania-isi-joaca-viitorul-la-euro-2028-urna-in-2542550.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/romania-isi-joaca-viitorul-la-euro-2028-urna-in-2542550.html</guid>
+    </item>
+    <item>
+        <title>Taifunul Bavi lovește China, Japonia și Taiwan. Peste 2 milioane de oameni, evacuați</title>
+        <link>https://adevarul.ro/stiri-externe/china/taifunul-bavi-loveste-china-japonia-si-taiwan-2542560.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/china/taifunul-bavi-loveste-china-japonia-si-taiwan-2542560.html</guid>
+    </item>
+    <item>
+        <title>Doliu pentru Jennifer Grey. Mama actriței din „Dirty Dancing” a murit la 94 de ani, la o săptămână după un diagnostic grav</title>
+        <link>https://adevarul.ro/showbiz/vedete/doliu-pentru-jennifer-grey-mama-actritei-din-2542556.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/vedete/doliu-pentru-jennifer-grey-mama-actritei-din-2542556.html</guid>
+    </item>
+    <item>
+        <title>O organizație pentru combaterea antisemitismului îl critică pe Ioan-Aurel Pop după un articol despre aplicarea Legii Vexler: „Relativizează sensul și </title>
+        <link>https://www.g4media.ro/o-organizatie-pentru-combaterea-antisemitismului-il-critica-pe-ioan-aurel-pop-dupa-un-articol-despre-aplicarea-legii-vexler-relativizeaza-sensul-si-utilitatea-legislatiei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/o-organizatie-pentru-combaterea-antisemitismului-il-critica-pe-ioan-aurel-pop-dupa-un-articol-despre-aplicarea-legii-vexler-relativizeaza-sensul-si-utilitatea-legislatiei.html</guid>
+    </item>
+    <item>
+        <title>Este un pahar de vin roșu pe zi benefic pentru inimă? Un nou studiu încearcă să clarifice riscurile și beneficiile alcoolului</title>
+        <link>https://www.digi24.ro/stiri/actualitate/sanatate/este-un-pahar-de-vin-rosu-pe-zi-benefic-pentru-inima-un-nou-studiu-incearca-sa-clarifice-riscurile-si-beneficiile-alcoolului-3858155</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/este-un-pahar-de-vin-rosu-pe-zi-benefic-pentru-inima-un-nou-studiu-incearca-sa-clarifice-riscurile-si-beneficiile-alcoolului-3858155</guid>
+    </item>
+    <item>
+        <title>București: Polițiștii au intervenit în cazul a două amenințări cu cuțitul. Una dintre ele – într-o stație de autobuz</title>
+        <link>https://www.europafm.ro/bucuresti-politistii-au-intervenit-in-cazul-a-doua-amenintari-cu-cutitul-una-dintre-ele-intr-o-statie-de-autobuz/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/bucuresti-politistii-au-intervenit-in-cazul-a-doua-amenintari-cu-cutitul-una-dintre-ele-intr-o-statie-de-autobuz/</guid>
+    </item>
+    <item>
+        <title>Polonia comemorează Masacrul din Volînia și anunță un Zid al Memoriei pentru victimele războaielor din Ucraina</title>
+        <link>https://www.mediafax.ro/externe/polonia-comemoreaza-masacrul-din-volinia-si-anunta-un-zid-al-memoriei-pentru-victimele-razboaielor-din-ucraina-23770660</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/polonia-comemoreaza-masacrul-din-volinia-si-anunta-un-zid-al-memoriei-pentru-victimele-razboaielor-din-ucraina-23770660</guid>
+    </item>
+    <item>
+        <title>George Clooney intră în topul celor mai bogați 500 de oameni din Franța după obținerea cetățeniei franceze</title>
+        <link>https://www.g4media.ro/george-clooney-intra-in-topul-celor-mai-bogati-500-de-oameni-din-franta-dupa-obtinerea-cetateniei-franceze.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/george-clooney-intra-in-topul-celor-mai-bogati-500-de-oameni-din-franta-dupa-obtinerea-cetateniei-franceze.html</guid>
+    </item>
+    <item>
+        <title>The Economist: Ce orientare politică au marile modele AI? Cercetătorii au comparat 25 de chatboți, inclusiv ChatGPT, Gemini și Claude</title>
+        <link>https://www.g4media.ro/the-economist-ce-orientare-politica-au-marile-modele-ai-cercetatorii-au-comparat-25-de-chatboti-inclusiv-chatgpt-gemini-si-claude.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/the-economist-ce-orientare-politica-au-marile-modele-ai-cercetatorii-au-comparat-25-de-chatboti-inclusiv-chatgpt-gemini-si-claude.html</guid>
+    </item>
+    <item>
+        <title>Polițiștii au deschis dosar penal după tragedia din Bucegi. O femeie a murit, iar trei alpiniști au ajuns la spital</title>
+        <link>https://www.mediafax.ro/social/politistii-au-deschis-dosar-penal-dupa-tragedia-din-bucegi-o-femeie-a-murit-iar-trei-alpinisti-au-ajuns-la-spital-23770671</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/politistii-au-deschis-dosar-penal-dupa-tragedia-din-bucegi-o-femeie-a-murit-iar-trei-alpinisti-au-ajuns-la-spital-23770671</guid>
+    </item>
+    <item>
+        <title>Ken Bates a murit la 94 de ani. Fostul patron al lui Chelsea și Leeds United s-a stins în Monaco</title>
+        <link>https://www.mediafax.ro/externe/ken-bates-a-murit-la-94-de-ani-fostul-patron-al-lui-chelsea-si-leeds-united-s-a-stins-in-monaco-23770643</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/ken-bates-a-murit-la-94-de-ani-fostul-patron-al-lui-chelsea-si-leeds-united-s-a-stins-in-monaco-23770643</guid>
+    </item>
+    <item>
+        <title>UPDATE Patru alpiniști s-au prăbușit pe Valea Albișoarei, în Bușteni, după ruperea unei corzi. O femeie a murit</title>
+        <link>https://www.mediafax.ro/social/update-patru-alpinisti-s-au-prabusit-pe-valea-albisoarei-in-busteni-dupa-ruperea-unei-corzi-o-femeie-a-murit-23770615</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/update-patru-alpinisti-s-au-prabusit-pe-valea-albisoarei-in-busteni-dupa-ruperea-unei-corzi-o-femeie-a-murit-23770615</guid>
+    </item>
+    <item>
+        <title>Estonia construiește o nouă bază militară la granița cu Rusia. Până la 1.000 de soldați vor fi desfășurați la Narva</title>
+        <link>https://www.digi24.ro/stiri/externe/estonia-construieste-o-noua-baza-militara-la-granita-cu-rusia-pana-la-1-000-de-soldati-vor-fi-desfasurati-la-narva-3858177</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/estonia-construieste-o-noua-baza-militara-la-granita-cu-rusia-pana-la-1-000-de-soldati-vor-fi-desfasurati-la-narva-3858177</guid>
+    </item>
+    <item>
+        <title>Hackerii ruși au piratat camere de supraveghere din Olanda pentru a spiona transporturile militare către Ucraina</title>
+        <link>https://www.mediafax.ro/externe/hackerii-rusi-au-piratat-camere-de-supraveghere-din-olanda-pentru-a-spiona-transporturile-militare-catre-ucraina-23770635</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/hackerii-rusi-au-piratat-camere-de-supraveghere-din-olanda-pentru-a-spiona-transporturile-militare-catre-ucraina-23770635</guid>
+    </item>
+    <item>
         <title>Planul prin care România și Ungaria pot da lovitura de grație intereselor Rusiei în zonă</title>
         <link>https://adevarul.ro/securitate-si-aparare/planul-prin-care-romania-si-ungaria-pot-da-2542201.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/planul-prin-care-romania-si-ungaria-pot-da-2542201.html</guid>
+    </item>
+    <item>
+        <title>Șofer de 77 de ani, prins după ce a circulat pe contrasens pe Autostrada A7. Câte zile rămâne fără permis</title>
+        <link>https://adevarul.ro/stiri-locale/focsani/sofer-de-77-de-ani-prins-dupa-ce-a-circulat-pe-2542549.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/focsani/sofer-de-77-de-ani-prins-dupa-ce-a-circulat-pe-2542549.html</guid>
+    </item>
+    <item>
+        <title>Rusia a compromis camere de supraveghere conectate la internet pentru a spiona transporturi militare NATO, avertizează serviciile secrete olandeze</title>
+        <link>https://www.g4media.ro/rusia-a-compromis-camere-de-supraveghere-conectate-la-internet-pentru-a-spiona-transporturi-militare-nato-avertizeaza-serviciile-secrete-olandeze.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/rusia-a-compromis-camere-de-supraveghere-conectate-la-internet-pentru-a-spiona-transporturi-militare-nato-avertizeaza-serviciile-secrete-olandeze.html</guid>
+    </item>
+    <item>
+        <title>Ce secret ascunde „Planeta Roz”: fenomenul rar descoperit de astronomi</title>
+        <link>https://www.digi24.ro/stiri/sci-tech/ce-secret-ascunde-planeta-roz-fenomenul-rar-descoperit-de-astronomi-3837789</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/ce-secret-ascunde-planeta-roz-fenomenul-rar-descoperit-de-astronomi-3837789</guid>
+    </item>
+    <item>
+        <title>Meta elimină funcția AI care permitea modificarea fotografiilor publice de pe Instagram după valul de critici</title>
+        <link>https://www.mediafax.ro/tehnologie/meta-elimina-functia-ai-care-permitea-modificarea-fotografiilor-publice-de-pe-instagram-dupa-valul-de-critici-23770673</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/meta-elimina-functia-ai-care-permitea-modificarea-fotografiilor-publice-de-pe-instagram-dupa-valul-de-critici-23770673</guid>
+    </item>
+    <item>
+        <title>Turcia continuă să evalueze posibilitatea aderării la Banca pentru Apărare, Securitate și Reziliență</title>
+        <link>https://www.g4media.ro/turcia-continua-sa-evalueze-posibilitatea-aderarii-la-banca-pentru-aparare-securitate-si-rezilienta.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/turcia-continua-sa-evalueze-posibilitatea-aderarii-la-banca-pentru-aparare-securitate-si-rezilienta.html</guid>
+    </item>
+    <item>
+        <title>Canicula afectează marile atracții turistice din Paris / Turnul Eiffel, Luvrul și Muzeul Orsay își reduc programul</title>
+        <link>https://www.g4media.ro/canicula-afecteaza-marile-atractii-turistice-din-paris-turnul-eiffel-luvrul-si-muzeul-orsay-isi-reduc-programul.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/canicula-afecteaza-marile-atractii-turistice-din-paris-turnul-eiffel-luvrul-si-muzeul-orsay-isi-reduc-programul.html</guid>
     </item>
     <item>
         <title>Barcelona va testa un asfalt ecologic din sâmburi de măsline și resturi de pin pentru a reduce emisiile din lucrările publice</title>
@@ -86,52 +296,22 @@
         <guid isPermaLink="true">https://www.europafm.ro/prahova-unul-dintre-alpinistii-accidentati-in-bucegi-a-decedat/</guid>
     </item>
     <item>
-        <title>Președintele Poloniei critică glorificarea naționaliștilor ucraineni: „Nu sunt eroii de care Europa are nevoie”</title>
-        <link>https://www.g4media.ro/presedintele-poloniei-critica-glorificarea-nationalistilor-ucraineni-nu-sunt-eroii-de-care-europa-are-nevoie.html</link>
+        <title>Jurnaliștii New York Times care au scris despre controversa avionului prezidențial donat lui Trump de Qatar, chemați în instanță</title>
+        <link>https://www.g4media.ro/jurnalistii-new-york-times-care-au-scris-despre-controversa-avionului-prezidential-donat-lui-trump-de-qatar-chemati-in-instanta.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/presedintele-poloniei-critica-glorificarea-nationalistilor-ucraineni-nu-sunt-eroii-de-care-europa-are-nevoie.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/jurnalistii-new-york-times-care-au-scris-despre-controversa-avionului-prezidential-donat-lui-trump-de-qatar-chemati-in-instanta.html</guid>
     </item>
     <item>
-        <title>Patru alpiniști au căzut în gol aproximativ 10 metri, în Bușteni. Trei elicoptere au fost chemate la intervenție</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/patru-alpinisti-au-cazut-in-gol-aproximativ-10-2542529.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/patru-alpinisti-au-cazut-in-gol-aproximativ-10-2542529.html</guid>
-    </item>
-    <item>
-        <title>Europa ia în calcul introducerea unor taxe de navigație în Strâmtoarea Ormuz. Ce ar presupune planul analizat</title>
-        <link>https://www.digi24.ro/stiri/externe/europa-ia-in-calcul-introducerea-unor-taxe-de-navigatie-in-stramtoarea-ormuz-ce-ar-presupune-planul-analizat-3858225</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/europa-ia-in-calcul-introducerea-unor-taxe-de-navigatie-in-stramtoarea-ormuz-ce-ar-presupune-planul-analizat-3858225</guid>
-    </item>
-    <item>
-        <title>Estonia construiește o nouă bază militară la granița cu Rusia. Până la 1.000 de soldați vor fi desfășurați la Narva</title>
-        <link>https://www.digi24.ro/stiri/externe/estonia-construieste-o-noua-baza-militara-la-granita-cu-rusia-pana-la-1-000-de-soldati-vor-fi-desfasurati-la-narva-3858177</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/estonia-construieste-o-noua-baza-militara-la-granita-cu-rusia-pana-la-1-000-de-soldati-vor-fi-desfasurati-la-narva-3858177</guid>
-    </item>
-    <item>
-        <title>Bacalaureat 2026: Ministrul Educației anunță că 99,99% dintre contestații au fost reevaluate / Rezultatele finale vor fi publicate luni</title>
-        <link>https://www.g4media.ro/bacalaureat-2026-ministrul-educatiei-anunta-ca-9999-dintre-contestatii-au-fost-reevaluate-rezultatele-finale-vor-fi-publicate-luni.html</link>
+        <title>Păstârnac, busuioc și brânză cu mucegai în deserturi? Alexandra Beatrice, Pastry Chef, dezvăluie cele mai neașteptate ingrediente pe care le folosește</title>
+        <link>https://www.g4media.ro/pastarnac-busuioc-si-branza-cu-mucegai-in-deserturi-alexandra-beatrice-pastry-chef-dezvaluie-cele-mai-neasteptate-ingrediente-pe-care-le-foloseste-in-prajituri.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/bacalaureat-2026-ministrul-educatiei-anunta-ca-9999-dintre-contestatii-au-fost-reevaluate-rezultatele-finale-vor-fi-publicate-luni.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/pastarnac-busuioc-si-branza-cu-mucegai-in-deserturi-alexandra-beatrice-pastry-chef-dezvaluie-cele-mai-neasteptate-ingrediente-pe-care-le-foloseste-in-prajituri.html</guid>
     </item>
     <item>
-        <title>NASA caută voluntari pentru o misiune de un an care simulează viața pe Lună și Marte. Ce condiții trebuie să îndeplinești</title>
-        <link>https://adevarul.ro/stiri-externe/sua/nasa-cauta-voluntari-pentru-o-misiune-de-un-an-2542551.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/nasa-cauta-voluntari-pentru-o-misiune-de-un-an-2542551.html</guid>
-    </item>
-    <item>
-        <title>Un portret al Angelei Merkel a determinat o creștere cu 85% a numărului de vizitatori la un muzeu din Berlin</title>
-        <link>https://www.g4media.ro/un-portret-al-angelei-merkel-a-determinat-o-crestere-cu-85-a-numarului-de-vizitatori-la-un-muzeu-din-berlin.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/un-portret-al-angelei-merkel-a-determinat-o-crestere-cu-85-a-numarului-de-vizitatori-la-un-muzeu-din-berlin.html</guid>
-    </item>
-    <item>
-        <title>UPDATE Acțiune în desfășurare în Bușteni / Patru alpiniști au căzut aproximativ 10 metri după ce a cedat o coardă / Intervin două elicoptere SMURD și </title>
-        <link>https://www.g4media.ro/actiune-in-desfasurare-in-busteni-patru-alpinisti-au-cazut-aproximativ-10-metri-dupa-ce-a-cedat-o-coarda-intervin-doua-elicoptere-smurd-si-mai-multe-echipaje-de-salvare-la-sol.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/actiune-in-desfasurare-in-busteni-patru-alpinisti-au-cazut-aproximativ-10-metri-dupa-ce-a-cedat-o-coarda-intervin-doua-elicoptere-smurd-si-mai-multe-echipaje-de-salvare-la-sol.html</guid>
+        <title>Donald Trump anunță un nou control medical la Walter Reed și spune că a trecut din nou testul cognitiv</title>
+        <link>https://www.mediafax.ro/externe/donald-trump-anunta-un-nou-control-medical-la-walter-reed-si-spune-ca-a-trecut-din-nou-testul-cognitiv-23770664</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/donald-trump-anunta-un-nou-control-medical-la-walter-reed-si-spune-ca-a-trecut-din-nou-testul-cognitiv-23770664</guid>
     </item>
     <item>
         <title>O capodoperă medievală a revenit în Marea Britanie după aproape o mie de ani: măsuri logistice și de securitate fără precedent</title>
@@ -140,100 +320,40 @@
         <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/cultura/o-capodopera-medievala-a-revenit-in-marea-britanie-dupa-aproape-o-mie-de-ani-masuri-logistice-si-de-securitate-fara-precedent-3857381</guid>
     </item>
     <item>
-        <title>Nicușor Dan, mesaj de ziua dedicată Prieteniei Romano-Americane: Consolidarea legăturii transatlantice și a Parteneriatului nostru Strategic este vita</title>
-        <link>https://www.mediafax.ro/politic/nicusor-dan-mesaj-de-ziua-dedicata-prieteniei-romano-americane-consolidarea-legaturii-transatlantice-si-a-parteneriatului-nostru-strategic-este-vitala-23770649</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-mesaj-de-ziua-dedicata-prieteniei-romano-americane-consolidarea-legaturii-transatlantice-si-a-parteneriatului-nostru-strategic-este-vitala-23770649</guid>
-    </item>
-    <item>
-        <title>Momentul de cotitură pentru Europa. Cât de realist e termenul 2030 pentru un conflict NATO-Rusia: ofițerii militari au păreri diferite</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/momentul-de-cotitura-pentru-europa-cat-de-realist-e-termenul-2030-pentru-un-conflict-nato-rusia-ofiterii-militari-au-pareri-diferite-3858131</link>
+        <title>NASA caută voluntari pentru o misiune spre Lună și Marte. Cine se poate înscrie și cum vor fi remunerați participanții</title>
+        <link>https://www.digi24.ro/stiri/sci-tech/nasa-cauta-voluntari-pentru-o-misiune-spre-luna-si-marte-cine-se-poate-inscrie-si-cum-vor-fi-remunerati-participantii-3858203</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/momentul-de-cotitura-pentru-europa-cat-de-realist-e-termenul-2030-pentru-un-conflict-nato-rusia-ofiterii-militari-au-pareri-diferite-3858131</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/nasa-cauta-voluntari-pentru-o-misiune-spre-luna-si-marte-cine-se-poate-inscrie-si-cum-vor-fi-remunerati-participantii-3858203</guid>
     </item>
     <item>
-        <title>Oana Gheorghiu: Nicușor Dan a greșit când a desemnat un premier din partea PNL fără să consulte conducerea partidului</title>
-        <link>https://www.g4media.ro/oana-gheorghiu-nicusor-dan-a-gresit-cand-a-desemnat-un-premier-din-partea-pnl-fara-sa-consulte-conducerea-partidului.html</link>
+        <title>Cinci femei au fost obligate să practice prostituția în România și alte patru țări europene. Trei proxeneți au fost arestați preventiv</title>
+        <link>https://adevarul.ro/stiri-locale/calarasi/cinci-femei-au-fost-obligate-sa-practice-2542566.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/calarasi/cinci-femei-au-fost-obligate-sa-practice-2542566.html</guid>
+    </item>
+    <item>
+        <title>NASA caută voluntari pentru o misiune de un an care simulează viața pe Lună și Marte. Ce condiții trebuie să îndeplinești</title>
+        <link>https://adevarul.ro/stiri-externe/sua/nasa-cauta-voluntari-pentru-o-misiune-de-un-an-2542551.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/nasa-cauta-voluntari-pentru-o-misiune-de-un-an-2542551.html</guid>
+    </item>
+    <item>
+        <title>Bacalaureat 2026: Ministrul Educației anunță că 99,99% dintre contestații au fost reevaluate / Rezultatele finale vor fi publicate luni</title>
+        <link>https://www.g4media.ro/bacalaureat-2026-ministrul-educatiei-anunta-ca-9999-dintre-contestatii-au-fost-reevaluate-rezultatele-finale-vor-fi-publicate-luni.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/oana-gheorghiu-nicusor-dan-a-gresit-cand-a-desemnat-un-premier-din-partea-pnl-fara-sa-consulte-conducerea-partidului.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/bacalaureat-2026-ministrul-educatiei-anunta-ca-9999-dintre-contestatii-au-fost-reevaluate-rezultatele-finale-vor-fi-publicate-luni.html</guid>
     </item>
     <item>
-        <title>ProSport: Simona Halep și Dorin Mateiu, prima apariție publică împreună la Wimbledon</title>
-        <link>https://www.mediafax.ro/sport/prosport-simona-halep-si-dorin-mateiu-prima-aparitie-publica-impreuna-la-wimbledon-23770650</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/prosport-simona-halep-si-dorin-mateiu-prima-aparitie-publica-impreuna-la-wimbledon-23770650</guid>
-    </item>
-    <item>
-        <title>Jayden Adams a murit la 25 de ani. Fotbalistul Africii de Sud a decedat la scurt timp după Cupa Mondială 2026</title>
-        <link>https://www.mediafax.ro/externe/jayden-adams-a-murit-la-25-de-ani-fotbalistul-africii-de-sud-a-decedat-la-scurt-timp-dupa-cupa-mondiala-2026-23770626</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/jayden-adams-a-murit-la-25-de-ani-fotbalistul-africii-de-sud-a-decedat-la-scurt-timp-dupa-cupa-mondiala-2026-23770626</guid>
-    </item>
-    <item>
-        <title>Srebrenica, cea mai mare atrocitate din Europa de după cel de-Al Doilea Război Mondial: 8.000 de musulamni au fost exterminați</title>
-        <link>https://www.europafm.ro/srebrenica-cea-mai-mare-atrocitate-din-europa-de-dupa-cel-de-al-doilea-razboi-mondial-8-000-de-musulamni-au-fost-exterminati/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/srebrenica-cea-mai-mare-atrocitate-din-europa-de-dupa-cel-de-al-doilea-razboi-mondial-8-000-de-musulamni-au-fost-exterminati/</guid>
-    </item>
-    <item>
-        <title>Fotbalul sud-african, în doliu. Jayden Adams a murit la 25 de ani, la scurt timp după participarea la Cupa Mondială</title>
-        <link>https://adevarul.ro/sport/fotbalul-sud-african-in-doliu-jayden-adams-a-2542542.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/fotbalul-sud-african-in-doliu-jayden-adams-a-2542542.html</guid>
-    </item>
-    <item>
-        <title>UPDATE Patru alpiniști s-au prăbușit pe Valea Albișoarei, în Bușteni, după ruperea unei corzi. O femeie a murit</title>
-        <link>https://www.mediafax.ro/social/update-patru-alpinisti-s-au-prabusit-pe-valea-albisoarei-in-busteni-dupa-ruperea-unei-corzi-o-femeie-a-murit-23770615</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/update-patru-alpinisti-s-au-prabusit-pe-valea-albisoarei-in-busteni-dupa-ruperea-unei-corzi-o-femeie-a-murit-23770615</guid>
-    </item>
-    <item>
-        <title>Cum spionează Rusia armele trimise de pe teritoriul statelor NATO în Ucraina: Dezvăluirile serviciilor secrete olandeze</title>
-        <link>https://adevarul.ro/stiri-externe/rusia/cum-spioneaza-rusia-armele-trimise-de-pe-2542537.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/cum-spioneaza-rusia-armele-trimise-de-pe-2542537.html</guid>
-    </item>
-    <item>
-        <title>Discurs dur al președintelui polonez Karol Nawrocki despre naționaliștii ucraineni: „Nu sunt eroii de care Europa are nevoie”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/discurs-dur-al-presedintelui-polonez-karol-nawrocki-despre-nationalistii-ucraineni-nu-sunt-eroii-de-care-europa-are-nevoie-3858261</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/discurs-dur-al-presedintelui-polonez-karol-nawrocki-despre-nationalistii-ucraineni-nu-sunt-eroii-de-care-europa-are-nevoie-3858261</guid>
-    </item>
-    <item>
-        <title>București: Polițiștii au intervenit în cazul a două amenințări cu cuțitul. Una dintre ele – într-o stație de autobuz</title>
-        <link>https://www.europafm.ro/bucuresti-politistii-au-intervenit-in-cazul-a-doua-amenintari-cu-cutitul-una-dintre-ele-intr-o-statie-de-autobuz/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/bucuresti-politistii-au-intervenit-in-cazul-a-doua-amenintari-cu-cutitul-una-dintre-ele-intr-o-statie-de-autobuz/</guid>
-    </item>
-    <item>
-        <title>Este un pahar de vin roșu pe zi benefic pentru inimă? Un nou studiu încearcă să clarifice riscurile și beneficiile alcoolului</title>
-        <link>https://www.digi24.ro/stiri/actualitate/sanatate/este-un-pahar-de-vin-rosu-pe-zi-benefic-pentru-inima-un-nou-studiu-incearca-sa-clarifice-riscurile-si-beneficiile-alcoolului-3858155</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/este-un-pahar-de-vin-rosu-pe-zi-benefic-pentru-inima-un-nou-studiu-incearca-sa-clarifice-riscurile-si-beneficiile-alcoolului-3858155</guid>
-    </item>
-    <item>
-        <title>Jurnaliștii New York Times care au scris despre controversa avionului prezidențial donat lui Trump de Qatar, chemați în instanță</title>
-        <link>https://www.g4media.ro/jurnalistii-new-york-times-care-au-scris-despre-controversa-avionului-prezidential-donat-lui-trump-de-qatar-chemati-in-instanta.html</link>
+        <title>Nicușor Dan, de Ziua Prieteniei Româno-Americane: Consolidarea legăturii transatlantice și a Parteneriatului nostru Strategic este vitală</title>
+        <link>https://www.g4media.ro/nicusor-dan-de-ziua-prieteniei-romano-americane-consolidarea-legaturii-transatlantice-si-a-parteneriatului-nostru-strategic-este-vitala.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/jurnalistii-new-york-times-care-au-scris-despre-controversa-avionului-prezidential-donat-lui-trump-de-qatar-chemati-in-instanta.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/nicusor-dan-de-ziua-prieteniei-romano-americane-consolidarea-legaturii-transatlantice-si-a-parteneriatului-nostru-strategic-este-vitala.html</guid>
     </item>
     <item>
-        <title>Un nou catalog al virusurilor dezăluie ce agenți patogeni reprezintă cea mai mare amenințare și care ar putea fi următoarea „boală X”</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/un-nou-catalog-al-virusurilor-dezaluie-ce-agenti-patogeni-reprezinta-cea-mai-mare-amenintare-si-care-ar-putea-fi-urmatoarea-boala-x-3850007</link>
+        <title>Ministrul Educației anunță că s-a încheiat evaluarea contestațiilor de la bacalaureat 2026. Mihai Dimian: Urmează etapele tehnice</title>
+        <link>https://www.digi24.ro/stiri/actualitate/educatie/ministrul-educatiei-anunta-ca-s-a-incheiat-evaluarea-contestatiilor-de-la-bacalaureat-2026-mihai-dimian-urmeaza-etapele-tehnice-3858279</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/un-nou-catalog-al-virusurilor-dezaluie-ce-agenti-patogeni-reprezinta-cea-mai-mare-amenintare-si-care-ar-putea-fi-urmatoarea-boala-x-3850007</guid>
-    </item>
-    <item>
-        <title>Mojtaba Khamenei promite răzbunarea pentru moartea lui Ali Khamenei. Ce mesaj transmite liderul</title>
-        <link>https://www.mediafax.ro/externe/mojtaba-khamenei-promite-razbunarea-pentru-moartea-lui-ali-khamenei-23770620</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/mojtaba-khamenei-promite-razbunarea-pentru-moartea-lui-ali-khamenei-23770620</guid>
-    </item>
-    <item>
-        <title>Frână bruscă pe piața muncii din România. Salariul mediu scade în aproape o treime din țară. Expert: „Realitatea de acum este brutală”</title>
-        <link>https://adevarul.ro/economie/frana-brusca-pe-piata-muncii-din-romania-salariul-2542564.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/frana-brusca-pe-piata-muncii-din-romania-salariul-2542564.html</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/educatie/ministrul-educatiei-anunta-ca-s-a-incheiat-evaluarea-contestatiilor-de-la-bacalaureat-2026-mihai-dimian-urmeaza-etapele-tehnice-3858279</guid>
     </item>
     <item>
         <title>Ultimul mesaj al lui Jayden Adams. Ce a postat fotbalistul cu doar câteva ore înainte să moară la Mondial</title>
@@ -242,130 +362,10 @@
         <guid isPermaLink="true">https://adevarul.ro/sport/ultimul-mesaj-al-lui-jayden-adams-ce-a-postat-2542559.html</guid>
     </item>
     <item>
-        <title>Vicepremierul Oana Gheorghiu: Tensiunile din coaliție au apărut când guvernul Bolojan a început să analizeze companiile de stat și consiliile de admin</title>
-        <link>https://www.g4media.ro/vicepremierul-oana-gheorghiu-tensiunile-din-coalitie-au-aparut-cand-guvernul-bolojan-a-inceput-sa-analizeze-companiile-de-stat-si-consiliile-de-administratie.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/vicepremierul-oana-gheorghiu-tensiunile-din-coalitie-au-aparut-cand-guvernul-bolojan-a-inceput-sa-analizeze-companiile-de-stat-si-consiliile-de-administratie.html</guid>
-    </item>
-    <item>
-        <title>Vreau aurul țării mele înapoi! Posibil, cândva, dar nu e deloc simplu!</title>
-        <link>https://adevarul.ro/blogurile-adevarul/vreau-aurul-tarii-mele-inapoi-posibil-candva-2542534.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/vreau-aurul-tarii-mele-inapoi-posibil-candva-2542534.html</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan, mesaj de Ziua Prieteniei între România și SUA: O ocazie specială pentru a sublinia valoarea unică a parteneriatului nostru</title>
-        <link>https://www.digi24.ro/stiri/actualitate/nicusor-dan-mesaj-de-ziua-prieteniei-intre-romania-si-sua-o-ocazie-speciala-pentru-a-sublinia-valoarea-unica-a-parteneriatului-nostru-3858229</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/nicusor-dan-mesaj-de-ziua-prieteniei-intre-romania-si-sua-o-ocazie-speciala-pentru-a-sublinia-valoarea-unica-a-parteneriatului-nostru-3858229</guid>
-    </item>
-    <item>
-        <title>Doi bulgari condamnați pentru spionaj în favoarea Rusiei, expulzați din Marea Britanie după eliberare</title>
-        <link>https://adevarul.ro/stiri-externe/europa/doi-bulgari-condamnati-pentru-spionaj-in-favoarea-2542547.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/doi-bulgari-condamnati-pentru-spionaj-in-favoarea-2542547.html</guid>
-    </item>
-    <item>
-        <title>Cum încearcă Japonia să găsească un echilibru între obiectivul de a atrage mai mulți turiști și îngrijorările legate de supraturism</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/cum-incearca-japonia-sa-gaseasca-un-echilibru-intre-obiectivul-de-a-atrage-mai-multi-turisti-si-ingrijorarile-legate-de-supraturism-3841947</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/cum-incearca-japonia-sa-gaseasca-un-echilibru-intre-obiectivul-de-a-atrage-mai-multi-turisti-si-ingrijorarile-legate-de-supraturism-3841947</guid>
-    </item>
-    <item>
-        <title>Ayatollahul Mojtaba Khamenei cere răzbunare pentru asasinarea tatălui său</title>
-        <link>https://www.g4media.ro/ayatollahul-mojtaba-khamenei-cere-razbunare-pentru-asasinarea-tatalui-sau.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ayatollahul-mojtaba-khamenei-cere-razbunare-pentru-asasinarea-tatalui-sau.html</guid>
-    </item>
-    <item>
-        <title>Ministrul interimar al Educației: S-a încheiat evaluarea contestațiilor la Bacalaureat. Când vor fi afișate rezultatele finale</title>
-        <link>https://www.mediafax.ro/social/ministrul-interimar-al-educatiei-s-a-incheiat-evaluarea-contestatiilor-la-bacalaureat-cand-vor-fi-afisate-rezultatele-finale-23770663</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/ministrul-interimar-al-educatiei-s-a-incheiat-evaluarea-contestatiilor-la-bacalaureat-cand-vor-fi-afisate-rezultatele-finale-23770663</guid>
-    </item>
-    <item>
-        <title>Doliu pentru Jennifer Grey. Mama actriței din „Dirty Dancing” a murit la 94 de ani, la o săptămână după un diagnostic grav</title>
-        <link>https://adevarul.ro/showbiz/vedete/doliu-pentru-jennifer-grey-mama-actritei-din-2542556.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/vedete/doliu-pentru-jennifer-grey-mama-actritei-din-2542556.html</guid>
-    </item>
-    <item>
-        <title>VAMA a lansat melodia „Căderea mea”. „Lucrăm de mult timp la piesa asta și ne-a scos peri albi”, mărturisește Tudor Chirilă</title>
-        <link>https://adevarul.ro/showbiz/muzica/vama-a-lansat-melodia-caderea-mea-lucram-de-2542540.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/muzica/vama-a-lansat-melodia-caderea-mea-lucram-de-2542540.html</guid>
-    </item>
-    <item>
-        <title>VIDEO | MApN explică rolul GlobalEye, noua platformă NATO de supraveghere și avertizare timpurie / Ce poate detecta sistemul?</title>
-        <link>https://www.g4media.ro/video-mapn-explica-rolul-globaleye-noua-platforma-nato-de-supraveghere-si-avertizare-timpurie-ce-poate-detecta-sistemul.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-mapn-explica-rolul-globaleye-noua-platforma-nato-de-supraveghere-si-avertizare-timpurie-ce-poate-detecta-sistemul.html</guid>
-    </item>
-    <item>
-        <title>Rusia a compromis camere de supraveghere conectate la internet pentru a spiona transporturi militare NATO, avertizează serviciile secrete olandeze</title>
-        <link>https://www.g4media.ro/rusia-a-compromis-camere-de-supraveghere-conectate-la-internet-pentru-a-spiona-transporturi-militare-nato-avertizeaza-serviciile-secrete-olandeze.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/rusia-a-compromis-camere-de-supraveghere-conectate-la-internet-pentru-a-spiona-transporturi-militare-nato-avertizeaza-serviciile-secrete-olandeze.html</guid>
-    </item>
-    <item>
-        <title>SONDAJ G4Media: Cât de des ieșiți la restaurant? Cât cheltuiți de obicei și cum alegeți restaurantul?</title>
-        <link>https://www.g4media.ro/sondaj-cat-de-des-iesiti-la-restaurant-cat-cheltuiti-de-obicei-si-cum-alegeti-restaurantul.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/sondaj-cat-de-des-iesiti-la-restaurant-cat-cheltuiti-de-obicei-si-cum-alegeti-restaurantul.html</guid>
-    </item>
-    <item>
-        <title>Ce secret ascunde „Planeta Roz”: fenomenul rar descoperit de astronomi</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/ce-secret-ascunde-planeta-roz-fenomenul-rar-descoperit-de-astronomi-3837789</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/ce-secret-ascunde-planeta-roz-fenomenul-rar-descoperit-de-astronomi-3837789</guid>
-    </item>
-    <item>
-        <title>Ken Bates a murit la 94 de ani. Fostul patron al lui Chelsea și Leeds United s-a stins în Monaco</title>
-        <link>https://www.mediafax.ro/externe/ken-bates-a-murit-la-94-de-ani-fostul-patron-al-lui-chelsea-si-leeds-united-s-a-stins-in-monaco-23770643</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ken-bates-a-murit-la-94-de-ani-fostul-patron-al-lui-chelsea-si-leeds-united-s-a-stins-in-monaco-23770643</guid>
-    </item>
-    <item>
-        <title>Taifunul Bavi lovește China, Japonia și Taiwan. Peste 2 milioane de oameni, evacuați</title>
-        <link>https://adevarul.ro/stiri-externe/china/taifunul-bavi-loveste-china-japonia-si-taiwan-2542560.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/china/taifunul-bavi-loveste-china-japonia-si-taiwan-2542560.html</guid>
-    </item>
-    <item>
-        <title>Mojtaba Khamenei amenință cu răzbunarea pentru moartea tatălui său. Trump răspunde: „1.000 de rachete sunt gata de lansare”</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/mojtaba-khamenei-ameninta-cu-razbunarea-pentru-2542532.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/mojtaba-khamenei-ameninta-cu-razbunarea-pentru-2542532.html</guid>
-    </item>
-    <item>
-        <title>Prahova: Patru persoane au căzut într-o prăpastie în Bucegi; două elicoptere sunt așteptate să intervină</title>
-        <link>https://www.europafm.ro/prahova-patru-persoane-au-cazut-intr-o-prapastie-in-bucegi-doua-elicoptere-sunt-asteptate-sa-intervina/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/prahova-patru-persoane-au-cazut-intr-o-prapastie-in-bucegi-doua-elicoptere-sunt-asteptate-sa-intervina/</guid>
-    </item>
-    <item>
         <title>Afecțiunea care te poate face să te rătăcești chiar și în locuri familiare. Una din 30 de persoane se confruntă cu această problemă</title>
         <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/afectiunea-care-te-poate-face-sa-te-ratacesti-2542546.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/afectiunea-care-te-poate-face-sa-te-ratacesti-2542546.html</guid>
-    </item>
-    <item>
-        <title>Hackerii ruși au piratat camere de supraveghere din Olanda pentru a spiona transporturile militare către Ucraina</title>
-        <link>https://www.mediafax.ro/externe/hackerii-rusi-au-piratat-camere-de-supraveghere-din-olanda-pentru-a-spiona-transporturile-militare-catre-ucraina-23770635</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/hackerii-rusi-au-piratat-camere-de-supraveghere-din-olanda-pentru-a-spiona-transporturile-militare-catre-ucraina-23770635</guid>
-    </item>
-    <item>
-        <title>Jayden Adams, unul dintre jucătorii de bază ai Africii de Sud la Cupa Mondială, a murit la 25 de ani</title>
-        <link>https://www.g4media.ro/jayden-adams-unul-dintre-jucatorii-de-baza-ai-africii-de-sud-la-cupa-mondiala-a-murit-la-25-de-ani.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/jayden-adams-unul-dintre-jucatorii-de-baza-ai-africii-de-sud-la-cupa-mondiala-a-murit-la-25-de-ani.html</guid>
-    </item>
-    <item>
-        <title>Premierul Magyar vrea să îl oblige pe președintele Ungariei să își semneze propria demitere</title>
-        <link>https://www.g4media.ro/premierul-magyar-vrea-sa-il-oblige-pe-presedintele-ungariei-sa-isi-semneze-propria-demitere.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/premierul-magyar-vrea-sa-il-oblige-pe-presedintele-ungariei-sa-isi-semneze-propria-demitere.html</guid>
     </item>
 </channel>
 </rss>
