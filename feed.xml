@@ -5,61 +5,13 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 24 Jul 2026 10:36:54 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 12:05:51 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Dezvăluirile lui Radu Marinescu: „A existat o întâlnire politică în actuala coaliție, la care PSD n-a participat. După întâlnire, declarațiile de aver</title>
-        <link>https://www.mediafax.ro/stirile-zilei/cine-a-secretizat-declaratiile-de-avere-si-a-dezincriminat-conflictul-de-interese-dezvaluirile-lui-radu-marinescu-proiectul-legii-integritatii-este-surprinzator-si-pentru-mine-in-varianta-23778005</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/cine-a-secretizat-declaratiile-de-avere-si-a-dezincriminat-conflictul-de-interese-dezvaluirile-lui-radu-marinescu-proiectul-legii-integritatii-este-surprinzator-si-pentru-mine-in-varianta-23778005</guid>
-    </item>
-    <item>
-        <title>Ploi torențiale, vijelii și grindină în mai multe regiuni din țară / Cod galben până diseară</title>
-        <link>https://www.g4media.ro/ploi-torentiale-vijelii-si-grindina-in-mai-multe-regiuni-din-tara-cod-galben-pana-diseara.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ploi-torentiale-vijelii-si-grindina-in-mai-multe-regiuni-din-tara-cod-galben-pana-diseara.html</guid>
-    </item>
-    <item>
-        <title>Banca Mondială: Cutremurele care au lovit Venezuela în iunie au provocat pagube de aproape 20 de miliarde de dolari. Costul reconstrucției ar putea fi</title>
-        <link>https://www.europafm.ro/cutremure-venezuela-pagube-banca-mondiala/</link>
+        <title>Jurgen Klopp este noul selecționer al Germaniei. A semnat un contract până în 2030 | AUDIO</title>
+        <link>https://www.europafm.ro/jurgen-klopp-selectioner-germania-contract-2030/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/cutremure-venezuela-pagube-banca-mondiala/</guid>
-    </item>
-    <item>
-        <title>Scandal după Mondial: Norvegia acuză FIFA, după ce Trump a recunoscut că a intervenit personal și l-a „salvat” pe Balogun de suspendare</title>
-        <link>https://adevarul.ro/sport/scandal-dupa-mondial-norvegia-acuza-fifa-dupa-ce-2545407.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/scandal-dupa-mondial-norvegia-acuza-fifa-dupa-ce-2545407.html</guid>
-    </item>
-    <item>
-        <title>Radu Miruță va susține o conferință de presă la MApN, după doborârea dronei deasupra județului Buzău</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/radu-miruta-va-sustine-o-conferinta-de-presa-la-2545473.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/radu-miruta-va-sustine-o-conferinta-de-presa-la-2545473.html</guid>
-    </item>
-    <item>
-        <title>Eurostat: Fermele din Cipru, Grecia şi România se află pe ultimele locuri în UE la agricultura de precizie / 43% dintre fermele din UE au raportat că </title>
-        <link>https://www.g4media.ro/eurostat-fermele-din-cipru-grecia-si-romania-se-afla-pe-ultimele-locuri-in-ue-la-agricultura-de-precizie-43-dintre-fermele-din-ue-au-raportat-ca-au-acces-la-internet.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/eurostat-fermele-din-cipru-grecia-si-romania-se-afla-pe-ultimele-locuri-in-ue-la-agricultura-de-precizie-43-dintre-fermele-din-ue-au-raportat-ca-au-acces-la-internet.html</guid>
-    </item>
-    <item>
-        <title>Intervenție contra cronometru în București: Unui șofer i s-a făcut rău la volan, și-a sunat soția și i-a spus un singur cuvânt</title>
-        <link>https://www.digi24.ro/stiri/interventie-contra-cronometru-in-bucuresti-unui-sofer-i-s-a-facut-rau-la-volan-si-a-sunat-sotia-si-i-a-spus-un-singur-cuvant-3876633</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/interventie-contra-cronometru-in-bucuresti-unui-sofer-i-s-a-facut-rau-la-volan-si-a-sunat-sotia-si-i-a-spus-un-singur-cuvant-3876633</guid>
-    </item>
-    <item>
-        <title>Pas important pentru TAROM: Primul Boeing 737 MAX din flotă a efectuat cu succes primul zbor de test</title>
-        <link>https://adevarul.ro/economie/pas-important-pentru-tarom-primul-boeing-737-max-2545421.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/pas-important-pentru-tarom-primul-boeing-737-max-2545421.html</guid>
-    </item>
-    <item>
-        <title>Cristi Chivu a intrat sub pielea milanezilor. Jucătorii lui Inter Milano au făcut dezvăluiri din vestiar: „A fost esențial pentru noi!”</title>
-        <link>https://adevarul.ro/sport/cristi-chivu-a-intrat-sub-pielea-milanezilor-2545428.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/cristi-chivu-a-intrat-sub-pielea-milanezilor-2545428.html</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/jurgen-klopp-selectioner-germania-contract-2030/</guid>
     </item>
     <item>
         <title>În ce cont au ajuns acțiunile de 3.31 milioane de lei ale lui Mircea Lucescu. Compania a făcut anunțul</title>
@@ -68,190 +20,22 @@
         <guid isPermaLink="true">https://adevarul.ro/sport/in-ce-cont-au-ajuns-actiunile-de-331-milioane-de-2545452.html</guid>
     </item>
     <item>
-        <title>Când MApN a doborât drona, în Odesa se desfășura un atac rusesc, scrie presa ucraineană</title>
-        <link>https://www.mediafax.ro/externe/cand-mapn-a-doborat-drona-in-odesa-se-desfasura-un-atac-rusesc-scrie-presa-ucraineana-23778046</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/cand-mapn-a-doborat-drona-in-odesa-se-desfasura-un-atac-rusesc-scrie-presa-ucraineana-23778046</guid>
-    </item>
-    <item>
-        <title>ANM anunță ploi torențiale, vijelii și grindină în mai multe regiuni din țară. Cod galben până diseară</title>
-        <link>https://www.mediafax.ro/meteo/anm-anunta-ploi-torentiale-vijelii-si-grindina-in-mai-multe-regiuni-din-tara-cod-galben-pana-diseara-23777934</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/meteo/anm-anunta-ploi-torentiale-vijelii-si-grindina-in-mai-multe-regiuni-din-tara-cod-galben-pana-diseara-23777934</guid>
-    </item>
-    <item>
-        <title>Kaja Kallas, reacție după ce SUA au anunțat tarife vamale pentru UE: „Nu se poate spune asta”</title>
-        <link>https://www.digi24.ro/stiri/externe/kaja-kallas-reactie-dupa-ce-sua-au-anuntat-tarife-vamale-pentru-ue-nu-se-poate-spune-asta-3876639</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/kaja-kallas-reactie-dupa-ce-sua-au-anuntat-tarife-vamale-pentru-ue-nu-se-poate-spune-asta-3876639</guid>
-    </item>
-    <item>
-        <title>Poliţiştii din Neamț au găsit în vestiarele medicilor ortopezi de la Spitalul Județean de Urgență dispozitive în valoare de peste 200.000 lei / Dosar </title>
-        <link>https://www.g4media.ro/politistii-din-neamt-au-gasit-in-vestiarele-medicilor-ortopezi-de-la-spitalul-judetean-de-urgenta-dispozitive-in-valoare-de-peste-200-000-lei-dosar-penal-pentru-delapidare.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/politistii-din-neamt-au-gasit-in-vestiarele-medicilor-ortopezi-de-la-spitalul-judetean-de-urgenta-dispozitive-in-valoare-de-peste-200-000-lei-dosar-penal-pentru-delapidare.html</guid>
-    </item>
-    <item>
-        <title>Reacția AUR după ce drona a fost doborâtă în Buzău: „Cum a ajuns atât de adânc în România?”</title>
-        <link>https://www.mediafax.ro/politic/reactia-aur-dupa-ce-drona-a-fost-doborata-in-buzau-cum-a-ajuns-atat-de-adanc-in-romania-23778110</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/reactia-aur-dupa-ce-drona-a-fost-doborata-in-buzau-cum-a-ajuns-atat-de-adanc-in-romania-23778110</guid>
-    </item>
-    <item>
-        <title>Sandu Valentin Mateiu explică detaliile tehnice care au permis doborârea dronei: „În final este o victorie foarte importantă”</title>
-        <link>https://www.digi24.ro/stiri/sandu-valentin-mateiu-explica-detaliile-tehnice-care-au-permis-doborarea-dronei-in-final-este-o-victorie-foarte-importanta-3876857</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sandu-valentin-mateiu-explica-detaliile-tehnice-care-au-permis-doborarea-dronei-in-final-este-o-victorie-foarte-importanta-3876857</guid>
-    </item>
-    <item>
-        <title>EXCLUSIV | Directorul APIA, Adrian Pintea (PSD), trimis în judecată de DNA / Pintea, în octombrie 2025, la o ședință de partid: ”Suntem uniți, determi</title>
-        <link>https://www.g4media.ro/exclusiv-directorul-apia-adrian-pintea-psd-trimis-in-judecata-de-dna-pintea-in-octombrie-2025-la-o-sedinta-de-partid-suntem-uniti-determinati-si-pregatiti-sa-ducem-mai-departe-val.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/exclusiv-directorul-apia-adrian-pintea-psd-trimis-in-judecata-de-dna-pintea-in-octombrie-2025-la-o-sedinta-de-partid-suntem-uniti-determinati-si-pregatiti-sa-ducem-mai-departe-val.html</guid>
-    </item>
-    <item>
-        <title>Arma invizibilă a Kremlinului: confuzia</title>
-        <link>https://adevarul.ro/blogurile-adevarul/arma-invizibila-a-kremlinului-confuzia-2545412.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/arma-invizibila-a-kremlinului-confuzia-2545412.html</guid>
-    </item>
-    <item>
-        <title>INTERVIU | Cătălin Sprînceană dezvăluie cum va arăta Turul României 2026: start istoric la Chișinău și finală spectaculoasă la Ateneu</title>
-        <link>https://www.mediafax.ro/sport/interviu-catalin-sprinceana-dezvaluie-cum-va-arata-turul-romaniei-2026-start-istoric-la-chisinau-si-finala-spectaculoasa-la-ateneu-23777957</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/interviu-catalin-sprinceana-dezvaluie-cum-va-arata-turul-romaniei-2026-start-istoric-la-chisinau-si-finala-spectaculoasa-la-ateneu-23777957</guid>
-    </item>
-    <item>
-        <title>Criticat de Gigi Becali pentru eșecul cu Auda, fotbalistul FCSB-ului a șocat la finalul meciului: dansuri și giugiuleli cu logodnica pe gazon: „Au lua</title>
-        <link>https://adevarul.ro/sport/criticat-de-gigi-becali-pentru-esecul-cu-auda-2545414.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/criticat-de-gigi-becali-pentru-esecul-cu-auda-2545414.html</guid>
-    </item>
-    <item>
-        <title>Tot mai multe incendii în avioane sunt provocate de un obiect pe care milioane de pasageri îl au în bagaj</title>
-        <link>https://www.mediafax.ro/externe/tot-mai-multe-incendii-in-avioane-sunt-provocate-de-un-obiect-pe-care-milioane-de-pasageri-il-au-in-bagaj-23778050</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/tot-mai-multe-incendii-in-avioane-sunt-provocate-de-un-obiect-pe-care-milioane-de-pasageri-il-au-in-bagaj-23778050</guid>
-    </item>
-    <item>
-        <title>SURSE | Cine sunt directorii din industria de armament reținuți și acuzați de DNA că au luat șpagă</title>
-        <link>https://www.g4media.ro/surse-cine-sunt-directorii-din-industria-de-armament-retinuti-si-acuzati-de-dna-ca-au-luat-spaga.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/surse-cine-sunt-directorii-din-industria-de-armament-retinuti-si-acuzati-de-dna-ca-au-luat-spaga.html</guid>
-    </item>
-    <item>
-        <title>Lucrările la magistrala de metrou spre Aeroportul Otopeni înregistrează întârzieri. Ar urma să fie gata abia în 2028 | AUDIO</title>
-        <link>https://www.europafm.ro/metrou-otopeni-intarziere-magistrala-m6-2028/</link>
+        <title>Ro-Alert emis în Galați și Brăila în legătură cu posibilitatea căderii unor obiecte din spaţiul aerian</title>
+        <link>https://www.europafm.ro/alerta-ro-alert-braila-galati-amenintare-aeriana/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/metrou-otopeni-intarziere-magistrala-m6-2028/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/alerta-ro-alert-braila-galati-amenintare-aeriana/</guid>
     </item>
     <item>
-        <title>Secția de Medicină Internă de la Spitalul Floreasca își suspendă activitatea din 1 august, după un control DSP / Spitalul a fost amendat cu 25.000 de </title>
-        <link>https://www.mediafax.ro/sanatate/sectia-de-medicina-interna-de-la-spitalul-floreasca-isi-suspenda-activitatea-din-1-august-dupa-un-control-dsp-spitalul-a-fost-amendat-cu-25-000-de-lei-23778093</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/sectia-de-medicina-interna-de-la-spitalul-floreasca-isi-suspenda-activitatea-din-1-august-dupa-un-control-dsp-spitalul-a-fost-amendat-cu-25-000-de-lei-23778093</guid>
-    </item>
-    <item>
-        <title>Ministul Apărării, după doborârea dronei care a intrat în spațiul aerian al României: „Avioanele italiene nu au reușit să țintească drona”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/ministul-apararii-dupa-doborarea-dronei-care-a-2545451.html</link>
+        <title>Odiseea lui Christopher Nolan s-a „înecat” în România. Singurul cinematograf IMAX din București s-a stricat</title>
+        <link>https://adevarul.ro/showbiz/film/odiseea-lui-christopher-nolan-s-a-inecat-in-2545485.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ministul-apararii-dupa-doborarea-dronei-care-a-2545451.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/film/odiseea-lui-christopher-nolan-s-a-inecat-in-2545485.html</guid>
     </item>
     <item>
-        <title>Drona doborâtă de un F-16 în România: Avertismentele din ultimele șase luni privind provocări ale Rusiei împotriva NATO</title>
-        <link>https://www.g4media.ro/drona-doborata-de-un-f-16-in-romania-avertismentele-din-ultimele-sase-luni-privind-provocari-ale-rusiei-impotriva-nato.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/drona-doborata-de-un-f-16-in-romania-avertismentele-din-ultimele-sase-luni-privind-provocari-ale-rusiei-impotriva-nato.html</guid>
-    </item>
-    <item>
-        <title>POLITICO: Rusia strangulează coridorul vital de export al Ucrainei din Marea Neagră / ”Rusia a luat ostatică securitatea alimentară globală” / Ucraina</title>
-        <link>https://www.g4media.ro/politico-rusia-stranguleaza-coridorul-vital-de-export-al-ucrainei-din-marea-neagra-rusia-a-luat-ostatica-securitatea-alimentara-globala-ucraina-acuza-moscova-ca-bombardeaza-nave.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/politico-rusia-stranguleaza-coridorul-vital-de-export-al-ucrainei-din-marea-neagra-rusia-a-luat-ostatica-securitatea-alimentara-globala-ucraina-acuza-moscova-ca-bombardeaza-nave.html</guid>
-    </item>
-    <item>
-        <title>Cod galben de inundații pe râuri din șapte județe. Hidrologii avertizează asupra viiturilor rapide și depășirii cotelor de atenție</title>
-        <link>https://www.mediafax.ro/meteo/cod-galben-de-inundatii-pe-rauri-din-sapte-judete-hidrologii-avertizeaza-asupra-viiturilor-rapide-si-depasirii-cotelor-de-atentie-23778112</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/meteo/cod-galben-de-inundatii-pe-rauri-din-sapte-judete-hidrologii-avertizeaza-asupra-viiturilor-rapide-si-depasirii-cotelor-de-atentie-23778112</guid>
-    </item>
-    <item>
-        <title>Banca Mondială: Cutremurele devastatoare din Venezuela au produs pagube de aproape 20 de miliarde de dolari</title>
-        <link>https://www.digi24.ro/stiri/externe/banca-mondiala-cutremurele-devastatoare-din-venezuela-au-produs-pagube-de-aproape-20-de-miliarde-de-dolari-3876627</link>
+        <title>Ucrainenii au lovit cu o rachetă „Flamingo” o fabrică de armament din Rusia, aflată la peste 800 de kilometri de Moscova</title>
+        <link>https://www.digi24.ro/stiri/externe/ucrainenii-au-lovit-cu-o-racheta-flamingo-o-fabrica-de-armament-din-rusia-aflata-la-peste-800-de-kilometri-de-moscova-3877223</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/banca-mondiala-cutremurele-devastatoare-din-venezuela-au-produs-pagube-de-aproape-20-de-miliarde-de-dolari-3876627</guid>
-    </item>
-    <item>
-        <title>FOTO | Micul dejun turcesc, experiența care nu trebuie ratată în Istanbul. De ce este considerat un ritual și nu doar prima masă a zile</title>
-        <link>https://www.g4media.ro/foto-micul-dejun-turcesc-experienta-care-nu-trebuie-ratata-in-istanbul-de-ce-este-considerat-un-ritual-si-nu-doar-prima-masa-a-zile.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/foto-micul-dejun-turcesc-experienta-care-nu-trebuie-ratata-in-istanbul-de-ce-este-considerat-un-ritual-si-nu-doar-prima-masa-a-zile.html</guid>
-    </item>
-    <item>
-        <title>Polonia vrea să producă alături de SUA și Ucraina rachete pentru sistemele Patriot</title>
-        <link>https://www.mediafax.ro/externe/polonia-vrea-sa-produca-alaturi-de-sua-si-ucraina-rachete-pentru-sistemele-patriot-23778085</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/polonia-vrea-sa-produca-alaturi-de-sua-si-ucraina-rachete-pentru-sistemele-patriot-23778085</guid>
-    </item>
-    <item>
-        <title>Atac fără precedent la Sankt Petersburg: Dronele ucrainene au lovit un mare depozit online. Orașul, acoperit de un nor dens de fum</title>
-        <link>https://adevarul.ro/stiri-externe/europa/atac-fara-precedent-la-sankt-petersburg-dronele-2545405.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/atac-fara-precedent-la-sankt-petersburg-dronele-2545405.html</guid>
-    </item>
-    <item>
-        <title>Mesajul șefului Armatei după ce un pilot român de F-16 a doborât o dronă deasupra României</title>
-        <link>https://www.digi24.ro/stiri/actualitate/mesajul-sefului-armatei-dupa-ce-un-pilot-roman-a-doborat-o-drona-deasupra-romaniei-3877099</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/mesajul-sefului-armatei-dupa-ce-un-pilot-roman-a-doborat-o-drona-deasupra-romaniei-3877099</guid>
-    </item>
-    <item>
-        <title>Cod galben de furtuni în aproape jumătate din ţară. ANM anunță vijelii, grindină și ploi torențiale. Cum va fi la București HARTĂ</title>
-        <link>https://www.digi24.ro/meteo/cod-galben-de-furtuni-in-aproape-jumatate-din-tara-anm-anunta-vijelii-grindina-si-ploi-torentiale-cum-va-fi-la-bucuresti-harta-3876669</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/meteo/cod-galben-de-furtuni-in-aproape-jumatate-din-tara-anm-anunta-vijelii-grindina-si-ploi-torentiale-cum-va-fi-la-bucuresti-harta-3876669</guid>
-    </item>
-    <item>
-        <title>Raport preliminar al Băncii Mondiale: La ce sumă se ridică pagubele produse de cutremurele din Venezuela</title>
-        <link>https://www.mediafax.ro/externe/raport-preliminar-al-bancii-mondiale-la-ce-suma-se-ridica-pagubele-produse-de-cutremurele-din-venezuela-23777930</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/raport-preliminar-al-bancii-mondiale-la-ce-suma-se-ridica-pagubele-produse-de-cutremurele-din-venezuela-23777930</guid>
-    </item>
-    <item>
-        <title>Traseul dronei doborâte de un avion F-16. Detalii din timpul operațiunii de urmărire a aparatului fără pilot</title>
-        <link>https://www.digi24.ro/stiri/actualitate/traseul-dronei-doborate-de-un-avion-f-16-detalii-din-timpul-operatiunii-de-urmarire-a-aparatului-fara-pilot-3876941</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/traseul-dronei-doborate-de-un-avion-f-16-detalii-din-timpul-operatiunii-de-urmarire-a-aparatului-fara-pilot-3876941</guid>
-    </item>
-    <item>
-        <title>Bucureștenii vor mai mult timp liber: ce fac cu ora recâștigată din trafic</title>
-        <link>https://www.mediafax.ro/evolia-noul-standard-de-viata-urbana/bucurestenii-vor-mai-mult-timp-liber-ce-fac-cu-ora-recastigata-din-trafic-23778090</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/evolia-noul-standard-de-viata-urbana/bucurestenii-vor-mai-mult-timp-liber-ce-fac-cu-ora-recastigata-din-trafic-23778090</guid>
-    </item>
-    <item>
-        <title>Trei directori din industria de apărare de stat, reținuți de DNA. Sunt acuzați de luare de mită</title>
-        <link>https://www.mediafax.ro/justitie/trei-directori-din-industria-de-aparare-de-stat-retinuti-de-dna-sunt-acuzati-de-luare-de-mita-23777922</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/justitie/trei-directori-din-industria-de-aparare-de-stat-retinuti-de-dna-sunt-acuzati-de-luare-de-mita-23777922</guid>
-    </item>
-    <item>
-        <title>Traseul neobișnuit al dronei doborâte de armata română. A survolat mai multe județe înainte de a fi interceptată la Buzău</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/traseul-neobisnuit-al-dronei-doborate-de-armata-2545468.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/traseul-neobisnuit-al-dronei-doborate-de-armata-2545468.html</guid>
-    </item>
-    <item>
-        <title>Comisia Europeană a constatat, cu titlu preliminar, că TikTok a încălcat Regulamentul privind serviciile digitale pentru că nu a asigurat conturi sigu</title>
-        <link>https://www.g4media.ro/comisia-europeana-a-constatat-cu-titlu-preliminar-ca-tiktok-a-incalcat-regulamentul-privind-serviciile-digitale-pentru-ca-nu-a-asigurat-conturi-sigure-pentru-minori.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/comisia-europeana-a-constatat-cu-titlu-preliminar-ca-tiktok-a-incalcat-regulamentul-privind-serviciile-digitale-pentru-ca-nu-a-asigurat-conturi-sigure-pentru-minori.html</guid>
-    </item>
-    <item>
-        <title>„M-a sunat cineva și mi-a spus că se învârt avioane de la armată, atunci m-am speriat”. Mărturia unei localnice din Padina după doborârea dronei din B</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/m-a-sunat-cineva-si-mi-a-spus-ca-se-invart-2545469.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/m-a-sunat-cineva-si-mi-a-spus-ca-se-invart-2545469.html</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ucrainenii-au-lovit-cu-o-racheta-flamingo-o-fabrica-de-armament-din-rusia-aflata-la-peste-800-de-kilometri-de-moscova-3877223</guid>
     </item>
     <item>
         <title>Risc de viituri pe râuri din șapte județe. Avertismentul hidrologilor</title>
@@ -260,100 +44,10 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/risc-de-viituri-pe-rauri-din-sapte-judete-avertismentul-hidrologilor-3876809</guid>
     </item>
     <item>
-        <title>Planul secret pentru „Santinela NATO” la Marea Neagră. Obstacolul neașteptat în calea României</title>
-        <link>https://adevarul.ro/securitate-si-aparare/planul-secret-pentru-santinela-nato-la-marea-2545300.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/planul-secret-pentru-santinela-nato-la-marea-2545300.html</guid>
-    </item>
-    <item>
-        <title>Lacul Roșu, unde pădurea străpunge apa</title>
-        <link>https://www.europafm.ro/lacul-rosu-unde-padurea-strapunge-apa/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/lacul-rosu-unde-padurea-strapunge-apa/</guid>
-    </item>
-    <item>
-        <title>„Erau panicați, unii plângeau”. Localnicii din zona Padina povestesc ce au văzut și auzit când a fost doborâtă drona</title>
-        <link>https://www.digi24.ro/stiri/actualitate/erau-panicati-unii-plangeau-localnicii-din-zona-padina-povestesc-ce-au-vazut-si-auzit-cand-a-fost-doborata-drona-3877019</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/erau-panicati-unii-plangeau-localnicii-din-zona-padina-povestesc-ce-au-vazut-si-auzit-cand-a-fost-doborata-drona-3877019</guid>
-    </item>
-    <item>
-        <title>Grupul auto Volkswagen a înregistrat o scădere a profitului net cu aproape o treime</title>
-        <link>https://www.mediafax.ro/economic/grupul-auto-volkswagen-a-inregistrat-o-scadere-a-profitului-net-cu-aproape-o-treime-23777933</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/grupul-auto-volkswagen-a-inregistrat-o-scadere-a-profitului-net-cu-aproape-o-treime-23777933</guid>
-    </item>
-    <item>
-        <title>Prefectul Buzăului după ce o dronă a căzut în județul său: „Nu cred că au fost oameni pe câmp în acel moment”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/prefectul-buzaului-dupa-ce-o-drona-a-cazut-in-2545448.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/prefectul-buzaului-dupa-ce-o-drona-a-cazut-in-2545448.html</guid>
-    </item>
-    <item>
-        <title>Radu Burnete: „Legea salarizării mai are nevoie de una sau două săptămâni de negocieri”. Când ar putea ajunge proiectul în Parlament</title>
-        <link>https://www.digi24.ro/stiri/economie/radu-burnete-legea-salarizarii-mai-are-nevoie-de-una-sau-doua-saptamani-de-negocieri-cand-ar-putea-ajunge-proiectul-in-parlament-3877109</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/radu-burnete-legea-salarizarii-mai-are-nevoie-de-una-sau-doua-saptamani-de-negocieri-cand-ar-putea-ajunge-proiectul-in-parlament-3877109</guid>
-    </item>
-    <item>
-        <title>Cancelarul german Friedrich Merz anunță o remaniere a cabinetului său</title>
-        <link>https://www.g4media.ro/cancelarul-german-friedrich-merz-anunta-o-remaniere-a-cabinetului-sau.html</link>
+        <title>Drona doborâtă de un F-16 în România: Avertismentele din ultimele șase luni privind provocări ale Rusiei împotriva NATO</title>
+        <link>https://www.g4media.ro/drona-doborata-de-un-f-16-in-romania-avertismentele-din-ultimele-sase-luni-privind-provocari-ale-rusiei-impotriva-nato.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cancelarul-german-friedrich-merz-anunta-o-remaniere-a-cabinetului-sau.html</guid>
-    </item>
-    <item>
-        <title>Dublul seism din Venezuela a provocat pagube de 19,6 miliarde de dolari, estimează Banca Mondială</title>
-        <link>https://www.g4media.ro/dublul-seism-din-venezuela-a-provocat-pagube-de-196-miliarde-de-dolari-estimeaza-banca-mondiala.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/dublul-seism-din-venezuela-a-provocat-pagube-de-196-miliarde-de-dolari-estimeaza-banca-mondiala.html</guid>
-    </item>
-    <item>
-        <title>Navă încărcată cu cărbune, avariată în Marea Neagră, după ce ar fi fost lovită de o dronă maritimă. DSU: nu există persoane rănite | AUDIO</title>
-        <link>https://www.europafm.ro/nava-avariata-marea-neagra-drone-maritima-delta-dunarii/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/nava-avariata-marea-neagra-drone-maritima-delta-dunarii/</guid>
-    </item>
-    <item>
-        <title>Reacția lui Marcel Ciolacu după doborârea dronei în județul Buzău</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/reactia-lui-marcel-ciolacu-dupa-doborarea-dronei-in-judetul-buzau-3877079</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/reactia-lui-marcel-ciolacu-dupa-doborarea-dronei-in-judetul-buzau-3877079</guid>
-    </item>
-    <item>
-        <title>Scandal la Sf. Gheorghe după ce primăria nu a avizat un marș al extremiștilor români, pe care-l consideră „o provocare” / Primar: „Nu avem nevoie de p</title>
-        <link>https://www.g4media.ro/scandal-la-sf-gheorghe-dupa-ce-primaria-nu-a-avizat-un-mars-al-extremistilor-romani-pe-care-l-considera-o-provocare-primar-nu-avem-nevoie-de-provocatori.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/scandal-la-sf-gheorghe-dupa-ce-primaria-nu-a-avizat-un-mars-al-extremistilor-romani-pe-care-l-considera-o-provocare-primar-nu-avem-nevoie-de-provocatori.html</guid>
-    </item>
-    <item>
-        <title>Primele imagini de la locul în care s-a prăbușit drona doborâtă de un avion F-16, în Buzău</title>
-        <link>https://www.digi24.ro/stiri/actualitate/primele-imagini-de-la-locul-in-care-s-a-prabusit-drona-doborata-de-un-avion-f-16-in-buzau-3877025</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/primele-imagini-de-la-locul-in-care-s-a-prabusit-drona-doborata-de-un-avion-f-16-in-buzau-3877025</guid>
-    </item>
-    <item>
-        <title>„Codul Corbului”, un eveniment dedicat lui Iancu de Hunedoara la Castelul Corvinilor, în perioada 24 – 26 iulie. Ce experiențe îi așteaptă pe vizitato</title>
-        <link>https://www.europafm.ro/castelul-corvinilor-codul-corbului-iancu-de-hunedoara/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/castelul-corvinilor-codul-corbului-iancu-de-hunedoara/</guid>
-    </item>
-    <item>
-        <title>De ce ne-a luat atât de mult timp să doborâm prima dronă. Dezvăluirile incomode ale unui general NATO</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/de-ce-ne-a-luat-atat-de-mult-timp-sa-doboram-prima-2545463.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/de-ce-ne-a-luat-atat-de-mult-timp-sa-doboram-prima-2545463.html</guid>
-    </item>
-    <item>
-        <title>Cancelarul german Friedrich Merz anunță o remaniere a cabinetului său</title>
-        <link>https://www.mediafax.ro/externe/cancelarul-german-friedrich-merz-anunta-o-remaniere-a-cabinetului-sau-23777947</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/cancelarul-german-friedrich-merz-anunta-o-remaniere-a-cabinetului-sau-23777947</guid>
-    </item>
-    <item>
-        <title>Incendii de vegetație. Spania declară stare de urgență, în timp ce Franța cere ajutorul UE. Mai multe țări vor trimite aeronave pentru stingerea flăcă</title>
-        <link>https://www.europafm.ro/incendii-vegetatie-franta-spania-italia-evacuari/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/incendii-vegetatie-franta-spania-italia-evacuari/</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/drona-doborata-de-un-f-16-in-romania-avertismentele-din-ultimele-sase-luni-privind-provocari-ale-rusiei-impotriva-nato.html</guid>
     </item>
     <item>
         <title>Divorțul secolului în Coreea de Sud: Fosta soție a „regelui cipurilor”, Chey Tae-won, primește mai mult de jumătate de miliard de dolari / Un proces c</title>
@@ -362,10 +56,316 @@
         <guid isPermaLink="true">https://www.g4media.ro/divortul-secolului-in-coreea-de-sud-fosta-sotie-a-regelui-cipurilor-chey-tae-won-primeste-mai-mult-de-jumatate-de-miliard-de-dolari-un-proces-care-dureaza-de-peste-10-ani.html</guid>
     </item>
     <item>
-        <title>Bucureștiul intră sub Cod galben de furtuni. ANM anunță averse torențiale, vijelii și descărcări electrice</title>
-        <link>https://www.mediafax.ro/meteo/bucurestiul-intra-sub-cod-galben-de-furtuni-anm-anunta-averse-torentiale-vijelii-si-descarcari-electrice-23777949</link>
+        <title>MApN oferă explicații despre drona care a fost doborâtă în România de un avion F-16. Ce tip de aparat era</title>
+        <link>https://www.digi24.ro/stiri/mapn-ofera-explicatii-despre-drona-care-a-fost-doborata-in-romania-de-un-avion-f-16-3877201</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/mapn-ofera-explicatii-despre-drona-care-a-fost-doborata-in-romania-de-un-avion-f-16-3877201</guid>
+    </item>
+    <item>
+        <title>Ciprian Ciucu: Nu am avut nicio săptămână să nu explodeze o bombă bugetară la Primăria Capitalei. Acoperi o gaură, apare alta</title>
+        <link>https://www.digi24.ro/stiri/ciprian-ciucu-nu-am-avut-nicio-saptamana-sa-nu-explodeze-o-bomba-bugetara-la-primaria-capitalei-acoperi-o-gaura-apare-alta-3877197</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/ciprian-ciucu-nu-am-avut-nicio-saptamana-sa-nu-explodeze-o-bomba-bugetara-la-primaria-capitalei-acoperi-o-gaura-apare-alta-3877197</guid>
+    </item>
+    <item>
+        <title>Forțele Aeriene ale Ucrainei au detectat mai multe drone și rachete în Odesa în momentul când a fost doborâtă drona la Buzău, scrie presa de la Kiev</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/fortele-aeriene-ale-ucrainei-au-detectat-mai-multe-2545480.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/fortele-aeriene-ale-ucrainei-au-detectat-mai-multe-2545480.html</guid>
+    </item>
+    <item>
+        <title>„Intrăm într-o etapă urâtă”: Noile tarife impuse de Trump îi înfurie atât pe alegătorii americani, cât și pe aliații SUA</title>
+        <link>https://adevarul.ro/stiri-externe/sua/intram-intr-o-etapa-urata-noile-tarife-impuse-2545478.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/intram-intr-o-etapa-urata-noile-tarife-impuse-2545478.html</guid>
+    </item>
+    <item>
+        <title>Jucătorul de la Mondial, depistat pozitiv la cocaină, după ce a fost oprit de poliția rutieră de două ori în aceeași noapte</title>
+        <link>https://adevarul.ro/sport/jucatorul-de-la-mondial-depistat-pozitiv-la-2545486.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/jucatorul-de-la-mondial-depistat-pozitiv-la-2545486.html</guid>
+    </item>
+    <item>
+        <title>Lucrările la magistrala de metrou spre Aeroportul Otopeni înregistrează întârzieri. Ar urma să fie gata abia în 2028 | AUDIO</title>
+        <link>https://www.europafm.ro/metrou-otopeni-intarziere-magistrala-m6-2028/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/metrou-otopeni-intarziere-magistrala-m6-2028/</guid>
+    </item>
+    <item>
+        <title>Mesajul transmis de șefii Parlamentului după întâlnirea cu președinta Indiei. Vizita, prima la acest nivel după 20 de ani</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/mesajul-transmis-de-sefii-parlamentului-dupa-intalnirea-cu-presedinta-indiei-vizita-prima-la-acest-nivel-dupa-20-de-ani-3877305</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/mesajul-transmis-de-sefii-parlamentului-dupa-intalnirea-cu-presedinta-indiei-vizita-prima-la-acest-nivel-dupa-20-de-ani-3877305</guid>
+    </item>
+    <item>
+        <title>România și India își propun să dubleze comerțul bilateral și să deschidă o linie aeriană directă pentru a facilita investițiile în cele două țări</title>
+        <link>https://www.europafm.ro/romania-india-dublare-schimburi-comerciale-investitii/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/romania-india-dublare-schimburi-comerciale-investitii/</guid>
+    </item>
+    <item>
+        <title>Romanian Dance Revolution: Celebrating the Popcorn Era</title>
+        <link>https://www.g4media.ro/romanian-dance-revolution-celebrating-the-popcorn-era.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/romanian-dance-revolution-celebrating-the-popcorn-era.html</guid>
+    </item>
+    <item>
+        <title>Rusia pregătește condițiile pentru o nouă mobilizare. ISW: Kremlinul schimbă legile și se teme de proteste</title>
+        <link>https://www.mediafax.ro/externe/rusia-pregateste-conditiile-pentru-o-noua-mobilizare-isw-kremlinul-schimba-legile-si-se-teme-de-proteste-23778198</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/meteo/bucurestiul-intra-sub-cod-galben-de-furtuni-anm-anunta-averse-torentiale-vijelii-si-descarcari-electrice-23777949</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/rusia-pregateste-conditiile-pentru-o-noua-mobilizare-isw-kremlinul-schimba-legile-si-se-teme-de-proteste-23778198</guid>
+    </item>
+    <item>
+        <title>Ministerul Apărării: Avioanele italiene au tras asupra dronei, dar racheta nu și-a lovit ținta / Piloții ne-au raportat că e o amenințare de tip Shahe</title>
+        <link>https://www.g4media.ro/live-informatii-despre-drona-doborata-in-buzau-conferinta-a-ministerului-apararii.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/live-informatii-despre-drona-doborata-in-buzau-conferinta-a-ministerului-apararii.html</guid>
+    </item>
+    <item>
+        <title>IICCMER solicită retragerea din spațiul public a monumentului lui Adrian Păunescu din Sectorul 2</title>
+        <link>https://www.mediafax.ro/social/iiccmer-solicita-retragerea-din-spatiul-public-a-monumentului-lui-adrian-paunescu-din-sectorul-2-23778187</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/iiccmer-solicita-retragerea-din-spatiul-public-a-monumentului-lui-adrian-paunescu-din-sectorul-2-23778187</guid>
+    </item>
+    <item>
+        <title>„M-a sunat cineva și mi-a spus că se învârt avioane de la armată, atunci m-am speriat”. Mărturia unei localnice din Padina după doborârea dronei din B</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/m-a-sunat-cineva-si-mi-a-spus-ca-se-invart-2545469.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/m-a-sunat-cineva-si-mi-a-spus-ca-se-invart-2545469.html</guid>
+    </item>
+    <item>
+        <title>INTERVIU | Cătălin Sprînceană dezvăluie cum va arăta Turul României 2026: start istoric la Chișinău și finală spectaculoasă la Ateneu</title>
+        <link>https://www.mediafax.ro/sport/interviu-catalin-sprinceana-dezvaluie-cum-va-arata-turul-romaniei-2026-start-istoric-la-chisinau-si-finala-spectaculoasa-la-ateneu-23777957</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/interviu-catalin-sprinceana-dezvaluie-cum-va-arata-turul-romaniei-2026-start-istoric-la-chisinau-si-finala-spectaculoasa-la-ateneu-23777957</guid>
+    </item>
+    <item>
+        <title>„Problemele vin din lipsa de competență constituțională a unui Guvern demis”. Radu Marinescu arată cum Guvernul demis Bolojan nu mai poate propune pro</title>
+        <link>https://www.mediafax.ro/stirile-zilei/problemele-vin-din-lipsa-de-competenta-constitutionala-a-unui-guvern-demis-radu-marinescu-arata-cum-guvernul-demis-bolojan-nu-mai-poate-propune-proiecte-de-lege-si-cere-sesizarea-cc-23778186</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/problemele-vin-din-lipsa-de-competenta-constitutionala-a-unui-guvern-demis-radu-marinescu-arata-cum-guvernul-demis-bolojan-nu-mai-poate-propune-proiecte-de-lege-si-cere-sesizarea-cc-23778186</guid>
+    </item>
+    <item>
+        <title>PSD refuză să voteze legea salarizării. Grindeanu: „nu vom susține o lege care aduce austeritate şi sărăceşte românii”</title>
+        <link>https://www.europafm.ro/psd-refuza-legea-salarizarii-grindeanu-austeritate/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/psd-refuza-legea-salarizarii-grindeanu-austeritate/</guid>
+    </item>
+    <item>
+        <title>Comisia Europeană a constatat, cu titlu preliminar, că TikTok a încălcat Regulamentul privind serviciile digitale pentru că nu a asigurat conturi sigu</title>
+        <link>https://www.g4media.ro/comisia-europeana-a-constatat-cu-titlu-preliminar-ca-tiktok-a-incalcat-regulamentul-privind-serviciile-digitale-pentru-ca-nu-a-asigurat-conturi-sigure-pentru-minori.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/comisia-europeana-a-constatat-cu-titlu-preliminar-ca-tiktok-a-incalcat-regulamentul-privind-serviciile-digitale-pentru-ca-nu-a-asigurat-conturi-sigure-pentru-minori.html</guid>
+    </item>
+    <item>
+        <title>Romanian Dance Revolution: Celebrating the Popcorn Era</title>
+        <link>https://www.mediafax.ro/comunicate-de-presa/romanian-dance-revolution-celebrating-the-popcorn-era-23778192</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/comunicate-de-presa/romanian-dance-revolution-celebrating-the-popcorn-era-23778192</guid>
+    </item>
+    <item>
+        <title>Traseul dronei doborâte de un avion F-16. Detalii din timpul operațiunii de urmărire a aparatului fără pilot</title>
+        <link>https://www.digi24.ro/stiri/actualitate/traseul-dronei-doborate-de-un-avion-f-16-detalii-din-timpul-operatiunii-de-urmarire-a-aparatului-fara-pilot-3876941</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/traseul-dronei-doborate-de-un-avion-f-16-detalii-din-timpul-operatiunii-de-urmarire-a-aparatului-fara-pilot-3876941</guid>
+    </item>
+    <item>
+        <title>HARTĂ INTERACTIVĂ &amp; TIMELINE | Cele mai grave incidente cu drone pe teritoriul României și în împrejurimi, în ultimele două luni / De la Galați la Buz</title>
+        <link>https://www.g4media.ro/harta-interactiva-timeline-cele-mai-grave-incidente-cu-drone-pe-teritoriul-romaniei-si-in-imprejurimi-in-ultimele-doua-luni-de-la-galati-la-buzau-prin-portul-constanta-si-marea-neagra.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/harta-interactiva-timeline-cele-mai-grave-incidente-cu-drone-pe-teritoriul-romaniei-si-in-imprejurimi-in-ultimele-doua-luni-de-la-galati-la-buzau-prin-portul-constanta-si-marea-neagra.html</guid>
+    </item>
+    <item>
+        <title>Revoluția apărării în Europa: cum schimbă contractele și tehnologia viitorul României în industria militară</title>
+        <link>https://www.digi24.ro/stiri/externe/revolutia-apararii-in-europa-cum-schimba-contractele-si-tehnologia-viitorul-romaniei-in-industria-militara-3877195</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/revolutia-apararii-in-europa-cum-schimba-contractele-si-tehnologia-viitorul-romaniei-in-industria-militara-3877195</guid>
+    </item>
+    <item>
+        <title>Procurorii au găsit 500.000 de euro, un ceas Patek Philippe și un Rolex, acasă la directorul Uzinei Mecanice Plopeni / DNA a cerut areastarea sa preve</title>
+        <link>https://www.g4media.ro/procurorii-au-gasit-500-000-de-euro-un-ceas-patek-philippe-si-un-rolex-acasa-la-directorul-uzinei-mecanice-plopeni-dna-a-cerut-areastarea-sa-preventiva.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/procurorii-au-gasit-500-000-de-euro-un-ceas-patek-philippe-si-un-rolex-acasa-la-directorul-uzinei-mecanice-plopeni-dna-a-cerut-areastarea-sa-preventiva.html</guid>
+    </item>
+    <item>
+        <title>Traseul neobișnuit al dronei doborâte de armata română. A survolat mai multe județe înainte de a fi interceptată la Buzău</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/traseul-neobisnuit-al-dronei-doborate-de-armata-2545468.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/traseul-neobisnuit-al-dronei-doborate-de-armata-2545468.html</guid>
+    </item>
+    <item>
+        <title>Secția de Medicină Internă de la Spitalul Floreasca își suspendă activitatea din 1 august, după un control DSP / Spitalul a fost amendat cu 25.000 de </title>
+        <link>https://www.mediafax.ro/sanatate/sectia-de-medicina-interna-de-la-spitalul-floreasca-isi-suspenda-activitatea-din-1-august-dupa-un-control-dsp-spitalul-a-fost-amendat-cu-25-000-de-lei-23778093</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/sectia-de-medicina-interna-de-la-spitalul-floreasca-isi-suspenda-activitatea-din-1-august-dupa-un-control-dsp-spitalul-a-fost-amendat-cu-25-000-de-lei-23778093</guid>
+    </item>
+    <item>
+        <title>Scandal la Sf. Gheorghe după ce primăria nu a avizat un marș al extremiștilor români, pe care-l consideră „o provocare” / Primar: „Nu avem nevoie de p</title>
+        <link>https://www.g4media.ro/scandal-la-sf-gheorghe-dupa-ce-primaria-nu-a-avizat-un-mars-al-extremistilor-romani-pe-care-l-considera-o-provocare-primar-nu-avem-nevoie-de-provocatori.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/scandal-la-sf-gheorghe-dupa-ce-primaria-nu-a-avizat-un-mars-al-extremistilor-romani-pe-care-l-considera-o-provocare-primar-nu-avem-nevoie-de-provocatori.html</guid>
+    </item>
+    <item>
+        <title>Diana Buzoianu: Inundaţiile recente şi pagubele lăsate în urmă sunt și decontul dureros a 20-30 de ani de neglijenţă</title>
+        <link>https://www.digi24.ro/stiri/diana-buzoianu-inundatiile-recente-si-pagubele-lasate-in-urma-sunt-si-decontul-dureros-a-20-30-de-ani-de-neglijenta-3877289</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/diana-buzoianu-inundatiile-recente-si-pagubele-lasate-in-urma-sunt-si-decontul-dureros-a-20-30-de-ani-de-neglijenta-3877289</guid>
+    </item>
+    <item>
+        <title>Rădoi nu scapă de coșmarul din Turcia. Multe semne de întrebare pentru român, după un prim amical al verii fără victorie</title>
+        <link>https://adevarul.ro/sport/radoi-nu-scapa-de-cosmarul-din-turcia-multe-semne-2545443.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/radoi-nu-scapa-de-cosmarul-din-turcia-multe-semne-2545443.html</guid>
+    </item>
+    <item>
+        <title>Senatul SUA se pregătește să voteze o lege privind un pachet de sancțiuni împotriva Rusiei</title>
+        <link>https://www.mediafax.ro/social/senatul-sua-se-pregateste-sa-voteze-o-lege-privind-un-pachet-de-sanctiuni-impotriva-rusiei-23778107</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/senatul-sua-se-pregateste-sa-voteze-o-lege-privind-un-pachet-de-sanctiuni-impotriva-rusiei-23778107</guid>
+    </item>
+    <item>
+        <title>VIDEO | De la fermă până la galantar. Georgiana Păstrăv: „Controlăm totul, de la ce mănâncă animalul până la produsul final”</title>
+        <link>https://www.g4media.ro/de-la-ferma-pana-la-galantar-georgiana-pastrav-controlam-totul.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/de-la-ferma-pana-la-galantar-georgiana-pastrav-controlam-totul.html</guid>
+    </item>
+    <item>
+        <title>Tot mai multe incendii în avioane sunt provocate de un obiect pe care milioane de pasageri îl au în bagaj</title>
+        <link>https://www.mediafax.ro/externe/tot-mai-multe-incendii-in-avioane-sunt-provocate-de-un-obiect-pe-care-milioane-de-pasageri-il-au-in-bagaj-23778050</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/tot-mai-multe-incendii-in-avioane-sunt-provocate-de-un-obiect-pe-care-milioane-de-pasageri-il-au-in-bagaj-23778050</guid>
+    </item>
+    <item>
+        <title>O româncă de 35 de ani a fost ucisă în Italia. Cine este principalul suspect și ce spun prietenii victimei</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/o-romanca-de-35-de-ani-a-fost-ucisa-in-italia-cine-este-principalul-suspect-si-ce-spun-prietenii-victimei-3877207</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/o-romanca-de-35-de-ani-a-fost-ucisa-in-italia-cine-este-principalul-suspect-si-ce-spun-prietenii-victimei-3877207</guid>
+    </item>
+    <item>
+        <title>Cum schimbă generația Z organizarea nunților. Tinerii preferă să aibă mai puțini invitați și optează pentru petreceri în grădini sau hambare | AUDIO</title>
+        <link>https://www.europafm.ro/generatia-z-organizare-nunti-invitatii-locatii/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/generatia-z-organizare-nunti-invitatii-locatii/</guid>
+    </item>
+    <item>
+        <title>O dronă care a pătruns în spațiul aerian național a fost doborâtă deasupra unei zone nelocuite, în județul Buzău, spune MApN. Miruță: „România își res</title>
+        <link>https://www.europafm.ro/o-drona-care-a-patruns-in-spatiul-aerian-nationa-a-fost-vineri-doborata-de-un-pilot-roman/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/o-drona-care-a-patruns-in-spatiul-aerian-nationa-a-fost-vineri-doborata-de-un-pilot-roman/</guid>
+    </item>
+    <item>
+        <title>Banca Mondială: Cutremurele care au lovit Venezuela în iunie au provocat pagube de aproape 20 de miliarde de dolari. Costul reconstrucției ar putea fi</title>
+        <link>https://www.europafm.ro/cutremure-venezuela-pagube-banca-mondiala/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/cutremure-venezuela-pagube-banca-mondiala/</guid>
+    </item>
+    <item>
+        <title>AUR cere explicații după doborârea dronei din Buzău: „Situația este un eșec al guvernării”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/aur-cere-explicatii-dupa-doborarea-dronei-din-2545493.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/aur-cere-explicatii-dupa-doborarea-dronei-din-2545493.html</guid>
+    </item>
+    <item>
+        <title>Bucureștenii vor mai mult timp liber: ce fac cu ora recâștigată din trafic</title>
+        <link>https://www.mediafax.ro/evolia-noul-standard-de-viata-urbana/bucurestenii-vor-mai-mult-timp-liber-ce-fac-cu-ora-recastigata-din-trafic-23778090</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/evolia-noul-standard-de-viata-urbana/bucurestenii-vor-mai-mult-timp-liber-ce-fac-cu-ora-recastigata-din-trafic-23778090</guid>
+    </item>
+    <item>
+        <title>De ce ne-a luat atât de mult timp să doborâm prima dronă. Dezvăluirile incomode ale unui general NATO</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/de-ce-ne-a-luat-atat-de-mult-timp-sa-doboram-prima-2545463.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/de-ce-ne-a-luat-atat-de-mult-timp-sa-doboram-prima-2545463.html</guid>
+    </item>
+    <item>
+        <title>Eurostat: Fermele din Cipru, Grecia şi România se află pe ultimele locuri în UE la agricultura de precizie / 43% dintre fermele din UE au raportat că </title>
+        <link>https://www.g4media.ro/eurostat-fermele-din-cipru-grecia-si-romania-se-afla-pe-ultimele-locuri-in-ue-la-agricultura-de-precizie-43-dintre-fermele-din-ue-au-raportat-ca-au-acces-la-internet.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/eurostat-fermele-din-cipru-grecia-si-romania-se-afla-pe-ultimele-locuri-in-ue-la-agricultura-de-precizie-43-dintre-fermele-din-ue-au-raportat-ca-au-acces-la-internet.html</guid>
+    </item>
+    <item>
+        <title>Anunț Metropolitan Life Societate</title>
+        <link>https://adevarul.ro/stiri-interne/societate/anunt-metropolitan-life-societate-2545290.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/anunt-metropolitan-life-societate-2545290.html</guid>
+    </item>
+    <item>
+        <title>Marcel Ciolacu, despre drona doborâtă în Buzău: „Cel mai important este că nu au existat victime sau pagube”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/marcel-ciolacu-despre-drona-doborata-in-buzau-2545484.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/marcel-ciolacu-despre-drona-doborata-in-buzau-2545484.html</guid>
+    </item>
+    <item>
+        <title>Incendiile din Franța. Autoritățile au dispus evacuarea totală a peninsulei Cap Ferret</title>
+        <link>https://www.mediafax.ro/externe/incendiile-din-franta-autoritatile-au-dispus-evacuarea-totala-a-peninsulei-cap-ferret-23778180</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/incendiile-din-franta-autoritatile-au-dispus-evacuarea-totala-a-peninsulei-cap-ferret-23778180</guid>
+    </item>
+    <item>
+        <title>Președintele ucrainean spune că întâlnirea de la Vatican a fost momentul de cotitură în relația cu Trump. Zelenski: „Ne-am schimbat relațiile timp de </title>
+        <link>https://www.mediafax.ro/externe/presedintele-ucrainean-spune-ca-intalnirea-de-la-vatican-a-fost-momentul-de-cotitura-in-relatia-cu-trump-zelenski-ne-am-schimbat-relatiile-timp-de-15-20-de-minute-23778059</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/presedintele-ucrainean-spune-ca-intalnirea-de-la-vatican-a-fost-momentul-de-cotitura-in-relatia-cu-trump-zelenski-ne-am-schimbat-relatiile-timp-de-15-20-de-minute-23778059</guid>
+    </item>
+    <item>
+        <title>Prefectul Buzăului după ce o dronă a căzut în județul său: „Nu cred că au fost oameni pe câmp în acel moment”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/prefectul-buzaului-dupa-ce-o-drona-a-cazut-in-2545448.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/prefectul-buzaului-dupa-ce-o-drona-a-cazut-in-2545448.html</guid>
+    </item>
+    <item>
+        <title>Radu Miruță va susține o conferință de presă la MApN, după doborârea dronei deasupra județului Buzău</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/radu-miruta-va-sustine-o-conferinta-de-presa-la-2545473.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/radu-miruta-va-sustine-o-conferinta-de-presa-la-2545473.html</guid>
+    </item>
+    <item>
+        <title>Anchetă în Statele Unite împotriva unui agent Secret Service însărcinat cu securitatea lui JD Vance pentru scurgere de informaţii / Agentul ar fi dexv</title>
+        <link>https://www.g4media.ro/ancheta-in-statele-unite-impotriva-unui-agent-secret-service-insarcinat-cu-securitatea-lui-jd-vance-pentru-scurgere-de-informatii-agentul-ar-fi-dexvaluit-ca-vicepresedintele-a-vrut-sa-foloseasca-un.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ancheta-in-statele-unite-impotriva-unui-agent-secret-service-insarcinat-cu-securitatea-lui-jd-vance-pentru-scurgere-de-informatii-agentul-ar-fi-dexvaluit-ca-vicepresedintele-a-vrut-sa-foloseasca-un.html</guid>
+    </item>
+    <item>
+        <title>Primele imagini de la locul în care s-a prăbușit drona doborâtă de un avion F-16, în Buzău</title>
+        <link>https://www.digi24.ro/stiri/actualitate/primele-imagini-de-la-locul-in-care-s-a-prabusit-drona-doborata-de-un-avion-f-16-in-buzau-3877025</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/primele-imagini-de-la-locul-in-care-s-a-prabusit-drona-doborata-de-un-avion-f-16-in-buzau-3877025</guid>
+    </item>
+    <item>
+        <title>Sandu Valentin Mateiu explică detaliile tehnice care au permis doborârea dronei: „În final este o victorie foarte importantă”</title>
+        <link>https://www.digi24.ro/stiri/sandu-valentin-mateiu-explica-detaliile-tehnice-care-au-permis-doborarea-dronei-in-final-este-o-victorie-foarte-importanta-3876857</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sandu-valentin-mateiu-explica-detaliile-tehnice-care-au-permis-doborarea-dronei-in-final-este-o-victorie-foarte-importanta-3876857</guid>
+    </item>
+    <item>
+        <title>Ministul Apărării, după doborârea dronei care a intrat în spațiul aerian al României: „Avioanele italiene nu au reușit să țintească drona”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/ministul-apararii-dupa-doborarea-dronei-care-a-2545451.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ministul-apararii-dupa-doborarea-dronei-care-a-2545451.html</guid>
+    </item>
+    <item>
+        <title>Ce au descoperit poliţiştii în vestiarele medicilor de la Spitalului Județean Piatra-Neamţ, după ce managerul a sunat la 112</title>
+        <link>https://www.digi24.ro/stiri/actualitate/sanatate/ce-au-descoperit-politistii-in-vestiarele-medicilor-de-la-spitalului-judetean-piatra-neamt-dupa-ce-managerul-a-sunat-la-112-3877091</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/ce-au-descoperit-politistii-in-vestiarele-medicilor-de-la-spitalului-judetean-piatra-neamt-dupa-ce-managerul-a-sunat-la-112-3877091</guid>
+    </item>
+    <item>
+        <title>ANPC a controlat peste 1.400 de companii și a dat amenzi de 4 milioane de lei săptămâna aceasta. Principalele nereguli descoperite</title>
+        <link>https://www.digi24.ro/stiri/actualitate/anpc-a-controlat-peste-1-400-de-companii-si-a-dat-amenzi-de-4-milioane-de-lei-saptamana-aceasta-principalele-nereguli-descoperite-3877277</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/anpc-a-controlat-peste-1-400-de-companii-si-a-dat-amenzi-de-4-milioane-de-lei-saptamana-aceasta-principalele-nereguli-descoperite-3877277</guid>
+    </item>
+    <item>
+        <title>Vietnam pregătește restricții pentru copiii sub 16 ani pe rețelele sociale / Minorii nu vor mai putea publica sau comenta</title>
+        <link>https://www.g4media.ro/vietnam-pregateste-restrictii-pentru-copiii-sub-16-ani-pe-retelele-sociale-minorii-nu-vor-mai-putea-publica-sau-comenta.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/vietnam-pregateste-restrictii-pentru-copiii-sub-16-ani-pe-retelele-sociale-minorii-nu-vor-mai-putea-publica-sau-comenta.html</guid>
+    </item>
+    <item>
+        <title>Mesajul șefului Armatei după ce un pilot român de F-16 a doborât o dronă deasupra României</title>
+        <link>https://www.digi24.ro/stiri/actualitate/mesajul-sefului-armatei-dupa-ce-un-pilot-roman-a-doborat-o-drona-deasupra-romaniei-3877099</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/mesajul-sefului-armatei-dupa-ce-un-pilot-roman-a-doborat-o-drona-deasupra-romaniei-3877099</guid>
     </item>
 </channel>
 </rss>
