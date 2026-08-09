@@ -5,139 +5,61 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 09 Aug 2026 11:06:11 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 12:00:56 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Cum a ajuns un fake news viral să pună în pericol vieți: reacția Min. Sănătății după atacul asupra ambulanței din Cluj</title>
+        <link>https://www.digi24.ro/stiri/actualitate/cum-a-ajuns-un-fake-news-viral-sa-puna-in-pericol-vieti-reactia-min-sanatatii-dupa-atacul-asupra-echipajului-de-ambulanta-din-cluj-3899027</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/cum-a-ajuns-un-fake-news-viral-sa-puna-in-pericol-vieti-reactia-min-sanatatii-dupa-atacul-asupra-echipajului-de-ambulanta-din-cluj-3899027</guid>
+    </item>
+    <item>
+        <title>„Metoda Ronaldinho”: tehnica prin care hoții de buzunare jefuiesc turiștii în doar câteva secunde, pe o insulă din Spania</title>
+        <link>https://www.libertatea.ro/lifestyle/metoda-ronaldinho-tehnica-hoti-de-buzunare-jefuiesc-turistii-in-doar-cateva-secunde-insula-spania-5844758</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/metoda-ronaldinho-tehnica-hoti-de-buzunare-jefuiesc-turistii-in-doar-cateva-secunde-insula-spania-5844758</guid>
+    </item>
+    <item>
+        <title>România, o nouă medalie de aur la Campionatele Mondiale de canotaj U19</title>
+        <link>https://www.g4media.ro/romania-o-noua-medalie-de-aur-la-campionatele-mondiale-de-canotaj-u19.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/romania-o-noua-medalie-de-aur-la-campionatele-mondiale-de-canotaj-u19.html</guid>
+    </item>
+    <item>
+        <title>Dr. Adrian Dijmărescu, medic primar radiologie-imagistică medicală, SANADOR: „Nu există o singură investigație care să depisteze toate cancerele“</title>
+        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/dr-adrian-dijmarescu-medic-primar-2548423.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/dr-adrian-dijmarescu-medic-primar-2548423.html</guid>
+    </item>
+    <item>
+        <title>Marius Șumudică nu a semnat încă cu CFR Cluj. Ce blochează revenirea antrenorului în Gruia și ce jucători vrea să aducă</title>
+        <link>https://www.mediafax.ro/sport/marius-sumudica-nu-a-semnat-inca-cu-cfr-cluj-ce-blocheaza-revenirea-antrenorului-in-gruia-si-ce-jucatori-vrea-sa-aduca-23787541</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/marius-sumudica-nu-a-semnat-inca-cu-cfr-cluj-ce-blocheaza-revenirea-antrenorului-in-gruia-si-ce-jucatori-vrea-sa-aduca-23787541</guid>
+    </item>
+    <item>
+        <title>Raed Arafat, după cazul ambulanței atacate cu topoarele: „O minciună de pe social media. Se folosește AI, se creează imagini”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/raed-arafat-dupa-cazul-ambulantei-atacate-cu-topoarele-o-minciuna-de-pe-social-media-se-foloseste-ai-se-creeaza-imagini-3899047</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/raed-arafat-dupa-cazul-ambulantei-atacate-cu-topoarele-o-minciuna-de-pe-social-media-se-foloseste-ai-se-creeaza-imagini-3899047</guid>
+    </item>
+    <item>
+        <title>Spațiul Schengen, suspendat între Spania și Italia din cauza crizei migranților din Ceuta. Controale la frontieră și cozi kilometrice pe aeroporturi</title>
+        <link>https://www.libertatea.ro/stiri/spatiul-schengen-suspendat-spania-italia-criz-migranti-ceuta-controale-frontiera-cozi-kilometrice-aeroporturi-5844693</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/spatiul-schengen-suspendat-spania-italia-criz-migranti-ceuta-controale-frontiera-cozi-kilometrice-aeroporturi-5844693</guid>
+    </item>
+    <item>
+        <title>Alexandru Nazare se desprinde în cursa pentru viitorul premier al României pe Polymarket. Ministrul Finanțelor ajunge la aproape 48%</title>
+        <link>https://www.mediafax.ro/politic/alexandru-nazare-se-desprinde-in-cursa-pentru-viitorul-premier-al-romaniei-pe-polymarket-ministrul-finantelor-ajunge-la-aproape-48-23787502</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/alexandru-nazare-se-desprinde-in-cursa-pentru-viitorul-premier-al-romaniei-pe-polymarket-ministrul-finantelor-ajunge-la-aproape-48-23787502</guid>
+    </item>
     <item>
         <title>Legea împotriva dezinformării. Radu Miruță cere acțiune rapidă după atacul asupra ambulanței: Minciuna online a ajuns în stradă</title>
         <link>https://www.digi24.ro/stiri/actualitate/legea-impotriva-dezinformarii-radu-miruta-cere-actiune-rapida-dupa-atacul-asupra-ambulantei-minciuna-online-a-ajuns-in-strada-3899071</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/legea-impotriva-dezinformarii-radu-miruta-cere-actiune-rapida-dupa-atacul-asupra-ambulantei-minciuna-online-a-ajuns-in-strada-3899071</guid>
-    </item>
-    <item>
-        <title>Ambulanță, atacată cu topoarele, bâte și pietre, într-un sat din Cluj. Motivul furiei localnicilor</title>
-        <link>https://www.mediafax.ro/social/ambulanta-atacata-cu-topoarele-bate-si-pietre-intr-un-sat-din-cluj-motivul-furiei-localnicilor-23787489</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/ambulanta-atacata-cu-topoarele-bate-si-pietre-intr-un-sat-din-cluj-motivul-furiei-localnicilor-23787489</guid>
-    </item>
-    <item>
-        <title>Atacurile Rusiei împing din nou cerealele Ucrainei spre România. Noul val poate veni peste o recoltă foarte mare a fermierilor români</title>
-        <link>https://www.mediafax.ro/stirile-zilei/atacurile-rusiei-imping-din-nou-cerealele-ucrainei-spre-romania-noul-val-poate-veni-peste-o-recolta-foarte-mare-a-fermierilor-romani-23787527</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/atacurile-rusiei-imping-din-nou-cerealele-ucrainei-spre-romania-noul-val-poate-veni-peste-o-recolta-foarte-mare-a-fermierilor-romani-23787527</guid>
-    </item>
-    <item>
-        <title>„Cel mai puternic om pe care l-a cunoscut vreodată planeta”. Cum redefinește Trump „lumea liberă” prin ego, cucerire și frică</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/cel-mai-puternic-om-pe-care-l-a-cunoscut-vreodata-planeta-cum-redefineste-trump-lumea-libera-prin-ego-cucerire-si-frica-3894911</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/cel-mai-puternic-om-pe-care-l-a-cunoscut-vreodata-planeta-cum-redefineste-trump-lumea-libera-prin-ego-cucerire-si-frica-3894911</guid>
-    </item>
-    <item>
-        <title>Un zbor a fost anulat din cauza unui copil care a refuzat să poarte centura. Pasagerii au rămas blocați peste noapte</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/un-zbor-a-fost-anulat-din-cauza-unui-copil-care-a-2548612.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/un-zbor-a-fost-anulat-din-cauza-unui-copil-care-a-2548612.html</guid>
-    </item>
-    <item>
-        <title>„Vishing”, noua metodă prin care escrocii golesc conturile bancare. Avertismentul Poliției Române</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/vishing-noua-metoda-prin-care-escrocii-golesc-2548636.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/vishing-noua-metoda-prin-care-escrocii-golesc-2548636.html</guid>
-    </item>
-    <item>
-        <title>Legătura dintre consumul de ardei iute și cancer. Ce a descoperit un nou studiu</title>
-        <link>https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/legatura-dintre-consumul-de-ardei-iute-si-cancer-ce-a-descoperit-un-nou-studiu-3898953</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/stil-de-viata/viata-sanatoasa/legatura-dintre-consumul-de-ardei-iute-si-cancer-ce-a-descoperit-un-nou-studiu-3898953</guid>
-    </item>
-    <item>
-        <title>Rata șomajului din Franța a ajuns la cel ridicat nivel din ultimii șase ani</title>
-        <link>https://www.g4media.ro/rata-somajului-din-franta-a-ajuns-la-cel-ridicat-nivel-din-ultimii-sase-ani.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/rata-somajului-din-franta-a-ajuns-la-cel-ridicat-nivel-din-ultimii-sase-ani.html</guid>
-    </item>
-    <item>
-        <title>STUDIU | Privitul excesiv la televizor poate afecta sănătatea creierului / Cum reducem efectele nocive ale ecranelor</title>
-        <link>https://www.g4media.ro/studiu-privitul-excesiv-la-televizor-poate-afecta-sanatatea-creierului-cum-reducem-efectele-nocive-ale-ecranelor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/studiu-privitul-excesiv-la-televizor-poate-afecta-sanatatea-creierului-cum-reducem-efectele-nocive-ale-ecranelor.html</guid>
-    </item>
-    <item>
-        <title>Taylor Swift a eliminat melodiile sale din videoclipurile de campanie ale lui Donald Trump, postate pe rețelele de socializare</title>
-        <link>https://www.g4media.ro/taylor-swift-a-eliminat-melodiile-sale-din-videoclipurile-de-campanie-ale-lui-donald-trump-postate-pe-retelele-de-socializare.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/taylor-swift-a-eliminat-melodiile-sale-din-videoclipurile-de-campanie-ale-lui-donald-trump-postate-pe-retelele-de-socializare.html</guid>
-    </item>
-    <item>
-        <title>ANALIZĂ Marea rocadă: America Latină virează la dreapta</title>
-        <link>https://www.g4media.ro/analiza-marea-rocada-america-latina-vireaza-la-dreapta.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/analiza-marea-rocada-america-latina-vireaza-la-dreapta.html</guid>
-    </item>
-    <item>
-        <title>Radu Miruță, după creșterea nivelul Dunării: Cel puțin alte 9 zile pentru Unitatea 2 de la Cernavodă</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/radu-miruta-dupa-cresterea-nivelul-dunarii-cel-putin-alte-9-zile-pentru-unitatea-2-de-la-cernavoda-3898977</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/radu-miruta-dupa-cresterea-nivelul-dunarii-cel-putin-alte-9-zile-pentru-unitatea-2-de-la-cernavoda-3898977</guid>
-    </item>
-    <item>
-        <title>De ce consumul de ardei iute nu e atât de sănătos împotriva cancerului așa cum se credea</title>
-        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/de-ce-consumul-de-ardei-iute-nu-e-atat-de-sanatos-2548633.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/de-ce-consumul-de-ardei-iute-nu-e-atat-de-sanatos-2548633.html</guid>
-    </item>
-    <item>
-        <title>Taylor Swift a eliminat melodiile din videoclipurile lui Donald Trump. Președintele SUA: „O URĂSC”</title>
-        <link>https://www.mediafax.ro/externe/taylor-swift-a-eliminat-melodiile-din-videoclipurile-lui-donald-trump-presedintele-sua-o-urasc-23787496</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/taylor-swift-a-eliminat-melodiile-din-videoclipurile-lui-donald-trump-presedintele-sua-o-urasc-23787496</guid>
-    </item>
-    <item>
-        <title>METEO | Caniculă în toată ţara, de luni până miercuri</title>
-        <link>https://www.g4media.ro/meteo-canicula-in-toata-tara-de-luni-pana-miercuri.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/meteo-canicula-in-toata-tara-de-luni-pana-miercuri.html</guid>
-    </item>
-    <item>
-        <title>Theo Rose, declarație de dragoste pentru Anghel Damian, de ziua lui: „Cel mai tare mă bucură că ne-am potrivit noi”</title>
-        <link>https://www.libertatea.ro/entertainment/theo-rose-mesaj-anghel-damian-zi-de-nastere-5844763</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/theo-rose-mesaj-anghel-damian-zi-de-nastere-5844763</guid>
-    </item>
-    <item>
-        <title>Apeluri false din partea unor companii. Cum să te ferești pentru a nu ți se fura banii din cont?</title>
-        <link>https://www.mediafax.ro/social/apeluri-false-din-partea-unor-companii-cum-sa-te-feresti-pentru-a-nu-ti-se-fura-banii-din-cont-23787526</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/apeluri-false-din-partea-unor-companii-cum-sa-te-feresti-pentru-a-nu-ti-se-fura-banii-din-cont-23787526</guid>
-    </item>
-    <item>
-        <title>Siegfried Mureșan atacă PSD în plină criză energetică: „Gălăgie, circ și populism alături de AUR”</title>
-        <link>https://www.mediafax.ro/politic/siegfried-muresan-ataca-psd-in-plina-criza-energetica-galagie-circ-si-populism-alaturi-de-aur-23787491</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/siegfried-muresan-ataca-psd-in-plina-criza-energetica-galagie-circ-si-populism-alaturi-de-aur-23787491</guid>
-    </item>
-    <item>
-        <title>Bărbat de 80 de ani, rătăcit pe traseul spre Moldoveanu. A fost salvat după 8 ore</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/barbat-de-80-de-ani-ratacit-pe-traseul-spre-moldoveanu-a-fost-salvat-dupa-8-ore-3899017</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/barbat-de-80-de-ani-ratacit-pe-traseul-spre-moldoveanu-a-fost-salvat-dupa-8-ore-3899017</guid>
-    </item>
-    <item>
-        <title>Un nou val de aer african va cuprinde țara. Meteorolog ANM: „Marți atingem apogeul”. Cum va fi vremea în următoarele zile</title>
-        <link>https://www.digi24.ro/meteo/un-nou-val-de-aer-african-va-cuprinde-tara-meteorolog-anm-marti-atingem-apogeul-cum-va-fi-vremea-in-urmatoarele-zile-3898963</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/meteo/un-nou-val-de-aer-african-va-cuprinde-tara-meteorolog-anm-marti-atingem-apogeul-cum-va-fi-vremea-in-urmatoarele-zile-3898963</guid>
-    </item>
-    <item>
-        <title>“The End of Oak Street”: Warner Bros. folosește un podcast cu câini generați de AI pentru a promova filmul</title>
-        <link>https://www.g4media.ro/the-end-of-oak-street-warner-bros-foloseste-un-podcast-cu-caini-generati-de-ai-pentru-a-promova-filmul.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/the-end-of-oak-street-warner-bros-foloseste-un-podcast-cu-caini-generati-de-ai-pentru-a-promova-filmul.html</guid>
-    </item>
-    <item>
-        <title>„Ambulanța neagră”, o dezinformare. MAI dezminte postările false de pe TikTok</title>
-        <link>https://www.mediafax.ro/social/ambulanta-neagra-o-dezinformare-mai-dezminte-postarile-false-de-pe-tiktok-23787514</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/ambulanta-neagra-o-dezinformare-mai-dezminte-postarile-false-de-pe-tiktok-23787514</guid>
     </item>
     <item>
         <title>Cum arată Andreea Popescu la 7 zile de la operațiile estetice: „Sunt extrem de umflată, am capul cât o minge, sunt vânătă”</title>
@@ -152,172 +74,10 @@
         <guid isPermaLink="true">https://adevarul.ro/economie/preturile-motorinei-ar-putea-continua-sa-scada-2548645.html</guid>
     </item>
     <item>
-        <title>Cum este să trăiești în cele mai sigure țări din lume în 2026 / Nivelul general de pace este în scădere pentru al 12-lea an consecutiv</title>
-        <link>https://www.g4media.ro/cum-este-sa-traiesti-in-cele-mai-sigure-tari-din-lume-in-2026-nivelul-general-de-pace-este-in-scadere-pentru-al-12-lea-an-consecutiv.html</link>
+        <title>ANALIZĂ Marea rocadă: America Latină virează la dreapta</title>
+        <link>https://www.g4media.ro/analiza-marea-rocada-america-latina-vireaza-la-dreapta.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cum-este-sa-traiesti-in-cele-mai-sigure-tari-din-lume-in-2026-nivelul-general-de-pace-este-in-scadere-pentru-al-12-lea-an-consecutiv.html</guid>
-    </item>
-    <item>
-        <title>Primele rezultate după scufundarea barjelor de pe Dunăre: 8 centimetri câștigați la Cernavodă. Răgaz de cel puțin 9 zile pentru Unitatea 2</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/rezultatul-operatiunii-de-pe-dunare-nivelul-apei-2548617.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/rezultatul-operatiunii-de-pe-dunare-nivelul-apei-2548617.html</guid>
-    </item>
-    <item>
-        <title>Două avioane cu sute de pasageri la bord, la un pas de o coliziune devastatoare pe aeroport. Piloții au frânat brusc</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/doua-avioane-cu-sute-de-pasageri-la-bord-la-un-2548620.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/doua-avioane-cu-sute-de-pasageri-la-bord-la-un-2548620.html</guid>
-    </item>
-    <item>
-        <title>8 cm câștigați la Cernavodă, cel puțin alte 9 zile pentru Unitatea 2, anunță ministrul Miruță</title>
-        <link>https://www.g4media.ro/8-cm-castigati-la-cernavoda-cel-putin-alte-9-zile-pentru-unitatea-2-de-la-cernavoda-anunta-ministrul-miruta.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/8-cm-castigati-la-cernavoda-cel-putin-alte-9-zile-pentru-unitatea-2-de-la-cernavoda-anunta-ministrul-miruta.html</guid>
-    </item>
-    <item>
-        <title>ISW: Rusia pregătește un atac de amploare în Ucraina înainte de 24 august. Moscova ar putea scoate rachete balistice din rezerva strategică</title>
-        <link>https://www.mediafax.ro/externe/isw-rusia-pregateste-un-atac-de-amploare-in-ucraina-inainte-de-24-august-moscova-ar-putea-scoate-rachete-balistice-din-rezerva-strategica-23787515</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/isw-rusia-pregateste-un-atac-de-amploare-in-ucraina-inainte-de-24-august-moscova-ar-putea-scoate-rachete-balistice-din-rezerva-strategica-23787515</guid>
-    </item>
-    <item>
-        <title>„Metoda Ronaldinho”: tehnica prin care hoții de buzunare jefuiesc turiștii în doar câteva secunde, pe o insulă din Spania</title>
-        <link>https://www.libertatea.ro/lifestyle/metoda-ronaldinho-tehnica-hoti-de-buzunare-jefuiesc-turistii-in-doar-cateva-secunde-insula-spania-5844758</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/metoda-ronaldinho-tehnica-hoti-de-buzunare-jefuiesc-turistii-in-doar-cateva-secunde-insula-spania-5844758</guid>
-    </item>
-    <item>
-        <title>Cât soare este prea mult? Tot ce trebuie să știi despre expunerea la lumină solară</title>
-        <link>https://www.g4media.ro/cat-soare-este-prea-mult-tot-ce-trebuie-sa-stii-despre-expunerea-la-lumina-solara.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cat-soare-este-prea-mult-tot-ce-trebuie-sa-stii-despre-expunerea-la-lumina-solara.html</guid>
-    </item>
-    <item>
-        <title>Darius Olaru a rupt plasa! Voleu superb și primul gol pentru Union SG</title>
-        <link>https://adevarul.ro/sport/darius-olaru-a-rupt-plasa-voleu-superb-si-primul-2548608.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/darius-olaru-a-rupt-plasa-voleu-superb-si-primul-2548608.html</guid>
-    </item>
-    <item>
-        <title>Mii de fani s-au strâns la o catedrală pentru nunta lui Cristiano Ronaldo şi Georgina. Surpriză: Mirii au fost Fabio şi Fatima</title>
-        <link>https://www.digi24.ro/magazin/timp-liber/showbiz/mii-de-fani-s-au-strans-la-o-catedrala-pentru-nunta-lui-cristiano-ronaldo-si-georgina-surpriza-mirii-au-fost-fabio-si-fatima-3899065</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/showbiz/mii-de-fani-s-au-strans-la-o-catedrala-pentru-nunta-lui-cristiano-ronaldo-si-georgina-surpriza-mirii-au-fost-fabio-si-fatima-3899065</guid>
-    </item>
-    <item>
-        <title>Cod galben de caniculă în vestul țării. Nopți tropicale și temperaturi deosebit de ridicate până miercuri, 12 august</title>
-        <link>https://adevarul.ro/stiri-interne/meteo/cod-galben-de-canicula-in-vestul-tarii-nopti-2548630.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/meteo/cod-galben-de-canicula-in-vestul-tarii-nopti-2548630.html</guid>
-    </item>
-    <item>
-        <title>Institutul pentru Studiul Războiului: Rusia pregătește un atac de amploare în Ucraina înainte de 24 august</title>
-        <link>https://www.g4media.ro/institutul-pentru-studiul-razboiului-rusia-pregateste-un-atac-de-amploare-in-ucraina-inainte-de-24-august.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/institutul-pentru-studiul-razboiului-rusia-pregateste-un-atac-de-amploare-in-ucraina-inainte-de-24-august.html</guid>
-    </item>
-    <item>
-        <title>Vergilius Plus, noul sistem care monitorizează șoferii pe autostrăzile din Italia. Ce trebuie să știe românii care merg acolo în vacanță</title>
-        <link>https://www.libertatea.ro/stiri/vergilius-plus-noul-sistem-monitorizare-control-viteza-autostrazi-drumuri-soferi-romani-italia-5844718</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/vergilius-plus-noul-sistem-monitorizare-control-viteza-autostrazi-drumuri-soferi-romani-italia-5844718</guid>
-    </item>
-    <item>
-        <title>Povestea din spatele numelui Iordănescu: Anghel și Edi, tată și fiu, protagoniști într-un nou documentar pe marile ecrane</title>
-        <link>https://adevarul.ro/stiri-interne/povestea-din-spatele-numelui-iordanescu-anghel-si-2548655.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/povestea-din-spatele-numelui-iordanescu-anghel-si-2548655.html</guid>
-    </item>
-    <item>
-        <title>Duminică, 9 august, au loc noi trageri loto. Report uriaș la 6/49</title>
-        <link>https://adevarul.ro/stiri-interne/societate/duminica-9-august-au-loc-noi-trageri-loto-2548605.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/duminica-9-august-au-loc-noi-trageri-loto-2548605.html</guid>
-    </item>
-    <item>
-        <title>De ce Estonia devansează toate celelalte țări în ceea ce privește expații. Locul României în Indicele Global de Relocare</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/de-ce-estonia-devanseaza-toate-celelalte-tari-in-ceea-ce-priveste-expatii-locul-romaniei-in-indicele-global-de-relocare-3896173</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/de-ce-estonia-devanseaza-toate-celelalte-tari-in-ceea-ce-priveste-expatii-locul-romaniei-in-indicele-global-de-relocare-3896173</guid>
-    </item>
-    <item>
-        <title>Cine va conduce America după Donald Trump? (1)</title>
-        <link>https://adevarul.ro/blogurile-adevarul/cine-va-conduce-america-dupa-donald-trump-1-2548593.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/cine-va-conduce-america-dupa-donald-trump-1-2548593.html</guid>
-    </item>
-    <item>
-        <title>România, o nouă medalie de aur la Campionatele Mondiale de canotaj U19</title>
-        <link>https://www.g4media.ro/romania-o-noua-medalie-de-aur-la-campionatele-mondiale-de-canotaj-u19.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/romania-o-noua-medalie-de-aur-la-campionatele-mondiale-de-canotaj-u19.html</guid>
-    </item>
-    <item>
-        <title>Turcia pregătește un transfer masiv de arme către Ucraina: rachete ATACMS, sisteme M270 și muniții cu fragmentație</title>
-        <link>https://adevarul.ro/stiri-externe/europa/turcia-pregateste-un-transfer-masiv-de-arme-catre-2548609.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/turcia-pregateste-un-transfer-masiv-de-arme-catre-2548609.html</guid>
-    </item>
-    <item>
-        <title>Scenariile unui expert în energie pentru iarna 2026-2027: Prețurile pe piaţa gazelor vor crește și vor afecta factura la curent</title>
-        <link>https://adevarul.ro/economie/scenariile-unui-expert-in-energie-pentru-iarna-2548648.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/scenariile-unui-expert-in-energie-pentru-iarna-2548648.html</guid>
-    </item>
-    <item>
-        <title>Dr. Adrian Dijmărescu, medic primar radiologie-imagistică medicală, SANADOR: „Nu există o singură investigație care să depisteze toate cancerele“</title>
-        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/dr-adrian-dijmarescu-medic-primar-2548423.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/dr-adrian-dijmarescu-medic-primar-2548423.html</guid>
-    </item>
-    <item>
-        <title>Aryna Sabalenka, eliminare surprinzătoare de la Canadian Open: Principala favorită a fost învinsă în optimi de Ekaterina Alexandrova</title>
-        <link>https://www.g4media.ro/aryna-sabalenka-eliminare-surprinzatoare-de-la-canadian-open-invinsa-in-optimi-de-ekaterina-alexandrova.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/aryna-sabalenka-eliminare-surprinzatoare-de-la-canadian-open-invinsa-in-optimi-de-ekaterina-alexandrova.html</guid>
-    </item>
-    <item>
-        <title>Un castel spectaculos și un rege ucis. Destinația de poveste al cărei mister nu a fost rezolvat nici azi</title>
-        <link>https://www.mediafax.ro/life-inedit/un-castel-spectaculos-si-un-rege-ucis-destinatia-de-poveste-al-carei-mister-nu-a-fost-rezolvat-nici-azi-23785772</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/un-castel-spectaculos-si-un-rege-ucis-destinatia-de-poveste-al-carei-mister-nu-a-fost-rezolvat-nici-azi-23785772</guid>
-    </item>
-    <item>
-        <title>Unitatea 2 de la Cernavodă rămâne în funcțiune. Apa din Dunăre a crescut cu 8 centimetri</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/unitatea-2-de-la-cernavoda-ramane-in-functiune-apa-din-dunare-a-crescut-cu-8-centimetri-3898951</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/unitatea-2-de-la-cernavoda-ramane-in-functiune-apa-din-dunare-a-crescut-cu-8-centimetri-3898951</guid>
-    </item>
-    <item>
-        <title>„Părinți care le dau aripi copiilor!”. Mărturii dureroase despre Jorge Messi: lecțiile de viață care au rămas cu Lionel</title>
-        <link>https://adevarul.ro/sport/parinti-care-le-dau-aripi-copiilor-marturii-2548639.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/parinti-care-le-dau-aripi-copiilor-marturii-2548639.html</guid>
-    </item>
-    <item>
-        <title>De ce situaţia pe piaţa gazelor va fi mai tensionată iarna următoare. Explicația șefului AEI: „Ar putea duce la preţuri mai mari”</title>
-        <link>https://www.digi24.ro/stiri/economie/energie/de-ce-situatia-pe-piata-gazelor-va-fi-mai-tensionata-iarna-urmatoare-explicatia-sefului-aei-ar-putea-duce-la-preturi-mai-mari-3899045</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/de-ce-situatia-pe-piata-gazelor-va-fi-mai-tensionata-iarna-urmatoare-explicatia-sefului-aei-ar-putea-duce-la-preturi-mai-mari-3899045</guid>
-    </item>
-    <item>
-        <title>Spațiul Schengen, suspendat între Spania și Italia din cauza crizei migranților din Ceuta. Controale la frontieră și cozi kilometrice pe aeroporturi</title>
-        <link>https://www.libertatea.ro/stiri/spatiul-schengen-suspendat-spania-italia-criz-migranti-ceuta-controale-frontiera-cozi-kilometrice-aeroporturi-5844693</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/spatiul-schengen-suspendat-spania-italia-criz-migranti-ceuta-controale-frontiera-cozi-kilometrice-aeroporturi-5844693</guid>
-    </item>
-    <item>
-        <title>Ce alegi la terasă dacă vrei să mănânci sănătos fără să comanzi o salată „fără viață” în ea? / Regula simplă propusă de nutriționistul Tania Fântână</title>
-        <link>https://www.g4media.ro/ce-alegi-la-terasa-daca-vrei-sa-mananci-sanatos-fara-sa-comanzi-o-salata.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ce-alegi-la-terasa-daca-vrei-sa-mananci-sanatos-fara-sa-comanzi-o-salata.html</guid>
-    </item>
-    <item>
-        <title>Spania în alertă. Mii de migranți ar putea lua din nou cu asalt Ceuta. Ce conțin apelurile de pe rețelele sociale</title>
-        <link>https://adevarul.ro/stiri-externe/europa/spania-in-alerta-mii-de-migranti-ar-putea-lua-2548634.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/spania-in-alerta-mii-de-migranti-ar-putea-lua-2548634.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/analiza-marea-rocada-america-latina-vireaza-la-dreapta.html</guid>
     </item>
     <item>
         <title>România, pe primul loc în lume la Mondialele Under19 de canotaj</title>
@@ -326,16 +86,16 @@
         <guid isPermaLink="true">https://www.mediafax.ro/sport/romania-pe-primul-loc-in-lume-la-mondialele-under19-de-canotaj-23787530</guid>
     </item>
     <item>
-        <title>„Ne omorau dacă ne blocau”. Clipe de groază trăite de personalul medical din ambulanța atacată cu topoare, bâte și pietre în Cluj</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/ne-omorau-daca-ne-blocau-clipe-de-groaza-traite-2548654.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ne-omorau-daca-ne-blocau-clipe-de-groaza-traite-2548654.html</guid>
+        <title>Începe procesul istoric pentru uciderea lui Tupac Shakur, la aproape 30 de ani de la crimă. Cine este Dwayne „Keef D” Davis, acuzat că a fost creierul</title>
+        <link>https://www.libertatea.ro/stiri/incepe-proces-istoric-ucidere-tupac-shakur-30-de-ani-de-la-crima-cine-este-dwayne-keef-d-davis-acuzatii-atac-armat-5844784</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/incepe-proces-istoric-ucidere-tupac-shakur-30-de-ani-de-la-crima-cine-este-dwayne-keef-d-davis-acuzatii-atac-armat-5844784</guid>
     </item>
     <item>
-        <title>Ce soluții există la criza politică și calculele lui Nicușor Dan. Daniel Funeriu: „Matematicienii au luxul să poată rămâne în abstract”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ce-solutii-exista-la-criza-politica-si-calculele-lui-nicusor-dan-daniel-funeriu-matematicienii-au-luxul-sa-poata-ramane-in-abstract-3898971</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ce-solutii-exista-la-criza-politica-si-calculele-lui-nicusor-dan-daniel-funeriu-matematicienii-au-luxul-sa-poata-ramane-in-abstract-3898971</guid>
+        <title>Armata SUA l-a demis pe generalul care coordonează sprijinul pentru Ucraina. Un fost oficial invocă probleme legate de consumul de alcool</title>
+        <link>https://adevarul.ro/stiri-externe/sua/armata-sua-l-a-demis-pe-generalul-care-conducea-2548638.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/armata-sua-l-a-demis-pe-generalul-care-conducea-2548638.html</guid>
     </item>
     <item>
         <title>Cresc tentativele de fraudă prin apeluri telefonice / Recomandările poliției pentru a nu fii păcălit de „vishing”</title>
@@ -344,28 +104,268 @@
         <guid isPermaLink="true">https://www.g4media.ro/cresc-tentativele-de-frauda-prin-apeluri-telefonice-recomandarile-politiei-pentru-a-nu-fii-pacalit-de-vishing.html</guid>
     </item>
     <item>
-        <title>Săptămâna care poate arăta cât de bolnavă este economia României. Patru cifre decisive vin în următoarele zile</title>
-        <link>https://www.mediafax.ro/economic/saptamana-care-poate-arata-cat-de-bolnava-este-economia-romaniei-patru-cifre-decisive-vin-in-urmatoarele-zile-23787494</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/saptamana-care-poate-arata-cat-de-bolnava-este-economia-romaniei-patru-cifre-decisive-vin-in-urmatoarele-zile-23787494</guid>
-    </item>
-    <item>
         <title>România a obținut locul 1 pe naţiuni la Campionatele Mondiale de canotaj U19, cu 6 medalii câștigate</title>
         <link>https://www.digi24.ro/stiri/sport/alte-sporturi/romania-a-obtinut-locul-1-pe-natiuni-la-campionatele-mondiale-de-canotaj-u19-cu-6-medalii-castigate-3899073</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/alte-sporturi/romania-a-obtinut-locul-1-pe-natiuni-la-campionatele-mondiale-de-canotaj-u19-cu-6-medalii-castigate-3899073</guid>
     </item>
     <item>
-        <title>VIDEO Medicii unei ambulanțe, atacați cu bâte și topoare de localnici, care credeau zvonul de pe TikTok că este o „ambulanță care fură copii” / Șoferu</title>
-        <link>https://www.g4media.ro/video-medicii-unei-ambulante-atacati-cu-bate-si-topoare-de-localnici-care-credeau-zvonul-de-pe-tiktok-ca-este-o-ambulanta-care-fura-copii-soferul-ranit-la-ochi-de-cioburile-geamului-spart.html</link>
+        <title>Aryna Sabalenka, eliminare surprinzătoare de la Canadian Open: Principala favorită a fost învinsă în optimi de Ekaterina Alexandrova</title>
+        <link>https://www.g4media.ro/aryna-sabalenka-eliminare-surprinzatoare-de-la-canadian-open-invinsa-in-optimi-de-ekaterina-alexandrova.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-medicii-unei-ambulante-atacati-cu-bate-si-topoare-de-localnici-care-credeau-zvonul-de-pe-tiktok-ca-este-o-ambulanta-care-fura-copii-soferul-ranit-la-ochi-de-cioburile-geamului-spart.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/aryna-sabalenka-eliminare-surprinzatoare-de-la-canadian-open-invinsa-in-optimi-de-ekaterina-alexandrova.html</guid>
     </item>
     <item>
-        <title>Ornella Muti, dezvăluiri din culisele filmelor cu actori legendari. „Când am jucat cu Sylvester Stallone am făcut două bronșite”</title>
-        <link>https://adevarul.ro/showbiz/film/ornella-muti-dezvaluiri-din-culisele-filmelor-cu-2548311.html</link>
+        <title>Cod galben de caniculă în 7 județe din România. Prognoza ANM pentru perioada 10-12 august 2026</title>
+        <link>https://www.libertatea.ro/stiri/cod-galben-canicula-7-judete-romania-prognoza-anm-10-12-august-2026-5844711</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cod-galben-canicula-7-judete-romania-prognoza-anm-10-12-august-2026-5844711</guid>
+    </item>
+    <item>
+        <title>Un castel spectaculos și un rege ucis. Destinația de poveste al cărei mister nu a fost rezolvat nici azi</title>
+        <link>https://www.mediafax.ro/life-inedit/un-castel-spectaculos-si-un-rege-ucis-destinatia-de-poveste-al-carei-mister-nu-a-fost-rezolvat-nici-azi-23785772</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/un-castel-spectaculos-si-un-rege-ucis-destinatia-de-poveste-al-carei-mister-nu-a-fost-rezolvat-nici-azi-23785772</guid>
+    </item>
+    <item>
+        <title>Primele rezultate după scufundarea barjelor de pe Dunăre: 8 centimetri câștigați la Cernavodă. Răgaz de cel puțin 9 zile pentru Unitatea 2</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/rezultatul-operatiunii-de-pe-dunare-nivelul-apei-2548617.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/film/ornella-muti-dezvaluiri-din-culisele-filmelor-cu-2548311.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/rezultatul-operatiunii-de-pe-dunare-nivelul-apei-2548617.html</guid>
+    </item>
+    <item>
+        <title>„Fantomele” din creier care păstrează amintirile uitate. Ce au descoperit cercetătorii</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/fantomele-din-creier-care-pastreaza-amintirile-uitate-ce-au-descoperit-cercetatorii-23786774</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/fantomele-din-creier-care-pastreaza-amintirile-uitate-ce-au-descoperit-cercetatorii-23786774</guid>
+    </item>
+    <item>
+        <title>Primele imagini cu Mojtaba Khamenei, liderul suprem al Iranului, după luni de speculații și absență. O filmare de 12 secunde ridică noi întrebări</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/primele-imagini-cu-mojtaba-khamenei-liderul-2548649.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/primele-imagini-cu-mojtaba-khamenei-liderul-2548649.html</guid>
+    </item>
+    <item>
+        <title>Satul din Europa desemnat „cel mai frumos din lume” a ajuns să încaseze zeci de mii de euro din amenzi pentru parcare. De ce s-au săturat localnicii d</title>
+        <link>https://adevarul.ro/stiri-externe/europa/satul-din-europa-desemnat-cel-mai-frumos-din-2548641.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/satul-din-europa-desemnat-cel-mai-frumos-din-2548641.html</guid>
+    </item>
+    <item>
+        <title>Melodiile lui Taylor Swift au fost eliminate din postările Casei Albe. Președintele SUA: „O urăsc”</title>
+        <link>https://adevarul.ro/showbiz/vedete/melodiile-lui-taylor-swift-au-fost-eliminate-din-2548640.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/vedete/melodiile-lui-taylor-swift-au-fost-eliminate-din-2548640.html</guid>
+    </item>
+    <item>
+        <title>„Ne omorau dacă ne blocau”. Clipe de groază trăite de personalul medical din ambulanța atacată cu topoare, bâte și pietre în Cluj</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/ne-omorau-daca-ne-blocau-clipe-de-groaza-traite-2548654.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ne-omorau-daca-ne-blocau-clipe-de-groaza-traite-2548654.html</guid>
+    </item>
+    <item>
+        <title>Legea împotriva dezinformării. Radu Miruță îi cere lui Sorin Grindeanu să pună proiectul pe ordinea de zi a Camerei Deputaților: „E prea mult”</title>
+        <link>https://www.g4media.ro/legea-impotriva-dezinformarii-radu-miruta-ii-cere-lui-sorin-grindeanu-sa-puna-proiectul-pe-ordinea-de-zi-a-camerei-deputatilor-e-prea-mult.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/legea-impotriva-dezinformarii-radu-miruta-ii-cere-lui-sorin-grindeanu-sa-puna-proiectul-pe-ordinea-de-zi-a-camerei-deputatilor-e-prea-mult.html</guid>
+    </item>
+    <item>
+        <title>Ce alegi la terasă dacă vrei să mănânci sănătos fără să comanzi o salată „fără viață” în ea? / Regula simplă propusă de nutriționistul Tania Fântână</title>
+        <link>https://www.g4media.ro/ce-alegi-la-terasa-daca-vrei-sa-mananci-sanatos-fara-sa-comanzi-o-salata.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ce-alegi-la-terasa-daca-vrei-sa-mananci-sanatos-fara-sa-comanzi-o-salata.html</guid>
+    </item>
+    <item>
+        <title>Scenariile unui expert în energie pentru iarna 2026-2027: Prețurile pe piaţa gazelor vor crește și vor afecta factura la curent</title>
+        <link>https://adevarul.ro/economie/scenariile-unui-expert-in-energie-pentru-iarna-2548648.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/scenariile-unui-expert-in-energie-pentru-iarna-2548648.html</guid>
+    </item>
+    <item>
+        <title>Apeluri false din partea unor companii. Cum să te ferești pentru a nu ți se fura banii din cont?</title>
+        <link>https://www.mediafax.ro/social/apeluri-false-din-partea-unor-companii-cum-sa-te-feresti-pentru-a-nu-ti-se-fura-banii-din-cont-23787526</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/apeluri-false-din-partea-unor-companii-cum-sa-te-feresti-pentru-a-nu-ti-se-fura-banii-din-cont-23787526</guid>
+    </item>
+    <item>
+        <title>Operațiunea de pe Dunăre a „cumpărat” cel puțin nouă zile pentru Unitatea 2 de la Cernavodă. Buzoianu: Nivelul apei a crescut cu 4 centimetri</title>
+        <link>https://www.mediafax.ro/politic/operatiunea-de-pe-dunare-a-cumparat-cel-putin-noua-zile-pentru-unitatea-2-de-la-cernavoda-buzoianu-nivelul-apei-a-crescut-cu-4-centimetri-23787499</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/operatiunea-de-pe-dunare-a-cumparat-cel-putin-noua-zile-pentru-unitatea-2-de-la-cernavoda-buzoianu-nivelul-apei-a-crescut-cu-4-centimetri-23787499</guid>
+    </item>
+    <item>
+        <title>Ambulanță din Cluj, atacată cu topoarele după răspândirea unor zvonuri pe TikTok că „fură copii”. Reacția lui Raed Arafat</title>
+        <link>https://www.libertatea.ro/stiri/stiri-cluj-ambulanta-atacata-topoare-dupa-zvonuri-raspandite-tiktok-ca-fura-copii-sofer-ranit-ochi-5844644</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-cluj-ambulanta-atacata-topoare-dupa-zvonuri-raspandite-tiktok-ca-fura-copii-sofer-ranit-ochi-5844644</guid>
+    </item>
+    <item>
+        <title>Cât soare este prea mult? Tot ce trebuie să știi despre expunerea la lumină solară</title>
+        <link>https://www.g4media.ro/cat-soare-este-prea-mult-tot-ce-trebuie-sa-stii-despre-expunerea-la-lumina-solara.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cat-soare-este-prea-mult-tot-ce-trebuie-sa-stii-despre-expunerea-la-lumina-solara.html</guid>
+    </item>
+    <item>
+        <title>Theo Rose, declarație de dragoste pentru Anghel Damian, de ziua lui: „Cel mai tare mă bucură că ne-am potrivit noi”</title>
+        <link>https://www.libertatea.ro/entertainment/theo-rose-mesaj-anghel-damian-zi-de-nastere-5844763</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/theo-rose-mesaj-anghel-damian-zi-de-nastere-5844763</guid>
+    </item>
+    <item>
+        <title>De ce situaţia pe piaţa gazelor va fi mai tensionată iarna următoare. Explicația șefului AEI: „Ar putea duce la preţuri mai mari”</title>
+        <link>https://www.digi24.ro/stiri/economie/energie/de-ce-situatia-pe-piata-gazelor-va-fi-mai-tensionata-iarna-urmatoare-explicatia-sefului-aei-ar-putea-duce-la-preturi-mai-mari-3899045</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/de-ce-situatia-pe-piata-gazelor-va-fi-mai-tensionata-iarna-urmatoare-explicatia-sefului-aei-ar-putea-duce-la-preturi-mai-mari-3899045</guid>
+    </item>
+    <item>
+        <title>De ce Estonia devansează toate celelalte țări în ceea ce privește expații. Locul României în Indicele Global de Relocare</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/de-ce-estonia-devanseaza-toate-celelalte-tari-in-ceea-ce-priveste-expatii-locul-romaniei-in-indicele-global-de-relocare-3896173</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/de-ce-estonia-devanseaza-toate-celelalte-tari-in-ceea-ce-priveste-expatii-locul-romaniei-in-indicele-global-de-relocare-3896173</guid>
+    </item>
+    <item>
+        <title>„Ambulanța neagră”, o dezinformare. MAI dezminte postările false de pe TikTok</title>
+        <link>https://www.mediafax.ro/social/ambulanta-neagra-o-dezinformare-mai-dezminte-postarile-false-de-pe-tiktok-23787514</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/ambulanta-neagra-o-dezinformare-mai-dezminte-postarile-false-de-pe-tiktok-23787514</guid>
+    </item>
+    <item>
+        <title>Atenţionare de călătorie pentru Spania: Nivel maxim de prealertă pentru risc de incendii forestiere pe teritoriul Comunităţii Valenciene</title>
+        <link>https://www.g4media.ro/atentionare-de-calatorie-pentru-spania-nivel-maxim-de-prealerta-pentru-risc-de-incendii-forestiere-pe-teritoriul-comunitatii-valenciene.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/atentionare-de-calatorie-pentru-spania-nivel-maxim-de-prealerta-pentru-risc-de-incendii-forestiere-pe-teritoriul-comunitatii-valenciene.html</guid>
+    </item>
+    <item>
+        <title>Arafat după ce o ambulanță a fost atacată cu topoare și pietre în Cluj, pe motiv că „fură copii”: „O minciună distribuită pe telefon a ajuns să însemn</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/arafat-dupa-ce-o-ambulanta-a-fost-atacata-cu-2548628.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/arafat-dupa-ce-o-ambulanta-a-fost-atacata-cu-2548628.html</guid>
+    </item>
+    <item>
+        <title>VIDEO Clipul viral de pe Tik Tok cu „ambulanța neagră care fură copii”, distribuit de peste 6000 de ori / Atacul asupra unei ambulanțe din județul Clu</title>
+        <link>https://www.g4media.ro/video-clipul-viral-de-pe-tik-tok-cu-ambulanta-neagra-care-fura-copii-distribuit-de-peste-6000-de-ori-atacul-asupra-unei-ambulante-din-judetul-cluj-influentat-de-dezinformarile-de-pe-retelele-d.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/video-clipul-viral-de-pe-tik-tok-cu-ambulanta-neagra-care-fura-copii-distribuit-de-peste-6000-de-ori-atacul-asupra-unei-ambulante-din-judetul-cluj-influentat-de-dezinformarile-de-pe-retelele-d.html</guid>
+    </item>
+    <item>
+        <title>Ce soluții există la criza politică și calculele lui Nicușor Dan. Daniel Funeriu: „Matematicienii au luxul să poată rămâne în abstract”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ce-solutii-exista-la-criza-politica-si-calculele-lui-nicusor-dan-daniel-funeriu-matematicienii-au-luxul-sa-poata-ramane-in-abstract-3898971</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ce-solutii-exista-la-criza-politica-si-calculele-lui-nicusor-dan-daniel-funeriu-matematicienii-au-luxul-sa-poata-ramane-in-abstract-3898971</guid>
+    </item>
+    <item>
+        <title>Legea prin care este recunoscută oficial Episcopia Ortodoxă Română a Italiei, promulgată de președintele Sergio Mattarella</title>
+        <link>https://www.g4media.ro/legea-prin-care-este-recunoscuta-oficial-episcopia-ortodoxa-romana-a-italiei-promulgata-de-presedintele-sergio-mattarella.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/legea-prin-care-este-recunoscuta-oficial-episcopia-ortodoxa-romana-a-italiei-promulgata-de-presedintele-sergio-mattarella.html</guid>
+    </item>
+    <item>
+        <title>De ce consumul de ardei iute nu e atât de sănătos împotriva cancerului așa cum se credea</title>
+        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/de-ce-consumul-de-ardei-iute-nu-e-atat-de-sanatos-2548633.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/de-ce-consumul-de-ardei-iute-nu-e-atat-de-sanatos-2548633.html</guid>
+    </item>
+    <item>
+        <title>Atacurile Rusiei împing din nou cerealele Ucrainei spre România. Noul val poate veni peste o recoltă foarte mare a fermierilor români</title>
+        <link>https://www.mediafax.ro/stirile-zilei/atacurile-rusiei-imping-din-nou-cerealele-ucrainei-spre-romania-noul-val-poate-veni-peste-o-recolta-foarte-mare-a-fermierilor-romani-23787527</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/atacurile-rusiei-imping-din-nou-cerealele-ucrainei-spre-romania-noul-val-poate-veni-peste-o-recolta-foarte-mare-a-fermierilor-romani-23787527</guid>
+    </item>
+    <item>
+        <title>OpenAI suspendă temporar o parte din activitățile proiectului de AI Astra din motive de securitate</title>
+        <link>https://www.g4media.ro/openai-suspenda-temporar-o-parte-din-activitatile-proiectului-de-ai-astra-din-motive-de-securitate.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/openai-suspenda-temporar-o-parte-din-activitatile-proiectului-de-ai-astra-din-motive-de-securitate.html</guid>
+    </item>
+    <item>
+        <title>ISW: Rusia pregătește un atac de amploare în Ucraina înainte de 24 august. Moscova ar putea scoate rachete balistice din rezerva strategică</title>
+        <link>https://www.mediafax.ro/externe/isw-rusia-pregateste-un-atac-de-amploare-in-ucraina-inainte-de-24-august-moscova-ar-putea-scoate-rachete-balistice-din-rezerva-strategica-23787515</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/isw-rusia-pregateste-un-atac-de-amploare-in-ucraina-inainte-de-24-august-moscova-ar-putea-scoate-rachete-balistice-din-rezerva-strategica-23787515</guid>
+    </item>
+    <item>
+        <title>Rata șomajului din Franța a ajuns la cel ridicat nivel din ultimii șase ani</title>
+        <link>https://www.g4media.ro/rata-somajului-din-franta-a-ajuns-la-cel-ridicat-nivel-din-ultimii-sase-ani.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/rata-somajului-din-franta-a-ajuns-la-cel-ridicat-nivel-din-ultimii-sase-ani.html</guid>
+    </item>
+    <item>
+        <title>Piroman reţinut de poliţişti, după ce incendiat mai multe locaţii din București</title>
+        <link>https://www.digi24.ro/stiri/piroman-retinut-de-politisti-dupa-ce-incendiat-mai-multe-locatii-din-bucuresti-3899121</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/piroman-retinut-de-politisti-dupa-ce-incendiat-mai-multe-locatii-din-bucuresti-3899121</guid>
+    </item>
+    <item>
+        <title>Jose Mourinho, nemulțumit de una dintre noile sale achiziții din acest mercato: „S-a prezentat într-o formă fizică foarte slabă”</title>
+        <link>https://www.g4media.ro/jose-mourinho-nemultumit-de-una-dintre-noile-sale-achizitii-din-aceasta-vara-la-real-madrid-s-a-prezentat-intr-o-forma-fizica-foarte-slaba.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/jose-mourinho-nemultumit-de-una-dintre-noile-sale-achizitii-din-aceasta-vara-la-real-madrid-s-a-prezentat-intr-o-forma-fizica-foarte-slaba.html</guid>
+    </item>
+    <item>
+        <title>Tragedie în aer: Patru persoane au murit în Brazilia în urma prăbușirii unui elicopter. Mergeau la o petrecere</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/tragedie-in-aer-patru-persoane-au-murit-in-2548625.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/tragedie-in-aer-patru-persoane-au-murit-in-2548625.html</guid>
+    </item>
+    <item>
+        <title>„Minciuna a ieșit din telefon și a ajuns în stradă”. Radu Miruță cere adoptarea rapidă a legii împotriva dezinformării, după atacul asupra unei ambula</title>
+        <link>https://www.mediafax.ro/politic/minciuna-a-iesit-din-telefon-si-a-ajuns-in-strada-radu-miruta-cere-adoptarea-rapida-a-legii-impotriva-dezinformarii-dupa-atacul-asupra-unei-ambulante-23787539</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/minciuna-a-iesit-din-telefon-si-a-ajuns-in-strada-radu-miruta-cere-adoptarea-rapida-a-legii-impotriva-dezinformarii-dupa-atacul-asupra-unei-ambulante-23787539</guid>
+    </item>
+    <item>
+        <title>Ministerul Sănătății condamnă atacul asupra ambulanței din Recea-Cristur, pe fondul dezinformărilor despre „ambulanțe negre” care circulă pe Tik Tok: </title>
+        <link>https://www.g4media.ro/ministerul-sanatatii-condamna-atacul-asupra-ambulantei-din-recea-cristur-pe-fondul-dezinformarilor-despre-ambulante-negre-care-circula-pe-tik-tok-asemenea-afirmatii-sunt-false-si-profund-peric.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ministerul-sanatatii-condamna-atacul-asupra-ambulantei-din-recea-cristur-pe-fondul-dezinformarilor-despre-ambulante-negre-care-circula-pe-tik-tok-asemenea-afirmatii-sunt-false-si-profund-peric.html</guid>
+    </item>
+    <item>
+        <title>Perioada de mercato intră în ultima lună. Cele mai importante transferuri la nivel internațional</title>
+        <link>https://www.mediafax.ro/sport/perioada-de-mercato-intra-in-ultima-luna-cele-mai-importante-transferuri-la-nivel-international-23786639</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/perioada-de-mercato-intra-in-ultima-luna-cele-mai-importante-transferuri-la-nivel-international-23786639</guid>
+    </item>
+    <item>
+        <title>Cum este să trăiești în cele mai sigure țări din lume în 2026 / Nivelul general de pace este în scădere pentru al 12-lea an consecutiv</title>
+        <link>https://www.g4media.ro/cum-este-sa-traiesti-in-cele-mai-sigure-tari-din-lume-in-2026-nivelul-general-de-pace-este-in-scadere-pentru-al-12-lea-an-consecutiv.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cum-este-sa-traiesti-in-cele-mai-sigure-tari-din-lume-in-2026-nivelul-general-de-pace-este-in-scadere-pentru-al-12-lea-an-consecutiv.html</guid>
+    </item>
+    <item>
+        <title>Bărbat de 80 de ani, rătăcit pe traseul spre Moldoveanu. A fost salvat după 8 ore</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/barbat-de-80-de-ani-ratacit-pe-traseul-spre-moldoveanu-a-fost-salvat-dupa-8-ore-3899017</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/barbat-de-80-de-ani-ratacit-pe-traseul-spre-moldoveanu-a-fost-salvat-dupa-8-ore-3899017</guid>
+    </item>
+    <item>
+        <title>Cât a crescut nivelul Dunării în nici 24 de ore după scufundarea barjelor: „Cel puțin 9 zile pentru Unitatea 2”</title>
+        <link>https://www.libertatea.ro/stiri/cat-a-crescut-nivelul-dunarii-in-nici-24-de-ore-dupa-scufundarea-barjelor-5844730</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cat-a-crescut-nivelul-dunarii-in-nici-24-de-ore-dupa-scufundarea-barjelor-5844730</guid>
+    </item>
+    <item>
+        <title>„Cel mai puternic om pe care l-a cunoscut vreodată planeta”. Cum redefinește Trump „lumea liberă” prin ego, cucerire și frică</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/cel-mai-puternic-om-pe-care-l-a-cunoscut-vreodata-planeta-cum-redefineste-trump-lumea-libera-prin-ego-cucerire-si-frica-3894911</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/cel-mai-puternic-om-pe-care-l-a-cunoscut-vreodata-planeta-cum-redefineste-trump-lumea-libera-prin-ego-cucerire-si-frica-3894911</guid>
+    </item>
+    <item>
+        <title>Atacuri ruse în mai multe regiuni ale Ucrainei: 8 persoane, inclusiv copii, au fost rănite la Odesa, unde loviturile au avariat reţeaua electrică, por</title>
+        <link>https://adevarul.ro/stiri-externe/europa/atacuri-ruse-in-mai-multe-regiuni-ale-ucrainei-8-2548653.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/atacuri-ruse-in-mai-multe-regiuni-ale-ucrainei-8-2548653.html</guid>
+    </item>
+    <item>
+        <title>Mii de fani s-au strâns la o catedrală pentru nunta lui Cristiano Ronaldo şi Georgina. Surpriză: Mirii au fost Fabio şi Fatima</title>
+        <link>https://www.digi24.ro/magazin/timp-liber/showbiz/mii-de-fani-s-au-strans-la-o-catedrala-pentru-nunta-lui-cristiano-ronaldo-si-georgina-surpriza-mirii-au-fost-fabio-si-fatima-3899065</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/showbiz/mii-de-fani-s-au-strans-la-o-catedrala-pentru-nunta-lui-cristiano-ronaldo-si-georgina-surpriza-mirii-au-fost-fabio-si-fatima-3899065</guid>
+    </item>
+    <item>
+        <title>Cât costă preparatele juraților „Chefi la cuțite” la Summer Well 2026: „Explozie de bucurie”. Ce poți mânca în ultima zi de festival</title>
+        <link>https://www.libertatea.ro/entertainment/cat-costa-preparatele-juratilor-chefi-la-cutite-la-summer-well-2026-5844798</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/cat-costa-preparatele-juratilor-chefi-la-cutite-la-summer-well-2026-5844798</guid>
     </item>
 </channel>
 </rss>
