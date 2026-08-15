@@ -5,20 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 15 Aug 2026 05:58:01 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:14:31 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Slipknot se desparte de Sid Wilson după aproape 30 de ani / Trupa a șters anunțul după publicare</title>
-        <link>https://www.g4media.ro/slipknot-se-desparte-de-sid-wilson-dupa-aproape-30-de-ani-trupa-a-sters-anuntul-dupa-publicare.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/slipknot-se-desparte-de-sid-wilson-dupa-aproape-30-de-ani-trupa-a-sters-anuntul-dupa-publicare.html</guid>
-    </item>
-    <item>
-        <title>Pagube în sudul Spaniei după un cutremur cu magnitudinea 5</title>
-        <link>https://www.g4media.ro/pagube-in-sudul-spaniei-dupa-un-cutremur-cu-magnitudinea-5.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pagube-in-sudul-spaniei-dupa-un-cutremur-cu-magnitudinea-5.html</guid>
-    </item>
     <item>
         <title>Copiii care își fac cont pe rețelele sociale încă din gimnaziu au rezultate mai slabe la școală. Ce au descoperit cercetătorii italieni</title>
         <link>https://www.mediafax.ro/social/copiii-care-isi-fac-cont-pe-retelele-sociale-inca-din-gimnaziu-au-rezultate-mai-slabe-la-scoala-ce-au-descoperit-cercetatorii-italieni-23788548</link>
@@ -26,160 +14,22 @@
         <guid isPermaLink="true">https://www.mediafax.ro/social/copiii-care-isi-fac-cont-pe-retelele-sociale-inca-din-gimnaziu-au-rezultate-mai-slabe-la-scoala-ce-au-descoperit-cercetatorii-italieni-23788548</guid>
     </item>
     <item>
-        <title>Cum încearcă Putin să evite o nouă mobilizare, deși Rusia are nevoie de tot mai mulți soldați pe frontul din Ucraina</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/cum-incearca-putin-sa-evite-o-noua-mobilizare-desi-rusia-are-nevoie-de-tot-mai-multi-soldati-pe-frontul-din-ucraina-3906985</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/cum-incearca-putin-sa-evite-o-noua-mobilizare-desi-rusia-are-nevoie-de-tot-mai-multi-soldati-pe-frontul-din-ucraina-3906985</guid>
-    </item>
-    <item>
-        <title>Fost căpitan al naționalei de volei, Mircea Abraham a murit la 53 de ani</title>
-        <link>https://adevarul.ro/sport/fost-capitan-al-nationalei-de-volei-mircea-2550049.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/fost-capitan-al-nationalei-de-volei-mircea-2550049.html</guid>
-    </item>
-    <item>
-        <title>Trupa de heavy metal Slipknot, premiată cu Grammy, se desparte de Sid Wilson după aproape 30 de ani</title>
-        <link>https://www.mediafax.ro/life-entertaiment/trupa-de-heavy-metal-slipknot-premiata-cu-grammy-se-desparte-de-sid-wilson-dupa-aproape-30-de-ani-23790876</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/trupa-de-heavy-metal-slipknot-premiata-cu-grammy-se-desparte-de-sid-wilson-dupa-aproape-30-de-ani-23790876</guid>
-    </item>
-    <item>
-        <title>FC Argeș a remizat acasă cu Farul Constanța și rămâne pe primul loc în Superligă</title>
-        <link>https://adevarul.ro/sport/fc-arges-a-remizat-acasa-cu-farul-constanta-si-2550051.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/fc-arges-a-remizat-acasa-cu-farul-constanta-si-2550051.html</guid>
-    </item>
-    <item>
-        <title>Zelenski: Rusia ar putea pierde 30.000 de militari în august. Ucraina îşi întăreşte poziţiile în Doneţk</title>
-        <link>https://www.digi24.ro/stiri/externe/zelenski-rusia-ar-putea-pierde-30-000-de-militari-in-august-ucraina-isi-intareste-pozitiile-in-donetk-3907419</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/zelenski-rusia-ar-putea-pierde-30-000-de-militari-in-august-ucraina-isi-intareste-pozitiile-in-donetk-3907419</guid>
-    </item>
-    <item>
-        <title>Apartamentele vechi rămân mai scumpe decât cele noi. Ce mai poți cumpăra cu 100.000 de euro după un an de TVA de 21%</title>
-        <link>https://adevarul.ro/economie/apartamentele-vechi-raman-mai-scumpe-decat-cele-2549115.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/apartamentele-vechi-raman-mai-scumpe-decat-cele-2549115.html</guid>
-    </item>
-    <item>
-        <title>INTERVIU 7 din 10 adulți din România au probleme cu greutatea. De ce punem kilogramele la loc după ce slăbim</title>
-        <link>https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/interviu-7-din-10-adulti-din-romania-au-probleme-2549494.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/interviu-7-din-10-adulti-din-romania-au-probleme-2549494.html</guid>
-    </item>
-    <item>
-        <title>Anthropic avertizează că riscurile asociate inteligenței artificiale sunt în creștere</title>
-        <link>https://www.mediafax.ro/tehnologie/anthropic-avertizeaza-ca-riscurile-asociate-inteligentei-artificiale-sunt-in-crestere-23790872</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/anthropic-avertizeaza-ca-riscurile-asociate-inteligentei-artificiale-sunt-in-crestere-23790872</guid>
-    </item>
-    <item>
-        <title>Cum au reluat Donald Trump și Elon Musk o relație care părea iremediabil distrusă după aproape un an de eforturi în culise</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/cum-au-reluat-donald-trump-si-elon-musk-o-relatie-care-parea-iremediabil-distrusa-dupa-aproape-un-an-de-eforturi-in-culise-3906035</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/cum-au-reluat-donald-trump-si-elon-musk-o-relatie-care-parea-iremediabil-distrusa-dupa-aproape-un-an-de-eforturi-in-culise-3906035</guid>
-    </item>
-    <item>
-        <title>Coreea de Sud cere un „regim de pace” cu Nordul. Lee Jae Myung propune reluarea dialogului</title>
-        <link>https://www.mediafax.ro/externe/coreea-de-sud-cere-un-regim-de-pace-cu-nordul-lee-jae-myung-propune-reluarea-dialogului-23790863</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/coreea-de-sud-cere-un-regim-de-pace-cu-nordul-lee-jae-myung-propune-reluarea-dialogului-23790863</guid>
-    </item>
-    <item>
-        <title>„I-am cerut AI-ului să-mi facă o rezervare. A spart sistemul și a dat afară un alt client de pe lista de așteptare”. Experiența unui australian</title>
-        <link>https://adevarul.ro/stil-de-viata/tehnologie/i-am-cerut-ai-ului-sa-mi-faca-o-rezervare-a-2549864.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/tehnologie/i-am-cerut-ai-ului-sa-mi-faca-o-rezervare-a-2549864.html</guid>
-    </item>
-    <item>
-        <title>Mesaje de Sfânta Maria 2026. Cele mai frumoase urări de „La mulți ani” pe care le poți trimite pe 15 august</title>
-        <link>https://www.mediafax.ro/social/mesaje-de-sfanta-maria-2026-cele-mai-frumoase-urari-de-la-multi-ani-pe-care-le-poti-trimite-pe-15-august-23790655</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/mesaje-de-sfanta-maria-2026-cele-mai-frumoase-urari-de-la-multi-ani-pe-care-le-poti-trimite-pe-15-august-23790655</guid>
-    </item>
-    <item>
-        <title>Anthropic avertizează că riscurile de securitate asociate inteligenței artificiale sunt în creștere</title>
-        <link>https://www.g4media.ro/anthropic-avertizeaza-ca-riscurile-de-securitate-asociate-inteligentei-artificiale-sunt-in-crestere.html</link>
+        <title>Marvel anunță distribuția noului „X-Men” / Adam Driver îl va interpreta pe Mister Sinister</title>
+        <link>https://www.g4media.ro/marvel-anunta-distributia-noului-x-men-adam-driver-il-va-interpreta-pe-mister-sinister.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/anthropic-avertizeaza-ca-riscurile-de-securitate-asociate-inteligentei-artificiale-sunt-in-crestere.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/marvel-anunta-distributia-noului-x-men-adam-driver-il-va-interpreta-pe-mister-sinister.html</guid>
     </item>
     <item>
-        <title>Ce se întâmplă cu actualul card de sănătate de la 1 septembrie. Documentul care ar urma să îi preia treptat funcțiile</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/ce-se-intampla-cu-actualul-card-de-sanatate-de-la-1-septembrie-documentul-care-ar-urma-sa-ii-preia-treptat-functiile-3906533</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/ce-se-intampla-cu-actualul-card-de-sanatate-de-la-1-septembrie-documentul-care-ar-urma-sa-ii-preia-treptat-functiile-3906533</guid>
-    </item>
-    <item>
-        <title>Cum a pregătit Rusia „trupe de șoc” care să creeze haos în Rep. Moldova: Un plan pus la cale din „Silicon Valley”-ul Kremlinului</title>
-        <link>https://www.digi24.ro/stiri/externe/cum-a-pregatit-rusia-trupe-de-soc-care-sa-creeze-haos-in-rep-moldova-un-plan-pus-la-cale-din-silicon-valley-ul-kremlinului-3907069</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/cum-a-pregatit-rusia-trupe-de-soc-care-sa-creeze-haos-in-rep-moldova-un-plan-pus-la-cale-din-silicon-valley-ul-kremlinului-3907069</guid>
-    </item>
-    <item>
-        <title>Mărturiile unui opozant al lui Putin după ce a fugit din Rusia: „Am încercat, până în ultimul moment, să nu depășesc nicio limită”</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/marturiile-unui-opozant-al-lui-putin-dupa-ce-a-fugit-din-rusia-am-incercat-pana-in-ultimul-moment-sa-nu-depasesc-nicio-limita-3906651</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/marturiile-unui-opozant-al-lui-putin-dupa-ce-a-fugit-din-rusia-am-incercat-pana-in-ultimul-moment-sa-nu-depasesc-nicio-limita-3906651</guid>
-    </item>
-    <item>
-        <title>Explozii la o bază militară rusă: Ucraina ar fi lovit avioane MiG-31 capabile să lanseze rachete Kinjal</title>
-        <link>https://www.g4media.ro/explozii-la-o-baza-militara-rusa-ucraina-ar-fi-lovit-avioane-mig-31-capabile-sa-lanseze-rachete-kinjal.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/explozii-la-o-baza-militara-rusa-ucraina-ar-fi-lovit-avioane-mig-31-capabile-sa-lanseze-rachete-kinjal.html</guid>
-    </item>
-    <item>
-        <title>Cutremur cu magnitudinea 7,7 în largul Indoneziei. Cel puțin doi două persoane au murit</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/cutremur-cu-magnitudinea-77-in-largul-indoneziei-cel-putin-doi-doua-persoane-au-murit-3907413</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/cutremur-cu-magnitudinea-77-in-largul-indoneziei-cel-putin-doi-doua-persoane-au-murit-3907413</guid>
-    </item>
-    <item>
-        <title>Care este diferența dintre Sfânta Maria Mare și cea Mică. Semnificația sărbătorilor din 15 august și 8 septembrie</title>
-        <link>https://www.digi24.ro/magazin/care-este-diferenta-dintre-sfanta-maria-mare-si-cea-mica-semnificatia-sarbatorilor-din-15-august-si-8-septembrie-3905269</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/care-este-diferenta-dintre-sfanta-maria-mare-si-cea-mica-semnificatia-sarbatorilor-din-15-august-si-8-septembrie-3905269</guid>
-    </item>
-    <item>
-        <title>Marvel anunță noi detalii despre distribuția X-Men: Adam Driver, în rolul lui Mister Sinister</title>
-        <link>https://www.mediafax.ro/life-entertaiment/marvel-anunta-noi-detalii-despre-distributia-x-men-adam-driver-in-rolul-lui-mister-sinister-23790883</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/marvel-anunta-noi-detalii-despre-distributia-x-men-adam-driver-in-rolul-lui-mister-sinister-23790883</guid>
-    </item>
-    <item>
-        <title>Ani de coșmar în cuști de beton. Salvarea spectaculoasă a 30 de lei și tigri</title>
-        <link>https://www.mediafax.ro/externe/ani-de-cosmar-in-custi-de-beton-salvarea-spectaculoasa-a-30-de-lei-si-tigri-23790833</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ani-de-cosmar-in-custi-de-beton-salvarea-spectaculoasa-a-30-de-lei-si-tigri-23790833</guid>
-    </item>
-    <item>
-        <title>Weekend cu temperaturi de până la 35 de grade Celsius. Unde va fi cel mai cald</title>
-        <link>https://adevarul.ro/stiri-interne/meteo/weekend-cu-temperaturi-de-pana-la-35-de-grade-2550050.html</link>
+        <title>Scandal politic privind finanțarea unui important spital. Rogobete: „De 5 ori mai mult era prețul pe metru pătrat la Iași decât la Târgu Mureș”</title>
+        <link>https://adevarul.ro/politica/scandal-politic-privind-finantarea-unui-important-2550065.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/meteo/weekend-cu-temperaturi-de-pana-la-35-de-grade-2550050.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/scandal-politic-privind-finantarea-unui-important-2550065.html</guid>
     </item>
     <item>
-        <title>Mesaje de „La mulți ani” pentru Sfânta Maria 2026: Urări pe care să le trimiți sărbătoriților pe 15 august</title>
-        <link>https://www.digi24.ro/magazin/mesaje-de-la-multi-ani-pentru-sfanta-maria-2026-urari-pe-care-sa-le-trimiti-sarbatoritilor-pe-15-august-3905403</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/mesaje-de-la-multi-ani-pentru-sfanta-maria-2026-urari-pe-care-sa-le-trimiti-sarbatoritilor-pe-15-august-3905403</guid>
-    </item>
-    <item>
-        <title>Premierul Peter Magyar suspectează Rusia că a sabotat „acordul secolului”. „Niște depozite și două gropi mari de beton”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/premierul-peter-magyar-suspecteaza-rusia-ca-a-sabotat-acordul-secolului-niste-depozite-si-doua-gropi-mari-de-beton-3906503</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/premierul-peter-magyar-suspecteaza-rusia-ca-a-sabotat-acordul-secolului-niste-depozite-si-doua-gropi-mari-de-beton-3906503</guid>
-    </item>
-    <item>
-        <title>Ziua Marinei. Peste 3.500 de militari români şi străini participă la manifestările de la Constanţa. Ilie Bolojan, prezent la spectacol</title>
-        <link>https://www.digi24.ro/stiri/actualitate/ziua-marinei-peste-3-500-de-militari-romani-si-straini-participa-la-manifestarile-de-la-constanta-ilie-bolojan-prezent-la-spectacol-3907407</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/ziua-marinei-peste-3-500-de-militari-romani-si-straini-participa-la-manifestarile-de-la-constanta-ilie-bolojan-prezent-la-spectacol-3907407</guid>
-    </item>
-    <item>
-        <title>Mașină clonată, căutată în Germania, oprită la Vama Albița. Șoferul avea acte și numere false</title>
-        <link>https://www.mediafax.ro/social/masina-clonata-cautata-in-germania-oprita-la-vama-albita-soferul-avea-acte-si-numere-false-23790890</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/masina-clonata-cautata-in-germania-oprita-la-vama-albita-soferul-avea-acte-si-numere-false-23790890</guid>
+        <title>Ce să mănânci când pleci pe munte. Tot ce trebuie să bagi în rucsac în timpul drumețiilor. Radu Zaharie (ghid montan): „Hidratarea este mai importantă</title>
+        <link>https://www.g4media.ro/ce-sa-mananci-cand-pleci-pe-munte-tot-ce-trebuie-sa-bagi-in-rucsac.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ce-sa-mananci-cand-pleci-pe-munte-tot-ce-trebuie-sa-bagi-in-rucsac.html</guid>
     </item>
     <item>
         <title>Cum să cureți tastatura laptopului în câteva minute</title>
@@ -188,142 +38,10 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/cum-sa-cureti-tastatura-laptopului-in-cateva-minute-5850413</guid>
     </item>
     <item>
-        <title>Cutremur devastator în Indonezia. Cel puțin cinci oameni au murit după ce clădirile s-au prăbușit peste ei</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/cutremur-devastator-in-indonezia-cel-putin-cinci-2550056.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/cutremur-devastator-in-indonezia-cel-putin-cinci-2550056.html</guid>
-    </item>
-    <item>
-        <title>Harta locurilor de muncă se schimbă în Europa: Germania taie, Europa de Est recrutează. Ce se va întâmpla până în 2030</title>
-        <link>https://adevarul.ro/economie/harta-locurilor-de-munca-se-schimba-in-europa-2549637.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/harta-locurilor-de-munca-se-schimba-in-europa-2549637.html</guid>
-    </item>
-    <item>
-        <title>Explozii la o bază militară rusă.  Ucraina ar fi lovit avioane folosite pentru lansarea rachetelor supersonice Kinjal</title>
-        <link>https://www.mediafax.ro/externe/explozii-la-o-baza-militara-rusa-ucraina-ar-fi-lovit-avioane-folosite-pentru-lansarea-rachetelor-supersonice-kinjal-23790869</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/explozii-la-o-baza-militara-rusa-ucraina-ar-fi-lovit-avioane-folosite-pentru-lansarea-rachetelor-supersonice-kinjal-23790869</guid>
-    </item>
-    <item>
-        <title>Ziua Marinei Române, 124 de ani de istorie. Două nave participă în premieră la festivitățile de la Constanța</title>
-        <link>https://www.mediafax.ro/social/ziua-marinei-romane-124-de-ani-de-istorie-doua-nave-participa-in-premiera-la-festivitatile-de-la-constanta-23790866</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/ziua-marinei-romane-124-de-ani-de-istorie-doua-nave-participa-in-premiera-la-festivitatile-de-la-constanta-23790866</guid>
-    </item>
-    <item>
-        <title>Familie șocată de descoperirea din sufragerie. Ce se ascundea în spatele televizorului dintr-o casă din Australia | VIDEO</title>
-        <link>https://www.libertatea.ro/stiri/familie-socata-de-descoperirea-din-sufragerie-ce-se-ascundea-in-spatele-televizorului-dintr-o-casa-din-australia-video-5850431</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/familie-socata-de-descoperirea-din-sufragerie-ce-se-ascundea-in-spatele-televizorului-dintr-o-casa-din-australia-video-5850431</guid>
-    </item>
-    <item>
         <title>Ziua Marinei, la Constanța: peste 3.500 de militari și zeci de nave participă la exerciții. Ilie Bolojan, prezent la ceremonii</title>
         <link>https://adevarul.ro/stiri-interne/evenimente/ziua-marinei-la-constanta-peste-3500-de-2550055.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ziua-marinei-la-constanta-peste-3500-de-2550055.html</guid>
-    </item>
-    <item>
-        <title>„Toată lumea o face”. Cel mai prost mod de a-ți agăța prosopul după duș</title>
-        <link>https://www.libertatea.ro/lifestyle/cel-mai-prost-mod-de-a-ti-agata-prosopul-dupa-dus-5850437</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/cel-mai-prost-mod-de-a-ti-agata-prosopul-dupa-dus-5850437</guid>
-    </item>
-    <item>
-        <title>NYT: Planul lui Putin privind Republica Moldova. Mesajul transmis de dictatorul de la Kremlin comandanților militari și oficialilor ruși</title>
-        <link>https://adevarul.ro/stiri-externe/rusia/nyt-planul-lui-putin-privind-republica-moldova-2550052.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/nyt-planul-lui-putin-privind-republica-moldova-2550052.html</guid>
-    </item>
-    <item>
-        <title>Zi de derby în Superliga de fotbal. Rapid – Dinamo se dispută în Giulești. Csikszereda – Sepsi, primul duel al zilei</title>
-        <link>https://www.mediafax.ro/sport/zi-de-derby-in-superliga-de-fotbal-rapid-dinamo-se-disputa-in-giulesti-csikszereda-sepsi-primul-duel-al-zilei-23790888</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/zi-de-derby-in-superliga-de-fotbal-rapid-dinamo-se-disputa-in-giulesti-csikszereda-sepsi-primul-duel-al-zilei-23790888</guid>
-    </item>
-    <item>
-        <title>Stilista milionarelor spune ce haine trebuie să fie în garderoba fiecărei femei de peste 40 de ani</title>
-        <link>https://www.libertatea.ro/entertainment/stilista-milionarelor-spune-ce-haine-trebuie-sa-fie-in-garderoba-fiecarei-femei-de-peste-40-de-ani-5850461</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/stilista-milionarelor-spune-ce-haine-trebuie-sa-fie-in-garderoba-fiecarei-femei-de-peste-40-de-ani-5850461</guid>
-    </item>
-    <item>
-        <title>Activități pentru copii și momente artistice în trei parcuri din Sectorul 2, în cadrul programului „O Vară pentru Toți”</title>
-        <link>https://www.g4media.ro/activitati-pentru-copii-si-momente-artistice-in-trei-parcuri-din-sectorul-2-in-cadrul-programului-o-vara-pentru-toti.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/activitati-pentru-copii-si-momente-artistice-in-trei-parcuri-din-sectorul-2-in-cadrul-programului-o-vara-pentru-toti.html</guid>
-    </item>
-    <item>
-        <title>Trump obține o victorie în instanță în lupta împotriva tratamentelor pentru tinerii transgender</title>
-        <link>https://www.mediafax.ro/externe/trump-obtine-o-victorie-in-instanta-in-lupta-impotriva-tratamentelor-pentru-tinerii-transgender-23790854</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-obtine-o-victorie-in-instanta-in-lupta-impotriva-tratamentelor-pentru-tinerii-transgender-23790854</guid>
-    </item>
-    <item>
-        <title>Secretele tulburătoare ale insulei Ada Kaleh. „Gibraltarul” de la Porțile de Fier, ascuns sub Dunăre chiar și când apele scad</title>
-        <link>https://adevarul.ro/stil-de-viata/calatorii/secretele-tulburatoare-ale-insulei-ada-kaleh-2549184.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/calatorii/secretele-tulburatoare-ale-insulei-ada-kaleh-2549184.html</guid>
-    </item>
-    <item>
-        <title>Europa fierbe, iar efectele sunt devastatoare. Climatologul Roxana Bojariu: „Valurile de căldură se pot declanșa mult mai timpuriu”</title>
-        <link>https://www.digi24.ro/meteo/europa-fierbe-iar-efectele-sunt-devastatoare-climatologul-roxana-bojariu-valurile-de-caldura-se-pot-declansa-mult-mai-timpuriu-3907073</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/meteo/europa-fierbe-iar-efectele-sunt-devastatoare-climatologul-roxana-bojariu-valurile-de-caldura-se-pot-declansa-mult-mai-timpuriu-3907073</guid>
-    </item>
-    <item>
-        <title>Unde mergem pe munte toamna aceasta. Cele mai bune trasee din Europa și din lume</title>
-        <link>https://www.mediafax.ro/life-inedit/unde-mergem-pe-munte-toamna-aceasta-cele-mai-bune-trasee-din-europa-si-din-lume-23790657</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/unde-mergem-pe-munte-toamna-aceasta-cele-mai-bune-trasee-din-europa-si-din-lume-23790657</guid>
-    </item>
-    <item>
-        <title>Sindicatul MIPE, replică pentru Dragoș Pîslaru: „Părăsit de propriul ministru, MIPE își caută ministru”</title>
-        <link>https://www.mediafax.ro/politic/sindicatul-mipe-replica-pentru-dragos-pislaru-parasit-de-propriul-ministru-mipe-isi-cauta-ministru-23790873</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/sindicatul-mipe-replica-pentru-dragos-pislaru-parasit-de-propriul-ministru-mipe-isi-cauta-ministru-23790873</guid>
-    </item>
-    <item>
-        <title>Ce nume se sărbătoresc de Sfânta Maria Mare 2026: Prenumele mai puțin cunoscute celebrate pe 15 august</title>
-        <link>https://www.digi24.ro/magazin/ce-nume-se-sarbatoresc-de-sfanta-maria-mare-2026-prenumele-mai-putin-cunoscute-celebrate-pe-15-august-3905149</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/ce-nume-se-sarbatoresc-de-sfanta-maria-mare-2026-prenumele-mai-putin-cunoscute-celebrate-pe-15-august-3905149</guid>
-    </item>
-    <item>
-        <title>„Doar 4 în lume. Sunt din alt tărâm”. Coloanele de lavă din Bartin, o minune naturală veche de 80 de milioane de ani</title>
-        <link>https://www.libertatea.ro/lifestyle/coloanele-de-lava-din-bartin-o-minune-naturala-veche-de-80-de-milioane-de-ani-5850786</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/coloanele-de-lava-din-bartin-o-minune-naturala-veche-de-80-de-milioane-de-ani-5850786</guid>
-    </item>
-    <item>
-        <title>Glume pe internet după ce o casă self-checkout a cerut bacșiș. „Dacă eu fac toată munca, n-ar trebui să primesc o reducere?”</title>
-        <link>https://adevarul.ro/stiri-interne/societate/glume-pe-internet-dupa-ce-o-casa-self-checkout-a-2549761.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/glume-pe-internet-dupa-ce-o-casa-self-checkout-a-2549761.html</guid>
-    </item>
-    <item>
-        <title>O premieră în Rusia: un tribunal militar recunoaște că uciderea soldaților este o practică obișnuită</title>
-        <link>https://www.digi24.ro/stiri/externe/o-premiera-in-rusia-un-tribunal-militar-recunoaste-ca-uciderea-soldatilor-este-o-practica-obisnuita-3907157</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/o-premiera-in-rusia-un-tribunal-militar-recunoaste-ca-uciderea-soldatilor-este-o-practica-obisnuita-3907157</guid>
-    </item>
-    <item>
-        <title>Cum au reușit 24 de iepuri să cucerească un întreg continent și să provoace dezastre. „Invazia începută în 1859 continuă și astăzi”</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/cum-au-reusit-24-de-iepuri-sa-cucereasca-un-intreg-2549668.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cum-au-reusit-24-de-iepuri-sa-cucereasca-un-intreg-2549668.html</guid>
-    </item>
-    <item>
-        <title>ONU solicită sprijin pentru ajutorul acordat femeilor afgane, la cinci ani de la preluarea puterii de către talibani</title>
-        <link>https://www.mediafax.ro/externe/onu-solicita-sprijin-pentru-ajutorul-acordat-femeilor-afgane-la-cinci-ani-de-la-preluarea-puterii-de-catre-talibani-23790836</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/onu-solicita-sprijin-pentru-ajutorul-acordat-femeilor-afgane-la-cinci-ani-de-la-preluarea-puterii-de-catre-talibani-23790836</guid>
-    </item>
-    <item>
-        <title>Sfânta Maria Mare 2026. Ce nume se sărbătoresc pe 15 august și cui îi spui „La mulți ani”. Peste 2,6 milioane de români își serbează onomastica</title>
-        <link>https://www.mediafax.ro/social/sfanta-maria-mare-2026-ce-nume-se-sarbatoresc-pe-15-august-si-cui-ii-spui-la-multi-ani-peste-26-milioane-de-romani-isi-serbeaza-onomastica-23790663</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/sfanta-maria-mare-2026-ce-nume-se-sarbatoresc-pe-15-august-si-cui-ii-spui-la-multi-ani-peste-26-milioane-de-romani-isi-serbeaza-onomastica-23790663</guid>
     </item>
     <item>
         <title>Ziua Marinei Române, sărbătorită în șase orașe / Peste 3.500 de militari români și străini participă la evenimentele de la Constanța</title>
@@ -332,40 +50,322 @@
         <guid isPermaLink="true">https://www.g4media.ro/ziua-marinei-romane-sarbatorita-in-sase-orase-peste-3-500-de-militari-romani-si-straini-participa-la-evenimentele-de-la-constanta.html</guid>
     </item>
     <item>
-        <title>„Este un abandon total”. Localnicii critică gestionarea crizei după cutremurul din Columbia</title>
-        <link>https://www.mediafax.ro/externe/este-un-abandon-total-localnicii-critica-gestionarea-crizei-dupa-cutremurul-din-columbia-23790842</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/este-un-abandon-total-localnicii-critica-gestionarea-crizei-dupa-cutremurul-din-columbia-23790842</guid>
-    </item>
-    <item>
-        <title>Pagube uriașe după un cutremur puternic în Granada, resimțit în mai multe regiuni din Spania</title>
-        <link>https://www.mediafax.ro/externe/pagube-uriase-dupa-un-cutremur-puternic-in-granada-resimtit-in-mai-multe-regiuni-din-spania-23790877</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/pagube-uriase-dupa-un-cutremur-puternic-in-granada-resimtit-in-mai-multe-regiuni-din-spania-23790877</guid>
-    </item>
-    <item>
-        <title>Primele indicii privind existența unor zăcăminte de petrol în largul Amazonului. O țară și-ar putea întări securitatea energetică</title>
-        <link>https://www.mediafax.ro/externe/primele-indicii-privind-existenta-unor-zacaminte-de-petrol-in-largul-amazonului-o-tara-si-ar-putea-intari-securitatea-energetica-23790830</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/primele-indicii-privind-existenta-unor-zacaminte-de-petrol-in-largul-amazonului-o-tara-si-ar-putea-intari-securitatea-energetica-23790830</guid>
-    </item>
-    <item>
-        <title>Anunț major în Venezuela: 131 de prizonieri politici, eliberați. Marco Rubio vorbește despre un „pas crucial” către „reconciliere”</title>
-        <link>https://www.mediafax.ro/externe/anunt-major-in-venezuela-131-de-prizonieri-politici-eliberati-marco-rubio-vorbeste-despre-un-pas-crucial-catre-reconciliere-23790825</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/anunt-major-in-venezuela-131-de-prizonieri-politici-eliberati-marco-rubio-vorbeste-despre-un-pas-crucial-catre-reconciliere-23790825</guid>
-    </item>
-    <item>
-        <title>Indonezia, zguduită de un cutremur cu magnitudinea 7,7. A fost emisă o alertă de tsunami</title>
-        <link>https://www.mediafax.ro/externe/indonezia-zguduita-de-un-cutremur-cu-magnitudinea-77-a-fost-emisa-o-alerta-de-tsunami-23790827</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/indonezia-zguduita-de-un-cutremur-cu-magnitudinea-77-a-fost-emisa-o-alerta-de-tsunami-23790827</guid>
-    </item>
-    <item>
-        <title>„Ce salariu v-ar mulțumi în Botoșani?” Răspunsurile care au devenit virale: „Până în 30.000 de lei. Mai exact? 50.000”</title>
-        <link>https://adevarul.ro/stiri-interne/societate/ce-salariu-v-ar-multumi-in-botosani-2548953.html</link>
+        <title>„I-am cerut AI-ului să-mi facă o rezervare. A spart sistemul și a dat afară un alt client de pe lista de așteptare”. Experiența unui australian</title>
+        <link>https://adevarul.ro/stil-de-viata/tehnologie/i-am-cerut-ai-ului-sa-mi-faca-o-rezervare-a-2549864.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/ce-salariu-v-ar-multumi-in-botosani-2548953.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/tehnologie/i-am-cerut-ai-ului-sa-mi-faca-o-rezervare-a-2549864.html</guid>
+    </item>
+    <item>
+        <title>Luni de foc pe șantierele de drumuri. România poate încheia 2026 cu 190 km noi de autostradă, sub ținta autorităților: „Ratarea cea mai notabilă este </title>
+        <link>https://adevarul.ro/stiri-interne/luni-de-foc-pe-santierele-de-drumuri-romania-2549988.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/luni-de-foc-pe-santierele-de-drumuri-romania-2549988.html</guid>
+    </item>
+    <item>
+        <title>Ziua Marinei. Peste 3.500 de militari români şi străini participă la manifestările de la Constanţa. Ilie Bolojan, prezent la spectacol</title>
+        <link>https://www.digi24.ro/stiri/actualitate/ziua-marinei-peste-3-500-de-militari-romani-si-straini-participa-la-manifestarile-de-la-constanta-ilie-bolojan-prezent-la-spectacol-3907407</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/ziua-marinei-peste-3-500-de-militari-romani-si-straini-participa-la-manifestarile-de-la-constanta-ilie-bolojan-prezent-la-spectacol-3907407</guid>
+    </item>
+    <item>
+        <title>Cum a pregătit Rusia „trupe de șoc” care să creeze haos în Rep. Moldova: Un plan pus la cale din „Silicon Valley”-ul Kremlinului</title>
+        <link>https://www.digi24.ro/stiri/externe/cum-a-pregatit-rusia-trupe-de-soc-care-sa-creeze-haos-in-rep-moldova-un-plan-pus-la-cale-din-silicon-valley-ul-kremlinului-3907069</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/cum-a-pregatit-rusia-trupe-de-soc-care-sa-creeze-haos-in-rep-moldova-un-plan-pus-la-cale-din-silicon-valley-ul-kremlinului-3907069</guid>
+    </item>
+    <item>
+        <title>Sfânta Maria Mare sau Sfânta Maria Mică? Când se spune, de fapt, „La mulți ani”</title>
+        <link>https://adevarul.ro/stiri-interne/sfanta-maria-mare-sau-sfanta-maria-mica-cand-se-2550062.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sfanta-maria-mare-sau-sfanta-maria-mica-cand-se-2550062.html</guid>
+    </item>
+    <item>
+        <title>Europa fierbe, iar efectele sunt devastatoare. Climatologul Roxana Bojariu: „Valurile de căldură se pot declanșa mult mai timpuriu”</title>
+        <link>https://www.digi24.ro/meteo/europa-fierbe-iar-efectele-sunt-devastatoare-climatologul-roxana-bojariu-valurile-de-caldura-se-pot-declansa-mult-mai-timpuriu-3907073</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/meteo/europa-fierbe-iar-efectele-sunt-devastatoare-climatologul-roxana-bojariu-valurile-de-caldura-se-pot-declansa-mult-mai-timpuriu-3907073</guid>
+    </item>
+    <item>
+        <title>Sportul Studențesc își pregătește revenirea în fotbal. Suporterii lansează un proiect pentru renașterea clubului</title>
+        <link>https://www.mediafax.ro/sport/sportul-studentesc-isi-pregateste-revenirea-in-fotbal-suporterii-lanseaza-un-proiect-pentru-renasterea-clubului-23790896</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/sportul-studentesc-isi-pregateste-revenirea-in-fotbal-suporterii-lanseaza-un-proiect-pentru-renasterea-clubului-23790896</guid>
+    </item>
+    <item>
+        <title>Cutremur devastator în Indonezia. Cel puțin cinci oameni au murit după ce clădirile s-au prăbușit peste ei</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/cutremur-devastator-in-indonezia-cel-putin-cinci-2550056.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/cutremur-devastator-in-indonezia-cel-putin-cinci-2550056.html</guid>
+    </item>
+    <item>
+        <title>Fost căpitan al naționalei de volei, Mircea Abraham a murit la 53 de ani</title>
+        <link>https://adevarul.ro/sport/fost-capitan-al-nationalei-de-volei-mircea-2550049.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/fost-capitan-al-nationalei-de-volei-mircea-2550049.html</guid>
+    </item>
+    <item>
+        <title>Zi de derby în Superliga de fotbal. Rapid – Dinamo se dispută în Giulești. Csikszereda – Sepsi, primul duel al zilei</title>
+        <link>https://www.mediafax.ro/sport/zi-de-derby-in-superliga-de-fotbal-rapid-dinamo-se-disputa-in-giulesti-csikszereda-sepsi-primul-duel-al-zilei-23790888</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/zi-de-derby-in-superliga-de-fotbal-rapid-dinamo-se-disputa-in-giulesti-csikszereda-sepsi-primul-duel-al-zilei-23790888</guid>
+    </item>
+    <item>
+        <title>Trupa de heavy metal Slipknot, premiată cu Grammy, se desparte de Sid Wilson după aproape 30 de ani</title>
+        <link>https://www.mediafax.ro/life-entertaiment/trupa-de-heavy-metal-slipknot-premiata-cu-grammy-se-desparte-de-sid-wilson-dupa-aproape-30-de-ani-23790876</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/trupa-de-heavy-metal-slipknot-premiata-cu-grammy-se-desparte-de-sid-wilson-dupa-aproape-30-de-ani-23790876</guid>
+    </item>
+    <item>
+        <title>Unde mergem pe munte toamna aceasta. Cele mai bune trasee din Europa și din lume</title>
+        <link>https://www.mediafax.ro/life-inedit/unde-mergem-pe-munte-toamna-aceasta-cele-mai-bune-trasee-din-europa-si-din-lume-23790657</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/unde-mergem-pe-munte-toamna-aceasta-cele-mai-bune-trasee-din-europa-si-din-lume-23790657</guid>
+    </item>
+    <item>
+        <title>Sfânta Maria Mare 2026. Ce nume se sărbătoresc pe 15 august și cui îi spui „La mulți ani”. Peste 2,6 milioane de români își serbează onomastica</title>
+        <link>https://www.mediafax.ro/social/sfanta-maria-mare-2026-ce-nume-se-sarbatoresc-pe-15-august-si-cui-ii-spui-la-multi-ani-peste-26-milioane-de-romani-isi-serbeaza-onomastica-23790663</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/sfanta-maria-mare-2026-ce-nume-se-sarbatoresc-pe-15-august-si-cui-ii-spui-la-multi-ani-peste-26-milioane-de-romani-isi-serbeaza-onomastica-23790663</guid>
+    </item>
+    <item>
+        <title>Ministrul Apărării: România va construi patru nave militare la șantierul naval Mangalia – 2 Mai</title>
+        <link>https://www.mediafax.ro/politic/ministrul-apararii-romania-va-construi-patru-nave-militare-la-santierul-naval-mangalia-2-mai-23790903</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ministrul-apararii-romania-va-construi-patru-nave-militare-la-santierul-naval-mangalia-2-mai-23790903</guid>
+    </item>
+    <item>
+        <title>Marvel anunță noi detalii despre distribuția X-Men: Adam Driver, în rolul lui Mister Sinister</title>
+        <link>https://www.mediafax.ro/life-entertaiment/marvel-anunta-noi-detalii-despre-distributia-x-men-adam-driver-in-rolul-lui-mister-sinister-23790883</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/marvel-anunta-noi-detalii-despre-distributia-x-men-adam-driver-in-rolul-lui-mister-sinister-23790883</guid>
+    </item>
+    <item>
+        <title>Pagube în sudul Spaniei după un cutremur cu magnitudinea 5</title>
+        <link>https://www.g4media.ro/pagube-in-sudul-spaniei-dupa-un-cutremur-cu-magnitudinea-5.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/pagube-in-sudul-spaniei-dupa-un-cutremur-cu-magnitudinea-5.html</guid>
+    </item>
+    <item>
+        <title>Centura Bacăului se închide timp de două săptămâni. Şoferii vor avea rute alternative</title>
+        <link>https://www.digi24.ro/stiri/centura-bacaului-se-inchide-timp-de-doua-saptamani-soferii-vor-avea-rute-alternative-3907435</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/centura-bacaului-se-inchide-timp-de-doua-saptamani-soferii-vor-avea-rute-alternative-3907435</guid>
+    </item>
+    <item>
+        <title>Un ieșean urmărit internațional din categoria Most Wanted, adus în țară din Italia</title>
+        <link>https://www.mediafax.ro/social/un-iesean-urmarit-international-din-categoria-most-wanted-adus-in-tara-din-italia-23790899</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/un-iesean-urmarit-international-din-categoria-most-wanted-adus-in-tara-din-italia-23790899</guid>
+    </item>
+    <item>
+        <title>Slipknot se desparte de Sid Wilson după aproape 30 de ani / Trupa a șters anunțul după publicare</title>
+        <link>https://www.g4media.ro/slipknot-se-desparte-de-sid-wilson-dupa-aproape-30-de-ani-trupa-a-sters-anuntul-dupa-publicare.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/slipknot-se-desparte-de-sid-wilson-dupa-aproape-30-de-ani-trupa-a-sters-anuntul-dupa-publicare.html</guid>
+    </item>
+    <item>
+        <title>Un student român a obținut un grant european de 60.000 de euro pentru a revoluționa transportul public din Republica Moldova</title>
+        <link>https://adevarul.ro/stiri-locale/oradea/un-roman-de-20-de-ani-a-obtinut-un-grant-european-2550066.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/oradea/un-roman-de-20-de-ani-a-obtinut-un-grant-european-2550066.html</guid>
+    </item>
+    <item>
+        <title>Ce se întâmplă cu actualul card de sănătate de la 1 septembrie. Documentul care ar urma să îi preia treptat funcțiile</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/ce-se-intampla-cu-actualul-card-de-sanatate-de-la-1-septembrie-documentul-care-ar-urma-sa-ii-preia-treptat-functiile-3906533</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/ce-se-intampla-cu-actualul-card-de-sanatate-de-la-1-septembrie-documentul-care-ar-urma-sa-ii-preia-treptat-functiile-3906533</guid>
+    </item>
+    <item>
+        <title>Mașină clonată, căutată în Germania, oprită la Vama Albița. Șoferul avea acte și numere false</title>
+        <link>https://www.mediafax.ro/social/masina-clonata-cautata-in-germania-oprita-la-vama-albita-soferul-avea-acte-si-numere-false-23790890</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/masina-clonata-cautata-in-germania-oprita-la-vama-albita-soferul-avea-acte-si-numere-false-23790890</guid>
+    </item>
+    <item>
+        <title>Ministrul interimar al Apărării, Radu Miruță: România este în prima linie de apărare a graniței Uniunii Europene</title>
+        <link>https://www.mediafax.ro/aparare/ministrul-interimar-al-apararii-radu-miruta-romania-este-in-prima-linie-de-aparare-a-granitei-uniunii-europene-23790901</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/aparare/ministrul-interimar-al-apararii-radu-miruta-romania-este-in-prima-linie-de-aparare-a-granitei-uniunii-europene-23790901</guid>
+    </item>
+    <item>
+        <title>Mesaje de „La mulți ani” pentru Sfânta Maria 2026: Urări pe care să le trimiți sărbătoriților pe 15 august</title>
+        <link>https://www.digi24.ro/magazin/mesaje-de-la-multi-ani-pentru-sfanta-maria-2026-urari-pe-care-sa-le-trimiti-sarbatoritilor-pe-15-august-3905403</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/mesaje-de-la-multi-ani-pentru-sfanta-maria-2026-urari-pe-care-sa-le-trimiti-sarbatoritilor-pe-15-august-3905403</guid>
+    </item>
+    <item>
+        <title>Explozii la o bază militară rusă.  Ucraina ar fi lovit avioane folosite pentru lansarea rachetelor supersonice Kinjal</title>
+        <link>https://www.mediafax.ro/externe/explozii-la-o-baza-militara-rusa-ucraina-ar-fi-lovit-avioane-folosite-pentru-lansarea-rachetelor-supersonice-kinjal-23790869</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/explozii-la-o-baza-militara-rusa-ucraina-ar-fi-lovit-avioane-folosite-pentru-lansarea-rachetelor-supersonice-kinjal-23790869</guid>
+    </item>
+    <item>
+        <title>Premierul Peter Magyar suspectează Rusia că a sabotat „acordul secolului”. „Niște depozite și două gropi mari de beton”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/premierul-peter-magyar-suspecteaza-rusia-ca-a-sabotat-acordul-secolului-niste-depozite-si-doua-gropi-mari-de-beton-3906503</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/premierul-peter-magyar-suspecteaza-rusia-ca-a-sabotat-acordul-secolului-niste-depozite-si-doua-gropi-mari-de-beton-3906503</guid>
+    </item>
+    <item>
+        <title>Zelenski anunță o nouă țintă pentru armata ucraineană: 30.000 de militari ruși „eliminați” în august</title>
+        <link>https://adevarul.ro/stiri-externe/europa/zelenski-anunta-o-noua-tinta-pentru-armata-2550058.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/zelenski-anunta-o-noua-tinta-pentru-armata-2550058.html</guid>
+    </item>
+    <item>
+        <title>Cum au reluat Donald Trump și Elon Musk o relație care părea iremediabil distrusă după aproape un an de eforturi în culise</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/cum-au-reluat-donald-trump-si-elon-musk-o-relatie-care-parea-iremediabil-distrusa-dupa-aproape-un-an-de-eforturi-in-culise-3906035</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/cum-au-reluat-donald-trump-si-elon-musk-o-relatie-care-parea-iremediabil-distrusa-dupa-aproape-un-an-de-eforturi-in-culise-3906035</guid>
+    </item>
+    <item>
+        <title>FC Argeș a remizat acasă cu Farul Constanța și rămâne pe primul loc în Superligă</title>
+        <link>https://adevarul.ro/sport/fc-arges-a-remizat-acasa-cu-farul-constanta-si-2550051.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/fc-arges-a-remizat-acasa-cu-farul-constanta-si-2550051.html</guid>
+    </item>
+    <item>
+        <title>Radu Drăgușin, pasă de gol la debutul oficial la Fiorentina</title>
+        <link>https://www.g4media.ro/radu-dragusin-pasa-de-gol-la-debutul-oficial-la-fiorentina.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/radu-dragusin-pasa-de-gol-la-debutul-oficial-la-fiorentina.html</guid>
+    </item>
+    <item>
+        <title>Ziua Marinei Române, 124 de ani de istorie. Două nave participă în premieră la festivitățile de la Constanța</title>
+        <link>https://www.mediafax.ro/social/ziua-marinei-romane-124-de-ani-de-istorie-doua-nave-participa-in-premiera-la-festivitatile-de-la-constanta-23790866</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/ziua-marinei-romane-124-de-ani-de-istorie-doua-nave-participa-in-premiera-la-festivitatile-de-la-constanta-23790866</guid>
+    </item>
+    <item>
+        <title>Explozii la o bază militară rusă: Ucraina ar fi lovit avioane MiG-31 capabile să lanseze rachete Kinjal</title>
+        <link>https://www.g4media.ro/explozii-la-o-baza-militara-rusa-ucraina-ar-fi-lovit-avioane-mig-31-capabile-sa-lanseze-rachete-kinjal.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/explozii-la-o-baza-militara-rusa-ucraina-ar-fi-lovit-avioane-mig-31-capabile-sa-lanseze-rachete-kinjal.html</guid>
+    </item>
+    <item>
+        <title>Trump amenință că va declara Strâmtoarea Ormuz „teritoriu al Statelor Unite”: „Nicio navă nu trece decât dacă vrem noi”</title>
+        <link>https://adevarul.ro/stiri-externe/sua/trump-ameninta-ca-va-declara-stramtoarea-ormuz-2550059.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/trump-ameninta-ca-va-declara-stramtoarea-ormuz-2550059.html</guid>
+    </item>
+    <item>
+        <title>De la „kill chain” la „kill web”: NATO construiește rețeaua, România descoperă găurile</title>
+        <link>https://adevarul.ro/blogurile-adevarul/de-la-kill-chain-la-kill-web-nato-2550061.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/de-la-kill-chain-la-kill-web-nato-2550061.html</guid>
+    </item>
+    <item>
+        <title>INTERVIU 7 din 10 adulți din România au probleme cu greutatea. De ce punem kilogramele la loc după ce slăbim</title>
+        <link>https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/interviu-7-din-10-adulti-din-romania-au-probleme-2549494.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/interviu-7-din-10-adulti-din-romania-au-probleme-2549494.html</guid>
+    </item>
+    <item>
+        <title>Descoperire fără precedent: „fantoma” unui reactor nuclear oprit, detectată pentru prima dată</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/descoperire-fara-precedent-fantoma-unui-reactor-nuclear-oprit-detectata-pentru-prima-data-23790822</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/descoperire-fara-precedent-fantoma-unui-reactor-nuclear-oprit-detectata-pentru-prima-data-23790822</guid>
+    </item>
+    <item>
+        <title>Stilista milionarelor spune ce haine trebuie să fie în garderoba fiecărei femei de peste 40 de ani</title>
+        <link>https://www.libertatea.ro/entertainment/stilista-milionarelor-spune-ce-haine-trebuie-sa-fie-in-garderoba-fiecarei-femei-de-peste-40-de-ani-5850461</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/stilista-milionarelor-spune-ce-haine-trebuie-sa-fie-in-garderoba-fiecarei-femei-de-peste-40-de-ani-5850461</guid>
+    </item>
+    <item>
+        <title>Un fost primar al Iaşiului, adus în ţară din Italia pentru a executa peste 19 ani de închisaoare. Era pe lista Most Wanted</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/un-fost-primar-al-iasiului-adus-in-tara-din-italia-pentru-a-executa-peste-19-ani-de-inchisaoare-era-pe-lista-most-wanted-3907461</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/un-fost-primar-al-iasiului-adus-in-tara-din-italia-pentru-a-executa-peste-19-ani-de-inchisaoare-era-pe-lista-most-wanted-3907461</guid>
+    </item>
+    <item>
+        <title>Harta locurilor de muncă se schimbă în Europa: Germania taie, Europa de Est recrutează. Ce se va întâmpla până în 2030</title>
+        <link>https://adevarul.ro/economie/harta-locurilor-de-munca-se-schimba-in-europa-2549637.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/harta-locurilor-de-munca-se-schimba-in-europa-2549637.html</guid>
+    </item>
+    <item>
+        <title>Mesaje de Sfânta Maria 2026. Cele mai frumoase urări de „La mulți ani” pe care le poți trimite pe 15 august</title>
+        <link>https://www.mediafax.ro/social/mesaje-de-sfanta-maria-2026-cele-mai-frumoase-urari-de-la-multi-ani-pe-care-le-poti-trimite-pe-15-august-23790655</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/mesaje-de-sfanta-maria-2026-cele-mai-frumoase-urari-de-la-multi-ani-pe-care-le-poti-trimite-pe-15-august-23790655</guid>
+    </item>
+    <item>
+        <title>NYT: Planul lui Putin privind Republica Moldova. Mesajul transmis de dictatorul de la Kremlin comandanților militari și oficialilor ruși</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/nyt-planul-lui-putin-privind-republica-moldova-2550052.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/nyt-planul-lui-putin-privind-republica-moldova-2550052.html</guid>
+    </item>
+    <item>
+        <title>Ce nume se sărbătoresc de Sfânta Maria Mare 2026: Prenumele mai puțin cunoscute celebrate pe 15 august</title>
+        <link>https://www.digi24.ro/magazin/ce-nume-se-sarbatoresc-de-sfanta-maria-mare-2026-prenumele-mai-putin-cunoscute-celebrate-pe-15-august-3905149</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/ce-nume-se-sarbatoresc-de-sfanta-maria-mare-2026-prenumele-mai-putin-cunoscute-celebrate-pe-15-august-3905149</guid>
+    </item>
+    <item>
+        <title>STUDIU | Copiii care își fac conturi pe rețelele sociale încă din gimnaziu au rezultate școlare mai slabe</title>
+        <link>https://www.g4media.ro/studiu-copiii-care-isi-fac-conturi-pe-retelele-sociale-inca-din-gimnaziu-au-rezultate-scolare-mai-slabe.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/studiu-copiii-care-isi-fac-conturi-pe-retelele-sociale-inca-din-gimnaziu-au-rezultate-scolare-mai-slabe.html</guid>
+    </item>
+    <item>
+        <title>Cum încearcă Putin să evite o nouă mobilizare, deși Rusia are nevoie de tot mai mulți soldați pe frontul din Ucraina</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/cum-incearca-putin-sa-evite-o-noua-mobilizare-desi-rusia-are-nevoie-de-tot-mai-multi-soldati-pe-frontul-din-ucraina-3906985</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/cum-incearca-putin-sa-evite-o-noua-mobilizare-desi-rusia-are-nevoie-de-tot-mai-multi-soldati-pe-frontul-din-ucraina-3906985</guid>
+    </item>
+    <item>
+        <title>Anthropic avertizează că riscurile de securitate asociate inteligenței artificiale sunt în creștere</title>
+        <link>https://www.g4media.ro/anthropic-avertizeaza-ca-riscurile-de-securitate-asociate-inteligentei-artificiale-sunt-in-crestere.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/anthropic-avertizeaza-ca-riscurile-de-securitate-asociate-inteligentei-artificiale-sunt-in-crestere.html</guid>
+    </item>
+    <item>
+        <title>„Doar 4 în lume. Sunt din alt tărâm”. Coloanele de lavă din Bartin, o minune naturală veche de 80 de milioane de ani</title>
+        <link>https://www.libertatea.ro/lifestyle/coloanele-de-lava-din-bartin-o-minune-naturala-veche-de-80-de-milioane-de-ani-5850786</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/coloanele-de-lava-din-bartin-o-minune-naturala-veche-de-80-de-milioane-de-ani-5850786</guid>
+    </item>
+    <item>
+        <title>Activități pentru copii și momente artistice în trei parcuri din Sectorul 2, în cadrul programului „O Vară pentru Toți”</title>
+        <link>https://www.g4media.ro/activitati-pentru-copii-si-momente-artistice-in-trei-parcuri-din-sectorul-2-in-cadrul-programului-o-vara-pentru-toti.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/activitati-pentru-copii-si-momente-artistice-in-trei-parcuri-din-sectorul-2-in-cadrul-programului-o-vara-pentru-toti.html</guid>
+    </item>
+    <item>
+        <title>Familie șocată de descoperirea din sufragerie. Ce se ascundea în spatele televizorului dintr-o casă din Australia | VIDEO</title>
+        <link>https://www.libertatea.ro/stiri/familie-socata-de-descoperirea-din-sufragerie-ce-se-ascundea-in-spatele-televizorului-dintr-o-casa-din-australia-video-5850431</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/familie-socata-de-descoperirea-din-sufragerie-ce-se-ascundea-in-spatele-televizorului-dintr-o-casa-din-australia-video-5850431</guid>
+    </item>
+    <item>
+        <title>„Toată lumea o face”. Cel mai prost mod de a-ți agăța prosopul după duș</title>
+        <link>https://www.libertatea.ro/lifestyle/cel-mai-prost-mod-de-a-ti-agata-prosopul-dupa-dus-5850437</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/cel-mai-prost-mod-de-a-ti-agata-prosopul-dupa-dus-5850437</guid>
+    </item>
+    <item>
+        <title>Mărturiile unui opozant al lui Putin după ce a fugit din Rusia: „Am încercat, până în ultimul moment, să nu depășesc nicio limită”</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/marturiile-unui-opozant-al-lui-putin-dupa-ce-a-fugit-din-rusia-am-incercat-pana-in-ultimul-moment-sa-nu-depasesc-nicio-limita-3906651</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/marturiile-unui-opozant-al-lui-putin-dupa-ce-a-fugit-din-rusia-am-incercat-pana-in-ultimul-moment-sa-nu-depasesc-nicio-limita-3906651</guid>
+    </item>
+    <item>
+        <title>Cel puțin 20 de persoane au murit în Indonezia după un cutremur de magnitudine 7,7</title>
+        <link>https://www.g4media.ro/cel-putin-20-de-persoane-au-murit-in-indonezia-dupa-un-cutremur-de-magnitudine-77.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cel-putin-20-de-persoane-au-murit-in-indonezia-dupa-un-cutremur-de-magnitudine-77.html</guid>
+    </item>
+    <item>
+        <title>Anthropic avertizează că riscurile asociate inteligenței artificiale sunt în creștere</title>
+        <link>https://www.mediafax.ro/tehnologie/anthropic-avertizeaza-ca-riscurile-asociate-inteligentei-artificiale-sunt-in-crestere-23790872</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/anthropic-avertizeaza-ca-riscurile-asociate-inteligentei-artificiale-sunt-in-crestere-23790872</guid>
+    </item>
+    <item>
+        <title>Care este diferența dintre Sfânta Maria Mare și cea Mică. Semnificația sărbătorilor din 15 august și 8 septembrie</title>
+        <link>https://www.digi24.ro/magazin/care-este-diferenta-dintre-sfanta-maria-mare-si-cea-mica-semnificatia-sarbatorilor-din-15-august-si-8-septembrie-3905269</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/care-este-diferenta-dintre-sfanta-maria-mare-si-cea-mica-semnificatia-sarbatorilor-din-15-august-si-8-septembrie-3905269</guid>
     </item>
 </channel>
 </rss>
