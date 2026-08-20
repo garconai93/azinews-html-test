@@ -5,38 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 20 Aug 2026 02:05:49 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:27:37 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Secretele unui mamifer rar din Patagonia, dezvăluite după opt ani de cercetări. Seamănă cu un iepure, dar nu e</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/secretele-unui-mamifer-rar-din-patagonia-2550783.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/secretele-unui-mamifer-rar-din-patagonia-2550783.html</guid>
-    </item>
-    <item>
-        <title>Trump amenință Iranul cu un „D-Day economic”: Cea mai zdrobitoare operațiune economică</title>
-        <link>https://www.mediafax.ro/externe/trump-ameninta-iranul-cu-un-d-day-economic-cea-mai-zdrobitoare-operatiune-economica-23793098</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-ameninta-iranul-cu-un-d-day-economic-cea-mai-zdrobitoare-operatiune-economica-23793098</guid>
-    </item>
-    <item>
-        <title>Cea mai căutată și controversată carte din lume în anul 2026. Despre ce este vorba în „Yesteryear”, romanul care doboară topurile mondiale</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/cea-mai-cautata-si-controversata-carte-din-lume-in-2550492.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cea-mai-cautata-si-controversata-carte-din-lume-in-2550492.html</guid>
-    </item>
-    <item>
-        <title>Atac rusesc asupra Kievului. Cel puțin trei morți și 20 de răniți</title>
-        <link>https://www.mediafax.ro/externe/atac-rusesc-asupra-kievului-cel-putin-trei-morti-si-20-de-raniti-23793101</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/atac-rusesc-asupra-kievului-cel-putin-trei-morti-si-20-de-raniti-23793101</guid>
-    </item>
-    <item>
-        <title>Casa Verde Baterii, pus sub lupă de specialiști. Problemele din noul ghid și schimbările propuse pentru prosumatori</title>
-        <link>https://adevarul.ro/economie/casa-verde-baterii-pus-sub-lupa-de-specialisti-2550870.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/casa-verde-baterii-pus-sub-lupa-de-specialisti-2550870.html</guid>
-    </item>
     <item>
         <title>De la un sat uitat de lume din Botoșani la marile gale de K1. Povestea românului cu 61 de victorii și 34 de KO-uri</title>
         <link>https://adevarul.ro/stiri-locale/botosani/de-la-un-sat-uitat-de-lume-din-botosani-la-marile-2550763.html</link>
@@ -50,10 +20,22 @@
         <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/alerta-medicala-un-medicament-popular-pentru-erectie-poate-creste-riscul-de-orbire-23793095</guid>
     </item>
     <item>
-        <title>Vacanțele de Crăciun și Revelion, deja la vânzare. Cât costă un sejur la munte și unde găsești reduceri de până la 30%</title>
-        <link>https://adevarul.ro/stiri-interne/societate/vacantele-de-craciun-si-revelion-deja-la-vanzare-2549967.html</link>
+        <title>România, pusă în fața noilor baze secrete rusești. General: „NATO are un punct slab în fața lor”</title>
+        <link>https://adevarul.ro/securitate-si-aparare/romania-pusa-in-fata-noilor-baze-secrete-rusesti-2550694.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/vacantele-de-craciun-si-revelion-deja-la-vanzare-2549967.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/romania-pusa-in-fata-noilor-baze-secrete-rusesti-2550694.html</guid>
+    </item>
+    <item>
+        <title>Secretele unui mamifer rar din Patagonia, dezvăluite după opt ani de cercetări. Seamănă cu un iepure, dar nu e</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/secretele-unui-mamifer-rar-din-patagonia-2550783.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/secretele-unui-mamifer-rar-din-patagonia-2550783.html</guid>
+    </item>
+    <item>
+        <title>Trump amenință Iranul cu un „D-Day economic”: Cea mai zdrobitoare operațiune economică</title>
+        <link>https://www.mediafax.ro/externe/trump-ameninta-iranul-cu-un-d-day-economic-cea-mai-zdrobitoare-operatiune-economica-23793098</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-ameninta-iranul-cu-un-d-day-economic-cea-mai-zdrobitoare-operatiune-economica-23793098</guid>
     </item>
     <item>
         <title>El Niño amenință recoltele de cafea, cacao și zahăr. Produsele care s-ar putea scumpi</title>
@@ -62,22 +44,64 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/el-nino-ameninta-recoltele-de-cafea-cacao-si-2550786.html</guid>
     </item>
     <item>
+        <title>Autostrada Moldovei, traseul complet. Ce tronsoane au fost deschise și ce se inaugurează în 2026, pe A7 Ploiești - Siret</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/autostrada-moldovei-traseul-complet-ce-tronsoane-2550978.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/autostrada-moldovei-traseul-complet-ce-tronsoane-2550978.html</guid>
+    </item>
+    <item>
+        <title>Cea mai căutată și controversată carte din lume în anul 2026. Despre ce este vorba în „Yesteryear”, romanul care doboară topurile mondiale</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/cea-mai-cautata-si-controversata-carte-din-lume-in-2550492.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cea-mai-cautata-si-controversata-carte-din-lume-in-2550492.html</guid>
+    </item>
+    <item>
         <title>Avem Tinder, Bumble și rețele sociale. Atunci de ce e atât de greu să ne găsim un partener?</title>
         <link>https://adevarul.ro/stiri-interne/societate/avem-tinder-bumble-si-retele-sociale-atunci-de-2550499.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/avem-tinder-bumble-si-retele-sociale-atunci-de-2550499.html</guid>
     </item>
     <item>
-        <title>Prințul Harry și Meghan Markle s-ar întoarce în Marea Britanie împreună cu copiii, la șase ani după retragerea din familia regală</title>
-        <link>https://www.mediafax.ro/externe/printul-harry-si-meghan-markle-s-ar-intoarce-in-marea-britanie-impreuna-cu-copiii-la-sase-ani-dupa-retragerea-din-familia-regala-23793091</link>
+        <title>Atac rusesc asupra Kievului. Cel puțin trei morți și 20 de răniți</title>
+        <link>https://www.mediafax.ro/externe/atac-rusesc-asupra-kievului-cel-putin-trei-morti-si-20-de-raniti-23793101</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/printul-harry-si-meghan-markle-s-ar-intoarce-in-marea-britanie-impreuna-cu-copiii-la-sase-ani-dupa-retragerea-din-familia-regala-23793091</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/atac-rusesc-asupra-kievului-cel-putin-trei-morti-si-20-de-raniti-23793101</guid>
+    </item>
+    <item>
+        <title>Haos în București cu programul „Școala după Școală”. În unele sectoare, copiii ar putea începe abia după 14 septembrie</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/haos-in-bucuresti-cu-programul-scoala-dupa-2550957.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/haos-in-bucuresti-cu-programul-scoala-dupa-2550957.html</guid>
+    </item>
+    <item>
+        <title>Casa Verde Baterii, pus sub lupă de specialiști. Problemele din noul ghid și schimbările propuse pentru prosumatori</title>
+        <link>https://adevarul.ro/economie/casa-verde-baterii-pus-sub-lupa-de-specialisti-2550870.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/casa-verde-baterii-pus-sub-lupa-de-specialisti-2550870.html</guid>
     </item>
     <item>
         <title>Împușcături în apropierea tribunalului din Las Vegas, unde are loc procesul pentru uciderea lui Tupac Shakur</title>
         <link>https://www.mediafax.ro/externe/impuscaturi-in-apropierea-tribunalului-din-las-vegas-unde-are-loc-procesul-pentru-uciderea-lui-tupac-shakur-23793093</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/externe/impuscaturi-in-apropierea-tribunalului-din-las-vegas-unde-are-loc-procesul-pentru-uciderea-lui-tupac-shakur-23793093</guid>
+    </item>
+    <item>
+        <title>Profesorii ar putea ajunge să dea note „de frica platformei”. Avertismentul unui expert despre noul sistem de corectare la Bac</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/profesorii-ar-putea-ajunge-sa-dea-note-de-frica-2550516.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/profesorii-ar-putea-ajunge-sa-dea-note-de-frica-2550516.html</guid>
+    </item>
+    <item>
+        <title>Vacanțele de Crăciun și Revelion, deja la vânzare. Cât costă un sejur la munte și unde găsești reduceri de până la 30%</title>
+        <link>https://adevarul.ro/stiri-interne/societate/vacantele-de-craciun-si-revelion-deja-la-vanzare-2549967.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/vacantele-de-craciun-si-revelion-deja-la-vanzare-2549967.html</guid>
+    </item>
+    <item>
+        <title>Prințul Harry și Meghan Markle s-ar întoarce în Marea Britanie împreună cu copiii, la șase ani după retragerea din familia regală</title>
+        <link>https://www.mediafax.ro/externe/printul-harry-si-meghan-markle-s-ar-intoarce-in-marea-britanie-impreuna-cu-copiii-la-sase-ani-dupa-retragerea-din-familia-regala-23793091</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/printul-harry-si-meghan-markle-s-ar-intoarce-in-marea-britanie-impreuna-cu-copiii-la-sase-ani-dupa-retragerea-din-familia-regala-23793091</guid>
     </item>
     <item>
         <title>Suplimentul pe care 4 cardiologi îl numesc o risipă de bani. Adevărul despre Coenzima Q10</title>
@@ -342,30 +366,6 @@
         <link>https://www.mediafax.ro/social/jandarmeria-anunta-masuri-de-siguranta-in-weekend-pentru-un-mare-festival-din-capitala-23793073</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/social/jandarmeria-anunta-masuri-de-siguranta-in-weekend-pentru-un-mare-festival-din-capitala-23793073</guid>
-    </item>
-    <item>
-        <title>Începe evaluarea imobilelor din zona afectată de explozia din Rahova. Apelul Poliției Locale pentru locatari</title>
-        <link>https://www.g4media.ro/incepe-evaluarea-imobilelor-din-zona-afectata-de-explozia-din-rahova-apelul-politiei-locale-pentru-locatari.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/incepe-evaluarea-imobilelor-din-zona-afectata-de-explozia-din-rahova-apelul-politiei-locale-pentru-locatari.html</guid>
-    </item>
-    <item>
-        <title>Volodimir Zelenski a prezentat lista de sarcini noului ministru al Apărării din Ucraina. Producția militară mai eficientă, printre priorități</title>
-        <link>https://www.g4media.ro/volodimir-zelenski-a-prezentat-lista-de-sarcini-noului-ministru-al-apararii-din-ucraina-productia-militara-mai-eficienta-printre-prioritati.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/volodimir-zelenski-a-prezentat-lista-de-sarcini-noului-ministru-al-apararii-din-ucraina-productia-militara-mai-eficienta-printre-prioritati.html</guid>
-    </item>
-    <item>
-        <title>Militarii americani primesc o ofertă neobișnuită: Patru zile libere pentru GTA VI / Care este condiția</title>
-        <link>https://www.g4media.ro/militarii-americani-primesc-o-oferta-neobisnuita-patru-zile-libere-pentru-gta-vi-care-este-conditia.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/militarii-americani-primesc-o-oferta-neobisnuita-patru-zile-libere-pentru-gta-vi-care-este-conditia.html</guid>
-    </item>
-    <item>
-        <title>„O dronă explodează lângă tine, iar unii se gândesc la alegeri”. Cum au reacționat militarii ucraineni după mesajul lui Fedorov</title>
-        <link>https://www.digi24.ro/stiri/externe/o-drona-explodeaza-langa-tine-iar-unii-se-gandesc-la-alegeri-cum-au-reactionat-militarii-ucraineni-dupa-mesajul-lui-fedorov-3913325</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/o-drona-explodeaza-langa-tine-iar-unii-se-gandesc-la-alegeri-cum-au-reactionat-militarii-ucraineni-dupa-mesajul-lui-fedorov-3913325</guid>
     </item>
 </channel>
 </rss>
