@@ -5,13 +5,19 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 21 Aug 2026 02:11:19 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:33:57 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Țigările și vape-urile ar putea costa mai mult: noile taxe negociate de UE și impactul pentru România</title>
-        <link>https://adevarul.ro/economie/tigarile-si-vape-urile-ar-putea-costa-mai-mult-2551044.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/tigarile-si-vape-urile-ar-putea-costa-mai-mult-2551044.html</guid>
+        <title>Fost inginer Google, condamnat pentru furt de secrete AI către China. Un judecător american anulează o parte din verdict</title>
+        <link>https://www.mediafax.ro/externe/fost-inginer-google-condamnat-pentru-furt-de-secrete-ai-catre-china-un-judecator-american-anuleaza-o-parte-din-verdict-23793711</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/fost-inginer-google-condamnat-pentru-furt-de-secrete-ai-catre-china-un-judecator-american-anuleaza-o-parte-din-verdict-23793711</guid>
+    </item>
+    <item>
+        <title>Universitatea Craiova s-a împiedicat de Ararat Armenia, în play-off-ul din Liga Europa. Meciul decisiv se joacă în deplasare</title>
+        <link>https://www.libertatea.ro/sport/universitatea-craiova-ararat-armenia-1-1-in-prima-mansa-din-play-off-ul-europa-league-5858211</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/sport/universitatea-craiova-ararat-armenia-1-1-in-prima-mansa-din-play-off-ul-europa-league-5858211</guid>
     </item>
     <item>
         <title>Cum încearcă Italia să oprească invazia crabului albastru cu ajutorul caracatițelor. Crustaceele provoacă pagube enorme pescarilor</title>
@@ -20,46 +26,28 @@
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/stiinta/cum-incearca-italia-sa-opreasca-invazia-crabului-2551074.html</guid>
     </item>
     <item>
-        <title>Traian Băsescu vede o capcană în decizia lui Nicușor Dan privind salariile. „Le-a dat exact ce voiau să audă”</title>
-        <link>https://www.libertatea.ro/stiri/traian-basescu-il-acuza-pe-nicusor-dan-ca-a-gresit-cu-legea-salarizarii-le-a-dat-partidelor-ce-voiau-sa-auda-5858249</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/traian-basescu-il-acuza-pe-nicusor-dan-ca-a-gresit-cu-legea-salarizarii-le-a-dat-partidelor-ce-voiau-sa-auda-5858249</guid>
-    </item>
-    <item>
-        <title>NATO va apăra Bulgaria în cazul unui atac din partea Iranului, i-a transmis Mark Rutte lui Rumen Radev</title>
-        <link>https://www.libertatea.ro/stiri/nato-va-apara-bulgaria-in-cazul-unui-atac-din-partea-iranului-i-a-transmis-mark-rutte-lui-rumen-radev-5858146</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/nato-va-apara-bulgaria-in-cazul-unui-atac-din-partea-iranului-i-a-transmis-mark-rutte-lui-rumen-radev-5858146</guid>
-    </item>
-    <item>
-        <title>Vara pare că trece într-o clipă. De ce se întâmplă asta și cum putem încetini timpul</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/vara-pare-ca-trece-intr-o-clipa-de-ce-se-2550413.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/vara-pare-ca-trece-intr-o-clipa-de-ce-se-2550413.html</guid>
-    </item>
-    <item>
-        <title>Concurs la CNAS pentru 20 de funcții de director general în județe. Până când se pot depune dosarele și care este calendarul examenelor</title>
-        <link>https://www.libertatea.ro/stiri/concurs-cnas-directori-generali-case-judetene-sanatate-5858067</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/concurs-cnas-directori-generali-case-judetene-sanatate-5858067</guid>
-    </item>
-    <item>
-        <title>Vladimir Putin a vizitat osemintele recent descoperite ale cneazului Dmitri Donskoi, considerat erou și sfânt în Rusia</title>
-        <link>https://www.libertatea.ro/stiri/vladimir-putin-a-vizitat-osemintele-recent-descoperite-ale-cneazului-dmitri-donskoi-considerat-erou-si-sfant-in-rusia-5858126</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/vladimir-putin-a-vizitat-osemintele-recent-descoperite-ale-cneazului-dmitri-donskoi-considerat-erou-si-sfant-in-rusia-5858126</guid>
-    </item>
-    <item>
         <title>Ce legătură are vitamina B12 cu cancerul. Descoperirea care îi surprinde pe cercetători</title>
         <link>https://www.mediafax.ro/stiinta-sanatate/ce-legatura-are-vitamina-b12-cu-cancerul-descoperirea-care-ii-surprinde-pe-cercetatori-23793713</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/ce-legatura-are-vitamina-b12-cu-cancerul-descoperirea-care-ii-surprinde-pe-cercetatori-23793713</guid>
     </item>
     <item>
-        <title>„Vom însămânța pe datorie”. Fermierii intră în campania de toamnă cu motorina peste 10 lei</title>
-        <link>https://adevarul.ro/economie/vom-insamanta-pe-datorie-fermierii-intra-in-2551086.html</link>
+        <title>Traficul naval prin Strâmtoarea Ormuz scade la jumătate pe fondul tensiunilor dintre SUA și Iran</title>
+        <link>https://www.mediafax.ro/externe/traficul-naval-prin-stramtoarea-ormuz-scade-la-jumatate-pe-fondul-tensiunilor-dintre-sua-si-iran-23793721</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/traficul-naval-prin-stramtoarea-ormuz-scade-la-jumatate-pe-fondul-tensiunilor-dintre-sua-si-iran-23793721</guid>
+    </item>
+    <item>
+        <title>Povestea unui plan diabolic de cucerire a României. Cine ne-a salvat de operațiunea secretă Margarethe II</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/povestea-unui-plan-diabolic-de-cucerire-a-2550453.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/vom-insamanta-pe-datorie-fermierii-intra-in-2551086.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/povestea-unui-plan-diabolic-de-cucerire-a-2550453.html</guid>
+    </item>
+    <item>
+        <title>Atunci când banalul pate devine o delicatesă sănătoasă și naturală. Trei rețete de pate făcut în casă</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/atunci-cand-banalul-pate-devine-o-delicatesa-2549778.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/atunci-cand-banalul-pate-devine-o-delicatesa-2549778.html</guid>
     </item>
     <item>
         <title>Doi tineri pe o trotinetă electrică au condus cu peste 70 km/h și au depășit o mașină, pe o stradă din Austria</title>
@@ -68,10 +56,40 @@
         <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/trotineta-electrica-depasit-masina-austria-5858196</guid>
     </item>
     <item>
-        <title>Coreea de Nord lansează rachete balistice în pline exerciții militare SUA–Coreea de Sud</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/coreea-de-nord-lanseaza-rachete-balistice-in-pline-2551110.html</link>
+        <title>Ecuador desfășoară operaţiuni militare comune cu armata SUA împotriva puternicelor carteluri de narcotraficanți</title>
+        <link>https://www.g4media.ro/ecuador-desfasoara-operatiuni-militare-comune-cu-armata-sua-impotriva-puternicelor-carteluri-de-narcotraficanti.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ecuador-desfasoara-operatiuni-militare-comune-cu-armata-sua-impotriva-puternicelor-carteluri-de-narcotraficanti.html</guid>
+    </item>
+    <item>
+        <title>„Vom însămânța pe datorie”. Fermierii intră în campania de toamnă cu motorina peste 10 lei</title>
+        <link>https://adevarul.ro/economie/vom-insamanta-pe-datorie-fermierii-intra-in-2551086.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/coreea-de-nord-lanseaza-rachete-balistice-in-pline-2551110.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/economie/vom-insamanta-pe-datorie-fermierii-intra-in-2551086.html</guid>
+    </item>
+    <item>
+        <title>Traian Băsescu vede o capcană în decizia lui Nicușor Dan privind salariile. „Le-a dat exact ce voiau să audă”</title>
+        <link>https://www.libertatea.ro/stiri/traian-basescu-il-acuza-pe-nicusor-dan-ca-a-gresit-cu-legea-salarizarii-le-a-dat-partidelor-ce-voiau-sa-auda-5858249</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/traian-basescu-il-acuza-pe-nicusor-dan-ca-a-gresit-cu-legea-salarizarii-le-a-dat-partidelor-ce-voiau-sa-auda-5858249</guid>
+    </item>
+    <item>
+        <title>Străinii pot suplini forța de muncă, dar nu și Armata. Avertismentul fostului șef al Statului Major</title>
+        <link>https://adevarul.ro/securitate-si-aparare/strainii-pot-suplini-forta-de-munca-dar-nu-si-2551185.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/strainii-pot-suplini-forta-de-munca-dar-nu-si-2551185.html</guid>
+    </item>
+    <item>
+        <title>Accident aviatic în Alaska. Un avion cu 8 persoane s-a prăbușit lângă un radar</title>
+        <link>https://www.mediafax.ro/externe/accident-aviatic-in-alaska-un-avion-cu-8-persoane-s-a-prabusit-langa-un-radar-23793724</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/accident-aviatic-in-alaska-un-avion-cu-8-persoane-s-a-prabusit-langa-un-radar-23793724</guid>
+    </item>
+    <item>
+        <title>„Este inuman”. Directoarea de la Colegiul Lazăr din București explică de ce refuză examenul separat de admitere. Ce propune</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/este-inuman-directoarea-de-la-colegiul-lazar-2551175.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/este-inuman-directoarea-de-la-colegiul-lazar-2551175.html</guid>
     </item>
     <item>
         <title>Fost ministru danez, avertisment pentru Rusia: „Dacă provoacă NATO, suntem pregătiți să răspundem”</title>
@@ -80,10 +98,22 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/fost-ministru-danez-avertisment-pentru-rusia-daca-provoaca-nato-suntem-pregatiti-sa-raspundem-23793715</guid>
     </item>
     <item>
-        <title>Un complex turistic din Vâlcea ar fi plătit la negru 70 de angajați timp de 3 ani, trecând 4,3 milioane lei într-o agendă</title>
-        <link>https://www.libertatea.ro/stiri/complex-valcea-platit-angajati-la-negru-timp-3-ani-5858133</link>
+        <title>Coreea de Nord lansează rachete balistice în pline exerciții militare SUA–Coreea de Sud</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/coreea-de-nord-lanseaza-rachete-balistice-in-pline-2551110.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/coreea-de-nord-lanseaza-rachete-balistice-in-pline-2551110.html</guid>
+    </item>
+    <item>
+        <title>Vladimir Putin a vizitat osemintele recent descoperite ale cneazului Dmitri Donskoi, considerat erou și sfânt în Rusia</title>
+        <link>https://www.libertatea.ro/stiri/vladimir-putin-a-vizitat-osemintele-recent-descoperite-ale-cneazului-dmitri-donskoi-considerat-erou-si-sfant-in-rusia-5858126</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/complex-valcea-platit-angajati-la-negru-timp-3-ani-5858133</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/vladimir-putin-a-vizitat-osemintele-recent-descoperite-ale-cneazului-dmitri-donskoi-considerat-erou-si-sfant-in-rusia-5858126</guid>
+    </item>
+    <item>
+        <title>De ce-și pierde Israelul elitele: țara se confruntă cu un val fără precedent de emigrare. Cine sunt cei care aleg să plece</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/de-ce-si-pierde-israelul-elitele-tara-se-2551137.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/de-ce-si-pierde-israelul-elitele-tara-se-2551137.html</guid>
     </item>
     <item>
         <title>Primarul din Como interzice bicicletele în centrul orașului: „Eu ştiu cum este să fii lovit de una dintre aceste «bestii»”</title>
@@ -92,10 +122,46 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/primarul-din-como-interzice-bicicletele-in-centrul-orasului-eu-stiu-cum-este-sa-fii-lovit-de-una-dintre-aceste-bestii-5858266</guid>
     </item>
     <item>
-        <title>Fost inginer Google, condamnat pentru furt de secrete AI către China. Un judecător american anulează o parte din verdict</title>
-        <link>https://www.mediafax.ro/externe/fost-inginer-google-condamnat-pentru-furt-de-secrete-ai-catre-china-un-judecator-american-anuleaza-o-parte-din-verdict-23793711</link>
+        <title>NATO va apăra Bulgaria în cazul unui atac din partea Iranului, i-a transmis Mark Rutte lui Rumen Radev</title>
+        <link>https://www.libertatea.ro/stiri/nato-va-apara-bulgaria-in-cazul-unui-atac-din-partea-iranului-i-a-transmis-mark-rutte-lui-rumen-radev-5858146</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/nato-va-apara-bulgaria-in-cazul-unui-atac-din-partea-iranului-i-a-transmis-mark-rutte-lui-rumen-radev-5858146</guid>
+    </item>
+    <item>
+        <title>Horoscop 21 august 2026. Racii duc pe umeri o povară grea și poate de aceea nu mai au resurse ca să hrănească armonia din familie</title>
+        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-21-august-2026-5856643</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-21-august-2026-5856643</guid>
+    </item>
+    <item>
+        <title>Un complex turistic din Vâlcea ar fi plătit la negru 70 de angajați timp de 3 ani, trecând 4,3 milioane lei într-o agendă</title>
+        <link>https://www.libertatea.ro/stiri/complex-valcea-platit-angajati-la-negru-timp-3-ani-5858133</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/complex-valcea-platit-angajati-la-negru-timp-3-ani-5858133</guid>
+    </item>
+    <item>
+        <title>Le Monde: România și Republica Moldova au o miză crucială – lupta împotriva dronelor rusești</title>
+        <link>https://www.g4media.ro/le-monde-romania-si-republica-moldova-au-o-miza-cruciala-lupta-impotriva-dronelor-rusesti.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/le-monde-romania-si-republica-moldova-au-o-miza-cruciala-lupta-impotriva-dronelor-rusesti.html</guid>
+    </item>
+    <item>
+        <title>Reuniune surpriză între Donald Trump și Michael Cohen, omul care a depus mărturie împotriva lui: „Am iertat”</title>
+        <link>https://www.mediafax.ro/externe/reuniune-surpriza-intre-donald-trump-si-michael-cohen-omul-care-a-depus-marturie-impotriva-lui-am-iertat-23793718</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/fost-inginer-google-condamnat-pentru-furt-de-secrete-ai-catre-china-un-judecator-american-anuleaza-o-parte-din-verdict-23793711</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/reuniune-surpriza-intre-donald-trump-si-michael-cohen-omul-care-a-depus-marturie-impotriva-lui-am-iertat-23793718</guid>
+    </item>
+    <item>
+        <title>Concurs la CNAS pentru 20 de funcții de director general în județe. Până când se pot depune dosarele și care este calendarul examenelor</title>
+        <link>https://www.libertatea.ro/stiri/concurs-cnas-directori-generali-case-judetene-sanatate-5858067</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/concurs-cnas-directori-generali-case-judetene-sanatate-5858067</guid>
+    </item>
+    <item>
+        <title>Țigările și vape-urile ar putea costa mai mult: noile taxe negociate de UE și impactul pentru România</title>
+        <link>https://adevarul.ro/economie/tigarile-si-vape-urile-ar-putea-costa-mai-mult-2551044.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/tigarile-si-vape-urile-ar-putea-costa-mai-mult-2551044.html</guid>
     </item>
     <item>
         <title>Oasele unor denisovani uriași, găsite sub mare în Taiwan. Unul avea aproape 1,90 metri și a trăit acum 45.000 de ani</title>
@@ -110,34 +176,16 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/printul-william-si-kate-middleton-fermi-in-fata-revenirii-lui-harry-si-meghan-in-marea-britanie-23793709</guid>
     </item>
     <item>
-        <title>Horoscop 21 august 2026. Racii duc pe umeri o povară grea și poate de aceea nu mai au resurse ca să hrănească armonia din familie</title>
-        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-21-august-2026-5856643</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-21-august-2026-5856643</guid>
-    </item>
-    <item>
         <title>Povestea de film a țăranilor români ajunși în cele mai dure grupări mafiote din Statele Unite</title>
         <link>https://adevarul.ro/stil-de-viata/magazin/povestea-de-film-a-taranilor-romani-ajunsi-in-cele-2550099.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/povestea-de-film-a-taranilor-romani-ajunsi-in-cele-2550099.html</guid>
     </item>
     <item>
-        <title>De ce-și pierde Israelul elitele: țara se confruntă cu un val fără precedent de emigrare. Cine sunt cei care aleg să plece</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/de-ce-si-pierde-israelul-elitele-tara-se-2551137.html</link>
+        <title>Vara pare că trece într-o clipă. De ce se întâmplă asta și cum putem încetini timpul</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/vara-pare-ca-trece-intr-o-clipa-de-ce-se-2550413.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/de-ce-si-pierde-israelul-elitele-tara-se-2551137.html</guid>
-    </item>
-    <item>
-        <title>Reuniune surpriză între Donald Trump și Michael Cohen, omul care a depus mărturie împotriva lui: „Am iertat”</title>
-        <link>https://www.mediafax.ro/externe/reuniune-surpriza-intre-donald-trump-si-michael-cohen-omul-care-a-depus-marturie-impotriva-lui-am-iertat-23793718</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/reuniune-surpriza-intre-donald-trump-si-michael-cohen-omul-care-a-depus-marturie-impotriva-lui-am-iertat-23793718</guid>
-    </item>
-    <item>
-        <title>Universitatea Craiova s-a împiedicat de Ararat Armenia, în play-off-ul din Liga Europa. Meciul decisiv se joacă în deplasare</title>
-        <link>https://www.libertatea.ro/sport/universitatea-craiova-ararat-armenia-1-1-in-prima-mansa-din-play-off-ul-europa-league-5858211</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/sport/universitatea-craiova-ararat-armenia-1-1-in-prima-mansa-din-play-off-ul-europa-league-5858211</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/vara-pare-ca-trece-intr-o-clipa-de-ce-se-2550413.html</guid>
     </item>
     <item>
         <title>„33 de ani. Zero relații”. Când devine singurătatea o problemă și când este o alegere</title>
@@ -318,54 +366,6 @@
         <link>https://www.mediafax.ro/horoscop/horoscop-21-august-2026-ziua-in-care-unele-zodii-pot-avea-parte-de-surprize-in-dragoste-si-bani-cine-este-favorizat-23793694</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-21-august-2026-ziua-in-care-unele-zodii-pot-avea-parte-de-surprize-in-dragoste-si-bani-cine-este-favorizat-23793694</guid>
-    </item>
-    <item>
-        <title>Centrala nucleară din Bulgaria își reduce capacitatea din cauza nivelului scăzut al Dunării. Cum poate afecta România</title>
-        <link>https://adevarul.ro/stiri-externe/europa/centrala-nucleara-din-bulgaria-isi-reduce-2551207.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/centrala-nucleara-din-bulgaria-isi-reduce-2551207.html</guid>
-    </item>
-    <item>
-        <title>Noi imagini cu neutralizarea controlată a resturilor dronei maritime lovite de avionul F-16: „Forțele monitorizează permanent situația”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/noi-imagini-cu-neutralizarea-controlata-a-resturilor-dronei-maritime-lovite-de-avionul-f-16-fortele-monitorizeaza-permanent-situatia-3914985</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/noi-imagini-cu-neutralizarea-controlata-a-resturilor-dronei-maritime-lovite-de-avionul-f-16-fortele-monitorizeaza-permanent-situatia-3914985</guid>
-    </item>
-    <item>
-        <title>„Fata cu cercel de perlă” de Vermeer, expusă în Japonia / Tabloul va putea fi admirat la Osaka</title>
-        <link>https://www.g4media.ro/fata-cu-cercel-de-perla-de-vermeer-expusa-in-japonia-tabloul-va-putea-fi-admirat-la-osaka.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/fata-cu-cercel-de-perla-de-vermeer-expusa-in-japonia-tabloul-va-putea-fi-admirat-la-osaka.html</guid>
-    </item>
-    <item>
-        <title>Traian Băsescu critică poziția lui Nicușor Dan privind Legea salarizării: Degeaba a chemat partidele, nu se va ajunge la un rezultat</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/traian-basescu-critica-pozitia-lui-nicusor-dan-privind-legea-salarizarii-degeaba-a-chemat-partidele-nu-se-va-ajunge-la-nimic-3914931</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/traian-basescu-critica-pozitia-lui-nicusor-dan-privind-legea-salarizarii-degeaba-a-chemat-partidele-nu-se-va-ajunge-la-nimic-3914931</guid>
-    </item>
-    <item>
-        <title>A sunat la 112 să-şi reclame vecinii că nu-l lasă să ia apă din fântâna lor. Cât l-a costat apelul pe un argeşean</title>
-        <link>https://adevarul.ro/stiri-locale/pitesti/a-sunat-la-112-sa-si-reclame-vecinii-ca-nu-l-lasa-2551201.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/pitesti/a-sunat-la-112-sa-si-reclame-vecinii-ca-nu-l-lasa-2551201.html</guid>
-    </item>
-    <item>
-        <title>România se pregătește pentru vârful de consum de vineri. Cristian Bușoi: Energia eoliană poate reduce presiunea pe importuri</title>
-        <link>https://www.digi24.ro/stiri/economie/energie/romania-se-pregateste-pentru-varful-de-consum-de-vineri-cristian-busoi-energia-eoliana-poate-reduce-presiunea-pe-importuri-3914871</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/romania-se-pregateste-pentru-varful-de-consum-de-vineri-cristian-busoi-energia-eoliana-poate-reduce-presiunea-pe-importuri-3914871</guid>
-    </item>
-    <item>
-        <title>Un nou atac rusesc asupra infrastructurii din Kiev. O persoană a murit iar unele zone ar putea rămâne fără apă caldă</title>
-        <link>https://www.mediafax.ro/externe/un-nou-atac-rusesc-asupra-infrastructurii-din-kiev-o-persoana-a-murit-iar-unele-zone-ar-putea-ramane-fara-apa-calda-23793653</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-nou-atac-rusesc-asupra-infrastructurii-din-kiev-o-persoana-a-murit-iar-unele-zone-ar-putea-ramane-fara-apa-calda-23793653</guid>
-    </item>
-    <item>
-        <title>Pană de curent în nordul Capitalei. Secretarul de stat Cristian Bușoi explică ce cauze ar putea avea incidentul</title>
-        <link>https://www.digi24.ro/stiri/actualitate/evenimente/pana-de-curent-in-nordul-capitalei-secretarul-de-stat-cristian-busoi-explica-ce-cauze-ar-putea-avea-incidentul-3914961</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/pana-de-curent-in-nordul-capitalei-secretarul-de-stat-cristian-busoi-explica-ce-cauze-ar-putea-avea-incidentul-3914961</guid>
     </item>
 </channel>
 </rss>
