@@ -5,163 +5,31 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:56:19 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:56:59 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Un hunedorean a intrat cu tricicleta pe autostrada A1, pe contrasens. Ce amendă a primit</title>
-        <link>https://adevarul.ro/stiri-locale/hunedoara/un-hunedorean-a-intrat-cu-tricicleta-pe-autostrada-2551462.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/hunedoara/un-hunedorean-a-intrat-cu-tricicleta-pe-autostrada-2551462.html</guid>
-    </item>
-    <item>
-        <title>Actorul Adrian Văncică a câştigat premiul pentru cel mai bun actor la Festivalul Internaţional de la Sarajevo pentru rolul din „Nu e locul tău aici\</title>
-        <link>https://adevarul.ro/showbiz/film/actorul-adrian-vancica-a-castigat-premiul-pentru-2551437.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/film/actorul-adrian-vancica-a-castigat-premiul-pentru-2551437.html</guid>
-    </item>
-    <item>
-        <title>Inteligența artificială, noua armă a hackerilor. Cum recunoști atacurile cu AI și ce măsuri te pot proteja: „Se pierde puțin controlul”</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/lumea-digitala/inteligenta-artificiala-noua-arma-a-hackerilor-cum-recunosti-atacurile-cu-ai-si-ce-masuri-te-pot-proteja-se-pierde-putin-controlul-3916313</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/lumea-digitala/inteligenta-artificiala-noua-arma-a-hackerilor-cum-recunosti-atacurile-cu-ai-si-ce-masuri-te-pot-proteja-se-pierde-putin-controlul-3916313</guid>
-    </item>
-    <item>
-        <title>„O monedă pe care și-o poate permite oricine”: o biserică din Polonia înlocuiește taxele de parcare cu rugăciuni</title>
-        <link>https://www.digi24.ro/stiri/externe/o-moneda-pe-care-si-o-poate-permite-oricine-o-biserica-din-polonia-inlocuieste-taxele-de-parcare-cu-rugaciuni-3916795</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/o-moneda-pe-care-si-o-poate-permite-oricine-o-biserica-din-polonia-inlocuieste-taxele-de-parcare-cu-rugaciuni-3916795</guid>
-    </item>
-    <item>
-        <title>Cinism în motivarea CCR: Celebrează ”integritatea și transparența”, dar secretizează averile demnitarilor în practică / 5 judecători CCR au anulat obl</title>
-        <link>https://www.g4media.ro/cinism-in-motivarea-ccr-celebreaza-integritatea-si-transparenta-dar-secretizeaza-averile-demnitarilor-in-practica-5-judecatori-ccr-au-anulat-obligatia-declararii-averilor-desi-n.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cinism-in-motivarea-ccr-celebreaza-integritatea-si-transparenta-dar-secretizeaza-averile-demnitarilor-in-practica-5-judecatori-ccr-au-anulat-obligatia-declararii-averilor-desi-n.html</guid>
-    </item>
-    <item>
-        <title>Apele Române contruiesc un dig pe Dunăre pentru a menține în funcțiune Centrala nucleară de la Cernavodă. Hidroelectrica eliberează apă din barajele d</title>
-        <link>https://www.g4media.ro/apele-romane-contruiesc-un-dig-pe-dunare-pentru-a-mentine-in-functiune-centrala-nucleara-de-la-cernavoda-hidroelectrica-elibereaza-apa-din-barajele-de-pe-olt-pentru-a-mari-debitul-dunarii.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/apele-romane-contruiesc-un-dig-pe-dunare-pentru-a-mentine-in-functiune-centrala-nucleara-de-la-cernavoda-hidroelectrica-elibereaza-apa-din-barajele-de-pe-olt-pentru-a-mari-debitul-dunarii.html</guid>
-    </item>
-    <item>
-        <title>Messi a fost amendat, după ce și-a plesnit adversarul peste față în timpul unui meci</title>
-        <link>https://adevarul.ro/sport/messi-a-fost-amendat-dupa-ce-si-a-plesnit-2551466.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/messi-a-fost-amendat-dupa-ce-si-a-plesnit-2551466.html</guid>
-    </item>
-    <item>
-        <title>Weekend cu vreme extremă: caniculă sufocantă și furtuni violente lovesc România. Care sunt județele sub avertizare</title>
-        <link>https://www.digi24.ro/meteo/weekend-cu-vreme-extrema-canicula-sufocanta-si-furtuni-violente-lovesc-romania-care-sunt-judetele-sub-avertizare-3916811</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/meteo/weekend-cu-vreme-extrema-canicula-sufocanta-si-furtuni-violente-lovesc-romania-care-sunt-judetele-sub-avertizare-3916811</guid>
-    </item>
-    <item>
-        <title>Incendiu la un complex de locuințe sociale din Săcălaz, Timiș: un mort, un rănit transportat la spital cu arsuri</title>
-        <link>https://www.digi24.ro/regional/digi24-timisoara/incendiu-la-un-complex-de-locuinte-sociale-din-sacalaz-timis-un-mort-un-ranit-transportat-la-spital-cu-arsuri-3916715</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/regional/digi24-timisoara/incendiu-la-un-complex-de-locuinte-sociale-din-sacalaz-timis-un-mort-un-ranit-transportat-la-spital-cu-arsuri-3916715</guid>
-    </item>
-    <item>
-        <title>Copil de 7 ani, abandonat de tatăl său pe un traseu de pe muntele Fuji. Alpinistul și-a continuat ascensiunea spre vârf</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/copil-de-7-ani-abandonat-de-tatal-sau-pe-un-2551458.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/copil-de-7-ani-abandonat-de-tatal-sau-pe-un-2551458.html</guid>
-    </item>
-    <item>
-        <title>Un bărbat s-a înecat în mare la Neptun. Avea 80 de ani</title>
-        <link>https://www.mediafax.ro/social/un-barbat-s-a-inecat-in-mare-la-neptun-avea-80-de-ani-23794358</link>
+        <title>Un tată și-a lăsat fiul de 7 ani singur pe Muntele Fuji pentru a-și continua drumeția</title>
+        <link>https://www.mediafax.ro/externe/un-tata-si-a-lasat-fiul-de-7-ani-singur-pe-muntele-fuji-pentru-a-si-continua-drumetia-23794365</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/un-barbat-s-a-inecat-in-mare-la-neptun-avea-80-de-ani-23794358</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-tata-si-a-lasat-fiul-de-7-ani-singur-pe-muntele-fuji-pentru-a-si-continua-drumetia-23794365</guid>
     </item>
     <item>
-        <title>Acum 169 de ani, România avea prima rafinărie din lume, era prima țară producătoare de țiței, iar Bucureștiul era primul oraș iluminat cu petrol lampa</title>
-        <link>https://www.mediafax.ro/economic/acum-169-de-ani-romania-avea-prima-rafinarie-din-lume-era-prima-tara-producatoare-de-titei-iar-bucurestiul-era-primul-oras-iluminat-cu-petrol-lampant-cand-s-a-introdus-curentul-in-capitala-23794175</link>
+        <title>Interes record pentru Festivalul Mamaia 2026. Evenimentul a fost sold-out, audiențe record la TVR și mii de căutări pe Google</title>
+        <link>https://www.mediafax.ro/social/interes-record-pentru-festivalul-mamaia-2026-evenimentul-a-fost-sold-out-audiente-record-la-tvr-si-mii-de-cautari-pe-google-23794367</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/acum-169-de-ani-romania-avea-prima-rafinarie-din-lume-era-prima-tara-producatoare-de-titei-iar-bucurestiul-era-primul-oras-iluminat-cu-petrol-lampant-cand-s-a-introdus-curentul-in-capitala-23794175</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/interes-record-pentru-festivalul-mamaia-2026-evenimentul-a-fost-sold-out-audiente-record-la-tvr-si-mii-de-cautari-pe-google-23794367</guid>
     </item>
     <item>
-        <title>Pentagonul a concediat conducerea publicaţiei militare Stars and Stripes după un reportaj care descria condiţiile dificile de la bordul portavionului </title>
-        <link>https://www.g4media.ro/pentagonul-a-concediat-conducerea-publicatiei-militare-stars-and-stripes-dupa-un-reportaj-care-descria-conditiile-dificile-de-la-bordul-portavionului-uss-abraham-lincoln.html</link>
+        <title>Cele cinci mari carteluri sindicale cer retragerea proiectului Legii salarizării, care ar pune ordine în salarizarea bugetarilor</title>
+        <link>https://www.g4media.ro/cele-cinci-mari-carteluri-sindicale-cer-retragerea-proiectului-legii-salarizarii-care-ar-pune-ordine-in-salarizarea-bugetarilor.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pentagonul-a-concediat-conducerea-publicatiei-militare-stars-and-stripes-dupa-un-reportaj-care-descria-conditiile-dificile-de-la-bordul-portavionului-uss-abraham-lincoln.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/cele-cinci-mari-carteluri-sindicale-cer-retragerea-proiectului-legii-salarizarii-care-ar-pune-ordine-in-salarizarea-bugetarilor.html</guid>
     </item>
     <item>
-        <title>VIDEO | Ambasadorul SUA la București are rădăcini est-europene, dar tot nu s-a putut hotărî: sarmale sau burgeri?</title>
-        <link>https://www.mediafax.ro/stirile-zilei/video-ambasadorul-sua-la-bucuresti-are-radacini-est-europene-dar-tot-nu-s-a-putut-hotari-sarmale-sau-burgeri-23793468</link>
+        <title>Trei jurnaliști ai publicației militare Stars and Stripes, inclusiv redactorul-șef, concediați de Pentagon. Care ar fi motivul invocat</title>
+        <link>https://www.mediafax.ro/externe/trei-jurnalisti-ai-publicatiei-militare-stars-and-stripes-inclusiv-redactorul-sef-concediati-de-pentagon-care-ar-fi-motivul-invocat-23794337</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/video-ambasadorul-sua-la-bucuresti-are-radacini-est-europene-dar-tot-nu-s-a-putut-hotari-sarmale-sau-burgeri-23793468</guid>
-    </item>
-    <item>
-        <title>„Putem sta liniștiți”. Dominic Fritz, ironic la adresa CCR după motivarea deciziei care-l lasă fără postul de primar</title>
-        <link>https://adevarul.ro/politica/putem-sta-linistiti-dominic-fritz-ironic-la-2551432.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/putem-sta-linistiti-dominic-fritz-ironic-la-2551432.html</guid>
-    </item>
-    <item>
-        <title>Cod portocaliu de caniculă în mai multe județe, cod galben de furtuni în Carpați</title>
-        <link>https://www.g4media.ro/cod-portocaliu-de-canicula-in-mai-multe-judete-cod-galben-de-furtuni-in-carpati.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cod-portocaliu-de-canicula-in-mai-multe-judete-cod-galben-de-furtuni-in-carpati.html</guid>
-    </item>
-    <item>
-        <title>Trump face noi comentarii controversate privind Strâmtoarea Ormuz: „O consider un teritoriu american”</title>
-        <link>https://www.mediafax.ro/externe/trump-face-noi-comentarii-controversate-privind-stramtoarea-ormuz-o-consider-un-teritoriu-american-23794303</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-face-noi-comentarii-controversate-privind-stramtoarea-ormuz-o-consider-un-teritoriu-american-23794303</guid>
-    </item>
-    <item>
-        <title>Vâlcea: Un bărbat a murit după ce un autoturism a căzut într-o prăpastie. Maşina a luat foc</title>
-        <link>https://www.mediafax.ro/social/valcea-un-barbat-a-murit-dupa-ce-un-autoturism-a-cazut-intr-o-prapastie-masina-a-luat-foc-23794315</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/valcea-un-barbat-a-murit-dupa-ce-un-autoturism-a-cazut-intr-o-prapastie-masina-a-luat-foc-23794315</guid>
-    </item>
-    <item>
-        <title>Volkswagen ia în calcul până la 50.000 de noi concedieri. „Situaţia este mai mult decât critică\</title>
-        <link>https://adevarul.ro/stiri-externe/europa/volkswagen-ia-in-calcul-pana-la-50000-de-noi-2551431.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/volkswagen-ia-in-calcul-pana-la-50000-de-noi-2551431.html</guid>
-    </item>
-    <item>
-        <title>Fragmente de dronă aeriană, semnalate în zona plajei Tuzla</title>
-        <link>https://www.g4media.ro/fragmente-de-drona-aeriana-semnalate-in-zona-plajei-tuzla.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/fragmente-de-drona-aeriana-semnalate-in-zona-plajei-tuzla.html</guid>
-    </item>
-    <item>
-        <title>Huliganii care s-au bătut la meciul de fotbal Petrolul Ploieşti – Rapid, amendați cu 50.000 de lei și cercetați pentru posibile infracțiuni</title>
-        <link>https://www.g4media.ro/huliganii-care-s-au-batut-la-meciul-de-fotbal-petrolul-ploiesti-rapid-amendati-cu-50-000-de-lei-si-cercetati-pentru-posibile-infractiuni.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/huliganii-care-s-au-batut-la-meciul-de-fotbal-petrolul-ploiesti-rapid-amendati-cu-50-000-de-lei-si-cercetati-pentru-posibile-infractiuni.html</guid>
-    </item>
-    <item>
-        <title>Cristi Danileț ironizează motivarea CCR în cazul Fritz: ”Limba legaleză a fost deja depășită. Eu cred ca e scris in limba bătrănă”</title>
-        <link>https://www.g4media.ro/cristi-danilet-ironizeaza-motivarea-ccr-in-cazul-fritz-limba-legaleza-a-fost-deja-depasita-eu-cred-ca-e-scris-in-limba-batrana.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cristi-danilet-ironizeaza-motivarea-ccr-in-cazul-fritz-limba-legaleza-a-fost-deja-depasita-eu-cred-ca-e-scris-in-limba-batrana.html</guid>
-    </item>
-    <item>
-        <title>Niciun acord în disputa comercială: SUA vor aplica taxe de 50% asupra unor produse canadiene. Carney promite un răspuns</title>
-        <link>https://www.digi24.ro/stiri/externe/niciun-acord-in-disputa-comerciala-sua-vor-aplica-taxe-de-50-asupra-unor-produse-canadiene-carney-promite-un-raspuns-3916727</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/niciun-acord-in-disputa-comerciala-sua-vor-aplica-taxe-de-50-asupra-unor-produse-canadiene-carney-promite-un-raspuns-3916727</guid>
-    </item>
-    <item>
-        <title>Campusul-fantomă din vestul țării: cum a ajuns o investiție de 7 milioane de euro să ruginească, de 18 ani, în mijlocul câmpului</title>
-        <link>https://www.digi24.ro/stiri/campusul-fantoma-din-vestul-tarii-cum-a-ajuns-o-investitie-de-7-milioane-de-euro-sa-rugineasca-de-18-ani-in-mijlocul-campului-3916501</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/campusul-fantoma-din-vestul-tarii-cum-a-ajuns-o-investitie-de-7-milioane-de-euro-sa-rugineasca-de-18-ani-in-mijlocul-campului-3916501</guid>
-    </item>
-    <item>
-        <title>Două garaje ard în Arad. Incendiul a provocat două victime. Autoritățile au emis un mesaj RO-Alert</title>
-        <link>https://www.mediafax.ro/social/doua-garaje-ard-in-arad-incendiul-a-provocat-doua-victime-autoritatile-au-emis-un-mesaj-ro-alert-23794321</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/doua-garaje-ard-in-arad-incendiul-a-provocat-doua-victime-autoritatile-au-emis-un-mesaj-ro-alert-23794321</guid>
-    </item>
-    <item>
-        <title>Surse Reuters: Vaticanul plănuiește să-și construiască propria „centrală verde”. La ce sumă s-ar ridica investiția</title>
-        <link>https://www.mediafax.ro/externe/surse-reuters-vaticanul-planuieste-sa-si-construiasca-propria-centrala-verde-la-ce-suma-s-ar-ridica-investitia-23794354</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/surse-reuters-vaticanul-planuieste-sa-si-construiasca-propria-centrala-verde-la-ce-suma-s-ar-ridica-investitia-23794354</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trei-jurnalisti-ai-publicatiei-militare-stars-and-stripes-inclusiv-redactorul-sef-concediati-de-pentagon-care-ar-fi-motivul-invocat-23794337</guid>
     </item>
     <item>
         <title>Orașul din Europa unde soarele nu apune timp de două luni. La miezul nopții, locuitorii fac drumeții, caiac și plimbări cu barca</title>
@@ -170,124 +38,10 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/orasul-din-europa-unde-soarele-nu-apune-timp-de-2551444.html</guid>
     </item>
     <item>
-        <title>Nouă pompieri din Bihor, în misiune în Serbia pentru stingerea incendiilor de pădure care devastează nordul țării</title>
-        <link>https://www.g4media.ro/noua-pompieri-din-bihor-in-misiune-in-serbia-pentru-stingerea-incendiilor-de-padure-care-devasteaza-nordul-tarii.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/noua-pompieri-din-bihor-in-misiune-in-serbia-pentru-stingerea-incendiilor-de-padure-care-devasteaza-nordul-tarii.html</guid>
-    </item>
-    <item>
-        <title>Cum funcționează vaccinul personalizat care ar putea redefini tratamentul cancerului</title>
-        <link>https://www.g4media.ro/cum-functioneaza-vaccinul-personalizat-care-ar-putea-redefini-tratamentul-cancerului.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cum-functioneaza-vaccinul-personalizat-care-ar-putea-redefini-tratamentul-cancerului.html</guid>
-    </item>
-    <item>
-        <title>Membrii NATO au discutat despre posibile contribuții privind deblocarea traficului prin Strâmtoarea Ormuz: „Nu este o misiune a Alianței”</title>
-        <link>https://www.mediafax.ro/externe/membrii-nato-au-discutat-despre-posibile-contributii-privind-deblocarea-traficului-prin-stramtoarea-ormuz-nu-este-o-misiune-a-aliantei-23794283</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/membrii-nato-au-discutat-despre-posibile-contributii-privind-deblocarea-traficului-prin-stramtoarea-ormuz-nu-este-o-misiune-a-aliantei-23794283</guid>
-    </item>
-    <item>
-        <title>Accident grav în Vâlcea: un mort și doi răniți, după ce au căzut cu mașina 300 de metri într-o prăpastie. Autoturismul a luat foc</title>
-        <link>https://www.digi24.ro/stiri/actualitate/evenimente/accident-grav-in-valcea-un-mort-si-doi-raniti-dupa-ce-au-cazut-cu-masina-300-de-metri-intr-o-prapastie-autoturismul-a-luat-foc-3916843</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/accident-grav-in-valcea-un-mort-si-doi-raniti-dupa-ce-au-cazut-cu-masina-300-de-metri-intr-o-prapastie-autoturismul-a-luat-foc-3916843</guid>
-    </item>
-    <item>
-        <title>O dronă a survolat spațiul aerian al Republicii Moldova. A intrat dinspre Ucraina</title>
-        <link>https://www.mediafax.ro/externe/o-drona-a-survolat-spatiul-aerian-al-republicii-moldova-a-intrat-dinspre-ucraina-23794359</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/o-drona-a-survolat-spatiul-aerian-al-republicii-moldova-a-intrat-dinspre-ucraina-23794359</guid>
-    </item>
-    <item>
-        <title>Un alpinist japonez și-a abandonat fiul de 7 ani pe munte pentru a termina ascensiunea pe Muntele Fuji</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/un-alpinist-jasponez-si-a-abandonat-fiul-de-7-ani-pe-munte-pentru-a-termina-ascensiunea-pe-muntele-fuji-3916881</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/un-alpinist-jasponez-si-a-abandonat-fiul-de-7-ani-pe-munte-pentru-a-termina-ascensiunea-pe-muntele-fuji-3916881</guid>
-    </item>
-    <item>
-        <title>Dobre, gest vulgar după golul marcat la Ploiești! Explicația bizară dată de rapidist: „Am văzut filmul!”</title>
-        <link>https://adevarul.ro/sport/dobre-gest-vulgar-dupa-golul-marcat-la-ploiesti-2551443.html</link>
+        <title>Tragedii pe Litoral. Un bătrân a murit înecat la Neptun, un copil este căutat în apele mării la Constanța</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/tragedii-pe-litoral-un-batran-a-murit-inecat-la-2551475.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/dobre-gest-vulgar-dupa-golul-marcat-la-ploiesti-2551443.html</guid>
-    </item>
-    <item>
-        <title>Economia digitală schimbă regulile taxării. Cum încearcă UE să impoziteze activitățile online</title>
-        <link>https://adevarul.ro/economie/economia-in-era-digitala/economia-digitala-schimba-regulile-taxarii-cum-2551300.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/economia-in-era-digitala/economia-digitala-schimba-regulile-taxarii-cum-2551300.html</guid>
-    </item>
-    <item>
-        <title>VIDEO | Cristiano Ronaldo, gol la debutul în noul sezon cu Al-Nassr / Ce record a stabilit</title>
-        <link>https://www.g4media.ro/video-cristiano-ronaldo-gol-la-debutul-in-noul-sezon-cu-al-nassr-ce-record-a-stabilit.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-cristiano-ronaldo-gol-la-debutul-in-noul-sezon-cu-al-nassr-ce-record-a-stabilit.html</guid>
-    </item>
-    <item>
-        <title>Via Transilvanica ar putea deveni un motor economic pentru satele României. Manuela Iftimoaei, ADV România: „Drumețul caută experiențe inedite” / De l</title>
-        <link>https://www.g4media.ro/via-transilvanica-ar-putea-deveni-un-motor-economic-pentru-satele-romaniei-manuela-iftimoaei-adv-romania-drumetul-cauta-experiente-inedite-de-la-cazare-si-gastronomie-la-afacer.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/via-transilvanica-ar-putea-deveni-un-motor-economic-pentru-satele-romaniei-manuela-iftimoaei-adv-romania-drumetul-cauta-experiente-inedite-de-la-cazare-si-gastronomie-la-afacer.html</guid>
-    </item>
-    <item>
-        <title>Israel lovește. Înțelege Turcia mesajul?</title>
-        <link>https://adevarul.ro/blogurile-adevarul/israel-loveste-intelege-turcia-mesajul-2551428.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/israel-loveste-intelege-turcia-mesajul-2551428.html</guid>
-    </item>
-    <item>
-        <title>România, între caniculă și episoade de instabilitate atmosferică. ANM a emis Coduri galben și portocaliu | HARTĂ</title>
-        <link>https://www.mediafax.ro/meteo/romania-intre-canicula-si-episoade-de-instabilitate-atmosferica-anm-a-emis-coduri-galben-si-portocaliu-harta-23794320</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/meteo/romania-intre-canicula-si-episoade-de-instabilitate-atmosferica-anm-a-emis-coduri-galben-si-portocaliu-harta-23794320</guid>
-    </item>
-    <item>
-        <title>VIDEO | Lionel Messi, amendat de MLS pentru o altercație cu un adversar din ultimul meci de campionat</title>
-        <link>https://www.g4media.ro/video-lionel-messi-amendat-de-mls-pentru-o-altercatie-cu-un-adversar-din-ultimul-meci-de-campionat.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-lionel-messi-amendat-de-mls-pentru-o-altercatie-cu-un-adversar-din-ultimul-meci-de-campionat.html</guid>
-    </item>
-    <item>
-        <title>Rapid a câștigat cu Petrolul, dar l-a pierdut pe Graovac. Fundașul a ajuns în cârje după meci</title>
-        <link>https://adevarul.ro/sport/rapid-a-castigat-cu-petrolul-dar-l-a-pierdut-pe-2551436.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/rapid-a-castigat-cu-petrolul-dar-l-a-pierdut-pe-2551436.html</guid>
-    </item>
-    <item>
-        <title>Complicele femeii din cazul medicului ucis și incendiat în București a fost prins de polițiști. Era urmărit național și internațional</title>
-        <link>https://www.digi24.ro/stiri/actualitate/justitie/complicele-femeii-din-cazul-medicului-ucis-si-incendiat-in-bucuresti-a-fost-prins-de-politisti-era-urmarit-national-si-international-3916901</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/justitie/complicele-femeii-din-cazul-medicului-ucis-si-incendiat-in-bucuresti-a-fost-prins-de-politisti-era-urmarit-national-si-international-3916901</guid>
-    </item>
-    <item>
-        <title>Polonia se alătură piețelor dezvoltate în urma unei reevaluări majore a S&amp;P Dow Jones Indices</title>
-        <link>https://www.digi24.ro/stiri/externe/polonia-se-alatura-pietelor-dezvoltate-in-urma-unei-reevaluari-majore-a-sp-dow-jones-indices-3916909</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/polonia-se-alatura-pietelor-dezvoltate-in-urma-unei-reevaluari-majore-a-sp-dow-jones-indices-3916909</guid>
-    </item>
-    <item>
-        <title>Cât costă pregătirea pentru școală în 2026. Diferența dintre un coș ieftin și unul de 3.000 de lei</title>
-        <link>https://adevarul.ro/economie/cat-costa-pregatirea-pentru-scoala-in-2026-2551275.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/cat-costa-pregatirea-pentru-scoala-in-2026-2551275.html</guid>
-    </item>
-    <item>
-        <title>Un celebru actor român a impresionat juriul Festivalului de Film de la Sarajevo. Ce premiu a primit</title>
-        <link>https://www.mediafax.ro/cultura-media/un-celebru-actor-roman-a-impresionat-juriul-festivalului-de-film-de-la-sarajevo-ce-premiu-a-primit-23794346</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/un-celebru-actor-roman-a-impresionat-juriul-festivalului-de-film-de-la-sarajevo-ce-premiu-a-primit-23794346</guid>
-    </item>
-    <item>
-        <title>Dronă care plutea pe mare la Tuzla, fotografiată din avion. Autoritățile sunt în alertă</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/drona-fotografiata-din-avion-plutind-pe-mare-la-2551454.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/drona-fotografiata-din-avion-plutind-pe-mare-la-2551454.html</guid>
-    </item>
-    <item>
-        <title>Au copt vinete în curte, dar nu au stins focul: un incendiu uriaș a izbucnit peste noapte în Cluj. „Bubuia ca petardele”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/au-copt-vinete-in-curte-dar-nu-au-stins-focul-un-2551441.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/au-copt-vinete-in-curte-dar-nu-au-stins-focul-un-2551441.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/tragedii-pe-litoral-un-batran-a-murit-inecat-la-2551475.html</guid>
     </item>
     <item>
         <title>Listarea la bursă a Anthropic, companie de inteligență artificială, ar putea doborî recordul stabilit de SpaceX</title>
@@ -296,64 +50,16 @@
         <guid isPermaLink="true">https://www.g4media.ro/listarea-la-bursa-a-anthropic-companie-de-inteligenta-artificiala-ar-putea-dobori-recordul-stabilit-de-spacex.html</guid>
     </item>
     <item>
-        <title>Mesajul lui nea Mihai după scandalul merdenelelor: „Nu ne dorim războaie”. Oamenii au format cozi la patiseria din Piața Amzei</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/mesajul-lui-nea-mihai-dupa-scandalul-merdenelelor-2551429.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/mesajul-lui-nea-mihai-dupa-scandalul-merdenelelor-2551429.html</guid>
-    </item>
-    <item>
-        <title>MApN: Resturi de dronă lângă plaja din Tuzla</title>
-        <link>https://www.europafm.ro/mapn-resturi-de-drona-langa-plaja-din-tuzla/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/mapn-resturi-de-drona-langa-plaja-din-tuzla/</guid>
-    </item>
-    <item>
-        <title>Halep este istorie la Cincinnati: recordul all-time al româncei a fost egalat. Americanii n-au trecut cu vederea</title>
-        <link>https://adevarul.ro/sport/halep-este-istorie-la-cincinnati-recordul-2551459.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/halep-este-istorie-la-cincinnati-recordul-2551459.html</guid>
-    </item>
-    <item>
-        <title>Opera din Viena arborează drapelul în bernă în memoria marii artiste Ileana Cotrubaș</title>
-        <link>https://www.g4media.ro/opera-din-viena-arboreaza-drapelul-in-berna-in-memoria-marii-artiste-ileana-cotrubas.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/opera-din-viena-arboreaza-drapelul-in-berna-in-memoria-marii-artiste-ileana-cotrubas.html</guid>
-    </item>
-    <item>
-        <title>Donald Trump spune că Strâmtoarea Ormuz este „teritoriu american”. Ce replică îi dă Iranul</title>
-        <link>https://www.digi24.ro/stiri/externe/donald-trump-spune-ca-stramtoarea-ormuz-este-teritoriu-american-ce-replica-ii-da-iranul-3916815</link>
+        <title>Campusul-fantomă din vestul țării: cum a ajuns o investiție de 7 milioane de euro să ruginească, de 18 ani, în mijlocul câmpului</title>
+        <link>https://www.digi24.ro/stiri/campusul-fantoma-din-vestul-tarii-cum-a-ajuns-o-investitie-de-7-milioane-de-euro-sa-rugineasca-de-18-ani-in-mijlocul-campului-3916501</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/donald-trump-spune-ca-stramtoarea-ormuz-este-teritoriu-american-ce-replica-ii-da-iranul-3916815</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/campusul-fantoma-din-vestul-tarii-cum-a-ajuns-o-investitie-de-7-milioane-de-euro-sa-rugineasca-de-18-ani-in-mijlocul-campului-3916501</guid>
     </item>
     <item>
-        <title>Grecii care lucrează în hoteluri fac topul celor mai dificili turiști. Ce spun despre români și cine sunt preferații lor</title>
-        <link>https://adevarul.ro/stiri-interne/societate/grecii-care-lucreaza-in-hoteluri-fac-topul-celor-2551450.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/grecii-care-lucreaza-in-hoteluri-fac-topul-celor-2551450.html</guid>
-    </item>
-    <item>
-        <title>„Asta mă enervează, arde-i ouăle și scuipă în ele”: mesajul revoltător găsit de turiști pe bonul unui restaurant din Italia</title>
-        <link>https://adevarul.ro/stiri-externe/europa/asta-ma-enerveaza-arde-i-ouale-si-scuipa-in-2551457.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/asta-ma-enerveaza-arde-i-ouale-si-scuipa-in-2551457.html</guid>
-    </item>
-    <item>
-        <title>Cum explică CCR decizia în cazul „amendamentului Fritz” la Legea ANI? Primarul Timișoarei ar urma să-și piardă funcția în urma acestei decizii</title>
-        <link>https://www.europafm.ro/cum-explica-ccr-decizia-in-cazul-amendamentului-fritz-la-legea-ani-primarul-timisoarei-ar-urma-sa-si-piarda-functia-in-urma-acestei-decizii/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/cum-explica-ccr-decizia-in-cazul-amendamentului-fritz-la-legea-ani-primarul-timisoarei-ar-urma-sa-si-piarda-functia-in-urma-acestei-decizii/</guid>
-    </item>
-    <item>
-        <title>Vreme extremă în weekend: canicula și vijeliile lovesc România. Județele vizate de cod portocaliu și galben</title>
-        <link>https://adevarul.ro/stiri-interne/meteo/vreme-extrema-in-weekend-canicula-si-vijeliile-2551451.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/meteo/vreme-extrema-in-weekend-canicula-si-vijeliile-2551451.html</guid>
-    </item>
-    <item>
-        <title>Fosta purtătoare de cuvânt a lui Donald Trump va lucra pentru „MAGA Inc”, o structură care încearcă să influenţeze alegerile din SUA</title>
-        <link>https://adevarul.ro/stiri-externe/sua/fosta-purtatoare-de-cuvant-a-lui-donald-trump-va-2551442.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/fosta-purtatoare-de-cuvant-a-lui-donald-trump-va-2551442.html</guid>
+        <title>Criză de apă în mai multe localităţi din judeţul Neamț din cauza infrastructurii și avariilor repetate</title>
+        <link>https://www.g4media.ro/criza-de-apa-in-mai-multe-localitati-din-judetul-neamt-din-cauza-infrastructurii-si-avariilor-repetate.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/criza-de-apa-in-mai-multe-localitati-din-judetul-neamt-din-cauza-infrastructurii-si-avariilor-repetate.html</guid>
     </item>
     <item>
         <title>Pentagonul i-a concediat pe redactorul-șef și pe editorul publicației militare „Stars and Stripes”</title>
@@ -362,10 +68,304 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/pentagonul-i-a-concediat-pe-redactorul-sef-si-pe-editorul-publicatiei-militare-stars-and-stripes-3916753</guid>
     </item>
     <item>
+        <title>Doi ingineri readuc la viață un proiect nuclear abandonat, care ar putea rezolva criza energetică a lumii</title>
+        <link>https://adevarul.ro/stiri-externe/sua/doi-ingineri-readuc-la-viata-un-proiect-nuclear-2551468.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/doi-ingineri-readuc-la-viata-un-proiect-nuclear-2551468.html</guid>
+    </item>
+    <item>
+        <title>Ana Birchall, fost ministru al Justiției: CCR a ales o cale periculoasă, a spus că legiuitorul poate oricând inventa noi motive de încetare a mandatul</title>
+        <link>https://www.g4media.ro/ana-birchall-fost-ministru-al-justitiei-ccr-a-ales-o-cale-periculoasa-a-spus-ca-legiuitorul-poate-oricand-inventa-noi-motive-de-incetare-a-mandatului-pentru-parlamentari-si-primari-chiar-daca-acel.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ana-birchall-fost-ministru-al-justitiei-ccr-a-ales-o-cale-periculoasa-a-spus-ca-legiuitorul-poate-oricand-inventa-noi-motive-de-incetare-a-mandatului-pentru-parlamentari-si-primari-chiar-daca-acel.html</guid>
+    </item>
+    <item>
+        <title>Surse Reuters: Vaticanul plănuiește să-și construiască propria „centrală verde”. La ce sumă s-ar ridica investiția</title>
+        <link>https://www.mediafax.ro/externe/surse-reuters-vaticanul-planuieste-sa-si-construiasca-propria-centrala-verde-la-ce-suma-s-ar-ridica-investitia-23794354</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/surse-reuters-vaticanul-planuieste-sa-si-construiasca-propria-centrala-verde-la-ce-suma-s-ar-ridica-investitia-23794354</guid>
+    </item>
+    <item>
+        <title>Vaticanul trece la „energie verde”. Planuri pentru una dintre cele mai mari centrale regenerabile din Italia. Cât va costa proiectul</title>
+        <link>https://www.digi24.ro/stiri/externe/vaticanul-trece-la-energie-verde-planuri-pentru-una-dintre-cele-mai-mari-centrale-regenerabile-din-italia-cat-va-costa-proiectul-3916921</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/vaticanul-trece-la-energie-verde-planuri-pentru-una-dintre-cele-mai-mari-centrale-regenerabile-din-italia-cat-va-costa-proiectul-3916921</guid>
+    </item>
+    <item>
+        <title>„Putem sta liniștiți”. Dominic Fritz, ironic la adresa CCR după motivarea deciziei care-l lasă fără postul de primar</title>
+        <link>https://adevarul.ro/politica/putem-sta-linistiti-dominic-fritz-ironic-la-2551432.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/putem-sta-linistiti-dominic-fritz-ironic-la-2551432.html</guid>
+    </item>
+    <item>
+        <title>Cinism în motivarea CCR: Celebrează ”integritatea și transparența”, dar secretizează averile demnitarilor în practică / 5 judecători CCR au anulat obl</title>
+        <link>https://www.g4media.ro/cinism-in-motivarea-ccr-celebreaza-integritatea-si-transparenta-dar-secretizeaza-averile-demnitarilor-in-practica-5-judecatori-ccr-au-anulat-obligatia-declararii-averilor-desi-n.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cinism-in-motivarea-ccr-celebreaza-integritatea-si-transparenta-dar-secretizeaza-averile-demnitarilor-in-practica-5-judecatori-ccr-au-anulat-obligatia-declararii-averilor-desi-n.html</guid>
+    </item>
+    <item>
+        <title>Reguli noi în Centrul Vechi din Capitală: ce obligații au locuitorii și patronii în legătură cu gunoiul și muzica</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/reguli-noi-in-centrul-vechi-din-capitala-ce-obligatii-au-locuitorii-si-patronii-in-legatura-cu-gunoiul-si-muzica-3916891</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/reguli-noi-in-centrul-vechi-din-capitala-ce-obligatii-au-locuitorii-si-patronii-in-legatura-cu-gunoiul-si-muzica-3916891</guid>
+    </item>
+    <item>
         <title>Prețurile carburanților sâmbătă, 22 august. Stațiile peco din țară cu cea mai ieftină benzină și motorină</title>
         <link>https://adevarul.ro/economie/preturile-carburantilor-sambata-22-august-2551447.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/economie/preturile-carburantilor-sambata-22-august-2551447.html</guid>
+    </item>
+    <item>
+        <title>Elicopterul Black Hawk al pompierilor a plecat către Serbia, unde va ajuta la stingerea incendiilor masive</title>
+        <link>https://www.g4media.ro/elicopterul-black-hawk-al-pompierilor-a-plecat-catre-serbia-unde-va-ajuta-la-stingerea-incendiilor-masive.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/elicopterul-black-hawk-al-pompierilor-a-plecat-catre-serbia-unde-va-ajuta-la-stingerea-incendiilor-masive.html</guid>
+    </item>
+    <item>
+        <title>Un hunedorean a intrat cu tricicleta pe autostrada A1, pe contrasens. Ce amendă a primit</title>
+        <link>https://adevarul.ro/stiri-locale/hunedoara/un-hunedorean-a-intrat-cu-tricicleta-pe-autostrada-2551462.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/hunedoara/un-hunedorean-a-intrat-cu-tricicleta-pe-autostrada-2551462.html</guid>
+    </item>
+    <item>
+        <title>Cum funcționează vaccinul personalizat care ar putea redefini tratamentul cancerului</title>
+        <link>https://www.g4media.ro/cum-functioneaza-vaccinul-personalizat-care-ar-putea-redefini-tratamentul-cancerului.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cum-functioneaza-vaccinul-personalizat-care-ar-putea-redefini-tratamentul-cancerului.html</guid>
+    </item>
+    <item>
+        <title>Dronă care plutea pe mare la Tuzla, fotografiată din avion. Autoritățile sunt în alertă</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/drona-fotografiata-din-avion-plutind-pe-mare-la-2551454.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/drona-fotografiata-din-avion-plutind-pe-mare-la-2551454.html</guid>
+    </item>
+    <item>
+        <title>Noi măsuri aprobate de CNSU pentru asigurarea apei necesare răcirii reactoarelor de la CNE Cernavodă</title>
+        <link>https://www.digi24.ro/stiri/economie/energie/noi-masuri-aprobate-de-cnsu-pentru-asigurarea-apei-necesare-racirii-reactoarelor-de-la-cne-cernavoda-3916741</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/noi-masuri-aprobate-de-cnsu-pentru-asigurarea-apei-necesare-racirii-reactoarelor-de-la-cne-cernavoda-3916741</guid>
+    </item>
+    <item>
+        <title>Rapid a câștigat cu Petrolul, dar l-a pierdut pe Graovac. Fundașul a ajuns în cârje după meci</title>
+        <link>https://adevarul.ro/sport/rapid-a-castigat-cu-petrolul-dar-l-a-pierdut-pe-2551436.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/rapid-a-castigat-cu-petrolul-dar-l-a-pierdut-pe-2551436.html</guid>
+    </item>
+    <item>
+        <title>Cod portocaliu de caniculă în mai multe județe, cod galben de furtuni în Carpați</title>
+        <link>https://www.g4media.ro/cod-portocaliu-de-canicula-in-mai-multe-judete-cod-galben-de-furtuni-in-carpati.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cod-portocaliu-de-canicula-in-mai-multe-judete-cod-galben-de-furtuni-in-carpati.html</guid>
+    </item>
+    <item>
+        <title>Inteligența artificială, noua armă a hackerilor. Cum recunoști atacurile cu AI și ce măsuri te pot proteja: „Se pierde puțin controlul”</title>
+        <link>https://www.digi24.ro/stiri/sci-tech/lumea-digitala/inteligenta-artificiala-noua-arma-a-hackerilor-cum-recunosti-atacurile-cu-ai-si-ce-masuri-te-pot-proteja-se-pierde-putin-controlul-3916313</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/lumea-digitala/inteligenta-artificiala-noua-arma-a-hackerilor-cum-recunosti-atacurile-cu-ai-si-ce-masuri-te-pot-proteja-se-pierde-putin-controlul-3916313</guid>
+    </item>
+    <item>
+        <title>Secretarul de presă demisionar al Casei Albe se alătură unui comitet politic pro-Trump</title>
+        <link>https://www.mediafax.ro/externe/secretarul-de-presa-demisionar-al-casei-albe-se-alatura-unui-comitet-politic-pro-trump-23794311</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/secretarul-de-presa-demisionar-al-casei-albe-se-alatura-unui-comitet-politic-pro-trump-23794311</guid>
+    </item>
+    <item>
+        <title>Noi măsuri pentru a crește debitul Dunării în zona centralei de la Cernavodă:  Diguri noi și cantități mai mari de apă din lacuri de acumulare</title>
+        <link>https://www.europafm.ro/noi-masuri-pentru-a-creste-debitul-dunarii-in-zona-centralei-de-la-cernavoda-diguri-noi-si-cantitati-mai-mari-de-apa-din-lacuri-de-acumulare/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/noi-masuri-pentru-a-creste-debitul-dunarii-in-zona-centralei-de-la-cernavoda-diguri-noi-si-cantitati-mai-mari-de-apa-din-lacuri-de-acumulare/</guid>
+    </item>
+    <item>
+        <title>Două garaje ard în Arad. Incendiul a provocat două victime. Autoritățile au emis un mesaj RO-Alert</title>
+        <link>https://www.mediafax.ro/social/doua-garaje-ard-in-arad-incendiul-a-provocat-doua-victime-autoritatile-au-emis-un-mesaj-ro-alert-23794321</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/doua-garaje-ard-in-arad-incendiul-a-provocat-doua-victime-autoritatile-au-emis-un-mesaj-ro-alert-23794321</guid>
+    </item>
+    <item>
+        <title>Trump face noi comentarii controversate privind Strâmtoarea Ormuz: „O consider un teritoriu american”</title>
+        <link>https://www.mediafax.ro/externe/trump-face-noi-comentarii-controversate-privind-stramtoarea-ormuz-o-consider-un-teritoriu-american-23794303</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-face-noi-comentarii-controversate-privind-stramtoarea-ormuz-o-consider-un-teritoriu-american-23794303</guid>
+    </item>
+    <item>
+        <title>O mașină s-a prăbușit 300 de metri într-o prăpastie. Un bărbat a murit, iar autoturismul a luat foc</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/o-masina-s-a-prabusit-300-de-metri-intr-o-2551439.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/o-masina-s-a-prabusit-300-de-metri-intr-o-2551439.html</guid>
+    </item>
+    <item>
+        <title>Atac mortal asupra unui centru comercial din Ucraina: cel puțin 16 morți și 130 de răniți</title>
+        <link>https://www.g4media.ro/atac-mortal-asupra-unui-centru-comercial-din-ucraina-la-cel-putin-16-morti-si-130-de-raniti.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/atac-mortal-asupra-unui-centru-comercial-din-ucraina-la-cel-putin-16-morti-si-130-de-raniti.html</guid>
+    </item>
+    <item>
+        <title>Volkswagen ia în calcul până la 50.000 de noi concedieri. „Situaţia este mai mult decât critică\</title>
+        <link>https://adevarul.ro/stiri-externe/europa/volkswagen-ia-in-calcul-pana-la-50000-de-noi-2551431.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/volkswagen-ia-in-calcul-pana-la-50000-de-noi-2551431.html</guid>
+    </item>
+    <item>
+        <title>VIDEO | Cristiano Ronaldo, gol la debutul în noul sezon cu Al-Nassr / Ce record a stabilit</title>
+        <link>https://www.g4media.ro/video-cristiano-ronaldo-gol-la-debutul-in-noul-sezon-cu-al-nassr-ce-record-a-stabilit.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/video-cristiano-ronaldo-gol-la-debutul-in-noul-sezon-cu-al-nassr-ce-record-a-stabilit.html</guid>
+    </item>
+    <item>
+        <title>Vaticanul plănuiește să-și construiască propria ”centrală verde”</title>
+        <link>https://www.g4media.ro/vaticanul-planuieste-sa-si-construiasca-propria-centrala-verde.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/vaticanul-planuieste-sa-si-construiasca-propria-centrala-verde.html</guid>
+    </item>
+    <item>
+        <title>Primele puncte de la Zandvoort: George Russell, victorie la sprint în fața lui Charles Leclerc</title>
+        <link>https://www.g4media.ro/primele-puncte-de-la-zandvoort-george-russell-victorie-la-sprint-dupa-ce-a-plecat-din-pole.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/primele-puncte-de-la-zandvoort-george-russell-victorie-la-sprint-dupa-ce-a-plecat-din-pole.html</guid>
+    </item>
+    <item>
+        <title>Senatorul USR Cristian Ghinea, un nou derapaj: DIICOT a răpit persoane vulnerabile şi le-a maltratat şi procurorii ăia sunt nişte jeguri umane</title>
+        <link>https://www.g4media.ro/senatorul-usr-cristian-ghinea-un-nou-derapaj-diicot-a-rapit-persoane-vulnerabile-si-le-a-maltratat-si-procurorii-aia-sunt-niste-jeguri-umane.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/senatorul-usr-cristian-ghinea-un-nou-derapaj-diicot-a-rapit-persoane-vulnerabile-si-le-a-maltratat-si-procurorii-aia-sunt-niste-jeguri-umane.html</guid>
+    </item>
+    <item>
+        <title>Elicopterul Black Hawk al MAI a decolat către Serbia. Va ajuta la stingerea incendiilor din zonele greu accesibile</title>
+        <link>https://www.mediafax.ro/social/elicopterul-black-hawk-al-mai-a-decolat-catre-serbia-va-ajuta-la-stingerea-incendiilor-din-zonele-greu-accesibile-23794347</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/elicopterul-black-hawk-al-mai-a-decolat-catre-serbia-va-ajuta-la-stingerea-incendiilor-din-zonele-greu-accesibile-23794347</guid>
+    </item>
+    <item>
+        <title>Au copt vinete în curte, dar nu au stins focul: un incendiu uriaș a izbucnit peste noapte în Cluj. „Bubuia ca petardele”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/au-copt-vinete-in-curte-dar-nu-au-stins-focul-un-2551441.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/au-copt-vinete-in-curte-dar-nu-au-stins-focul-un-2551441.html</guid>
+    </item>
+    <item>
+        <title>Complicele femeii din cazul medicului ucis și incendiat în București a fost prins de polițiști. Era urmărit național și internațional</title>
+        <link>https://www.digi24.ro/stiri/actualitate/justitie/complicele-femeii-din-cazul-medicului-ucis-si-incendiat-in-bucuresti-a-fost-prins-de-politisti-era-urmarit-national-si-international-3916901</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/justitie/complicele-femeii-din-cazul-medicului-ucis-si-incendiat-in-bucuresti-a-fost-prins-de-politisti-era-urmarit-national-si-international-3916901</guid>
+    </item>
+    <item>
+        <title>Amendă uriașă aplicată în Olanda unui operator de ride-sharing, prezent și în România. De ce trebuie să plătească aproape un miliard $</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/amanda-uriasa-aplicata-in-olanda-unui-operator-de-ride-sharing-prezent-si-in-romania-de-ce-trebuie-sa-plateasca-aproape-un-miliard-3916955</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/amanda-uriasa-aplicata-in-olanda-unui-operator-de-ride-sharing-prezent-si-in-romania-de-ce-trebuie-sa-plateasca-aproape-un-miliard-3916955</guid>
+    </item>
+    <item>
+        <title>Vâlcea: Un bărbat a murit după ce un autoturism a căzut într-o prăpastie. Maşina a luat foc</title>
+        <link>https://www.mediafax.ro/social/valcea-un-barbat-a-murit-dupa-ce-un-autoturism-a-cazut-intr-o-prapastie-masina-a-luat-foc-23794315</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/valcea-un-barbat-a-murit-dupa-ce-un-autoturism-a-cazut-intr-o-prapastie-masina-a-luat-foc-23794315</guid>
+    </item>
+    <item>
+        <title>Copil de 7 ani, abandonat de tatăl său pe un traseu de pe muntele Fuji. Alpinistul și-a continuat ascensiunea spre vârf</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/copil-de-7-ani-abandonat-de-tatal-sau-pe-un-2551458.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/copil-de-7-ani-abandonat-de-tatal-sau-pe-un-2551458.html</guid>
+    </item>
+    <item>
+        <title>Dobre, gest vulgar după golul marcat la Ploiești! Explicația bizară dată de rapidist: „Am văzut filmul!”</title>
+        <link>https://adevarul.ro/sport/dobre-gest-vulgar-dupa-golul-marcat-la-ploiesti-2551443.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/dobre-gest-vulgar-dupa-golul-marcat-la-ploiesti-2551443.html</guid>
+    </item>
+    <item>
+        <title>Fragmente de dronă aeriană, semnalate în zona plajei Tuzla</title>
+        <link>https://www.g4media.ro/fragmente-de-drona-aeriana-semnalate-in-zona-plajei-tuzla.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/fragmente-de-drona-aeriana-semnalate-in-zona-plajei-tuzla.html</guid>
+    </item>
+    <item>
+        <title>Weekend cu vreme extremă: caniculă sufocantă și furtuni violente lovesc România. Care sunt județele sub avertizare</title>
+        <link>https://www.digi24.ro/meteo/weekend-cu-vreme-extrema-canicula-sufocanta-si-furtuni-violente-lovesc-romania-care-sunt-judetele-sub-avertizare-3916811</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/meteo/weekend-cu-vreme-extrema-canicula-sufocanta-si-furtuni-violente-lovesc-romania-care-sunt-judetele-sub-avertizare-3916811</guid>
+    </item>
+    <item>
+        <title>Donald Trump spune că Strâmtoarea Ormuz este „teritoriu american”. Ce replică îi dă Iranul</title>
+        <link>https://www.digi24.ro/stiri/externe/donald-trump-spune-ca-stramtoarea-ormuz-este-teritoriu-american-ce-replica-ii-da-iranul-3916815</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/donald-trump-spune-ca-stramtoarea-ormuz-este-teritoriu-american-ce-replica-ii-da-iranul-3916815</guid>
+    </item>
+    <item>
+        <title>Halep este istorie la Cincinnati: recordul all-time al româncei a fost egalat. Americanii n-au trecut cu vederea</title>
+        <link>https://adevarul.ro/sport/halep-este-istorie-la-cincinnati-recordul-2551459.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/halep-este-istorie-la-cincinnati-recordul-2551459.html</guid>
+    </item>
+    <item>
+        <title>Doi salvamari au scos din mare un fragment de dronă la Năvodari, în preajma turiștilor. Avertismentul autorităților</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/doi-salvamari-au-scos-din-mare-un-fragment-de-2551434.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/doi-salvamari-au-scos-din-mare-un-fragment-de-2551434.html</guid>
+    </item>
+    <item>
+        <title>Momentul în care un bărbat căutat la nivel internațional e prins după o urmărire în București. Ar fi complicele femeii care a ucis un anestezist</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/momentul-in-care-un-barbat-cautat-la-nivel-2551467.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/momentul-in-care-un-barbat-cautat-la-nivel-2551467.html</guid>
+    </item>
+    <item>
+        <title>Doi bărbați au urmărit o mașină în trafic în Cluj Napoca și l-au bătut pe șofer. Ulterior i-au furat și mașina</title>
+        <link>https://adevarul.ro/stiri-locale/cluj-napoca/doi-barbati-au-urmarit-o-masina-in-trafic-in-cluj-2551471.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/cluj-napoca/doi-barbati-au-urmarit-o-masina-in-trafic-in-cluj-2551471.html</guid>
+    </item>
+    <item>
+        <title>De ce podul care ar lega Sicilia de Italia rămâne doar un vis: cutremure, corupție și un proiect cu multe semne de întrebare</title>
+        <link>https://www.g4media.ro/de-ce-podul-care-ar-lega-sicilia-de-italia-ramane-doar-un-vis-cutremure-coruptie-si-un-proiect-cu-multe-semne-de-intrebare.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/de-ce-podul-care-ar-lega-sicilia-de-italia-ramane-doar-un-vis-cutremure-coruptie-si-un-proiect-cu-multe-semne-de-intrebare.html</guid>
+    </item>
+    <item>
+        <title>O peșteră din Turcia ar putea fi locul de naștere al epopeii homerice Odiseea</title>
+        <link>https://www.mediafax.ro/cultura-media/o-pestera-din-turcia-ar-putea-fi-locul-de-nastere-al-epopeii-homerice-odiseea-23794322</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/o-pestera-din-turcia-ar-putea-fi-locul-de-nastere-al-epopeii-homerice-odiseea-23794322</guid>
+    </item>
+    <item>
+        <title>MApN: Resturi de dronă lângă plaja din Tuzla</title>
+        <link>https://www.europafm.ro/mapn-resturi-de-drona-langa-plaja-din-tuzla/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/mapn-resturi-de-drona-langa-plaja-din-tuzla/</guid>
+    </item>
+    <item>
+        <title>Podul visat de pe vremea romanilor, încă departe de a deveni realitate: proiectul de 2.000 de ani de a lega Sicilia de continent</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/podul-visat-de-pe-vremea-romanilor-inca-departe-de-a-deveni-realitate-proiectul-de-2-000-de-ani-de-a-lega-sicilia-de-continent-3916963</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/podul-visat-de-pe-vremea-romanilor-inca-departe-de-a-deveni-realitate-proiectul-de-2-000-de-ani-de-a-lega-sicilia-de-continent-3916963</guid>
+    </item>
+    <item>
+        <title>Sindicatele resping actuala formă a proiectului Legii salarizării</title>
+        <link>https://www.mediafax.ro/social/sindicatele-resping-actuala-forma-a-proiectului-legii-salarizarii-23794385</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/sindicatele-resping-actuala-forma-a-proiectului-legii-salarizarii-23794385</guid>
+    </item>
+    <item>
+        <title>Cristi Danileț ironizează motivarea CCR în cazul Fritz: ”Limba legaleză a fost deja depășită. Eu cred ca e scris in limba bătrănă”</title>
+        <link>https://www.g4media.ro/cristi-danilet-ironizeaza-motivarea-ccr-in-cazul-fritz-limba-legaleza-a-fost-deja-depasita-eu-cred-ca-e-scris-in-limba-batrana.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cristi-danilet-ironizeaza-motivarea-ccr-in-cazul-fritz-limba-legaleza-a-fost-deja-depasita-eu-cred-ca-e-scris-in-limba-batrana.html</guid>
+    </item>
+    <item>
+        <title>Grecii care lucrează în hoteluri fac topul celor mai dificili turiști. Ce spun despre români și cine sunt preferații lor</title>
+        <link>https://adevarul.ro/stiri-interne/societate/grecii-care-lucreaza-in-hoteluri-fac-topul-celor-2551450.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/grecii-care-lucreaza-in-hoteluri-fac-topul-celor-2551450.html</guid>
+    </item>
+    <item>
+        <title>O dronă a survolat spațiul aerian al Republicii Moldova. A intrat dinspre Ucraina</title>
+        <link>https://www.mediafax.ro/externe/o-drona-a-survolat-spatiul-aerian-al-republicii-moldova-a-intrat-dinspre-ucraina-23794359</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/o-drona-a-survolat-spatiul-aerian-al-republicii-moldova-a-intrat-dinspre-ucraina-23794359</guid>
+    </item>
+    <item>
+        <title>TikTok acceptă să plătească sute de milioane dolari în SUA pentru a încheia un proces privind datele colectate de la minori</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/tiktok-accepta-sa-plateasca-sute-de-milioane-dolari-in-sua-pentru-a-incheia-un-proces-privind-datele-colectate-de-la-minori-3916851</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/tiktok-accepta-sa-plateasca-sute-de-milioane-dolari-in-sua-pentru-a-incheia-un-proces-privind-datele-colectate-de-la-minori-3916851</guid>
     </item>
 </channel>
 </rss>
