@@ -5,13 +5,55 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 23 Aug 2026 04:20:58 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 05:59:36 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Inter Milano, echipa lui Cristian Chivu, a câștigat clar meciul din prima etapă din Serie A: 4-1 cu Monza</title>
-        <link>https://www.g4media.ro/inter-milano-echipa-lui-cristian-chivu-a-castigat-clar-meciul-din-prima-etapa-din-serie-a-4-1-cu-monza.html</link>
+        <title>Concursul Internaţional George Enescu începe la Ateneul Român</title>
+        <link>https://www.g4media.ro/concursul-international-george-enescu-incepe-la-ateneul-roman.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/inter-milano-echipa-lui-cristian-chivu-a-castigat-clar-meciul-din-prima-etapa-din-serie-a-4-1-cu-monza.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/concursul-international-george-enescu-incepe-la-ateneul-roman.html</guid>
+    </item>
+    <item>
+        <title>Trei pacienți intoxicați cu fum la Arad, după un incendiu pornit de la ziare aprinse într-un centru medical</title>
+        <link>https://www.digi24.ro/stiri/trei-pacienti-intoxicati-cu-fum-la-arad-dupa-un-incendiu-pornit-de-la-ziare-aprinse-intr-un-centru-medical-3917387</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/trei-pacienti-intoxicati-cu-fum-la-arad-dupa-un-incendiu-pornit-de-la-ziare-aprinse-intr-un-centru-medical-3917387</guid>
+    </item>
+    <item>
+        <title>Cât de polarizată este scena politică europeană: cum sunt influențate convingerile de generație, gen și locul unde locuim</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/cat-de-polarizata-este-scena-politica-europeana-cum-sunt-influentate-convingerile-de-generatie-gen-si-locul-unde-locuim-3913237</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/cat-de-polarizata-este-scena-politica-europeana-cum-sunt-influentate-convingerile-de-generatie-gen-si-locul-unde-locuim-3913237</guid>
+    </item>
+    <item>
+        <title>Atacuri în Ucraina. O dronă rusească a lovit locuințe din Harkov, iar două persoane au murit în regiunea Sumî</title>
+        <link>https://www.mediafax.ro/externe/atacuri-in-ucraina-o-drona-ruseasca-a-lovit-locuinte-din-harkov-iar-doua-persoane-au-murit-in-regiunea-sumi-23794531</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/atacuri-in-ucraina-o-drona-ruseasca-a-lovit-locuinte-din-harkov-iar-doua-persoane-au-murit-in-regiunea-sumi-23794531</guid>
+    </item>
+    <item>
+        <title>Aurul, prins între război, petrol și dobânzi. Cum va evolua prețul metalului prețios</title>
+        <link>https://adevarul.ro/economie/aurul-prins-intre-razboi-petrol-si-dobanzi-cum-2550366.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/aurul-prins-intre-razboi-petrol-si-dobanzi-cum-2550366.html</guid>
+    </item>
+    <item>
+        <title>Ce documente vor trebui depuse, din 25 august, pentru obținerea unei autorizații de construire</title>
+        <link>https://adevarul.ro/economie/ce-documente-vor-trebui-depuse-din-25-august-2551049.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/ce-documente-vor-trebui-depuse-din-25-august-2551049.html</guid>
+    </item>
+    <item>
+        <title>România se împrumută și crește taxele, dar continuă investițiile în stadioane. Expert: „Populația este sacrificată”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/romania-se-imprumuta-si-creste-taxele-dar-2550482.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/romania-se-imprumuta-si-creste-taxele-dar-2550482.html</guid>
+    </item>
+    <item>
+        <title>Ce lăsăm după noi? Moștenirea în management și asumarea schimbării</title>
+        <link>https://adevarul.ro/blogurile-adevarul/ce-lasam-dupa-noi-mostenirea-in-management-si-2551544.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/ce-lasam-dupa-noi-mostenirea-in-management-si-2551544.html</guid>
     </item>
     <item>
         <title>Reportaj AFP: Balenele din New York, iubite de cetățeni, riscă să moară din cauza trecerii navelor</title>
@@ -20,64 +62,40 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/reportaj-afp-balenele-din-new-york-iubite-de-cetateni-risca-sa-moara-din-cauza-trecerii-navelor-23793415</guid>
     </item>
     <item>
-        <title>Fostul ministru al Apărării acuză corupție extinsă în Ucraina: Ne împiedică să câștigăm războiul</title>
-        <link>https://www.mediafax.ro/externe/fostul-ministru-al-apararii-acuza-coruptie-extinsa-in-ucraina-ne-impiedica-sa-castigam-razboiul-23794515</link>
+        <title>Surpriza unei italience în România: „Aici se mănâncă atunci când ți-e foame”</title>
+        <link>https://www.mediafax.ro/life-entertaiment/surpriza-unei-italience-in-romania-aici-se-mananca-atunci-cand-ti-e-foame-23794523</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/fostul-ministru-al-apararii-acuza-coruptie-extinsa-in-ucraina-ne-impiedica-sa-castigam-razboiul-23794515</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/surpriza-unei-italience-in-romania-aici-se-mananca-atunci-cand-ti-e-foame-23794523</guid>
     </item>
     <item>
-        <title>23 august 1944, de la Regele Mihai la paradele comuniste. Cum s-a schimbat povestea unei zile istorice</title>
-        <link>https://www.mediafax.ro/social/23-august-1944-de-la-regele-mihai-la-paradele-comuniste-cum-s-a-schimbat-povestea-unei-zile-istorice-23794520</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/23-august-1944-de-la-regele-mihai-la-paradele-comuniste-cum-s-a-schimbat-povestea-unei-zile-istorice-23794520</guid>
+        <title>O dronă rusească a lovit locuințe din Harkov, iar două persoane au murit în regiunea Sumî</title>
+        <link>https://www.g4media.ro/o-drona-ruseasca-a-lovit-locuinte-din-harkov-iar-doua-persoane-au-murit-in-regiunea-sumi.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/o-drona-ruseasca-a-lovit-locuinte-din-harkov-iar-doua-persoane-au-murit-in-regiunea-sumi.html</guid>
     </item>
     <item>
-        <title>O pastilă pe zi poate reda culoarea pielii. Rezultatele unui studiu sunt promițătoare</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/o-pastila-pe-zi-poate-reda-culoarea-pielii-rezultatele-unui-studiu-sunt-promitatoare-23794510</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/o-pastila-pe-zi-poate-reda-culoarea-pielii-rezultatele-unui-studiu-sunt-promitatoare-23794510</guid>
-    </item>
-    <item>
-        <title>Pastila inspirată de sport, testată pe oameni. Medicamentul ar putea ajuta la menținerea greutății şi reduce pofta de mâncare</title>
-        <link>https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/pastila-inspirata-de-sport-testata-pe-oameni-2550898.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/pastila-inspirata-de-sport-testata-pe-oameni-2550898.html</guid>
-    </item>
-    <item>
-        <title>Rezultate finale bacalaureat 2026, sesiunea de toamnă. Când publică Ministerul Educației notele după contestații</title>
-        <link>https://www.digi24.ro/stiri/actualitate/educatie/rezultate-finale-bacalaureat-2026-sesiunea-de-toamna-notele-dupa-contestatii-3915975</link>
+        <title>Promisiuni vs. realitate: cum a ajuns Donald Trump să piardă teren în fața marilor dosare globale înainte de alegerile pentru Congres</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/promisiuni-vs-realitate-cum-a-ajuns-trump-sa-piarda-teren-in-fata-marilor-dosare-globale-inainte-de-alegeri-3917419</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/educatie/rezultate-finale-bacalaureat-2026-sesiunea-de-toamna-notele-dupa-contestatii-3915975</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/promisiuni-vs-realitate-cum-a-ajuns-trump-sa-piarda-teren-in-fata-marilor-dosare-globale-inainte-de-alegeri-3917419</guid>
     </item>
     <item>
-        <title>Concursul Internaţional George Enescu începe la Ateneul Român</title>
-        <link>https://www.g4media.ro/concursul-international-george-enescu-incepe-la-ateneul-roman.html</link>
+        <title>România, de 110 zile fără guvern cu puteri depline. Președintele Nicușor Dan refuză de 62 de zile să propună un premier</title>
+        <link>https://www.g4media.ro/romania-de-110-zile-fara-guvern-cu-puteri-depline-presedintele-nicusor-dan-refuza-de-62-de-zile-sa-propuna-un-premier.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/concursul-international-george-enescu-incepe-la-ateneul-roman.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/romania-de-110-zile-fara-guvern-cu-puteri-depline-presedintele-nicusor-dan-refuza-de-62-de-zile-sa-propuna-un-premier.html</guid>
     </item>
     <item>
-        <title>Tuneluri subterane și povești cu fantome: „Insula bântuită” din Marea Britanie, scoasă la vânzare pentru două milioane de lire</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/tuneluri-subterane-si-povesti-cu-fantome-insula-bantuita-din-marea-britanie-scoasa-la-vanzare-pentru-doua-milioane-de-lire-3916259</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/tuneluri-subterane-si-povesti-cu-fantome-insula-bantuita-din-marea-britanie-scoasa-la-vanzare-pentru-doua-milioane-de-lire-3916259</guid>
-    </item>
-    <item>
-        <title>Povestea medicului care a înființat Serviciul de Salvare din România și a deschis primul spital: „Mergeţi repede, dar să nu omorâţi toţi caii“</title>
-        <link>https://adevarul.ro/stiri-interne/societate/povestea-medicului-care-a-infiintat-serviciul-de-2551268.html</link>
+        <title>Incendiu într-un centru social din Arad, după ce un pacient a dat foc la câteva ziare. Trei persoane au suferit intoxicaţii cu fum</title>
+        <link>https://adevarul.ro/stiri-locale/arad/incendiu-intr-un-centru-social-din-arad-dupa-ce-2551550.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/povestea-medicului-care-a-infiintat-serviciul-de-2551268.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/arad/incendiu-intr-un-centru-social-din-arad-dupa-ce-2551550.html</guid>
     </item>
     <item>
-        <title>Pactul Ribbentrop – Molotov semnat pe 23 august 1939 a fost o capodoperă a cinismului totalitar. Germania nazistă și URSS au dispărut, dar consecințel</title>
-        <link>https://www.g4media.ro/pactul-ribbentrop-molotov-semnat-pe-23-august-1939-a-fost-o-capodopera-a-cinismului-totalitar-germania-nazista-si-urss-au-disparut-dar-consecintele-acestui-act-criminal-subzista-si-azi.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pactul-ribbentrop-molotov-semnat-pe-23-august-1939-a-fost-o-capodopera-a-cinismului-totalitar-germania-nazista-si-urss-au-disparut-dar-consecintele-acestui-act-criminal-subzista-si-azi.html</guid>
-    </item>
-    <item>
-        <title>Fostul ministru al Apărării acuză corupție extinsă în Ucraina: Ne împiedică să câștigăm războiul</title>
-        <link>https://www.g4media.ro/fostul-ministru-al-apararii-acuza-coruptie-extinsa-in-ucraina-ne-impiedica-sa-castigam-razboiul.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/fostul-ministru-al-apararii-acuza-coruptie-extinsa-in-ucraina-ne-impiedica-sa-castigam-razboiul.html</guid>
+        <title>Patrimoniul, rețeta de succes a satului românesc? Specialist: „Un monument restaurat fără o comunitate căreia să îi pese de el este salvat degeaba“</title>
+        <link>https://adevarul.ro/stiri-interne/societate/patrimoniul-reteta-de-succes-a-satului-romanesc-2551363.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/patrimoniul-reteta-de-succes-a-satului-romanesc-2551363.html</guid>
     </item>
     <item>
         <title>Culisele „Big Bang-ului” NASA: cum vrea agenția să prelungească viața sondelor Voyager, cele mai îndepărtate obiecte create de om</title>
@@ -92,40 +110,112 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/lumea-digitala/cum-a-prins-un-student-un-agent-ai-care-incerca-sa-saboteze-un-program-chiar-am-crezut-ca-era-un-om-pentru-ca-era-clar-ca-ma-mintea-3915061</guid>
     </item>
     <item>
+        <title>Rezultatele finale la Bacalaureat, sesiunea de toamnă, vor fi afișate luni</title>
+        <link>https://www.g4media.ro/rezultatele-finale-la-bacalaureat-sesiunea-de-toamna-vor-fi-afisate-luni.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/rezultatele-finale-la-bacalaureat-sesiunea-de-toamna-vor-fi-afisate-luni.html</guid>
+    </item>
+    <item>
+        <title>Tuneluri subterane și povești cu fantome: „Insula bântuită” din Marea Britanie, scoasă la vânzare pentru două milioane de lire</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/tuneluri-subterane-si-povesti-cu-fantome-insula-bantuita-din-marea-britanie-scoasa-la-vanzare-pentru-doua-milioane-de-lire-3916259</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/tuneluri-subterane-si-povesti-cu-fantome-insula-bantuita-din-marea-britanie-scoasa-la-vanzare-pentru-doua-milioane-de-lire-3916259</guid>
+    </item>
+    <item>
+        <title>Inter Milano, echipa lui Cristian Chivu, a câștigat clar meciul din prima etapă din Serie A: 4-1 cu Monza</title>
+        <link>https://www.g4media.ro/inter-milano-echipa-lui-cristian-chivu-a-castigat-clar-meciul-din-prima-etapa-din-serie-a-4-1-cu-monza.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/inter-milano-echipa-lui-cristian-chivu-a-castigat-clar-meciul-din-prima-etapa-din-serie-a-4-1-cu-monza.html</guid>
+    </item>
+    <item>
+        <title>23 august 1944, de la Regele Mihai la paradele comuniste. Cum s-a schimbat povestea unei zile istorice</title>
+        <link>https://www.mediafax.ro/social/23-august-1944-de-la-regele-mihai-la-paradele-comuniste-cum-s-a-schimbat-povestea-unei-zile-istorice-23794520</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/23-august-1944-de-la-regele-mihai-la-paradele-comuniste-cum-s-a-schimbat-povestea-unei-zile-istorice-23794520</guid>
+    </item>
+    <item>
         <title>Israel, lovitură militară în sudul Siriei. Damasc acuză o „încălcare flagrantă” a teritoriului</title>
         <link>https://www.g4media.ro/israel-lovitura-militara-in-sudul-siriei-damasc-acuza-o-incalcare-flagranta-a-teritoriului.html</link>
         <description>G4Media</description>
         <guid isPermaLink="true">https://www.g4media.ro/israel-lovitura-militara-in-sudul-siriei-damasc-acuza-o-incalcare-flagranta-a-teritoriului.html</guid>
     </item>
     <item>
-        <title>România se împrumută și crește taxele, dar continuă investițiile în stadioane. Expert: „Populația este sacrificată”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/romania-se-imprumuta-si-creste-taxele-dar-2550482.html</link>
+        <title>Pastila inspirată de sport, testată pe oameni. Medicamentul ar putea ajuta la menținerea greutății şi reduce pofta de mâncare</title>
+        <link>https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/pastila-inspirata-de-sport-testata-pe-oameni-2550898.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/romania-se-imprumuta-si-creste-taxele-dar-2550482.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/pastila-inspirata-de-sport-testata-pe-oameni-2550898.html</guid>
     </item>
     <item>
-        <title>Cât de des trebuie spălate prosoapele. Greșeala pe care o fac mulți</title>
-        <link>https://www.mediafax.ro/social/cat-de-des-trebuie-spalate-prosoapele-greseala-pe-care-o-fac-multi-23794517</link>
+        <title>Primarul unui mare oraș din România, atacat pe stradă cu pistoale de apă: Am plecat ud leoarcă</title>
+        <link>https://www.mediafax.ro/life-entertaiment/primarul-unui-mare-oras-din-romania-atacat-pe-strada-cu-pistoale-de-apa-am-plecat-ud-leoarca-23794528</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/cat-de-des-trebuie-spalate-prosoapele-greseala-pe-care-o-fac-multi-23794517</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/primarul-unui-mare-oras-din-romania-atacat-pe-strada-cu-pistoale-de-apa-am-plecat-ud-leoarca-23794528</guid>
     </item>
     <item>
-        <title>Aurul, prins între război, petrol și dobânzi. Cum va evolua prețul metalului prețios</title>
-        <link>https://adevarul.ro/economie/aurul-prins-intre-razboi-petrol-si-dobanzi-cum-2550366.html</link>
+        <title>Iranul va considera drept „inamic”orice ţară participantă la „războiul economic”al Washingtonului</title>
+        <link>https://www.g4media.ro/iranul-va-considera-drept-inamicorice-tara-participanta-la-razboiul-economical-washingtonului.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/iranul-va-considera-drept-inamicorice-tara-participanta-la-razboiul-economical-washingtonului.html</guid>
+    </item>
+    <item>
+        <title>Incendiu puternic lângă Shopping City Râmnicu Vâlcea</title>
+        <link>https://www.digi24.ro/stiri/actualitate/incendiu-puternic-langa-shopping-city-ramnicu-valcea-3917317</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/incendiu-puternic-langa-shopping-city-ramnicu-valcea-3917317</guid>
+    </item>
+    <item>
+        <title>Canada dă un răspuns taxelor lui Trump. Măsurile anunțate intră în vigoare la 8 septembrie</title>
+        <link>https://www.digi24.ro/stiri/externe/canada-da-un-raspuns-taxelor-lui-trump-masurile-anuntate-intra-in-vigoare-la-8-septembrie-3917379</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/canada-da-un-raspuns-taxelor-lui-trump-masurile-anuntate-intra-in-vigoare-la-8-septembrie-3917379</guid>
+    </item>
+    <item>
+        <title>Cutremur de magnitudine 5,9 lângă Tokyo: cel puțin 37 de oameni au fost răniți</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/cutremur-de-magnitudine-59-langa-tokyo-cel-putin-37-de-oameni-au-fost-raniti-3917371</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/cutremur-de-magnitudine-59-langa-tokyo-cel-putin-37-de-oameni-au-fost-raniti-3917371</guid>
+    </item>
+    <item>
+        <title>Cutremur de 5,9 în Japonia. 37 de persoane au fost rănite. Autorităţile se tem de alunecări de teren şi replici puternice</title>
+        <link>https://adevarul.ro/stiri-externe/europa/cutremur-de-59-in-japonia-37-de-persoane-au-fost-2551548.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/aurul-prins-intre-razboi-petrol-si-dobanzi-cum-2550366.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/cutremur-de-59-in-japonia-37-de-persoane-au-fost-2551548.html</guid>
     </item>
     <item>
-        <title>Ce este un atac DDoS și cum poate bloca un site. Cum ajung dispozitivele personale sub controlul atacatorilor și cum le protejezi</title>
-        <link>https://www.digi24.ro/magazin/ce-este-un-atac-ddos-si-cum-poate-bloca-un-site-cum-ajung-dispozitivele-personale-sub-controlul-atacatorilor-si-cum-le-protejezi-3915765</link>
+        <title>Rezultate finale bacalaureat 2026, sesiunea de toamnă. Când publică Ministerul Educației notele după contestații</title>
+        <link>https://www.digi24.ro/stiri/actualitate/educatie/rezultate-finale-bacalaureat-2026-sesiunea-de-toamna-notele-dupa-contestatii-3915975</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/ce-este-un-atac-ddos-si-cum-poate-bloca-un-site-cum-ajung-dispozitivele-personale-sub-controlul-atacatorilor-si-cum-le-protejezi-3915765</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/educatie/rezultate-finale-bacalaureat-2026-sesiunea-de-toamna-notele-dupa-contestatii-3915975</guid>
     </item>
     <item>
-        <title>Cât de polarizată este scena politică europeană: cum sunt influențate convingerile de generație, gen și locul unde locuim</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/cat-de-polarizata-este-scena-politica-europeana-cum-sunt-influentate-convingerile-de-generatie-gen-si-locul-unde-locuim-3913237</link>
+        <title>Parlamentul a fost convocat în sesiune extraordinară săptămâna viitoare pentru proiecte din PNRR, inclusiv legea integrității</title>
+        <link>https://www.g4media.ro/parlamentul-a-fost-convocat-in-sesiune-extraordinara-saptamana-viitoare-pentru-proiecte-din-pnrr-inclusiv-legea-integritatii.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/parlamentul-a-fost-convocat-in-sesiune-extraordinara-saptamana-viitoare-pentru-proiecte-din-pnrr-inclusiv-legea-integritatii.html</guid>
+    </item>
+    <item>
+        <title>Povestea medicului care a înființat Serviciul de Salvare din România și a deschis primul spital: „Mergeţi repede, dar să nu omorâţi toţi caii“</title>
+        <link>https://adevarul.ro/stiri-interne/societate/povestea-medicului-care-a-infiintat-serviciul-de-2551268.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/povestea-medicului-care-a-infiintat-serviciul-de-2551268.html</guid>
+    </item>
+    <item>
+        <title>O pastilă pe zi poate reda culoarea pielii. Rezultatele unui studiu sunt promițătoare</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/o-pastila-pe-zi-poate-reda-culoarea-pielii-rezultatele-unui-studiu-sunt-promitatoare-23794510</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/o-pastila-pe-zi-poate-reda-culoarea-pielii-rezultatele-unui-studiu-sunt-promitatoare-23794510</guid>
+    </item>
+    <item>
+        <title>Fostul ministru al Apărării acuză corupție extinsă în Ucraina: Ne împiedică să câștigăm războiul</title>
+        <link>https://www.g4media.ro/fostul-ministru-al-apararii-acuza-coruptie-extinsa-in-ucraina-ne-impiedica-sa-castigam-razboiul.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/fostul-ministru-al-apararii-acuza-coruptie-extinsa-in-ucraina-ne-impiedica-sa-castigam-razboiul.html</guid>
+    </item>
+    <item>
+        <title>Digistoria - cele mai importante evenimente petrecute pe 23 august</title>
+        <link>https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-23-august-3917361</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/cat-de-polarizata-este-scena-politica-europeana-cum-sunt-influentate-convingerile-de-generatie-gen-si-locul-unde-locuim-3913237</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-23-august-3917361</guid>
     </item>
     <item>
         <title>Mai trecem la ora de iarnă în 2026? Ce s-a decis după anii de discuții privind renunțarea la acest obicei</title>
@@ -134,10 +224,64 @@
         <guid isPermaLink="true">https://www.digi24.ro/magazin/mai-trecem-la-ora-de-iarna-in-2026-ce-s-a-decis-dupa-anii-de-discutii-privind-renuntarea-la-acest-obicei-3915677</guid>
     </item>
     <item>
+        <title>Ce este un atac DDoS și cum poate bloca un site. Cum ajung dispozitivele personale sub controlul atacatorilor și cum le protejezi</title>
+        <link>https://www.digi24.ro/magazin/ce-este-un-atac-ddos-si-cum-poate-bloca-un-site-cum-ajung-dispozitivele-personale-sub-controlul-atacatorilor-si-cum-le-protejezi-3915765</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/ce-este-un-atac-ddos-si-cum-poate-bloca-un-site-cum-ajung-dispozitivele-personale-sub-controlul-atacatorilor-si-cum-le-protejezi-3915765</guid>
+    </item>
+    <item>
+        <title>Două accidente, la același kilometru, dar pe sensuri diferite, pe autostrada A1 București-Pitești</title>
+        <link>https://www.mediafax.ro/social/doua-accidente-la-acelasi-kilometru-dar-pe-sensuri-diferite-pe-autostrada-a1-bucuresti-pitesti-23794535</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/doua-accidente-la-acelasi-kilometru-dar-pe-sensuri-diferite-pe-autostrada-a1-bucuresti-pitesti-23794535</guid>
+    </item>
+    <item>
+        <title>„Un alt tip de carantină”. Cum s-a schimbat viaţa de zi cu zi a oamenilor din cel mai fierbinte oraş al Europei</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/un-alt-tip-de-carantina-cum-s-a-schimbat-viata-de-zi-cu-zi-a-oamenilor-din-cel-mai-fierbinte-oras-al-europei-3915317</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/un-alt-tip-de-carantina-cum-s-a-schimbat-viata-de-zi-cu-zi-a-oamenilor-din-cel-mai-fierbinte-oras-al-europei-3915317</guid>
+    </item>
+    <item>
+        <title>Pactul Ribbentrop – Molotov semnat pe 23 august 1939 a fost o capodoperă a cinismului totalitar. Germania nazistă și URSS au dispărut, dar consecințel</title>
+        <link>https://www.g4media.ro/pactul-ribbentrop-molotov-semnat-pe-23-august-1939-a-fost-o-capodopera-a-cinismului-totalitar-germania-nazista-si-urss-au-disparut-dar-consecintele-acestui-act-criminal-subzista-si-azi.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/pactul-ribbentrop-molotov-semnat-pe-23-august-1939-a-fost-o-capodopera-a-cinismului-totalitar-germania-nazista-si-urss-au-disparut-dar-consecintele-acestui-act-criminal-subzista-si-azi.html</guid>
+    </item>
+    <item>
         <title>„Nu ne venea să ne credem ochilor”: Povestea „adevăratului Indiana Jones”, care a descoperit legendarul oraș pierdut al incașilor</title>
         <link>https://www.digi24.ro/stiri/externe/mapamond/nu-ne-venea-sa-ne-credem-ochilor-povestea-adevaratului-indiana-jones-care-a-descoperit-legendarul-oras-pierdut-al-incasilor-3911405</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/nu-ne-venea-sa-ne-credem-ochilor-povestea-adevaratului-indiana-jones-care-a-descoperit-legendarul-oras-pierdut-al-incasilor-3911405</guid>
+    </item>
+    <item>
+        <title>Apel la donații de 1,3 milioane de dolari pentru sacrificarea a 10.000 de oi pentru sănătatea lui Khamenei</title>
+        <link>https://www.digi24.ro/stiri/externe/apel-la-donatii-de-13-milioane-de-dolari-pentru-sacrificarea-a-10-000-de-oi-pentru-sanatatea-lui-khamenei-3917401</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/apel-la-donatii-de-13-milioane-de-dolari-pentru-sacrificarea-a-10-000-de-oi-pentru-sanatatea-lui-khamenei-3917401</guid>
+    </item>
+    <item>
+        <title>Cât de des trebuie spălate prosoapele. Greșeala pe care o fac mulți</title>
+        <link>https://www.mediafax.ro/social/cat-de-des-trebuie-spalate-prosoapele-greseala-pe-care-o-fac-multi-23794517</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/cat-de-des-trebuie-spalate-prosoapele-greseala-pe-care-o-fac-multi-23794517</guid>
+    </item>
+    <item>
+        <title>Volodimir Zelenski l-a primit pe Keith Kellogg, fost emisar special al SUA pentru Ucraina: agenda discuțiilor dintre cei doi</title>
+        <link>https://www.digi24.ro/stiri/externe/volodimir-zelenski-l-a-primit-pe-keith-kellogg-fost-emisar-special-al-sua-pentru-ucraina-agenda-discutiilor-dintre-cei-doi-3917409</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/volodimir-zelenski-l-a-primit-pe-keith-kellogg-fost-emisar-special-al-sua-pentru-ucraina-agenda-discutiilor-dintre-cei-doi-3917409</guid>
+    </item>
+    <item>
+        <title>Riscuri uriașe pe piețele bursiere. Ce strategie atipică adoptă investitorii</title>
+        <link>https://www.mediafax.ro/economic/riscuri-uriase-pe-pietele-bursiere-ce-strategie-atipica-adopta-investitorii-23794532</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/riscuri-uriase-pe-pietele-bursiere-ce-strategie-atipica-adopta-investitorii-23794532</guid>
+    </item>
+    <item>
+        <title>Fostul ministru al Apărării acuză corupție extinsă în Ucraina: Ne împiedică să câștigăm războiul</title>
+        <link>https://www.mediafax.ro/externe/fostul-ministru-al-apararii-acuza-coruptie-extinsa-in-ucraina-ne-impiedica-sa-castigam-razboiul-23794515</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/fostul-ministru-al-apararii-acuza-coruptie-extinsa-in-ucraina-ne-impiedica-sa-castigam-razboiul-23794515</guid>
     </item>
     <item>
         <title>Secretele odiseei lui Putin în Siberia: Ce se ascunde în spatele vizitelor liderului rus în unele din cele mai izolate orașe din Rusia</title>
@@ -146,16 +290,16 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/secretele-odiseei-lui-putin-in-siberia-ce-se-ascunde-in-spatele-vizitelor-liderului-rus-in-unele-din-cele-mai-izolate-orase-din-rusia-3916105</guid>
     </item>
     <item>
-        <title>Patrimoniul, rețeta de succes a satului românesc? Specialist: „Un monument restaurat fără o comunitate căreia să îi pese de el este salvat degeaba“</title>
-        <link>https://adevarul.ro/stiri-interne/societate/patrimoniul-reteta-de-succes-a-satului-romanesc-2551363.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/patrimoniul-reteta-de-succes-a-satului-romanesc-2551363.html</guid>
+        <title>Rezultatele finale la Bacalaureat 2026, sesiunea de toamnă. Când vor fi afișate notele după contestații</title>
+        <link>https://www.mediafax.ro/educatie/rezultatele-finale-la-bacalaureat-2026-sesiunea-de-toamna-cand-vor-fi-afisate-notele-dupa-contestatii-23794522</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/educatie/rezultatele-finale-la-bacalaureat-2026-sesiunea-de-toamna-cand-vor-fi-afisate-notele-dupa-contestatii-23794522</guid>
     </item>
     <item>
-        <title>„Un alt tip de carantină”. Cum s-a schimbat viaţa de zi cu zi a oamenilor din cel mai fierbinte oraş al Europei</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/un-alt-tip-de-carantina-cum-s-a-schimbat-viata-de-zi-cu-zi-a-oamenilor-din-cel-mai-fierbinte-oras-al-europei-3915317</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/un-alt-tip-de-carantina-cum-s-a-schimbat-viata-de-zi-cu-zi-a-oamenilor-din-cel-mai-fierbinte-oras-al-europei-3915317</guid>
+        <title>Macron confirmă că Franța va trimite Ucrainei rachete interceptoare. Apel către aliați pentru sprijin</title>
+        <link>https://www.mediafax.ro/externe/macron-confirma-ca-franta-va-trimite-ucrainei-rachete-interceptoare-apel-catre-aliati-pentru-sprijin-23794536</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/macron-confirma-ca-franta-va-trimite-ucrainei-rachete-interceptoare-apel-catre-aliati-pentru-sprijin-23794536</guid>
     </item>
     <item>
         <title>Facturile la energie ar putea fi cu 5% mai mari. Ce spune Ministerul Energiei despre lunile următoare</title>
@@ -222,150 +366,6 @@
         <link>https://www.libertatea.ro/stiri/salariata-la-supermarket-in-elvetia-despre-salariul-de-4750-de-euro-pe-luna-este-putin-5860234</link>
         <description>Libertatea</description>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/salariata-la-supermarket-in-elvetia-despre-salariul-de-4750-de-euro-pe-luna-este-putin-5860234</guid>
-    </item>
-    <item>
-        <title>China a devenit „noua OPEC”. Cele trei pârghii prin care Beijingul a ținut prețul petrolului să nu explodeze</title>
-        <link>https://www.libertatea.ro/stiri/china-a-devenit-noua-opec-cele-trei-parghii-prin-care-beijingul-a-tinut-pretul-petrolului-sa-nu-explodeze-5860247</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/china-a-devenit-noua-opec-cele-trei-parghii-prin-care-beijingul-a-tinut-pretul-petrolului-sa-nu-explodeze-5860247</guid>
-    </item>
-    <item>
-        <title>Horoscop 23 august 2026. Vărsătorii au foarte multe de rezolvat, chestiuni practice, indiferent că sunt ale lor sau ale altora</title>
-        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-23-august-2026-5859915</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-23-august-2026-5859915</guid>
-    </item>
-    <item>
-        <title>Israel lovește în sudul Siriei. Damasc acuză o „încălcare flagrantă” a teritoriului</title>
-        <link>https://www.mediafax.ro/externe/israel-loveste-in-sudul-siriei-damasc-acuza-o-incalcare-flagranta-a-teritoriului-23794505</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/israel-loveste-in-sudul-siriei-damasc-acuza-o-incalcare-flagranta-a-teritoriului-23794505</guid>
-    </item>
-    <item>
-        <title>Dârele albe lăsate de avioane încălzesc planeta. Cum ar putea AI să ajute avioanele să le evite</title>
-        <link>https://adevarul.ro/stil-de-viata/stiinta/darele-albe-lasate-de-avioane-incalzesc-planeta-2550833.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/stiinta/darele-albe-lasate-de-avioane-incalzesc-planeta-2550833.html</guid>
-    </item>
-    <item>
-        <title>De ce unii oameni răspund slab la vaccinuri? Indiciul descoperit în sânge înainte de imunizare</title>
-        <link>https://www.digi24.ro/stiri/actualitate/sanatate/de-ce-unii-oameni-raspund-slab-la-vaccinuri-indiciul-descoperit-in-sange-inainte-de-imunizare-3917293</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/de-ce-unii-oameni-raspund-slab-la-vaccinuri-indiciul-descoperit-in-sange-inainte-de-imunizare-3917293</guid>
-    </item>
-    <item>
-        <title>23 august: Ziua când a fost semnat Pactul Ribbentrop-Molotov, alianța împotriva democrației</title>
-        <link>https://adevarul.ro/istoria-zilei/23-august-ziua-cand-a-fost-semnat-pactul-2551172.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/23-august-ziua-cand-a-fost-semnat-pactul-2551172.html</guid>
-    </item>
-    <item>
-        <title>„Ați deschis Cutia Pandorei”. Putin amenință Ucraina cu atacuri asupra economiei</title>
-        <link>https://www.mediafax.ro/externe/ati-deschis-cutia-pandorei-putin-ameninta-ucraina-cu-atacuri-asupra-economiei-23794503</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ati-deschis-cutia-pandorei-putin-ameninta-ucraina-cu-atacuri-asupra-economiei-23794503</guid>
-    </item>
-    <item>
-        <title>Ce a însemnat 23 august 1944 pentru istoria României și a Europei. Cum și-au însușit comuniștii acest moment crucial al istoriei naționale</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/ce-a-insemnat-23-august-1944-pentru-istoria-2551392.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/ce-a-insemnat-23-august-1944-pentru-istoria-2551392.html</guid>
-    </item>
-    <item>
-        <title>Armstrong, alfa în „haita” lui Dinamo! „Câinii” au urcat pe primul loc în Superliga, după „dubla” scoțianului cu U Cluj</title>
-        <link>https://adevarul.ro/sport/armstrong-alfa-in-haita-lui-dinamo-cainii-au-2551546.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/armstrong-alfa-in-haita-lui-dinamo-cainii-au-2551546.html</guid>
-    </item>
-    <item>
-        <title>Iranul ameninţă că va considera „inamică” orice ţară ce participă la „războiul economic” al SUA. „Replica noastră va fi ca un cutremur”</title>
-        <link>https://www.digi24.ro/stiri/externe/iranul-ameninta-ca-va-considera-inamica-orice-tara-ce-participa-la-razboiul-economic-al-sua-replica-noastra-va-fi-ca-un-cutremur-3917303</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/iranul-ameninta-ca-va-considera-inamica-orice-tara-ce-participa-la-razboiul-economic-al-sua-replica-noastra-va-fi-ca-un-cutremur-3917303</guid>
-    </item>
-    <item>
-        <title>O nouă eclipsă va avea loc pe 28 august. Unde și cum poate fi văzută Luna aproape complet acoperită</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/o-noua-eclipsa-va-avea-loc-pe-28-august-unde-si-cum-poate-fi-vazuta-luna-aproape-complet-acoperita-3917277</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/o-noua-eclipsa-va-avea-loc-pe-28-august-unde-si-cum-poate-fi-vazuta-luna-aproape-complet-acoperita-3917277</guid>
-    </item>
-    <item>
-        <title>Canada impune tarife pentru produsele din SUA după ce negocierile comerciale cu Donald Trump au eșuat</title>
-        <link>https://www.mediafax.ro/externe/canada-impune-tarife-pentru-produsele-din-sua-dupa-ce-negocierile-comerciale-cu-donald-trump-au-esuat-23794501</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/canada-impune-tarife-pentru-produsele-din-sua-dupa-ce-negocierile-comerciale-cu-donald-trump-au-esuat-23794501</guid>
-    </item>
-    <item>
-        <title>VIDEO Sanda Nicola, promotoarea strategiei de campanie a lui Mircea Geoană: „De ce am intrat în PNL? De ce nu?”</title>
-        <link>https://www.g4media.ro/sanda-nicola-motorul-din-campania-electorala-a-lui-mircea-geoana-de-ce-am-intrat-in-pnl-de-ce-nu.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/sanda-nicola-motorul-din-campania-electorala-a-lui-mircea-geoana-de-ce-am-intrat-in-pnl-de-ce-nu.html</guid>
-    </item>
-    <item>
-        <title>Cât de accesibile mai sunt locuințele. Apartamentele din București s-au scumpit cu 37% în doi ani</title>
-        <link>https://adevarul.ro/economie/cat-de-accesibile-mai-sunt-locuintele-2551059.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/cat-de-accesibile-mai-sunt-locuintele-2551059.html</guid>
-    </item>
-    <item>
-        <title>„Șanse zero” ca România să intre în blackout, susține un secretar din Ministerul Energiei. Ce spune despre creşterea facturilor</title>
-        <link>https://www.digi24.ro/stiri/economie/energie/sanse-zero-ca-romania-sa-intre-in-blackout-sustine-un-secretar-din-ministerul-energiei-ce-spune-despre-cresterea-facturilor-3917275</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/sanse-zero-ca-romania-sa-intre-in-blackout-sustine-un-secretar-din-ministerul-energiei-ce-spune-despre-cresterea-facturilor-3917275</guid>
-    </item>
-    <item>
-        <title>De la ferme imaginare la fraude reale: Un nou capitol în scandalul fondurilor agricole europene din Grecia</title>
-        <link>https://adevarul.ro/stiri-externe/europa/de-la-ferme-imaginare-la-fraude-reale-un-nou-2551340.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/de-la-ferme-imaginare-la-fraude-reale-un-nou-2551340.html</guid>
-    </item>
-    <item>
-        <title>HOROSCOP 23 august. O zi a revelațiilor, vindecării și iubirii. Ce pregătesc astrele pentru zodia ta</title>
-        <link>https://www.mediafax.ro/social/horoscop-23-august-o-zi-a-revelatiilor-vindecarii-si-iubirii-ce-pregatesc-astrele-pentru-zodia-ta-23794486</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/horoscop-23-august-o-zi-a-revelatiilor-vindecarii-si-iubirii-ce-pregatesc-astrele-pentru-zodia-ta-23794486</guid>
-    </item>
-    <item>
-        <title>„Am fost atacați”. Mark Carney spune că Canada este „în război” comercial cu SUA și îl acuză pe Donald Trump că „a calculat greșit”</title>
-        <link>https://www.digi24.ro/stiri/externe/am-fost-atacati-mark-carney-spune-ca-canada-este-in-razboi-comercial-cu-sua-si-il-acuza-pe-donald-trump-ca-a-calculat-gresit-3917247</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/am-fost-atacati-mark-carney-spune-ca-canada-este-in-razboi-comercial-cu-sua-si-il-acuza-pe-donald-trump-ca-a-calculat-gresit-3917247</guid>
-    </item>
-    <item>
-        <title>Evoluție la viteză extremă. Animalele care se transformă pentru a supraviețui într-o lume dominată de oameni</title>
-        <link>https://www.digi24.ro/magazin/stil-de-viata/animale/evolutie-la-viteza-extrema-animalele-care-se-transforma-pentru-a-supravietui-intr-o-lume-dominata-de-oameni-3913139</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/stil-de-viata/animale/evolutie-la-viteza-extrema-animalele-care-se-transforma-pentru-a-supravietui-intr-o-lume-dominata-de-oameni-3913139</guid>
-    </item>
-    <item>
-        <title>Dronele cu reacție ale Rusiei schimbă fața războiului aerian, în timp ce eficiența aparatelor Shahed scade. Ucraina începe să riposteze</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/dronele-cu-reactie-ale-rusiei-schimba-fata-razboiului-aerian-in-timp-ce-eficienta-aparatelor-shahed-scade-ucraina-incepe-sa-riposteze-3910145</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/dronele-cu-reactie-ale-rusiei-schimba-fata-razboiului-aerian-in-timp-ce-eficienta-aparatelor-shahed-scade-ucraina-incepe-sa-riposteze-3910145</guid>
-    </item>
-    <item>
-        <title>Un adolescent de 15 ani a murit înecat pe o plajă din Constanța. Un alt copil, de 10 ani, a ajuns la spital</title>
-        <link>https://www.digi24.ro/stiri/actualitate/evenimente/un-adolescent-de-15-ani-a-murit-inecat-pe-o-plaja-din-constanta-un-alt-copil-de-10-ani-a-ajuns-la-spital-3917265</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/un-adolescent-de-15-ani-a-murit-inecat-pe-o-plaja-din-constanta-un-alt-copil-de-10-ani-a-ajuns-la-spital-3917265</guid>
-    </item>
-    <item>
-        <title>Frigiderul pentru oameni. Cum funcționează echipamentul ingenios care îi răcorește rapid pe oameni</title>
-        <link>https://www.mediafax.ro/life-inedit/frigiderul-pentru-oameni-cum-functioneaza-echipamentul-ingenios-care-ii-racoreste-rapid-pe-oameni-23794481</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/frigiderul-pentru-oameni-cum-functioneaza-echipamentul-ingenios-care-ii-racoreste-rapid-pe-oameni-23794481</guid>
-    </item>
-    <item>
-        <title>De ce ies românii în stradă pentru merdenele, dar tac când e vorba de probleme serioase? Psiholog: „Nu ne dorim efort cognitiv”</title>
-        <link>https://adevarul.ro/stiri-interne/societate/de-ce-ies-romanii-in-strada-pentru-merdenele-dar-2551478.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/de-ce-ies-romanii-in-strada-pentru-merdenele-dar-2551478.html</guid>
-    </item>
-    <item>
-        <title>Moaștele Sfintei Ana – aduse pentru prima dată în România – vor fi depuse la biserica Sfântul Gheorghe-Nou din centrul Bucureștiului</title>
-        <link>https://www.g4media.ro/moastele-sfintei-ana-aduse-pentru-prima-data-in-romania-vor-fi-depuse-la-biserica-sfantul-gheorghe-nou-din-centrul-bucurestiului.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/moastele-sfintei-ana-aduse-pentru-prima-data-in-romania-vor-fi-depuse-la-biserica-sfantul-gheorghe-nou-din-centrul-bucurestiului.html</guid>
     </item>
 </channel>
 </rss>
