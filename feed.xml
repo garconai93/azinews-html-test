@@ -5,25 +5,247 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:16:48 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:45:40 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Edupedu: Ministerul Educației, luat prin surprindere de începutul școlii. Proiect de HG cu bani de grupuri sanitare pentru 97 de școli care au încă to</title>
-        <link>https://www.g4media.ro/edupedu-ministerul-educatiei-luat-prin-surprindere-de-inceputul-scolii-proiect-de-hg-cu-bani-de-grupuri-sanitare-pentru-97-de-scoli-care-au-inca-toalete-in-curte-cu-7-zile-inainte-de-inceperea-cur.html</link>
+        <title>Curățenia de toamnă: Cum faci corect curățenia de toamna înainte de sezonul rece</title>
+        <link>https://www.g4media.ro/curatenia-de-toamna-cum-faci-corect-curatenia-de-toamna-inainte-de-sezonul-rece.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/edupedu-ministerul-educatiei-luat-prin-surprindere-de-inceputul-scolii-proiect-de-hg-cu-bani-de-grupuri-sanitare-pentru-97-de-scoli-care-au-inca-toalete-in-curte-cu-7-zile-inainte-de-inceperea-cur.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/curatenia-de-toamna-cum-faci-corect-curatenia-de-toamna-inainte-de-sezonul-rece.html</guid>
     </item>
     <item>
-        <title>Descoperire despre un condiment foarte folosit: ar putea proteja vasele de sânge</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/descoperire-despre-un-condiment-foarte-folosit-ar-putea-proteja-vasele-de-sange-23796482</link>
+        <title>Norvegia își ia rămas-bun de la regele Harald al V-lea. Fiul său, Haakon al VIII-lea, a transmis primul mesaj ca monarh</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/norvegia-isi-ia-ramas-bun-de-la-regele-harald-al-v-lea-fiul-sau-haakon-al-viii-lea-a-transmis-primul-mesaj-ca-monarh-3927569</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/norvegia-isi-ia-ramas-bun-de-la-regele-harald-al-v-lea-fiul-sau-haakon-al-viii-lea-a-transmis-primul-mesaj-ca-monarh-3927569</guid>
+    </item>
+    <item>
+        <title>Federaţia olandeză cere organizarea unui summit privind viitorul FIFA la Amsterdam, fără Infantino</title>
+        <link>https://www.digi24.ro/stiri/sport/fotbal/federatia-olandeza-cere-organizarea-unui-summit-privind-viitorul-fifa-la-amsterdam-fara-infantino-3927679</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/fotbal/federatia-olandeza-cere-organizarea-unui-summit-privind-viitorul-fifa-la-amsterdam-fara-infantino-3927679</guid>
+    </item>
+    <item>
+        <title>Bolojan îi felicită pe sportivii români care au câştigat AUR la Campionatul Mondial de canotaj: „Ne-ați făcut o mare bucurie”</title>
+        <link>https://www.digi24.ro/stiri/bolojan-ii-felicita-pe-sportivii-romani-care-au-castigat-aur-la-campionatul-mondial-de-canotaj-ne-ati-facut-o-mare-bucurie-3927685</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/bolojan-ii-felicita-pe-sportivii-romani-care-au-castigat-aur-la-campionatul-mondial-de-canotaj-ne-ati-facut-o-mare-bucurie-3927685</guid>
+    </item>
+    <item>
+        <title>Se simte cofeina din matcha diferit față de cea din cafea?</title>
+        <link>https://www.g4media.ro/se-simte-cofeina-din-matcha-diferit-fata-de-cea-din-cafea.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/se-simte-cofeina-din-matcha-diferit-fata-de-cea-din-cafea.html</guid>
+    </item>
+    <item>
+        <title>Panică înaintea unui meci de rugby. Două avioane de pasageri au survolat stadionul la o înălțime foarte mică</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/panica-inaintea-unui-meci-de-rugby-doua-avioane-2553014.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/panica-inaintea-unui-meci-de-rugby-doua-avioane-2553014.html</guid>
+    </item>
+    <item>
+        <title>Șase trenuri București–Constanța, suspendate de luni. Operatorul acuză că nu și-a primit banii de la stat</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/sase-trenuri-bucuresti-constanta-suspendate-de-2553025.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/sase-trenuri-bucuresti-constanta-suspendate-de-2553025.html</guid>
+    </item>
+    <item>
+        <title>Farul Constanța – FC Botoșani. Remiză albă într-un meci cu un penalty ratat și gol anulat de VAR</title>
+        <link>https://www.mediafax.ro/stirile-zilei/farul-constanta-fc-botosani-remiza-alba-intr-un-meci-cu-un-penalty-ratat-si-gol-anulat-de-var-23798743</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/descoperire-despre-un-condiment-foarte-folosit-ar-putea-proteja-vasele-de-sange-23796482</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/farul-constanta-fc-botosani-remiza-alba-intr-un-meci-cu-un-penalty-ratat-si-gol-anulat-de-var-23798743</guid>
     </item>
     <item>
-        <title>McLaren domină din nou în F1: Șeful echipei „papaya” explică secretul din spatele revenirii</title>
-        <link>https://www.g4media.ro/mclaren-domina-din-nou-in-f1-seful-echipei-papaya-explica-secretul-din-spatele-revenirii.html</link>
+        <title>În timp ce președinția lui se clatină, Donald Trump este mai periculos ca niciodată. Pe cine se va răzbuna el, după eșecul din Iran</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/in-timp-ce-presedintia-lui-se-clatina-donald-trump-este-mai-periculos-ca-niciodata-pe-cine-se-va-razbuna-el-dupa-esecul-din-iran-3924825</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/in-timp-ce-presedintia-lui-se-clatina-donald-trump-este-mai-periculos-ca-niciodata-pe-cine-se-va-razbuna-el-dupa-esecul-din-iran-3924825</guid>
+    </item>
+    <item>
+        <title>Războiul din Ucraina schimbă apărarea Europei. Cursa pentru nave și submarine ia amploare</title>
+        <link>https://www.mediafax.ro/externe/razboiul-din-ucraina-schimba-apararea-europei-cursa-pentru-nave-si-submarine-ia-amploare-23797005</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/razboiul-din-ucraina-schimba-apararea-europei-cursa-pentru-nave-si-submarine-ia-amploare-23797005</guid>
+    </item>
+    <item>
+        <title>AUR vrea modificarea Constituției. Ce reguli propune pentru deblocarea crizelor guvernamentale: „Un preşedinte nu poate ține o țară blocată”</title>
+        <link>https://adevarul.ro/politica/aur-vrea-modificarea-constitutiei-ce-reguli-2553009.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/aur-vrea-modificarea-constitutiei-ce-reguli-2553009.html</guid>
+    </item>
+    <item>
+        <title>AUR a adoptat o rezoluţie pentru organizarea de alegeri anticipate: „Configuraţia parlamentară a ajuns într-un punct mort”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/aur-a-adoptat-o-rezolutie-pentru-organizarea-de-alegeri-anticipate-configuratia-parlamentara-a-ajuns-intr-un-punct-mort-3927589</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/aur-a-adoptat-o-rezolutie-pentru-organizarea-de-alegeri-anticipate-configuratia-parlamentara-a-ajuns-intr-un-punct-mort-3927589</guid>
+    </item>
+    <item>
+        <title>„Alegeri anticipate! România are nevoie de un nou început”. Rezoluție adoptată în unanimitate de AUR</title>
+        <link>https://adevarul.ro/stiri-interne/alegeri-anticipate-romania-are-nevoie-de-un-nou-2553017.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/alegeri-anticipate-romania-are-nevoie-de-un-nou-2553017.html</guid>
+    </item>
+    <item>
+        <title>Războiul din Ucraina schimbă apărarea Europei. Cursa pentru nave și submarine ia amploare</title>
+        <link>https://www.g4media.ro/razboiul-din-ucraina-schimba-apararea-europei-cursa-pentru-nave-si-submarine-ia-amploare.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/mclaren-domina-din-nou-in-f1-seful-echipei-papaya-explica-secretul-din-spatele-revenirii.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/razboiul-din-ucraina-schimba-apararea-europei-cursa-pentru-nave-si-submarine-ia-amploare.html</guid>
+    </item>
+    <item>
+        <title>Dominic Fritz, despre ce va face după pierderea mandatului: Rămân președintele USR. Mă voi bate în continuare cu caracatița care de 36 de ani sufocă R</title>
+        <link>https://www.mediafax.ro/stirile-zilei/dominic-fritz-despre-ce-va-face-dupa-pierderea-mandatului-raman-presedintele-usr-ma-voi-bate-in-continuare-cu-caracatita-care-de-36-de-ani-sufoca-romania-23798770</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/dominic-fritz-despre-ce-va-face-dupa-pierderea-mandatului-raman-presedintele-usr-ma-voi-bate-in-continuare-cu-caracatita-care-de-36-de-ani-sufoca-romania-23798770</guid>
+    </item>
+    <item>
+        <title>De ce au respins islandezii reluarea negocierilor cu UE. „Totul s-a redus la o singură problemă”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/de-ce-au-respins-islandezii-reluarea-negocierilor-2553029.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/de-ce-au-respins-islandezii-reluarea-negocierilor-2553029.html</guid>
+    </item>
+    <item>
+        <title>Premierul Bolojan, mesaj de felicitare pentru sportivii care au câștigat aurul la Amsterdam: ”Ați dus România pe primul loc în lume. Și ne-ați făcut o</title>
+        <link>https://www.g4media.ro/premierul-bolojan-mesaj-de-felicitare-pentru-sportivii-care-au-castigat-aurul-la-amsterdam-ati-dus-romania-pe-primul-loc-in-lume-si-ne-ati-facut-o-mare-bucurie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/premierul-bolojan-mesaj-de-felicitare-pentru-sportivii-care-au-castigat-aurul-la-amsterdam-ati-dus-romania-pe-primul-loc-in-lume-si-ne-ati-facut-o-mare-bucurie.html</guid>
+    </item>
+    <item>
+        <title>Spania anunță un pachet de urgență în valoare de 165 de milioane de euro pentru Ceuta</title>
+        <link>https://www.mediafax.ro/externe/spania-anunta-un-pachet-de-urgenta-in-valoare-de-165-de-milioane-de-euro-pentru-ceuta-23798746</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/spania-anunta-un-pachet-de-urgenta-in-valoare-de-165-de-milioane-de-euro-pentru-ceuta-23798746</guid>
+    </item>
+    <item>
+        <title>UDMR a decis pe cine votează ca prim-ministru SURSE</title>
+        <link>https://adevarul.ro/politica/udmr-a-decis-pe-cine-voteaza-ca-prim-ministru-2552964.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/udmr-a-decis-pe-cine-voteaza-ca-prim-ministru-2552964.html</guid>
+    </item>
+    <item>
+        <title>MAE anunţă că nu există români şi nici solicitări de asistenţă consulară primite în cazul feribotului scufundat în nordul Ciprului</title>
+        <link>https://www.digi24.ro/stiri/actualitate/mae-anunta-ca-nu-exista-cetateni-romani-si-nici-solicitari-de-asistenta-consulara-primite-in-cazul-feribotului-scufundat-in-nordul-cipr-3927707</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/mae-anunta-ca-nu-exista-cetateni-romani-si-nici-solicitari-de-asistenta-consulara-primite-in-cazul-feribotului-scufundat-in-nordul-cipr-3927707</guid>
+    </item>
+    <item>
+        <title>NATO: Rusia își intensifică acțiunile hibride în Europa, dar nu există o amenințare iminentă</title>
+        <link>https://www.g4media.ro/nato-rusia-isi-intensifica-actiunile-hibride-in-europa-dar-nu-exista-o-amenintare-iminenta.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/nato-rusia-isi-intensifica-actiunile-hibride-in-europa-dar-nu-exista-o-amenintare-iminenta.html</guid>
+    </item>
+    <item>
+        <title>Ce se întâmplă în organism când bei prea mult într-o singură seară</title>
+        <link>https://www.g4media.ro/ce-se-intampla-in-organism-cand-bei-prea-mult-intr-o-singura-seara.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ce-se-intampla-in-organism-cand-bei-prea-mult-intr-o-singura-seara.html</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan, mesaj după performanța istorică a canotoarelor la Mondialele de la Amsterdam: „Ați dus România pe primul loc în lume”</title>
+        <link>https://adevarul.ro/sport/ilie-bolojan-mesaj-dupa-performanta-istorica-a-2553027.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/ilie-bolojan-mesaj-dupa-performanta-istorica-a-2553027.html</guid>
+    </item>
+    <item>
+        <title>„Dacă mai așteptam 10 minute, eram morți”. Cum a salvat un profesor 900 de elevi înainte ca viitura să lovească o școală din Nepal</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/daca-mai-asteptam-10-minute-eram-morti-cum-a-salvat-un-profesor-900-de-elevi-inainte-ca-viitura-sa-loveasca-o-scoala-din-nepal-3927605</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/daca-mai-asteptam-10-minute-eram-morti-cum-a-salvat-un-profesor-900-de-elevi-inainte-ca-viitura-sa-loveasca-o-scoala-din-nepal-3927605</guid>
+    </item>
+    <item>
+        <title>NATO, despre amenințările Moscovei: Rusia își intensifică acțiunile hibride în Europa, dar nu există o amenințare iminentă</title>
+        <link>https://www.mediafax.ro/stirile-zilei/nato-despre-amenintarile-moscovei-rusia-isi-intensifica-actiunile-hibride-in-europa-dar-nu-exista-o-amenintare-iminenta-23798784</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/nato-despre-amenintarile-moscovei-rusia-isi-intensifica-actiunile-hibride-in-europa-dar-nu-exista-o-amenintare-iminenta-23798784</guid>
+    </item>
+    <item>
+        <title>Scumpirile din benzinării au intrat în vizorul ANPC. Amenzi de minimum 100.000 de lei: prețurile nu pot fi majorate după ora 12:00</title>
+        <link>https://www.mediafax.ro/economic/scumpirile-din-benzinarii-au-intrat-in-vizorul-anpc-amenzi-de-minimum-100-000-de-lei-preturile-nu-pot-fi-majorate-dupa-ora-1200-23798767</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/scumpirile-din-benzinarii-au-intrat-in-vizorul-anpc-amenzi-de-minimum-100-000-de-lei-preturile-nu-pot-fi-majorate-dupa-ora-1200-23798767</guid>
+    </item>
+    <item>
+        <title>Prima reacție a UE după ce islandezii au respins reluarea negocierilor de aderare</title>
+        <link>https://www.g4media.ro/prima-reactie-a-ue-dupa-ce-islandezii-au-respins-reluarea-negocierilor-de-aderare.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/prima-reactie-a-ue-dupa-ce-islandezii-au-respins-reluarea-negocierilor-de-aderare.html</guid>
+    </item>
+    <item>
+        <title>Spectacol al României la Amsterdam | Lotul țării noastre a mai cucerit astăzi încă două medalii de aur la Campionatul Mondial de Canotaj</title>
+        <link>https://www.europafm.ro/spectacol-al-romaniei-la-amsterdam-lotul-tarii-noastre-a-mai-cucerit-astazi-inca-doua-medalii-de-aur-la-campionatul-mondial-de-canotaj/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/spectacol-al-romaniei-la-amsterdam-lotul-tarii-noastre-a-mai-cucerit-astazi-inca-doua-medalii-de-aur-la-campionatul-mondial-de-canotaj/</guid>
+    </item>
+    <item>
+        <title>Ce a declarat premierul Islandei după ce poporul a refuzat să se alăture Uniunii Europene</title>
+        <link>https://adevarul.ro/stiri-interne/ce-a-declarat-premierul-islandei-dupa-ce-poporul-a-2553013.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/ce-a-declarat-premierul-islandei-dupa-ce-poporul-a-2553013.html</guid>
+    </item>
+    <item>
+        <title>Cum faci o locuința să miroasă bine tot timpul / Ghid practic</title>
+        <link>https://www.g4media.ro/cum-faci-o-locuinta-sa-miroasa-bine-tot-timpul-ghid-practic.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cum-faci-o-locuinta-sa-miroasa-bine-tot-timpul-ghid-practic.html</guid>
+    </item>
+    <item>
+        <title>„Rămâne un partener apropiat”. Reacție prudentă a UE după ce Islanda a respins reluarea negocierilor de aderare</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/ramane-un-partener-apropiat-reactie-prudenta-a-ue-dupa-ce-islanda-a-respins-reluarea-negocierilor-de-aderare-3927697</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ramane-un-partener-apropiat-reactie-prudenta-a-ue-dupa-ce-islanda-a-respins-reluarea-negocierilor-de-aderare-3927697</guid>
+    </item>
+    <item>
+        <title>Thriller în Premier League. Chelsea o învinge pe Brighton după un meci cu șapte goluri</title>
+        <link>https://www.mediafax.ro/stirile-zilei/thriller-in-premier-league-chelsea-o-invinge-pe-brighton-dupa-un-meci-cu-sapte-goluri-23798755</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/thriller-in-premier-league-chelsea-o-invinge-pe-brighton-dupa-un-meci-cu-sapte-goluri-23798755</guid>
+    </item>
+    <item>
+        <title>Prima reacție a premierului Islandei după respingerea aderării la Uniunea Europeană: „Nu e un eșec”</title>
+        <link>https://www.digi24.ro/stiri/externe/prima-reactie-a-premierului-islandei-dupa-respingerea-aderarii-la-uniunea-europeana-nu-e-un-esec-3927621</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/prima-reactie-a-premierului-islandei-dupa-respingerea-aderarii-la-uniunea-europeana-nu-e-un-esec-3927621</guid>
+    </item>
+    <item>
+        <title>Spania anunță un pachet de urgență în valoare de 165 de milioane de euro pentru Ceuta</title>
+        <link>https://www.g4media.ro/spania-anunta-un-pachet-de-urgenta-in-valoare-de-165-de-milioane-de-euro-pentru-ceuta.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/spania-anunta-un-pachet-de-urgenta-in-valoare-de-165-de-milioane-de-euro-pentru-ceuta.html</guid>
+    </item>
+    <item>
+        <title>Accident pe un drum din Timiș. Un bărbat și două femei au ajuns la spital</title>
+        <link>https://www.mediafax.ro/social/accident-pe-un-drum-din-timis-un-barbat-si-doua-femei-au-ajuns-la-spital-23798754</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/accident-pe-un-drum-din-timis-un-barbat-si-doua-femei-au-ajuns-la-spital-23798754</guid>
+    </item>
+    <item>
+        <title>Scandal uriaș la FCSB! Tănase și Crețu, dați afară din lot</title>
+        <link>https://adevarul.ro/sport/scandal-urias-la-fcsb-tanase-si-cretu-dati-afara-2553008.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/scandal-urias-la-fcsb-tanase-si-cretu-dati-afara-2553008.html</guid>
+    </item>
+    <item>
+        <title>Prima reacție a UE după ce islandezii au respins reluarea negocierilor de aderare</title>
+        <link>https://www.mediafax.ro/stirile-zilei/prima-reactie-a-ue-dupa-ce-islandezii-au-respins-reluarea-negocierilor-de-aderare-23798758</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/prima-reactie-a-ue-dupa-ce-islandezii-au-respins-reluarea-negocierilor-de-aderare-23798758</guid>
+    </item>
+    <item>
+        <title>Povestea Zarminei, executată în fața a 30.000 de oameni și temerile privind revenirea execuțiilor publice în Afganistan</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/povestea-zarminei-executata-in-fata-a-30000-de-2553021.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/povestea-zarminei-executata-in-fata-a-30000-de-2553021.html</guid>
+    </item>
+    <item>
+        <title>România strălucește la Amsterdam. Bolojan, după aurul mondial: „Ne-ați făcut o mare bucurie”</title>
+        <link>https://www.mediafax.ro/politic/romania-straluceste-la-amsterdam-bolojan-dupa-aurul-mondial-ne-ati-facut-o-mare-bucurie-23798766</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/romania-straluceste-la-amsterdam-bolojan-dupa-aurul-mondial-ne-ati-facut-o-mare-bucurie-23798766</guid>
+    </item>
+    <item>
+        <title>Sondaj CURS: PSD, PNL, AUR și USR, despărțite de doar patru procente dacă ar avea loc alegeri pentru Primăria București / Ce arătau sondajele în febru</title>
+        <link>https://www.g4media.ro/sondaj-curs-psd-pnl-aur-si-usr-despartite-de-doar-patru-procente-daca-ar-avea-loc-alegeri-pentru-primaria-bucuresti-ce-aratau-sondajele-in-februarie-si-iunie.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/sondaj-curs-psd-pnl-aur-si-usr-despartite-de-doar-patru-procente-daca-ar-avea-loc-alegeri-pentru-primaria-bucuresti-ce-aratau-sondajele-in-februarie-si-iunie.html</guid>
     </item>
     <item>
         <title>Situație incredibilă în baschet. Campioana Franței, exclusă din baschetul profesionist</title>
@@ -32,22 +254,10 @@
         <guid isPermaLink="true">https://www.mediafax.ro/sport/situatie-incredibila-in-baschet-campioana-frantei-exclusa-din-baschetul-profesionist-23798678</guid>
     </item>
     <item>
-        <title>O femeie britanică a murit, după ce a fost înjunghiată într-o gară din Germania</title>
-        <link>https://www.mediafax.ro/externe/o-femeie-britanica-a-murit-dupa-ce-a-fost-injunghiata-intr-o-gara-din-germania-23798696</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/o-femeie-britanica-a-murit-dupa-ce-a-fost-injunghiata-intr-o-gara-din-germania-23798696</guid>
-    </item>
-    <item>
-        <title>O nouă medalie de aur pentru România la Campionatul Mondial de canotaj. Echipajul feminin de 8 plus 1 a stabilit și un record mondial</title>
-        <link>https://www.digi24.ro/stiri/sport/alte-sporturi/o-noua-medalie-de-aur-pentru-romania-la-campionatul-mondial-de-canotaj-echipajul-feminin-de-8-plus-1-a-stabilit-si-un-record-mondial-3927413</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/alte-sporturi/o-noua-medalie-de-aur-pentru-romania-la-campionatul-mondial-de-canotaj-echipajul-feminin-de-8-plus-1-a-stabilit-si-un-record-mondial-3927413</guid>
-    </item>
-    <item>
-        <title>Ce au scris Marine Le Pen și Nigel Farage după ce Islanda a respins reluarea negocierilor de aderare la UE</title>
-        <link>https://www.mediafax.ro/externe/ce-au-scris-marine-le-pen-si-nigel-farage-dupa-ce-islanda-a-respins-reluarea-negocierilor-de-aderare-la-ue-23798685</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ce-au-scris-marine-le-pen-si-nigel-farage-dupa-ce-islanda-a-respins-reluarea-negocierilor-de-aderare-la-ue-23798685</guid>
+        <title>Un feribot cu aproximativ 270 de persoane la bord s-a scufundat în Cipru. Echipele de salvare caută supraviețuitori</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/un-feribot-cu-aproximativ-270-de-persoane-la-bord-2552976.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/un-feribot-cu-aproximativ-270-de-persoane-la-bord-2552976.html</guid>
     </item>
     <item>
         <title>MApN: O altă dronă a ajuns în proximitatea frontierei cu România în această dimineață, două avioane F-16 ridicate în aer</title>
@@ -56,88 +266,10 @@
         <guid isPermaLink="true">https://www.europafm.ro/mapn-o-alta-drona-a-ajuns-in-proximitatea-frontierei-cu-romania-in-aceasta-dimineata-doua-avioane-f-16-ridicate-in-aer/</guid>
     </item>
     <item>
-        <title>Scandal violent într-un bar din Bacău. Polițiștii au tras focuri de avertisment după ce au fost atacați</title>
-        <link>https://adevarul.ro/stiri-locale/bacau/scandal-violent-intr-un-bar-din-bacau-politistii-2552985.html</link>
+        <title>Doi cicliști de la L’Étape Bucharest by Tour de France, loviți de un autoturism. Șoferul de 72 de ani ar fi forțat accesul pe traseu</title>
+        <link>https://adevarul.ro/stiri-locale/bucuresti/doi-ciclisti-de-la-letape-bucharest-by-tour-de-2552969.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bacau/scandal-violent-intr-un-bar-din-bacau-politistii-2552985.html</guid>
-    </item>
-    <item>
-        <title>ANPC a declanșat controale la benzinării în toată țara. Comisarii verifică adaosul comercial și modul cum se schimbă prețul carburanților</title>
-        <link>https://www.g4media.ro/anpc-a-declansat-controale-la-benzinarii-in-toata-tara-comisarii-verifica-adaosul-comercial-si-modul-cum-se-schimba-pretul-carburantilor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/anpc-a-declansat-controale-la-benzinarii-in-toata-tara-comisarii-verifica-adaosul-comercial-si-modul-cum-se-schimba-pretul-carburantilor.html</guid>
-    </item>
-    <item>
-        <title>Incendii violente de vegetație în Hunedoara: Peste 22 de hectare au ars și traficul pe un drum național a fost blocat</title>
-        <link>https://www.mediafax.ro/stirile-zilei/incendii-violente-de-vegetatie-in-hunedoara-peste-22-de-hectare-au-ars-si-traficul-pe-un-drum-national-a-fost-blocat-23798705</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/incendii-violente-de-vegetatie-in-hunedoara-peste-22-de-hectare-au-ars-si-traficul-pe-un-drum-national-a-fost-blocat-23798705</guid>
-    </item>
-    <item>
-        <title>NEWS ALERT Feribot cu 267 de oameni la bord, răsturnat nordul Ciprului. Operațiune uriașă de salvare: „Situația este foarte gravă”</title>
-        <link>https://www.mediafax.ro/externe/news-alert-feribot-cu-267-de-oameni-la-bord-rasturnat-nordul-ciprului-operatiune-uriasa-de-salvare-situatia-este-foarte-grava-23798688</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/news-alert-feribot-cu-267-de-oameni-la-bord-rasturnat-nordul-ciprului-operatiune-uriasa-de-salvare-situatia-este-foarte-grava-23798688</guid>
-    </item>
-    <item>
-        <title>Elveția: Un om a murit și alți cinci sunt răniți, după ce au fost împușcați azi-noapte la o petrecere rave</title>
-        <link>https://www.europafm.ro/elvetia-un-om-a-murit-si-alti-cinci-sunt-raniti-dupa-ce-au-fost-impuscati-azi-noapte-la-o-petrecere-rave/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/elvetia-un-om-a-murit-si-alti-cinci-sunt-raniti-dupa-ce-au-fost-impuscati-azi-noapte-la-o-petrecere-rave/</guid>
-    </item>
-    <item>
-        <title>VIDEO: NASA lansează telescopul spațial Roman, unul dintre cele mai ambițioase observatoare dezvoltate de agenția spațială americană. Va explora Unive</title>
-        <link>https://www.g4media.ro/video-nasa-lanseaza-telescopul-spatial-roman-unul-dintre-cele-mai-ambitioase-observatoare-dezvoltate-de-agentia-spatiala-americana-va-explora-universul-la-scara-larga.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-nasa-lanseaza-telescopul-spatial-roman-unul-dintre-cele-mai-ambitioase-observatoare-dezvoltate-de-agentia-spatiala-americana-va-explora-universul-la-scara-larga.html</guid>
-    </item>
-    <item>
-        <title>Turist cazat la un hotel de cinci stele, revoltat după ce i s-a cerut să vorbească și să râdă mai încet</title>
-        <link>https://adevarul.ro/stiri-externe/sua/turist-cazat-la-un-hotel-de-cinci-stele-revoltat-2552990.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/turist-cazat-la-un-hotel-de-cinci-stele-revoltat-2552990.html</guid>
-    </item>
-    <item>
-        <title>Doi bicicliști, loviți de o mașină în timpul unei competiții în București. Unul dintre ei a ajuns la spital</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/doi-biciclisti-loviti-de-o-masina-in-timpul-unei-competitii-in-bucuresti-unul-dintre-ei-a-ajuns-la-spital-3927383</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/doi-biciclisti-loviti-de-o-masina-in-timpul-unei-competitii-in-bucuresti-unul-dintre-ei-a-ajuns-la-spital-3927383</guid>
-    </item>
-    <item>
-        <title>Un feribot cu aproximativ 270 de persoane la bord s-a scufundat în Cipru. Echipele de salvare caută supraviețuitori</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/un-feribot-cu-aproximativ-270-de-persoane-la-bord-2552976.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/un-feribot-cu-aproximativ-270-de-persoane-la-bord-2552976.html</guid>
-    </item>
-    <item>
-        <title>Mădălin Hodor (CNSAS), replică pentru Nicușor Dan: Crimele Revoluției și Mineriadei pot fi investigate după „modelul german”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/madalin-hodor-cnsas-replica-pentru-nicusor-dan-crimele-revolutiei-si-mineriadei-pot-fi-investigate-dupa-modelul-german-3927361</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/madalin-hodor-cnsas-replica-pentru-nicusor-dan-crimele-revolutiei-si-mineriadei-pot-fi-investigate-dupa-modelul-german-3927361</guid>
-    </item>
-    <item>
-        <title>Un șofer de 72 de ani a lovit doi bicicliști participanți la „L’Étape Romania by Tour de France” din București</title>
-        <link>https://www.g4media.ro/un-sofer-de-72-de-ani-a-lovit-doi-biciclisti-participanti-la-letape-romania-by-tour-de-france-din-bucuresti.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/un-sofer-de-72-de-ani-a-lovit-doi-biciclisti-participanti-la-letape-romania-by-tour-de-france-din-bucuresti.html</guid>
-    </item>
-    <item>
-        <title>VIDEO: CM Canotaj: Rezultat fantastic – Aur și record mondial pentru echipajul României de 8+1 feminin</title>
-        <link>https://www.g4media.ro/cm-canotaj-aur-si-record-mondial-pentru-echipajul-romaniei-de-81-feminin.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cm-canotaj-aur-si-record-mondial-pentru-echipajul-romaniei-de-81-feminin.html</guid>
-    </item>
-    <item>
-        <title>Ovidiu Schumacher și „Operațiunea Monstrul“, filmul care nu a îmbătrânit. „Într-o pauză de filmări, a apărut Toma cu o cutie de brânză de 12 kilograme</title>
-        <link>https://adevarul.ro/stil-de-viata/cultura/ovidiu-schumacher-si-operatiunea-monstrul-2552744.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/cultura/ovidiu-schumacher-si-operatiunea-monstrul-2552744.html</guid>
-    </item>
-    <item>
-        <title>Rusia pregătește „atacuri masive asupra infrastructurii energetice a Ucrainei”</title>
-        <link>https://www.mediafax.ro/externe/rusia-pregateste-atacuri-masive-asupra-infrastructurii-energetice-a-ucrainei-23798674</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/rusia-pregateste-atacuri-masive-asupra-infrastructurii-energetice-a-ucrainei-23798674</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/doi-ciclisti-de-la-letape-bucharest-by-tour-de-2552969.html</guid>
     </item>
     <item>
         <title>Cum transformi o cameră mică într-un spațiu care pare mai mare: trucuri simple pentru garsoniere, cămine și apartamente de studenți</title>
@@ -146,112 +278,16 @@
         <guid isPermaLink="true">https://www.g4media.ro/cum-transformi-o-camera-mica-intr-un-spatiu-care-pare-mai-mare-trucuri-simple-pentru-garsoniere-camine-si-apartamente-de-studenti.html</guid>
     </item>
     <item>
-        <title>AUR vrea schimbarea Constituției: „Un preşedinte nu poate ţine o ţară blocată de frica anticipatelor”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/aur-vrea-schimbarea-constitutiei-un-presedinte-nu-poate-tine-o-tara-blocata-de-frica-anticipatelor-3927449</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/aur-vrea-schimbarea-constitutiei-un-presedinte-nu-poate-tine-o-tara-blocata-de-frica-anticipatelor-3927449</guid>
-    </item>
-    <item>
-        <title>PES activists România critică AUR și USR și cere protejarea tinerilor și a românilor din diaspora</title>
-        <link>https://www.mediafax.ro/politic/pes-activists-romania-critica-aur-si-usr-si-cere-protejarea-tinerilor-si-a-romanilor-din-diaspora-23798681</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/pes-activists-romania-critica-aur-si-usr-si-cere-protejarea-tinerilor-si-a-romanilor-din-diaspora-23798681</guid>
-    </item>
-    <item>
-        <title>Victorie la fotografie pentru Aurelian Andronache la Timișoara. Doar 19 sutimi l-au despărțit de Simone Tempestini</title>
-        <link>https://www.mediafax.ro/sport/victorie-la-fotografie-pentru-aurelian-andronache-la-timisoara-doar-19-sutimi-l-au-despartit-de-simone-tempestini-23798708</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/victorie-la-fotografie-pentru-aurelian-andronache-la-timisoara-doar-19-sutimi-l-au-despartit-de-simone-tempestini-23798708</guid>
-    </item>
-    <item>
-        <title>Doi cicliști de la L’Étape Bucharest by Tour de France, loviți de un autoturism. Șoferul de 72 de ani ar fi forțat accesul pe traseu</title>
-        <link>https://adevarul.ro/stiri-locale/bucuresti/doi-ciclisti-de-la-letape-bucharest-by-tour-de-2552969.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/doi-ciclisti-de-la-letape-bucharest-by-tour-de-2552969.html</guid>
-    </item>
-    <item>
-        <title>NASA a lansat telescopul spațial  Nancy Grace Roman, un nou observator pentru studierea misterelor Universului</title>
-        <link>https://www.mediafax.ro/stirile-zilei/nasa-a-lansat-telescopul-spatial-nancy-grace-roman-un-nou-observator-pentru-studierea-misterelor-universului-23798698</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/nasa-a-lansat-telescopul-spatial-nancy-grace-roman-un-nou-observator-pentru-studierea-misterelor-universului-23798698</guid>
-    </item>
-    <item>
-        <title>Polițiști atacați în timpul unei intervenții în Bacău. Au fost trase focuri de avertisment</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/politisti-atacati-in-timpul-unei-interventii-in-bacau-au-fost-trase-focuri-de-avertisment-3927437</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/politisti-atacati-in-timpul-unei-interventii-in-bacau-au-fost-trase-focuri-de-avertisment-3927437</guid>
-    </item>
-    <item>
-        <title>O doctoriță din Târgu Jiu a murit după ce a fost lovit de o mașină. Femeia a fost acroșată când traversa strada</title>
-        <link>https://adevarul.ro/stiri-locale/targu-jiu/o-doctorita-din-targu-jiu-a-murit-dupa-ce-a-fost-2552970.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/targu-jiu/o-doctorita-din-targu-jiu-a-murit-dupa-ce-a-fost-2552970.html</guid>
-    </item>
-    <item>
-        <title>Nu postați poza copilului în prima zi de școală! Ce informații dezvăluie, fără să ne dăm seama</title>
-        <link>https://adevarul.ro/blogurile-adevarul/nu-postati-poza-copilului-in-prima-zi-de-scoala-2552977.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/nu-postati-poza-copilului-in-prima-zi-de-scoala-2552977.html</guid>
-    </item>
-    <item>
-        <title>„Nu NATO! Să dăm o şansă păcii!” Aproximativ o mie de elvețieni s-au adunat la Berna pentru apărarea unei neutralităţi stricte</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/nu-nato-sa-dam-o-sansa-pacii-aproximativ-o-mie-de-elvetieni-s-au-adunat-la-berna-pentru-apararea-unei-neutralitati-stricte-3927421</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nu-nato-sa-dam-o-sansa-pacii-aproximativ-o-mie-de-elvetieni-s-au-adunat-la-berna-pentru-apararea-unei-neutralitati-stricte-3927421</guid>
-    </item>
-    <item>
-        <title>Bilanț devastator după inundațiile de la granița Nepalului cu China: cel puțin 734 de morți și peste 3.000 de persoane date dispărute</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/bilant-devastator-dupa-inundatiile-de-la-granita-2552981.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/bilant-devastator-dupa-inundatiile-de-la-granita-2552981.html</guid>
-    </item>
-    <item>
-        <title>Naufragiu în largul Ciprului: cel puțin șase morți după ce un feribot cu 270 de persoane s-a răsturnat</title>
-        <link>https://www.digi24.ro/stiri/externe/un-feribot-cu-aproximativ-270-de-persoane-la-bord-s-a-scufundat-in-largul-ciprului-de-nord-3927397</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/un-feribot-cu-aproximativ-270-de-persoane-la-bord-s-a-scufundat-in-largul-ciprului-de-nord-3927397</guid>
-    </item>
-    <item>
-        <title>BREAKING: Un feribot de pasageri cu 270 de persoane la bord s-a răsturnat în largul Ciprului de Nord</title>
-        <link>https://www.g4media.ro/breaking-un-feribot-de-pasageri-cu-270-de-persoane-la-bord-s-a-rasturnat-in-largul-ciprului-de-nord.html</link>
+        <title>Edupedu: Ministerul Educației, luat prin surprindere de începutul școlii. Proiect de HG cu bani de grupuri sanitare pentru 97 de școli care au încă to</title>
+        <link>https://www.g4media.ro/edupedu-ministerul-educatiei-luat-prin-surprindere-de-inceputul-scolii-proiect-de-hg-cu-bani-de-grupuri-sanitare-pentru-97-de-scoli-care-au-inca-toalete-in-curte-cu-7-zile-inainte-de-inceperea-cur.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/breaking-un-feribot-de-pasageri-cu-270-de-persoane-la-bord-s-a-rasturnat-in-largul-ciprului-de-nord.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/edupedu-ministerul-educatiei-luat-prin-surprindere-de-inceputul-scolii-proiect-de-hg-cu-bani-de-grupuri-sanitare-pentru-97-de-scoli-care-au-inca-toalete-in-curte-cu-7-zile-inainte-de-inceperea-cur.html</guid>
     </item>
     <item>
-        <title>Messi a marcat de patru ori, Inter Miami a făcut scor cu Montreal</title>
-        <link>https://adevarul.ro/sport/messi-a-marcat-de-patru-ori-inter-miami-a-facut-2552991.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/messi-a-marcat-de-patru-ori-inter-miami-a-facut-2552991.html</guid>
-    </item>
-    <item>
-        <title>Un feribot cu aproximativ 270 de persoane la bord s-a scufundat în largul Ciprului de Nord, scrie presa turcă</title>
-        <link>https://www.europafm.ro/un-feribot-cu-aproximativ-270-de-persoane-la-bord-s-a-scufundat-in-largul-ciprului-de-nord-scrie-presa-turca/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/un-feribot-cu-aproximativ-270-de-persoane-la-bord-s-a-scufundat-in-largul-ciprului-de-nord-scrie-presa-turca/</guid>
-    </item>
-    <item>
-        <title>Republica Moldova acuză Rusia de încălcarea suveranității, după anunțul că Moscova va deschide secții de vot în Transnistria</title>
-        <link>https://www.digi24.ro/stiri/externe/republica-moldova-acuza-rusia-de-incalcarea-suveranitatii-dupa-anuntul-ca-va-deschide-sectii-de-vot-in-transnistria-3927375</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/republica-moldova-acuza-rusia-de-incalcarea-suveranitatii-dupa-anuntul-ca-va-deschide-sectii-de-vot-in-transnistria-3927375</guid>
-    </item>
-    <item>
-        <title>Oprirea la Riga a șefului CIA și semnalele către Putin. Ce e în spatele avalanșei de detalii legate de vizita lui Ratcliffe la Moscova</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/oprirea-la-riga-a-sefului-cia-si-semnalele-catre-putin-ce-e-in-spatele-avalansei-de-detalii-legate-de-vizita-lui-ratcliffe-la-moscova-3927285</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/oprirea-la-riga-a-sefului-cia-si-semnalele-catre-putin-ce-e-in-spatele-avalansei-de-detalii-legate-de-vizita-lui-ratcliffe-la-moscova-3927285</guid>
-    </item>
-    <item>
-        <title>Imagini tulburătoare în Olt. Seceta extremă a transformat Dunărea într-un peisaj dezolant: „Dezastru. E prima dată când o vedem așa”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/imagini-tulburatoare-in-olt-seceta-extrema-a-transformat-dunarea-intr-un-peisaj-dezolant-dezastru-e-prima-data-cand-o-vedem-asa-3927429</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/imagini-tulburatoare-in-olt-seceta-extrema-a-transformat-dunarea-intr-un-peisaj-dezolant-dezastru-e-prima-data-cand-o-vedem-asa-3927429</guid>
-    </item>
-    <item>
-        <title>Miso, ingredientul care ar putea susține sănătatea creierului și a intestinului</title>
-        <link>https://www.g4media.ro/miso-ingredientul-care-ar-putea-sustine-sanatatea-creierului-si-a-intestinului.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/miso-ingredientul-care-ar-putea-sustine-sanatatea-creierului-si-a-intestinului.html</guid>
+        <title>Ce au scris Marine Le Pen și Nigel Farage după ce Islanda a respins reluarea negocierilor de aderare la UE</title>
+        <link>https://www.mediafax.ro/externe/ce-au-scris-marine-le-pen-si-nigel-farage-dupa-ce-islanda-a-respins-reluarea-negocierilor-de-aderare-la-ue-23798685</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/ce-au-scris-marine-le-pen-si-nigel-farage-dupa-ce-islanda-a-respins-reluarea-negocierilor-de-aderare-la-ue-23798685</guid>
     </item>
     <item>
         <title>Barca feminină de 8+1 a României a câștigat titlul mondial la Amsterdam și a bătut un nou record</title>
@@ -260,112 +296,76 @@
         <guid isPermaLink="true">https://adevarul.ro/sport/barca-feminina-de-81-a-romaniei-a-castigat-titlul-2552984.html</guid>
     </item>
     <item>
-        <title>Cum introduci texturi calde în casă pentru toamnă: schimbările mici care fac interiorul mai cozy</title>
-        <link>https://www.g4media.ro/cum-introduci-texturi-calde-in-casa-pentru-toamna-schimbarile-mici-care-fac-interiorul-mai-cozy.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cum-introduci-texturi-calde-in-casa-pentru-toamna-schimbarile-mici-care-fac-interiorul-mai-cozy.html</guid>
+        <title>Doi bicicliști, loviți de o mașină în timpul unei competiții în București. Unul dintre ei a ajuns la spital</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/doi-biciclisti-loviti-de-o-masina-in-timpul-unei-competitii-in-bucuresti-unul-dintre-ei-a-ajuns-la-spital-3927383</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/doi-biciclisti-loviti-de-o-masina-in-timpul-unei-competitii-in-bucuresti-unul-dintre-ei-a-ajuns-la-spital-3927383</guid>
     </item>
     <item>
-        <title>Bilanțul viiturii catastrofale din Nepal a ajuns la 734 de morți / Aproape 2.500 de persoane, în continuare dispărute</title>
-        <link>https://www.g4media.ro/bilantul-viiturii-catastrofale-din-nepal-a-ajuns-la-734-de-morti-aproape-2-500-de-persoane-in-continuare-disparute.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/bilantul-viiturii-catastrofale-din-nepal-a-ajuns-la-734-de-morti-aproape-2-500-de-persoane-in-continuare-disparute.html</guid>
+        <title>PES activists România critică AUR și USR și cere protejarea tinerilor și a românilor din diaspora</title>
+        <link>https://www.mediafax.ro/politic/pes-activists-romania-critica-aur-si-usr-si-cere-protejarea-tinerilor-si-a-romanilor-din-diaspora-23798681</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/pes-activists-romania-critica-aur-si-usr-si-cere-protejarea-tinerilor-si-a-romanilor-din-diaspora-23798681</guid>
     </item>
     <item>
-        <title>Şedinţe la PSD/Consiliul Politic Naţional şi grupurile parlamentare se reunesc la Sinaia</title>
-        <link>https://www.europafm.ro/sedinte-la-psd-consiliul-politic-national-si-grupurile-parlamentare-se-reunesc-la-sinaia/</link>
+        <title>Oprirea la Riga a șefului CIA și semnalele către Putin. Ce e în spatele avalanșei de detalii legate de vizita lui Ratcliffe la Moscova</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/oprirea-la-riga-a-sefului-cia-si-semnalele-catre-putin-ce-e-in-spatele-avalansei-de-detalii-legate-de-vizita-lui-ratcliffe-la-moscova-3927285</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/oprirea-la-riga-a-sefului-cia-si-semnalele-catre-putin-ce-e-in-spatele-avalansei-de-detalii-legate-de-vizita-lui-ratcliffe-la-moscova-3927285</guid>
+    </item>
+    <item>
+        <title>NASA a lansat telescopul spațial  Nancy Grace Roman, un nou observator pentru studierea misterelor Universului</title>
+        <link>https://www.mediafax.ro/stirile-zilei/nasa-a-lansat-telescopul-spatial-nancy-grace-roman-un-nou-observator-pentru-studierea-misterelor-universului-23798698</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/nasa-a-lansat-telescopul-spatial-nancy-grace-roman-un-nou-observator-pentru-studierea-misterelor-universului-23798698</guid>
+    </item>
+    <item>
+        <title>O nouă medalie de aur pentru România la Campionatul Mondial de canotaj. Echipajul feminin de 8 plus 1 a stabilit și un record mondial</title>
+        <link>https://www.digi24.ro/stiri/sport/alte-sporturi/o-noua-medalie-de-aur-pentru-romania-la-campionatul-mondial-de-canotaj-echipajul-feminin-de-8-plus-1-a-stabilit-si-un-record-mondial-3927413</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/alte-sporturi/o-noua-medalie-de-aur-pentru-romania-la-campionatul-mondial-de-canotaj-echipajul-feminin-de-8-plus-1-a-stabilit-si-un-record-mondial-3927413</guid>
+    </item>
+    <item>
+        <title>Elveția: Un om a murit și alți cinci sunt răniți, după ce au fost împușcați azi-noapte la o petrecere rave</title>
+        <link>https://www.europafm.ro/elvetia-un-om-a-murit-si-alti-cinci-sunt-raniti-dupa-ce-au-fost-impuscati-azi-noapte-la-o-petrecere-rave/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/sedinte-la-psd-consiliul-politic-national-si-grupurile-parlamentare-se-reunesc-la-sinaia/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/elvetia-un-om-a-murit-si-alti-cinci-sunt-raniti-dupa-ce-au-fost-impuscati-azi-noapte-la-o-petrecere-rave/</guid>
     </item>
     <item>
-        <title>Ceremonia umanistă, alternativa la cununia religioasă. Cine o poate oficia și ce se întâmplă, de fapt, în timpul ei</title>
-        <link>https://adevarul.ro/stiri-interne/societate/ceremonia-umanista-alternativa-la-cununia-2552041.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/ceremonia-umanista-alternativa-la-cununia-2552041.html</guid>
-    </item>
-    <item>
-        <title>Focuri de armă la o petrecere rave în Elveţia: Un om a murit şi cinci au fost răniţi. Atacatorii sunt încă în libertate</title>
-        <link>https://www.digi24.ro/stiri/externe/focuri-de-arma-la-o-petrecere-rave-din-elvetia-politia-anunta-mai-multe-victime-3927183</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/focuri-de-arma-la-o-petrecere-rave-din-elvetia-politia-anunta-mai-multe-victime-3927183</guid>
-    </item>
-    <item>
-        <title>EXCLUSIV: Nicolae Stanciu, legendă a echipei de fotbal Rapid, acord de recunoaștere a vinovăției după ce a fost prins băut la volan. Condamnare la un </title>
-        <link>https://www.g4media.ro/exclusiv-nicolae-stanciu-legenda-a-echipei-de-fotbal-rapid-acord-de-recunoastere-a-vinovatiei-dupa-ce-a-fost-prins-baut-la-volan-condamnare-la-un-an-si-o-luna-de-inchisoare-cu-suspendare.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/exclusiv-nicolae-stanciu-legenda-a-echipei-de-fotbal-rapid-acord-de-recunoastere-a-vinovatiei-dupa-ce-a-fost-prins-baut-la-volan-condamnare-la-un-an-si-o-luna-de-inchisoare-cu-suspendare.html</guid>
-    </item>
-    <item>
-        <title>Un proprietar a vrut să-și evacueze chiriașul cu ranga. Bătaie într-un bloc din București</title>
-        <link>https://adevarul.ro/stiri-locale/bucuresti/un-proprietar-a-vrut-sa-si-evacueze-chiriasul-cu-2552923.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/un-proprietar-a-vrut-sa-si-evacueze-chiriasul-cu-2552923.html</guid>
-    </item>
-    <item>
-        <title>Cum mi-au făcut bine cei care mi-au făcut rău</title>
-        <link>https://adevarul.ro/blogurile-adevarul/cum-mi-au-facut-bine-cei-care-mi-au-facut-rau-2552911.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/cum-mi-au-facut-bine-cei-care-mi-au-facut-rau-2552911.html</guid>
-    </item>
-    <item>
-        <title>Focuri de armă la o petrecere rave organizată pe un hipodrom din Elveția. Un mort și cinci răniți</title>
-        <link>https://www.mediafax.ro/externe/focuri-de-arma-la-o-petrecere-rave-organizata-pe-un-hipodrom-din-elvetia-23798594</link>
+        <title>Descoperire despre un condiment foarte folosit: ar putea proteja vasele de sânge</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/descoperire-despre-un-condiment-foarte-folosit-ar-putea-proteja-vasele-de-sange-23796482</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/focuri-de-arma-la-o-petrecere-rave-organizata-pe-un-hipodrom-din-elvetia-23798594</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/descoperire-despre-un-condiment-foarte-folosit-ar-putea-proteja-vasele-de-sange-23796482</guid>
     </item>
     <item>
-        <title>Ce șanse sunt ca noul premier desemnat de Nicușor Dan să fie învestit de Parlament? Calculele voturilor la acest moment: PSD, UDMR, Minorități plus pu</title>
-        <link>https://www.g4media.ro/ce-sanse-sunt-ca-noul-premier-desemnat-de-nicusor-dan-sa-fie-investit-de-parlament-calculele-voturilor-la-acest-moment-psd-udmr-minoritati-plus-pucistii-din-pnl-fara-aur-dar-cu-extremistii-din-n.html</link>
+        <title>VIDEO: CM Canotaj: Rezultat fantastic – Aur și record mondial pentru echipajul României de 8+1 feminin</title>
+        <link>https://www.g4media.ro/cm-canotaj-aur-si-record-mondial-pentru-echipajul-romaniei-de-81-feminin.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ce-sanse-sunt-ca-noul-premier-desemnat-de-nicusor-dan-sa-fie-investit-de-parlament-calculele-voturilor-la-acest-moment-psd-udmr-minoritati-plus-pucistii-din-pnl-fara-aur-dar-cu-extremistii-din-n.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/cm-canotaj-aur-si-record-mondial-pentru-echipajul-romaniei-de-81-feminin.html</guid>
     </item>
     <item>
-        <title>„Un sentiment de apocalipsă”. Vara 2026 în Europa, fereastră către viitorul sumbru al crizei climatice: caniculă, incendii, secetă</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/un-sentiment-de-apocalipsa-vara-2026-in-europa-fereastra-catre-viitorul-sumbru-al-crizei-climatice-canicula-incendii-seceta-3927223</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/un-sentiment-de-apocalipsa-vara-2026-in-europa-fereastra-catre-viitorul-sumbru-al-crizei-climatice-canicula-incendii-seceta-3927223</guid>
-    </item>
-    <item>
-        <title>Nu doar oamenii au nume: ce animale ar putea să se „strige” între ele. Dovezile surprinzătoare descoperite de cercetători</title>
-        <link>https://www.digi24.ro/magazin/stil-de-viata/animale/nu-doar-oamenii-au-nume-ce-animale-ar-putea-sa-se-strige-intre-ele-dovezile-surprinzatoare-descoperite-de-cercetatori-3919039</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/stil-de-viata/animale/nu-doar-oamenii-au-nume-ce-animale-ar-putea-sa-se-strige-intre-ele-dovezile-surprinzatoare-descoperite-de-cercetatori-3919039</guid>
-    </item>
-    <item>
-        <title>Programul Universității Craiova în Conference League – Debut cu Getafe în Bănie</title>
-        <link>https://www.g4media.ro/programul-universitatii-craiova-in-conference-league-debut-cu-getafe-in-banie.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/programul-universitatii-craiova-in-conference-league-debut-cu-getafe-in-banie.html</guid>
-    </item>
-    <item>
-        <title>Paradoxul carburanților: Țările vecine cu importuri masive au prețuri mai mici decât România. Cum explică specialiștii</title>
-        <link>https://www.digi24.ro/stiri/economie/paradoxul-carburantilor-tarile-vecine-cu-importuri-masive-au-preturi-mai-mici-decat-romania-cum-explica-specialistii-3926279</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/paradoxul-carburantilor-tarile-vecine-cu-importuri-masive-au-preturi-mai-mici-decat-romania-cum-explica-specialistii-3926279</guid>
-    </item>
-    <item>
-        <title>Nu speriați turiștii! Lecția de turism de pe litoralul românesc de acum 96 de ani</title>
-        <link>https://www.mediafax.ro/life-inedit/nu-speriati-turistii-lectia-de-turism-de-pe-litoralul-romanesc-de-acum-96-de-ani-23798581</link>
+        <title>Incendii violente de vegetație în Hunedoara: Peste 22 de hectare au ars și traficul pe un drum național a fost blocat</title>
+        <link>https://www.mediafax.ro/stirile-zilei/incendii-violente-de-vegetatie-in-hunedoara-peste-22-de-hectare-au-ars-si-traficul-pe-un-drum-national-a-fost-blocat-23798705</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/nu-speriati-turistii-lectia-de-turism-de-pe-litoralul-romanesc-de-acum-96-de-ani-23798581</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/incendii-violente-de-vegetatie-in-hunedoara-peste-22-de-hectare-au-ars-si-traficul-pe-un-drum-national-a-fost-blocat-23798705</guid>
     </item>
     <item>
-        <title>Un sit preistoric excepțional, descoperit la câteva sute de kilometri de România: este mai vechi decât Stonehenge</title>
-        <link>https://www.mediafax.ro/life-inedit/un-sit-preistoric-exceptional-descoperit-la-cateva-sute-de-kilometri-de-romania-este-mai-vechi-decat-stonehenge-23796507</link>
+        <title>Mădălin Hodor (CNSAS), replică pentru Nicușor Dan: Crimele Revoluției și Mineriadei pot fi investigate după „modelul german”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/madalin-hodor-cnsas-replica-pentru-nicusor-dan-crimele-revolutiei-si-mineriadei-pot-fi-investigate-dupa-modelul-german-3927361</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/madalin-hodor-cnsas-replica-pentru-nicusor-dan-crimele-revolutiei-si-mineriadei-pot-fi-investigate-dupa-modelul-german-3927361</guid>
+    </item>
+    <item>
+        <title>Rusia pregătește „atacuri masive asupra infrastructurii energetice a Ucrainei”</title>
+        <link>https://www.mediafax.ro/externe/rusia-pregateste-atacuri-masive-asupra-infrastructurii-energetice-a-ucrainei-23798674</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/un-sit-preistoric-exceptional-descoperit-la-cateva-sute-de-kilometri-de-romania-este-mai-vechi-decat-stonehenge-23796507</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/rusia-pregateste-atacuri-masive-asupra-infrastructurii-energetice-a-ucrainei-23798674</guid>
     </item>
     <item>
-        <title>Angela Merkel, îndemn înaintea alegerilor din Saxonia-Anhalt: „Trebuie să luptăm pentru democrație”</title>
-        <link>https://www.g4media.ro/angela-merkel-indemn-inaintea-alegerilor-din-saxonia-anhalt-trebuie-sa-luptam-pentru-democratie.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/angela-merkel-indemn-inaintea-alegerilor-din-saxonia-anhalt-trebuie-sa-luptam-pentru-democratie.html</guid>
-    </item>
-    <item>
-        <title>VIDEO: Surpriză la Wuhan Open – Bingyu Chang l-a învins în finală pe noul lider mondial din snooker</title>
-        <link>https://www.g4media.ro/video-surpriza-la-wuhan-open-bingyu-chang-l-a-invins-in-finala-pe-noul-lider-mondial-din-snooker.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/video-surpriza-la-wuhan-open-bingyu-chang-l-a-invins-in-finala-pe-noul-lider-mondial-din-snooker.html</guid>
+        <title>Bilanț devastator după inundațiile de la granița Nepalului cu China: cel puțin 734 de morți și peste 3.000 de persoane date dispărute</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/bilant-devastator-dupa-inundatiile-de-la-granita-2552981.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/bilant-devastator-dupa-inundatiile-de-la-granita-2552981.html</guid>
     </item>
 </channel>
 </rss>
