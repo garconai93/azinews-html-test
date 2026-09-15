@@ -5,235 +5,301 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 15 Sep 2026 05:19:25 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:25:26 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>SUA pot învinge Iranul, dar China? Adevărul dur despre arsenalul american de rachete</title>
-        <link>https://adevarul.ro/stiri-externe/sua/sua-pot-invinge-iranul-dar-china-adevarul-dur-2557450.html</link>
+        <title>Arena Națională din București va găzdui finala UEFA Europa League din 2028</title>
+        <link>https://www.mediafax.ro/sport/arena-nationala-din-bucuresti-va-gazdui-finala-uefa-europa-league-din-2028-23807424</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/arena-nationala-din-bucuresti-va-gazdui-finala-uefa-europa-league-din-2028-23807424</guid>
+    </item>
+    <item>
+        <title>Major restrictions on the Transylvania Motorway: Complete closure of a section of the A3</title>
+        <link>https://www.mediafax.ro/english/major-restrictions-on-the-transylvania-motorway-complete-closure-of-a-section-of-the-a3-23807470</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/english/major-restrictions-on-the-transylvania-motorway-complete-closure-of-a-section-of-the-a3-23807470</guid>
+    </item>
+    <item>
+        <title>SUA: prețul motorinei a atins un nou record, ajungând la aproape 6,27 dolari pe galon</title>
+        <link>https://www.g4media.ro/sua-pretul-motorinei-a-atins-un-nou-record-ajungand-la-aproape-627-dolari-pe-galon.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/sua-pretul-motorinei-a-atins-un-nou-record-ajungand-la-aproape-627-dolari-pe-galon.html</guid>
+    </item>
+    <item>
+        <title>Acciza la motorină rămâne redusă cu 25% până la sfârșitul lunii septembrie. Decizia Ministerului Finanțelor</title>
+        <link>https://adevarul.ro/economie/acciza-la-motorina-ramane-redusa-cu-25percent-pana-la-2557649.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/sua-pot-invinge-iranul-dar-china-adevarul-dur-2557450.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/economie/acciza-la-motorina-ramane-redusa-cu-25percent-pana-la-2557649.html</guid>
     </item>
     <item>
-        <title>Premiile Emmy 2026: Matthew Rhys scrie istorie. „Widow’s Bay” și Jean Smart, printre marii câștigători ai serii</title>
-        <link>https://adevarul.ro/showbiz/film/premiile-emmy-2026-matthew-rhys-scrie-istorie-2557575.html</link>
+        <title>Statele Unite impun o taxă vamală de 50% asupra unor produse canadiene, la o săptămână după ce Canada a activat taxe vamale de retorsiune asupra unor </title>
+        <link>https://www.g4media.ro/statele-unite-impun-o-taxa-vamala-de-50-asupra-unor-produse-canadiene-la-o-saptamana-dupa-ce-canada-a-activat-taxe-vamale-de-retorsiune-asupra-unor-importuri-din-sua.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/statele-unite-impun-o-taxa-vamala-de-50-asupra-unor-produse-canadiene-la-o-saptamana-dupa-ce-canada-a-activat-taxe-vamale-de-retorsiune-asupra-unor-importuri-din-sua.html</guid>
+    </item>
+    <item>
+        <title>Traficul feroviar a fost perturbat în centrul și nordul Olandei, după ce mai multe țevi au fost atașate intenționat de șine / Aproximativ 20 de incide</title>
+        <link>https://www.g4media.ro/traficul-feroviar-a-fost-perturbat-in-centrul-si-nordul-olandei-dupa-ce-mai-multe-tevi-au-fost-atasate-intentionat-de-sine-aproximativ-20-de-incidente-au-fost-raportate-politia-a-deschis-o-anchet.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/traficul-feroviar-a-fost-perturbat-in-centrul-si-nordul-olandei-dupa-ce-mai-multe-tevi-au-fost-atasate-intentionat-de-sine-aproximativ-20-de-incidente-au-fost-raportate-politia-a-deschis-o-anchet.html</guid>
+    </item>
+    <item>
+        <title>Spirală de represalii în războiul comercial SUA-Canada. Trump impune o nouă taxă vamală unor produse canadiene</title>
+        <link>https://www.digi24.ro/stiri/externe/spirala-de-represalii-in-razboiul-comercial-sua-canada-trump-impune-o-noua-taxa-vamala-unor-produse-canadiene-3948367</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/spirala-de-represalii-in-razboiul-comercial-sua-canada-trump-impune-o-noua-taxa-vamala-unor-produse-canadiene-3948367</guid>
+    </item>
+    <item>
+        <title>Diana Buzoianu i-a făcut sesizare la CNCD liderului de sindicat Metrorex, Marian Artimon. Recent, acesta a declarat că sunt „prea multe femei care iau</title>
+        <link>https://www.europafm.ro/diana-buzoianu-i-a-facut-sesizare-la-cncd-liderului-de-sindicat-metrorex-marian-artimon/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/diana-buzoianu-i-a-facut-sesizare-la-cncd-liderului-de-sindicat-metrorex-marian-artimon/</guid>
+    </item>
+    <item>
+        <title>China cere SUA „să înceteze să se pregătească de un război în spaţiu”, după ce Washingtonul a admis că are arme pe orbită</title>
+        <link>https://www.digi24.ro/stiri/externe/china-cere-sua-sa-inceteze-sa-se-pregateasca-de-un-razboi-in-spatiu-dupa-ce-washingtonul-a-admis-ca-are-arme-pe-orbita-3948219</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/china-cere-sua-sa-inceteze-sa-se-pregateasca-de-un-razboi-in-spatiu-dupa-ce-washingtonul-a-admis-ca-are-arme-pe-orbita-3948219</guid>
+    </item>
+    <item>
+        <title>Pentru reducerea analfabetismului funcțional, USR propune o serie de măsuri pentru școlile cu rezultate slabe la Evaluarea Națională. „Ne trebuie prof</title>
+        <link>https://www.europafm.ro/pentru-reducerea-analfabetismului-functional-usr-propune-o-serie-de-masuri-pentru-scolile-cu-rezultate-slabe-la-evaluarea-nationala-ne-trebuie-profesori-noi-si-resurse-financiare/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/pentru-reducerea-analfabetismului-functional-usr-propune-o-serie-de-masuri-pentru-scolile-cu-rezultate-slabe-la-evaluarea-nationala-ne-trebuie-profesori-noi-si-resurse-financiare/</guid>
+    </item>
+    <item>
+        <title>Finala Europa League revine la București, pe Arena Națională, cu ocazia ediției din 2028</title>
+        <link>https://www.g4media.ro/finala-europa-league-revine-la-bucuresti-pe-arena-nationala-cu-ocazia-editiei-din-2028.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/finala-europa-league-revine-la-bucuresti-pe-arena-nationala-cu-ocazia-editiei-din-2028.html</guid>
+    </item>
+    <item>
+        <title>Arena Națională va găzdui finala UEFA Europa League 2028. S-a mai întâmplat în urmă cu 16 ani</title>
+        <link>https://adevarul.ro/sport/arena-nationala-va-gazdui-finala-uefa-europa-2557659.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/film/premiile-emmy-2026-matthew-rhys-scrie-istorie-2557575.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/sport/arena-nationala-va-gazdui-finala-uefa-europa-2557659.html</guid>
     </item>
     <item>
-        <title>NATO a doborât o dronă care a pătruns în spațiul aerian al Lituaniei. Polonia a început operațiuni aeriene preventive</title>
-        <link>https://adevarul.ro/stiri-externe/europa/nato-a-doborat-o-drona-care-a-patruns-in-spatiul-2557576.html</link>
+        <title>Robert Sighiartău, la Interviurile Digi24.ro. Despre cât va rezista Bolojan pe funcție și ruptura din partid, de la ora 15.00</title>
+        <link>https://www.digi24.ro/stiri/actualitate/robert-sighiartau-la-interviurile-digi24-ro-despre-cat-va-rezista-bolojan-pe-functie-si-ruptura-din-partid-de-la-ora-15-00-3948193</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/robert-sighiartau-la-interviurile-digi24-ro-despre-cat-va-rezista-bolojan-pe-functie-si-ruptura-din-partid-de-la-ora-15-00-3948193</guid>
+    </item>
+    <item>
+        <title>Circulația se închide pe un tronson de 13 km al Autostrăzii A3, pentru lucrări. Care este ruta ocolitoare</title>
+        <link>https://adevarul.ro/stiri-locale/cluj-napoca/circulatia-se-inchide-pe-un-tronson-de-13-km-al-2557663.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/nato-a-doborat-o-drona-care-a-patruns-in-spatiul-2557576.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/cluj-napoca/circulatia-se-inchide-pe-un-tronson-de-13-km-al-2557663.html</guid>
     </item>
     <item>
-        <title>Schimbare importantă în instanțe, din 15 septembrie. Dosarele vor fi repartizate și în funcție de capacitatea de procesare a cauzelor</title>
-        <link>https://www.g4media.ro/schimbare-importanta-in-instante-din-15-septembrie-dosarele-vor-fi-repartizate-si-in-functie-de-capacitatea-de-procesare-a-cauzelor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/schimbare-importanta-in-instante-din-15-septembrie-dosarele-vor-fi-repartizate-si-in-functie-de-capacitatea-de-procesare-a-cauzelor.html</guid>
+        <title>Percheziții în Arad într-un dosar de trafic de droguri. Peste 40 de persoane, duse la audieri</title>
+        <link>https://www.digi24.ro/stiri/actualitate/justitie/perchezitii-in-arad-intr-un-dosar-de-trafic-de-droguri-peste-40-de-persoane-duse-la-audieri-3948211</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/justitie/perchezitii-in-arad-intr-un-dosar-de-trafic-de-droguri-peste-40-de-persoane-duse-la-audieri-3948211</guid>
     </item>
     <item>
-        <title>Cu cât ar putea crește prețul carburanților din cauza grevei de la Terminal Oil? Dumitru Chisăliță (AEI): Dacă oprirea depășește zece zile, vorbim de </title>
-        <link>https://www.mediafax.ro/economic/cu-cat-ar-putea-creste-pretul-carburantilor-din-cauza-grevei-de-la-terminal-oil-dumitru-chisalita-aei-daca-oprirea-depaseste-zece-zile-vorbim-de-disponibilitatea-fizica-a-produselor-23807087</link>
+        <title>Grindeanu: România, depășită de Kenya la competitivitate. „Efectul măsurilor dezastruoase luate de Bolojan”</title>
+        <link>https://www.mediafax.ro/politic/grindeanu-romania-depasita-de-kenya-la-competitivitate-efectul-masurilor-dezastruoase-luate-de-bolojan-23807427</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/cu-cat-ar-putea-creste-pretul-carburantilor-din-cauza-grevei-de-la-terminal-oil-dumitru-chisalita-aei-daca-oprirea-depaseste-zece-zile-vorbim-de-disponibilitatea-fizica-a-produselor-23807087</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/grindeanu-romania-depasita-de-kenya-la-competitivitate-efectul-masurilor-dezastruoase-luate-de-bolojan-23807427</guid>
     </item>
     <item>
-        <title>China avertizează că inteligența artificială îi poate amenința securitatea națională</title>
-        <link>https://adevarul.ro/stiri-externe/china/china-avertizeaza-ca-inteligenta-artificiala-ii-2557488.html</link>
+        <title>Comisia Europeană va propune o serie de restricții pentru accesul copiilor la rețelele de socializare și chatboturile AI. Părinții vor controla integr</title>
+        <link>https://www.europafm.ro/comisia-europeana-va-propune-o-serie-de-restrictii-pentru-accesul-copiilor-la-retelele-de-socializare/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/comisia-europeana-va-propune-o-serie-de-restrictii-pentru-accesul-copiilor-la-retelele-de-socializare/</guid>
+    </item>
+    <item>
+        <title>Price of a liter of gasoline poised to exceed 10 lei</title>
+        <link>https://www.mediafax.ro/english/price-of-a-liter-of-gasoline-poised-to-exceed-10-lei-23807461</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/english/price-of-a-liter-of-gasoline-poised-to-exceed-10-lei-23807461</guid>
+    </item>
+    <item>
+        <title>Un record fără precedent în Japonia: peste 100.000 de centenari, în timp ce populația continuă să scadă</title>
+        <link>https://www.mediafax.ro/stirile-zilei/un-record-fara-precedent-in-japonia-peste-100-000-de-centenari-in-timp-ce-populatia-continua-sa-scada-23807387</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/un-record-fara-precedent-in-japonia-peste-100-000-de-centenari-in-timp-ce-populatia-continua-sa-scada-23807387</guid>
+    </item>
+    <item>
+        <title>Farmers are protesting in Bucharest. Major clashes between farmers and gendarmes</title>
+        <link>https://www.mediafax.ro/english/farmers-are-protesting-in-bucharest-major-clashes-between-farmers-and-gendarmes-23807466</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/english/farmers-are-protesting-in-bucharest-major-clashes-between-farmers-and-gendarmes-23807466</guid>
+    </item>
+    <item>
+        <title>Reacția lui George Simion după tensiunile de la protestului fermierilor din Piața Victoriei: „Să nu cădem în capcana provocatorilor”</title>
+        <link>https://adevarul.ro/politica/reactia-lui-george-simion-dupa-tensiunile-de-la-2557662.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/china/china-avertizeaza-ca-inteligenta-artificiala-ii-2557488.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/reactia-lui-george-simion-dupa-tensiunile-de-la-2557662.html</guid>
     </item>
     <item>
-        <title>Mesaje RO-Alert și două avioane F-16 ridicate pentru monitorizare după ce un grup de drone a fost identificat la 35 de km de Chilia</title>
-        <link>https://www.g4media.ro/mesaje-ro-alert-si-doua-avioane-f-16-ridicate-pentru-monitorizare-dupa-ce-un-grup-de-drone-a-fost-identificat-la-35-de-km-de-chilia.html</link>
+        <title>Anchetă la o mănăstire din Oradea, după ce fostul candidat la alegerile prezidențiale, Călin Georgescu, a fost primit cu fast, iar preotul l-a prezent</title>
+        <link>https://www.europafm.ro/ancheta-la-o-manastire-din-oradea-dupa-ce-calin-georgescu-a-fost-prezentat-ca-fiind-presedintele-ales/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ancheta-la-o-manastire-din-oradea-dupa-ce-calin-georgescu-a-fost-prezentat-ca-fiind-presedintele-ales/</guid>
+    </item>
+    <item>
+        <title>George Simion vorbește despre „provocatori” și „interese străine” la protestul ciobanilor din Piața Victoriei / Protestatarii au forțat gardurile de p</title>
+        <link>https://www.g4media.ro/george-simion-vorbeste-despre-provocatori-si-interese-straine-la-protestul-ciobanilor-din-piata-victoriei-protestatarii-au-fortat-gardurile-de-protectie-si-au-aru.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/mesaje-ro-alert-si-doua-avioane-f-16-ridicate-pentru-monitorizare-dupa-ce-un-grup-de-drone-a-fost-identificat-la-35-de-km-de-chilia.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/george-simion-vorbeste-despre-provocatori-si-interese-straine-la-protestul-ciobanilor-din-piata-victoriei-protestatarii-au-fortat-gardurile-de-protectie-si-au-aru.html</guid>
     </item>
     <item>
-        <title>Mai multe drone au fost detectate în apropierea graniței României în cursul nopții, anunță MApN. Două F-16, ridicate de la sol</title>
-        <link>https://www.digi24.ro/stiri/actualitate/mai-multe-drone-au-fost-detectate-in-apropierea-granitei-romaniei-in-cursul-noptii-anunta-mapn-doua-f-16-ridicate-de-la-sol-3947789</link>
+        <title>Întrerupere majoră a traficului feroviar olandez, la oră de vârf, dimineața. Este suspectat un act de sabotaj</title>
+        <link>https://www.digi24.ro/stiri/externe/intrerupere-majora-a-traficului-feroviar-olandez-la-ora-de-varf-dimineata-este-suspectat-un-act-de-sabotaj-3948091</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/mai-multe-drone-au-fost-detectate-in-apropierea-granitei-romaniei-in-cursul-noptii-anunta-mapn-doua-f-16-ridicate-de-la-sol-3947789</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/intrerupere-majora-a-traficului-feroviar-olandez-la-ora-de-varf-dimineata-este-suspectat-un-act-de-sabotaj-3948091</guid>
     </item>
     <item>
-        <title>În Coreea de Sud, o aplicație urmărește în timp real persoanele acuzate de stalking. Cum funcționează sistemul</title>
-        <link>https://www.mediafax.ro/externe/in-coreea-de-sud-o-aplicatie-urmareste-in-timp-real-persoanele-acuzate-de-stalking-cum-functioneaza-sistemul-23807169</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/in-coreea-de-sud-o-aplicatie-urmareste-in-timp-real-persoanele-acuzate-de-stalking-cum-functioneaza-sistemul-23807169</guid>
-    </item>
-    <item>
-        <title>„Cel mai îngrozitor moment”: Dezvăluirile ofițerului american salvat din deșert la 50 de ore după ce avionul său a fost doborât în Iran</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/cel-mai-ingrozitor-moment-dezvaluirile-ofiterului-american-salvat-din-desert-la-50-de-ore-dupa-ce-avionul-sau-a-fost-doborat-in-iran-3947069</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/cel-mai-ingrozitor-moment-dezvaluirile-ofiterului-american-salvat-din-desert-la-50-de-ore-dupa-ce-avionul-sau-a-fost-doborat-in-iran-3947069</guid>
-    </item>
-    <item>
-        <title>Alertă la o bază NATO după aventura unui ofițer pe Tinder / O femeie cu care avea o relație ar fi fost chestionată ulterior de un agent FSB, susține a</title>
-        <link>https://www.g4media.ro/alerta-la-o-baza-nato-dupa-aventura-unui-ofiter-pe-tinder-o-femeie-cu-care-avea-o-relatie-ar-fi-fost-chestionata-ulterior-de-un-agent-fsb-sustine-aceasta.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/alerta-la-o-baza-nato-dupa-aventura-unui-ofiter-pe-tinder-o-femeie-cu-care-avea-o-relatie-ar-fi-fost-chestionata-ulterior-de-un-agent-fsb-sustine-aceasta.html</guid>
-    </item>
-    <item>
-        <title>Bulgaria majorează pragul sărăciei la 443 de euro. Unul din cinci bulgari trăiește sub acest nivel</title>
-        <link>https://www.mediafax.ro/externe/bulgaria-majoreaza-pragul-saraciei-la-443-de-euro-unul-din-cinci-bulgari-traieste-sub-acest-nivel-23807172</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/bulgaria-majoreaza-pragul-saraciei-la-443-de-euro-unul-din-cinci-bulgari-traieste-sub-acest-nivel-23807172</guid>
-    </item>
-    <item>
-        <title>Schimbare importantă în instanțe, din 15 septembrie. Cum vor fi repartizate dosarele</title>
-        <link>https://www.mediafax.ro/justitie/schimbare-importanta-in-instante-din-15-septembrie-cum-vor-fi-repartizate-dosarele-23807180</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/justitie/schimbare-importanta-in-instante-din-15-septembrie-cum-vor-fi-repartizate-dosarele-23807180</guid>
-    </item>
-    <item>
-        <title>Cum crește treptat vârsta de pensionare pentru femei până la 65 de ani. Calendarul complet, an cu an, pentru perioada 2026-2035</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/cum-creste-treptat-varsta-de-pensionare-pentru-femei-pana-la-65-de-ani-calendarul-complet-an-cu-an-pentru-perioada-2026-2035-3946557</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/cum-creste-treptat-varsta-de-pensionare-pentru-femei-pana-la-65-de-ani-calendarul-complet-an-cu-an-pentru-perioada-2026-2035-3946557</guid>
-    </item>
-    <item>
-        <title>Copii de 12 ani cu aproape 150 de kilograme /  Obezitatea infantilă, o problemă în creștere în România / Tratamentul nu e decontat de stat, iar costur</title>
-        <link>https://www.g4media.ro/copii-de-12-ani-cu-aproape-150-de-kilograme-obezitatea-infantila-o-problema-in-crestere-in-romania-tratamentul-nu-e-decontat-de-stat-iar-costurile-pot-ajunge-la-1-000-de-lei-pe-luna.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/copii-de-12-ani-cu-aproape-150-de-kilograme-obezitatea-infantila-o-problema-in-crestere-in-romania-tratamentul-nu-e-decontat-de-stat-iar-costurile-pot-ajunge-la-1-000-de-lei-pe-luna.html</guid>
-    </item>
-    <item>
-        <title>Serialele „Widow’s Bay” și „The Pitt”, marile câștigătoare ale Premiilor Emmy 2026</title>
-        <link>https://www.mediafax.ro/life-entertaiment/serialele-widows-bay-si-the-pitt-marile-castigatoare-ale-premiilor-emmy-2026-23807167</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/serialele-widows-bay-si-the-pitt-marile-castigatoare-ale-premiilor-emmy-2026-23807167</guid>
-    </item>
-    <item>
-        <title>Teoriile conspirației la microfon: Profesorul universitar sibian Corvin Lupu inventează un plan al lui Donald Trump bazat pe o ironie a Kremlinului / </title>
-        <link>https://www.g4media.ro/teoriile-conspiratiei-la-microfon-profesorul-universitar-sibian-corvin-lupu-inventeaza-un-plan-al-lui-donald-trump-bazat-pe-o-ironie-a-kremlinului-sapte-miliarde-sunt-de-partea-chinei-si-r.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/teoriile-conspiratiei-la-microfon-profesorul-universitar-sibian-corvin-lupu-inventeaza-un-plan-al-lui-donald-trump-bazat-pe-o-ironie-a-kremlinului-sapte-miliarde-sunt-de-partea-chinei-si-r.html</guid>
-    </item>
-    <item>
-        <title>Ținte aeriene detectate în apropierea graniței cu România. Două F-16 au decolat, populația din Tulcea a primit RO-Alert</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/tinte-aeriene-detectate-in-apropierea-granitei-cu-2557578.html</link>
+        <title>Circ în curtea unui colegiu din Ploiești. Tatăl unui elev, încătușat după ce s-a certat cu portarul şi a provocat un accident auto</title>
+        <link>https://adevarul.ro/stiri-locale/ploiesti/circ-in-curtea-unui-colegiu-din-ploiesti-tatal-2557666.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/tinte-aeriene-detectate-in-apropierea-granitei-cu-2557578.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/ploiesti/circ-in-curtea-unui-colegiu-din-ploiesti-tatal-2557666.html</guid>
     </item>
     <item>
-        <title>Digistoria - cele mai importante evenimente petrecute pe 15 septembrie</title>
-        <link>https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-15-septembrie-2-3947813</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-15-septembrie-2-3947813</guid>
+        <title>România în Direct. Pe cine mai reprezintă Nicușor Dan?</title>
+        <link>https://www.europafm.ro/romania-in-direct-pe-cine-mai-reprezinta-nicusor-dan/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/romania-in-direct-pe-cine-mai-reprezinta-nicusor-dan/</guid>
     </item>
     <item>
-        <title>Kawhi Leonard revine la Toronto, echipa cu care a câștigat titlul NBA și trofeul de MVP în 2019</title>
-        <link>https://www.mediafax.ro/sport/kawhi-leonard-revine-la-toronto-echipa-cu-care-a-castigat-titlul-nba-si-trofeul-de-mvp-in-2019-23807181</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/kawhi-leonard-revine-la-toronto-echipa-cu-care-a-castigat-titlul-nba-si-trofeul-de-mvp-in-2019-23807181</guid>
-    </item>
-    <item>
-        <title>Bulgaria majorează pragul sărăciei la 443 de euro / 21,2% din populația țării trăiește sub acest nivel</title>
-        <link>https://www.g4media.ro/bulgaria-majoreaza-pragul-saraciei-la-443-de-euro-212-din-populatia-tarii-traieste-sub-acest-nivel.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/bulgaria-majoreaza-pragul-saraciei-la-443-de-euro-212-din-populatia-tarii-traieste-sub-acest-nivel.html</guid>
-    </item>
-    <item>
-        <title>Avioanele NATO au doborât o dronă care a intrat în spațiul aerian al Lituaniei</title>
-        <link>https://www.mediafax.ro/stirile-zilei/avioanele-nato-au-doborat-o-drona-care-a-intrat-in-spatiul-aerian-al-lituaniei-23807179</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/avioanele-nato-au-doborat-o-drona-care-a-intrat-in-spatiul-aerian-al-lituaniei-23807179</guid>
-    </item>
-    <item>
-        <title>Serviciile secrete europene primesc puteri care le fuseseră refuzate ani de zile, pe măsură ce Rusia își intensifică războiul hibrid</title>
-        <link>https://adevarul.ro/stiri-externe/europa/serviciile-secrete-europene-primesc-puteri-care-le-2557464.html</link>
+        <title>Suspiciuni privind recalcularea greșită a peste 2,2 milioane de pensii. Beneficiari morți primeau pensia în continuare</title>
+        <link>https://adevarul.ro/economie/suspiciuni-privind-recalcularea-gresita-a-peste-2557660.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/serviciile-secrete-europene-primesc-puteri-care-le-2557464.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/economie/suspiciuni-privind-recalcularea-gresita-a-peste-2557660.html</guid>
     </item>
     <item>
-        <title>A murit cel mai vârstnic israelian care a supraviețuit Holocaustului. Avea 107 ani</title>
-        <link>https://www.g4media.ro/a-murit-cel-mai-varstnic-israelian-care-a-supravietuit-holocaustului-avea-107-ani.html</link>
+        <title>Coaliția de guvernare de dreapta din Israel vrea interzicerea participării partidelor arabe în alegerile parlamentare din 27 octombrie</title>
+        <link>https://www.g4media.ro/coalitia-de-guvernare-de-dreapta-din-israel-vrea-interzicerea-participarii-partidelor-arabe-in-alegerile-parlamentare-din-27-octombrie.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/a-murit-cel-mai-varstnic-israelian-care-a-supravietuit-holocaustului-avea-107-ani.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/coalitia-de-guvernare-de-dreapta-din-israel-vrea-interzicerea-participarii-partidelor-arabe-in-alegerile-parlamentare-din-27-octombrie.html</guid>
     </item>
     <item>
-        <title>Ofițerul american doborât în Iran povestește cum a fost salvat: „Cel mai terifiant lucru pe care l-am văzut vreodată”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/ofiterul-american-doborat-in-iran-povesteste-cum-a-2557445.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/ofiterul-american-doborat-in-iran-povesteste-cum-a-2557445.html</guid>
-    </item>
-    <item>
-        <title>Ținte aeriene detectate în apropierea României. Două mesaje RO-Alert în județul Tulcea</title>
-        <link>https://www.mediafax.ro/aparare/tinte-aeriene-detectate-in-apropierea-romaniei-doua-mesaje-ro-alert-in-judetul-tulcea-23807164</link>
+        <title>Diesel excise duty reduction to remain in place until the end of September</title>
+        <link>https://www.mediafax.ro/english/diesel-excise-duty-reduction-to-remain-in-place-until-the-end-of-september-23807454</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/aparare/tinte-aeriene-detectate-in-apropierea-romaniei-doua-mesaje-ro-alert-in-judetul-tulcea-23807164</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/english/diesel-excise-duty-reduction-to-remain-in-place-until-the-end-of-september-23807454</guid>
     </item>
     <item>
-        <title>Înfrângere pentru Trump. Curtea Supremă îi respinge recursul de a restricţiona votul prin corespondenţă. „Victorie pentru democrație”</title>
-        <link>https://www.digi24.ro/stiri/externe/infrangere-pentru-trump-curtea-suprema-ii-respinge-recursul-de-a-restrictiona-votul-prin-corespondenta-victorie-pentru-democratie-3947799</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/infrangere-pentru-trump-curtea-suprema-ii-respinge-recursul-de-a-restrictiona-votul-prin-corespondenta-victorie-pentru-democratie-3947799</guid>
+        <title>Dunărea a atins un nou minim istoric din cauza secetei. Zeci de nave și barje sunt blocate de la Baziaș până la Brăila</title>
+        <link>https://www.europafm.ro/dunarea-minim-istoric-seceta-nave-barge-blocate/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/dunarea-minim-istoric-seceta-nave-barge-blocate/</guid>
     </item>
     <item>
-        <title>Premiile Emmy 2026: „Widow’s Bay” scrie istorie, iar Matthew Rhys și Jean Smart stabilesc recorduri neașteptate. Lista câștigătorilor</title>
-        <link>https://www.digi24.ro/magazin/timp-liber/showbiz/premiile-emmy-2026-widows-bay-scrie-istorie-iar-matthew-rhys-si-jean-smart-stabilesc-recorduri-neasteptate-lista-castigatorilor-3947743</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/showbiz/premiile-emmy-2026-widows-bay-scrie-istorie-iar-matthew-rhys-si-jean-smart-stabilesc-recorduri-neasteptate-lista-castigatorilor-3947743</guid>
-    </item>
-    <item>
-        <title>Preluarea controlului asupra zonei de coastă a Yemenului de către rebelii Houthi remodelează echilibrul de forțe în zona Golfului</title>
-        <link>https://www.digi24.ro/stiri/externe/preluarea-controlului-asupra-zonei-de-coasta-a-yemenului-de-catre-rebelii-houthi-remodeleaza-echilibrul-de-forte-in-zona-golfului-3947209</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/preluarea-controlului-asupra-zonei-de-coasta-a-yemenului-de-catre-rebelii-houthi-remodeleaza-echilibrul-de-forte-in-zona-golfului-3947209</guid>
-    </item>
-    <item>
-        <title>Avioane NATO au doborât o dronă deasupra Lituaniei</title>
-        <link>https://www.digi24.ro/stiri/externe/avioane-nato-au-doborat-o-drona-deasupra-lituaniei-3947801</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/avioane-nato-au-doborat-o-drona-deasupra-lituaniei-3947801</guid>
-    </item>
-    <item>
-        <title>Pacient cu arsuri pe 75% din corp, externat după șapte săptămâni de la Spitalul Județean Timișoara / Avea un risc de mortalitate de peste 80% după ce </title>
-        <link>https://www.g4media.ro/pacient-cu-arsuri-pe-75-din-corp-externat-dupa-sapte-saptamani-de-la-spitalul-judetean-timisoara-avea-un-risc-de-mortalitate-de-peste-80-dupa-ce-i-a-explodat-o-butelie-in-fata-vorbim-des.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pacient-cu-arsuri-pe-75-din-corp-externat-dupa-sapte-saptamani-de-la-spitalul-judetean-timisoara-avea-un-risc-de-mortalitate-de-peste-80-dupa-ce-i-a-explodat-o-butelie-in-fata-vorbim-des.html</guid>
-    </item>
-    <item>
-        <title>Când e prea devreme pentru TikTok și Instagram. Vârsta la care social media începe să afecteze rezultatele la școală</title>
-        <link>https://adevarul.ro/dezvoltare-personala/relatii/cand-e-prea-devreme-pentru-tiktok-si-instagram-2556945.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/relatii/cand-e-prea-devreme-pentru-tiktok-si-instagram-2556945.html</guid>
-    </item>
-    <item>
-        <title>Ciobanii protestează marți, în Piața Victoriei / Crescătorii de oi și capre, nemulțumiți de măsurile privind pesta micilor rumegătoare / La manifestaț</title>
-        <link>https://www.g4media.ro/ciobanii-protesteaza-marti-in-piata-victoriei-crescatorii-de-oi-si-capre-nemultumiti-de-masurile-privind-pesta-micilor-rumegatoare-la-manifestatia-din-iulie-au-intervenit-jandarmii-din-cauz.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ciobanii-protesteaza-marti-in-piata-victoriei-crescatorii-de-oi-si-capre-nemultumiti-de-masurile-privind-pesta-micilor-rumegatoare-la-manifestatia-din-iulie-au-intervenit-jandarmii-din-cauz.html</guid>
-    </item>
-    <item>
-        <title>Pentagonul recunoaște o „lipsă” de muniție cauzată de războiul din Iran. Administrația Trump a negat această penurie luni întregi</title>
-        <link>https://www.mediafax.ro/stirile-zilei/pentagonul-recunoaste-o-lipsa-de-munitie-cauzata-de-razboiul-din-iran-administratia-trump-a-negat-aceasta-penurie-luni-intregi-23807168</link>
+        <title>Rușii, acuzați că au tras rachete de semnalizare spre un elicopter militar danez. Danemarca îl convoacă pe ambasadorul rus</title>
+        <link>https://www.mediafax.ro/externe/rusii-acuzati-ca-au-tras-rachete-de-semnalizare-spre-un-elicopter-militar-danez-danemarca-il-convoaca-pe-ambasadorul-rus-23807384</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/pentagonul-recunoaste-o-lipsa-de-munitie-cauzata-de-razboiul-din-iran-administratia-trump-a-negat-aceasta-penurie-luni-intregi-23807168</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/rusii-acuzati-ca-au-tras-rachete-de-semnalizare-spre-un-elicopter-militar-danez-danemarca-il-convoaca-pe-ambasadorul-rus-23807384</guid>
     </item>
     <item>
-        <title>Prognoza pentru următoarele 4 săptămâni: temperaturi peste normal mai ales în vest și ploi puține</title>
-        <link>https://www.mediafax.ro/meteo/prognoza-pentru-urmatoarele-4-saptamani-temperaturi-peste-normal-mai-ales-in-vest-si-ploi-putine-23807182</link>
+        <title>Prețuri carburanți 15 septembrie 2026: Litrul de benzină, pe punctul de a sări de 10 lei. Cât costă motorina</title>
+        <link>https://www.mediafax.ro/economic/preturi-carburanti-15-septembrie-2026-litrul-de-benzina-pe-punctul-de-a-sari-de-10-lei-cat-costa-motorina-23807370</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/meteo/prognoza-pentru-urmatoarele-4-saptamani-temperaturi-peste-normal-mai-ales-in-vest-si-ploi-putine-23807182</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/preturi-carburanti-15-septembrie-2026-litrul-de-benzina-pe-punctul-de-a-sari-de-10-lei-cat-costa-motorina-23807370</guid>
     </item>
     <item>
-        <title>Summitul BRICS și noua ofensivă diplomatică a Chinei: cum vrea Xi să rescrie regulile ordinii mondiale după chipul sudului global</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/summitul-brics-si-noua-ofensiva-diplomatica-a-chinei-cum-vrea-xi-sa-rescrie-regulile-ordinii-mondiale-dupa-chipul-sudului-global-3947243</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/summitul-brics-si-noua-ofensiva-diplomatica-a-chinei-cum-vrea-xi-sa-rescrie-regulile-ordinii-mondiale-dupa-chipul-sudului-global-3947243</guid>
-    </item>
-    <item>
-        <title>„Unii români sunt extrem de aroganți și nu admit că nu știu ceva”. Cu ce naționalități preferă IT-iștii români să lucreze</title>
-        <link>https://adevarul.ro/stiri-interne/societate/unii-romani-sunt-extrem-de-aroganti-si-nu-admit-2557444.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/unii-romani-sunt-extrem-de-aroganti-si-nu-admit-2557444.html</guid>
-    </item>
-    <item>
-        <title>Fiul lui Trump recunoaște că un om de afaceri rus a plătit festivităţi legate de nunta sa / ”A fost un cadou de nuntă extraordinar de generos”</title>
-        <link>https://www.g4media.ro/fiul-lui-trump-recunoaste-ca-un-om-de-afaceri-rus-a-platit-festivitati-legate-de-nunta-sa-a-fost-un-cadou-de-nunta-extraordinar-de-generos.html</link>
+        <title>Sorin Grindeanu: Efectul măsurilor economice dezastruoase luate de Bolojan este că România a fost depășită de țări precum Kenya în clasamentul mondial</title>
+        <link>https://www.g4media.ro/sorin-grindeanu-efectul-masurilor-economice-dezastruoase-luate-de-bolojan-este-ca-romania-a-fost-depasita-de-tari-precum-kenya-in-clasamentul-mondial-al-competitivitatii.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/fiul-lui-trump-recunoaste-ca-un-om-de-afaceri-rus-a-platit-festivitati-legate-de-nunta-sa-a-fost-un-cadou-de-nunta-extraordinar-de-generos.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/sorin-grindeanu-efectul-masurilor-economice-dezastruoase-luate-de-bolojan-este-ca-romania-a-fost-depasita-de-tari-precum-kenya-in-clasamentul-mondial-al-competitivitatii.html</guid>
+    </item>
+    <item>
+        <title>Record pentru „Widow’s Bay”, „The Pitt” desemnată cea mai bună serie dramatică și „Pluribus” în centrul atenției / Lista câștigătorilor Premiilor Emmy</title>
+        <link>https://www.g4media.ro/record-pentru-widows-bay-the-pitt-desemnata-cea-mai-buna-serie-dramatica-si-pluribus-in-centrul-atentiei-lista-castigatorilor-premiilor-emmy.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/record-pentru-widows-bay-the-pitt-desemnata-cea-mai-buna-serie-dramatica-si-pluribus-in-centrul-atentiei-lista-castigatorilor-premiilor-emmy.html</guid>
+    </item>
+    <item>
+        <title>Bucureștiul va găzdui finala UEFA Europa League din 2028, a decis Comitetul Executiv al UEFA</title>
+        <link>https://www.europafm.ro/bucurestiul-va-gazdui-finala-uefa-europa-league-din-2028-a-decis-comitetul-executiv-al-uefa/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/bucurestiul-va-gazdui-finala-uefa-europa-league-din-2028-a-decis-comitetul-executiv-al-uefa/</guid>
+    </item>
+    <item>
+        <title>Protestul ciobanilor din Piața Victoriei. Jandarmii au sporit efectivele după îmbrâncelile cu manifestanții | AUDIO</title>
+        <link>https://www.europafm.ro/protest-ciobani-piata-victoriei-jandarmi-gaze-lacrimogene/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/protest-ciobani-piata-victoriei-jandarmi-gaze-lacrimogene/</guid>
+    </item>
+    <item>
+        <title>E oficial: Arena Națională din București va găzdui finala competiției Europa League din anul 2028</title>
+        <link>https://www.digi24.ro/stiri/sport/fotbal/e-oficial-arena-nationala-din-bucuresti-va-gazdui-finala-competitiei-europa-league-din-anul-2028-3948321</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/sport/fotbal/e-oficial-arena-nationala-din-bucuresti-va-gazdui-finala-competitiei-europa-league-din-anul-2028-3948321</guid>
+    </item>
+    <item>
+        <title>Începe judecarea apelului în dosarul 10 August. În primă instanţă, foşti şefi ai Jandarmeriei au fost achitaţi. Faptele de care sunt acuzaţi aceștia s</title>
+        <link>https://www.europafm.ro/incepe-judecarea-apelului-in-dosarul-10-august/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/incepe-judecarea-apelului-in-dosarul-10-august/</guid>
+    </item>
+    <item>
+        <title>România a produs cu 3% mai puțină energie în primele șapte luni. Consumul populației a scăzut cu aproape 12%</title>
+        <link>https://www.digi24.ro/stiri/economie/romania-a-produs-cu-3-mai-putina-energie-in-primele-sapte-luni-consumul-populatiei-a-scazut-cu-aproape-12-3948179</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/romania-a-produs-cu-3-mai-putina-energie-in-primele-sapte-luni-consumul-populatiei-a-scazut-cu-aproape-12-3948179</guid>
+    </item>
+    <item>
+        <title>Apelul lui George Simion după violențele din Piața Victoriei</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/apelul-lui-george-simion-pentru-protestatarii-care-au-ajuns-in-piata-victoriei-dupa-violentele-dintre-ciobani-si-jandarmi-3948167</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/apelul-lui-george-simion-pentru-protestatarii-care-au-ajuns-in-piata-victoriei-dupa-violentele-dintre-ciobani-si-jandarmi-3948167</guid>
+    </item>
+    <item>
+        <title>Grindeanu pune scăderea competitivității României pe seama măsurilor lui Bolojan. „Ajungem să ne batem cu Botswana, Nigeria și Namibia”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/grindeanu-pune-scaderea-competitivitatii-romaniei-pe-seama-masurilor-lui-bolojan-ajungem-sa-ne-batem-cu-botswana-nigeria-si-namibia-3948343</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/grindeanu-pune-scaderea-competitivitatii-romaniei-pe-seama-masurilor-lui-bolojan-ajungem-sa-ne-batem-cu-botswana-nigeria-si-namibia-3948343</guid>
+    </item>
+    <item>
+        <title>Brașov: Percheziții într-un dosar de abuz în serviciu. Sunt verificate lucrări de aproape un milion de lei la o capelă mortuară</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/brasov-perchezitii-intr-un-dosar-de-abuz-in-serviciu-sunt-verificate-lucrari-de-aproape-un-milion-de-lei-la-o-capela-mortuara-3948269</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/brasov-perchezitii-intr-un-dosar-de-abuz-in-serviciu-sunt-verificate-lucrari-de-aproape-un-milion-de-lei-la-o-capela-mortuara-3948269</guid>
+    </item>
+    <item>
+        <title>De ce i-a cerut Trump lui Zelenski să oprească atacurile asupra rafinăriilor rusești</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/de-ce-i-a-cerut-trump-lui-zelenski-sa-opreasca-2557657.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/de-ce-i-a-cerut-trump-lui-zelenski-sa-opreasca-2557657.html</guid>
+    </item>
+    <item>
+        <title>UEFA modifică sistemul de promovare și retrogradare din Liga Națiunilor. Competiția va avea trei ligi din 2028/29</title>
+        <link>https://www.mediafax.ro/sport/uefa-modifica-sistemul-de-promovare-si-retrogradare-din-liga-natiunilor-competitia-va-avea-trei-ligi-din-2028-29-23807435</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/uefa-modifica-sistemul-de-promovare-si-retrogradare-din-liga-natiunilor-competitia-va-avea-trei-ligi-din-2028-29-23807435</guid>
+    </item>
+    <item>
+        <title>Fotbalist snopit în bătaie de antrenorul rivalilor: l-a lăsat inconștient și plin de sânge în tunelul spre vestiare. Anchetă în desfășurare</title>
+        <link>https://adevarul.ro/sport/fotbalist-snopit-in-bataie-de-antrenorul-2557621.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/fotbalist-snopit-in-bataie-de-antrenorul-2557621.html</guid>
+    </item>
+    <item>
+        <title>Luptă de 36 de minute pentru capturarea unui ton de 160 kg în Croația</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/lupta-de-36-de-minute-pentru-capturarea-unui-ton-2557629.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/lupta-de-36-de-minute-pentru-capturarea-unui-ton-2557629.html</guid>
+    </item>
+    <item>
+        <title>Percheziţii în şapte judeţe şi în București într-un dosar de înşelăciune cu aparate self-pay</title>
+        <link>https://www.g4media.ro/perchezitii-in-sapte-judete-si-in-bucuresti-intr-un-dosar-de-inselaciune-cu-aparate-self-pay.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/perchezitii-in-sapte-judete-si-in-bucuresti-intr-un-dosar-de-inselaciune-cu-aparate-self-pay.html</guid>
+    </item>
+    <item>
+        <title>Cum ar fi afectată România de dezintegrarea Marii Britanii. Analist: „Să nu ne facem o iluzie”</title>
+        <link>https://adevarul.ro/securitate-si-aparare/cum-ar-fi-afectata-romania-de-dezintegrarea-marii-2557535.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/cum-ar-fi-afectata-romania-de-dezintegrarea-marii-2557535.html</guid>
+    </item>
+    <item>
+        <title>Japonia a depășit pentru prima dată pragul de 100.000 de persoane cu vârsta de cel puțin 100 de ani</title>
+        <link>https://www.g4media.ro/japonia-a-depasit-pentru-prima-data-pragul-de-100-000-de-persoane-cu-varsta-de-cel-putin-100-de-ani.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/japonia-a-depasit-pentru-prima-data-pragul-de-100-000-de-persoane-cu-varsta-de-cel-putin-100-de-ani.html</guid>
     </item>
     <item>
         <title>Mama lui Elon Musk face dezvăluiri despre copilăria fiului său: „A fost bătut atât de rău la școală încât a ajuns la spital”</title>
@@ -242,130 +308,64 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/mama-lui-elon-musk-face-dezvaluiri-despre-copilaria-fiului-sau-a-fost-batut-atat-de-rau-la-scoala-incat-a-ajuns-la-spital-3947173</guid>
     </item>
     <item>
-        <title>Trump declară război alarmismului legat de AI: „Preluarea lumii și distrugerea omenirii sunt o farsă”</title>
-        <link>https://www.mediafax.ro/externe/trump-declara-razboi-alarmismului-legat-de-ai-preluarea-lumii-si-distrugerea-omenirii-sunt-o-farsa-23807134</link>
+        <title>Copii de 12 ani cu aproape 150 de kilograme /  Obezitatea infantilă, o problemă în creștere în România / Tratamentul nu e decontat de stat, iar costur</title>
+        <link>https://www.g4media.ro/copii-de-12-ani-cu-aproape-150-de-kilograme-obezitatea-infantila-o-problema-in-crestere-in-romania-tratamentul-nu-e-decontat-de-stat-iar-costurile-pot-ajunge-la-1-000-de-lei-pe-luna.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/copii-de-12-ani-cu-aproape-150-de-kilograme-obezitatea-infantila-o-problema-in-crestere-in-romania-tratamentul-nu-e-decontat-de-stat-iar-costurile-pot-ajunge-la-1-000-de-lei-pe-luna.html</guid>
+    </item>
+    <item>
+        <title>Schimbare importantă în instanțe, din 15 septembrie. Cum vor fi repartizate dosarele</title>
+        <link>https://www.mediafax.ro/justitie/schimbare-importanta-in-instante-din-15-septembrie-cum-vor-fi-repartizate-dosarele-23807180</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-declara-razboi-alarmismului-legat-de-ai-preluarea-lumii-si-distrugerea-omenirii-sunt-o-farsa-23807134</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/justitie/schimbare-importanta-in-instante-din-15-septembrie-cum-vor-fi-repartizate-dosarele-23807180</guid>
     </item>
     <item>
-        <title>15 septembrie, ziua morții lui Neagoe Basarab. Lecția domnitorului despre nepotism, ignorată și după 500 de ani</title>
-        <link>https://adevarul.ro/istoria-zilei/15-septembrie-ziua-mortii-lui-neagoe-basarab-2556934.html</link>
+        <title>Pacient cu arsuri pe 75% din corp, externat după șapte săptămâni de la Spitalul Județean Timișoara / Avea un risc de mortalitate de peste 80% după ce </title>
+        <link>https://www.g4media.ro/pacient-cu-arsuri-pe-75-din-corp-externat-dupa-sapte-saptamani-de-la-spitalul-judetean-timisoara-avea-un-risc-de-mortalitate-de-peste-80-dupa-ce-i-a-explodat-o-butelie-in-fata-vorbim-des.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/pacient-cu-arsuri-pe-75-din-corp-externat-dupa-sapte-saptamani-de-la-spitalul-judetean-timisoara-avea-un-risc-de-mortalitate-de-peste-80-dupa-ce-i-a-explodat-o-butelie-in-fata-vorbim-des.html</guid>
+    </item>
+    <item>
+        <title>Ciobanii protestează marți, în Piața Victoriei / Crescătorii de oi și capre, nemulțumiți de măsurile privind pesta micilor rumegătoare / La manifestaț</title>
+        <link>https://www.g4media.ro/ciobanii-protesteaza-marti-in-piata-victoriei-crescatorii-de-oi-si-capre-nemultumiti-de-masurile-privind-pesta-micilor-rumegatoare-la-manifestatia-din-iulie-au-intervenit-jandarmii-din-cauz.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ciobanii-protesteaza-marti-in-piata-victoriei-crescatorii-de-oi-si-capre-nemultumiti-de-masurile-privind-pesta-micilor-rumegatoare-la-manifestatia-din-iulie-au-intervenit-jandarmii-din-cauz.html</guid>
+    </item>
+    <item>
+        <title>„Unii români sunt extrem de aroganți și nu admit că nu știu ceva”. Cu ce naționalități preferă IT-iștii români să lucreze</title>
+        <link>https://adevarul.ro/stiri-interne/societate/unii-romani-sunt-extrem-de-aroganti-si-nu-admit-2557444.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/15-septembrie-ziua-mortii-lui-neagoe-basarab-2556934.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/unii-romani-sunt-extrem-de-aroganti-si-nu-admit-2557444.html</guid>
     </item>
     <item>
-        <title>Chile scrie istorie în lupta cu rabia | Este prima țară din America de Sud care elimină transmiterea bolii de la câini la oameni</title>
-        <link>https://www.mediafax.ro/externe/chile-scrie-istorie-in-lupta-cu-rabia-este-prima-tara-din-america-de-sud-care-elimina-transmiterea-bolii-de-la-caini-la-oameni-23807146</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/chile-scrie-istorie-in-lupta-cu-rabia-este-prima-tara-din-america-de-sud-care-elimina-transmiterea-bolii-de-la-caini-la-oameni-23807146</guid>
+        <title>Mesaje RO-Alert și două avioane F-16 ridicate pentru monitorizare după ce un grup de drone a fost identificat la 35 de km de Chilia</title>
+        <link>https://www.g4media.ro/mesaje-ro-alert-si-doua-avioane-f-16-ridicate-pentru-monitorizare-dupa-ce-un-grup-de-drone-a-fost-identificat-la-35-de-km-de-chilia.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/mesaje-ro-alert-si-doua-avioane-f-16-ridicate-pentru-monitorizare-dupa-ce-un-grup-de-drone-a-fost-identificat-la-35-de-km-de-chilia.html</guid>
     </item>
     <item>
-        <title>Emmy 2026 | Cele mai frumoase apariții de la marea sărbătoare a televiziunii</title>
-        <link>https://www.mediafax.ro/cultura-media/emmy-2026-cele-mai-frumoase-aparitii-de-la-marea-sarbatoare-a-televiziunii-23807136</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/emmy-2026-cele-mai-frumoase-aparitii-de-la-marea-sarbatoare-a-televiziunii-23807136</guid>
+        <title>Fiul lui Trump recunoaște că un om de afaceri rus a plătit festivităţi legate de nunta sa / ”A fost un cadou de nuntă extraordinar de generos”</title>
+        <link>https://www.g4media.ro/fiul-lui-trump-recunoaste-ca-un-om-de-afaceri-rus-a-platit-festivitati-legate-de-nunta-sa-a-fost-un-cadou-de-nunta-extraordinar-de-generos.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/fiul-lui-trump-recunoaste-ca-un-om-de-afaceri-rus-a-platit-festivitati-legate-de-nunta-sa-a-fost-un-cadou-de-nunta-extraordinar-de-generos.html</guid>
     </item>
     <item>
-        <title>Zelenski, mesaj dur pentru Europa: „Nu este momentul să îi protejăm pe oligarhii ruși”</title>
-        <link>https://www.mediafax.ro/externe/zelenski-mesaj-dur-pentru-europa-nu-este-momentul-sa-ii-protejam-pe-oligarhii-rusi-23807148</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/zelenski-mesaj-dur-pentru-europa-nu-este-momentul-sa-ii-protejam-pe-oligarhii-rusi-23807148</guid>
-    </item>
-    <item>
-        <title>Scrisoarea de adio care a tulburat lumea arheologiei. Răspunsul Muzeului la acuzațiile lansate de Gică Băeștean, înaintea morții sale</title>
-        <link>https://adevarul.ro/stiri-locale/hunedoara/scrisoarea-de-adio-care-a-tulburat-lumea-2557235.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/hunedoara/scrisoarea-de-adio-care-a-tulburat-lumea-2557235.html</guid>
-    </item>
-    <item>
-        <title>Cât ne costă să fim conectați. Telefonul, internetul și serviciile digitale acaparează sume importante</title>
-        <link>https://adevarul.ro/economie/cat-ne-costa-sa-fim-conectati-telefonul-2554575.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/cat-ne-costa-sa-fim-conectati-telefonul-2554575.html</guid>
-    </item>
-    <item>
-        <title>România a învins Turcia și s-a calificat în „optimile” Campionatului European de volei!</title>
-        <link>https://adevarul.ro/sport/romania-a-invins-turcia-si-s-a-calificat-in-2557574.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/romania-a-invins-turcia-si-s-a-calificat-in-2557574.html</guid>
-    </item>
-    <item>
-        <title>Misterul gestului extrem al lui Ceaikovski. Cum ar fi încercat să-și provoace o boală fatală după căsnicia nefericită</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/misterul-gestului-extrem-al-lui-ceaikovski-cum-ar-2557254.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/misterul-gestului-extrem-al-lui-ceaikovski-cum-ar-2557254.html</guid>
-    </item>
-    <item>
-        <title>Investiții de 54 milioane euro în Uzina Mecanică Cugir pentru modernizarea producției de muniție NATO. Cine a participat la licitație</title>
-        <link>https://www.digi24.ro/stiri/economie/investitii-de-54-milioane-euro-in-uzina-mecanica-cugir-pentru-modernizarea-productiei-de-munitie-nato-cine-a-participat-la-licitatie-3947719</link>
+        <title>Premiile Emmy 2026: „Widow’s Bay” scrie istorie, iar Matthew Rhys și Jean Smart stabilesc recorduri neașteptate. Lista câștigătorilor</title>
+        <link>https://www.digi24.ro/magazin/timp-liber/showbiz/premiile-emmy-2026-widows-bay-scrie-istorie-iar-matthew-rhys-si-jean-smart-stabilesc-recorduri-neasteptate-lista-castigatorilor-3947743</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/investitii-de-54-milioane-euro-in-uzina-mecanica-cugir-pentru-modernizarea-productiei-de-munitie-nato-cine-a-participat-la-licitatie-3947719</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/showbiz/premiile-emmy-2026-widows-bay-scrie-istorie-iar-matthew-rhys-si-jean-smart-stabilesc-recorduri-neasteptate-lista-castigatorilor-3947743</guid>
     </item>
     <item>
-        <title>Autostrada Sibiu - Pitești ajunge la 24 de kilometri de Râmnicu Vâlcea. Orașul ocolit până acum de drumuri rapide va fi legat de A1</title>
-        <link>https://adevarul.ro/stiri-locale/ramnicu-valcea/autostrada-sibiu-pitesti-ajunge-la-24-de-2557222.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/ramnicu-valcea/autostrada-sibiu-pitesti-ajunge-la-24-de-2557222.html</guid>
-    </item>
-    <item>
-        <title>De la Acordul de la München, din 1938, la Trump. Cele mai absurde negocieri de pace din istorie</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/de-la-acordul-de-la-munchen-din-1938-la-trump-2557279.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/de-la-acordul-de-la-munchen-din-1938-la-trump-2557279.html</guid>
-    </item>
-    <item>
-        <title>Dan Dungaciu, prim-vicepreședintele AUR, despre suspendarea președintelui: Nu e miza principală / ”Chestiunea suspendării a apărut inclusiv pentru că </title>
-        <link>https://www.g4media.ro/dan-dungaciu-prim-vicepresedintele-aur-despre-suspendarea-presedintelui-nu-e-miza-principala-chestiunea-suspendarii-a-aparut-inclusiv-pentru-ca-presedintele-nu-se-comporta-cum-ar-trebui.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/dan-dungaciu-prim-vicepresedintele-aur-despre-suspendarea-presedintelui-nu-e-miza-principala-chestiunea-suspendarii-a-aparut-inclusiv-pentru-ca-presedintele-nu-se-comporta-cum-ar-trebui.html</guid>
-    </item>
-    <item>
-        <title>Victor Alistar critică întâlnirea Bolojan–șefa CCR: „Între patru ochi, în timpul procedurii”</title>
-        <link>https://www.mediafax.ro/justitie/victor-alistar-critica-intalnirea-bolojan-sefa-ccr-intre-patru-ochi-in-timpul-procedurii-23807096</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/justitie/victor-alistar-critica-intalnirea-bolojan-sefa-ccr-intre-patru-ochi-in-timpul-procedurii-23807096</guid>
-    </item>
-    <item>
-        <title>Guvernul ungar a prezentat un proiect pentru a modifica legislaţia anti-LGBT+ adoptată în mandatul lui Viktor Orban</title>
-        <link>https://www.digi24.ro/stiri/externe/guvernul-ungar-a-prezentat-un-proiect-pentru-a-modifica-legislatia-anti-lgbt-adoptata-in-mandatul-lui-viktor-orban-3947645</link>
+        <title>Înfrângere pentru Trump. Curtea Supremă îi respinge recursul de a restricţiona votul prin corespondenţă. „Victorie pentru democrație”</title>
+        <link>https://www.digi24.ro/stiri/externe/infrangere-pentru-trump-curtea-suprema-ii-respinge-recursul-de-a-restrictiona-votul-prin-corespondenta-victorie-pentru-democratie-3947799</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/guvernul-ungar-a-prezentat-un-proiect-pentru-a-modifica-legislatia-anti-lgbt-adoptata-in-mandatul-lui-viktor-orban-3947645</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/infrangere-pentru-trump-curtea-suprema-ii-respinge-recursul-de-a-restrictiona-votul-prin-corespondenta-victorie-pentru-democratie-3947799</guid>
     </item>
     <item>
-        <title>Apple TV s-a lansat oficial în România: cât costă un abonament pe lună</title>
-        <link>https://www.g4media.ro/apple-tv-s-a-lansat-oficial-in-romania-cat-costa-un-abonament-pe-luna.html</link>
+        <title>Teoriile conspirației la microfon: Profesorul universitar sibian Corvin Lupu inventează un plan al lui Donald Trump bazat pe o ironie a Kremlinului / </title>
+        <link>https://www.g4media.ro/teoriile-conspiratiei-la-microfon-profesorul-universitar-sibian-corvin-lupu-inventeaza-un-plan-al-lui-donald-trump-bazat-pe-o-ironie-a-kremlinului-sapte-miliarde-sunt-de-partea-chinei-si-r.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/apple-tv-s-a-lansat-oficial-in-romania-cat-costa-un-abonament-pe-luna.html</guid>
-    </item>
-    <item>
-        <title>Oasis anunță un nou turneu internațional pentru 2027</title>
-        <link>https://www.g4media.ro/oasis-anunta-un-nou-turneu-international-pentru-2027.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/oasis-anunta-un-nou-turneu-international-pentru-2027.html</guid>
-    </item>
-    <item>
-        <title>Diana Buzoianu îl reclamă la CNCD pe liderul sindical de la Metrorex după afirmația „sunt cam multe femei care conduc”</title>
-        <link>https://adevarul.ro/politica/diana-buzoianu-il-reclama-la-cncd-pe-liderul-2557562.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/diana-buzoianu-il-reclama-la-cncd-pe-liderul-2557562.html</guid>
-    </item>
-    <item>
-        <title>Locuința de 86.000 de euro care pare decorul unui film horror. Păpușa care a speriat internetul</title>
-        <link>https://adevarul.ro/stiri-externe/europa/locuinta-de-86000-de-euro-care-pare-decorul-unui-2557553.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/locuinta-de-86000-de-euro-care-pare-decorul-unui-2557553.html</guid>
-    </item>
-    <item>
-        <title>Telescoapele Hubble și James Webb au descoperit 27 de obiecte dincolo de Neptun, cele mai îndepărtate din Sistemul Solar</title>
-        <link>https://www.g4media.ro/telescoapele-hubble-si-james-webb-au-descoperit-27-de-obiecte-dincolo-de-neptun-cele-mai-indepartate-din-sistemul-solar.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/telescoapele-hubble-si-james-webb-au-descoperit-27-de-obiecte-dincolo-de-neptun-cele-mai-indepartate-din-sistemul-solar.html</guid>
-    </item>
-    <item>
-        <title>Dezbateri pe bugetul multianual al UE 2028-2034. Siegfried Mureșan avertizează statele membre că nu vor putea impune orice compromis PE</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/dezbateri-pe-bugetul-multianual-al-ue-2028-2034-siegfried-muresan-avertizeaza-statele-membre-ca-nu-vor-putea-impune-orice-compromis-pe-3947649</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/dezbateri-pe-bugetul-multianual-al-ue-2028-2034-siegfried-muresan-avertizeaza-statele-membre-ca-nu-vor-putea-impune-orice-compromis-pe-3947649</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/teoriile-conspiratiei-la-microfon-profesorul-universitar-sibian-corvin-lupu-inventeaza-un-plan-al-lui-donald-trump-bazat-pe-o-ironie-a-kremlinului-sapte-miliarde-sunt-de-partea-chinei-si-r.html</guid>
     </item>
 </channel>
 </rss>
