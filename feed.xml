@@ -5,199 +5,295 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 17 Sep 2026 05:20:56 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:24:51 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Primării înrolate degeaba pe ghișeul.ro. Datele cetățenilor există doar pe hârtie și trebuie să vină personal pentru a plăti taxele</title>
-        <link>https://www.digi24.ro/special/statul-la-stat/primarii-inrolate-degeaba-pe-ghiseul-ro-datele-cetatenilor-exista-doar-pe-hartie-si-trebuie-sa-vina-personal-pentru-a-plati-taxele-3950527</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/special/statul-la-stat/primarii-inrolate-degeaba-pe-ghiseul-ro-datele-cetatenilor-exista-doar-pe-hartie-si-trebuie-sa-vina-personal-pentru-a-plati-taxele-3950527</guid>
-    </item>
-    <item>
-        <title>Proprietarul stadionului care l-a înlăturat pe Macklemore din turneul lui Ed Sheeran, obligat de artistul britanic să doneze 2 milioane de dolari</title>
-        <link>https://www.mediafax.ro/stirile-zilei/proprietarul-stadionului-care-l-a-inlaturat-pe-macklemore-din-turneul-lui-ed-sheeran-obligat-de-artistul-britanic-sa-doneze-2-milioane-de-dolari-23808661</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/proprietarul-stadionului-care-l-a-inlaturat-pe-macklemore-din-turneul-lui-ed-sheeran-obligat-de-artistul-britanic-sa-doneze-2-milioane-de-dolari-23808661</guid>
-    </item>
-    <item>
-        <title>Prețurile carburanților joi, 17 septembrie. Stațiile peco din țară cu cea mai ieftină benzină și motorină</title>
-        <link>https://adevarul.ro/economie/preturile-carburantilor-joi-17-septembrie-2558082.html</link>
+        <title>Ionuț Radu și Florin Tănase au evoluat în meciul Celta Vigo - Omonia Nicosia</title>
+        <link>https://adevarul.ro/sport/ionut-radu-si-florin-tanase-au-evoluat-in-meciul-2558149.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/preturile-carburantilor-joi-17-septembrie-2558082.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/sport/ionut-radu-si-florin-tanase-au-evoluat-in-meciul-2558149.html</guid>
     </item>
     <item>
-        <title>Donald Trump amenință că va întrerupe schimburile comerciale cu UE în cazul unei asocieri cu Canada: „Ar fi un act ostil”</title>
-        <link>https://www.digi24.ro/stiri/externe/donald-trump-ameninta-ca-va-intrerupe-schimburile-comerciale-cu-ue-in-cazul-unei-asocieri-cu-canada-ar-fi-un-act-ostil-3951263</link>
+        <title>Furt de aproape 600.000 de euro de pe șantierul Termocentralei Mintia. Sunt vizaţi 12 angajaţi de pe şantier</title>
+        <link>https://www.digi24.ro/stiri/furt-de-aproape-600-000-de-euro-de-pe-santierul-termocentralei-mintia-sunt-vizati-12-angajati-de-pe-santier-3951855</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/donald-trump-ameninta-ca-va-intrerupe-schimburile-comerciale-cu-ue-in-cazul-unei-asocieri-cu-canada-ar-fi-un-act-ostil-3951263</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/furt-de-aproape-600-000-de-euro-de-pe-santierul-termocentralei-mintia-sunt-vizati-12-angajati-de-pe-santier-3951855</guid>
     </item>
     <item>
-        <title>Robert Kraft, obligat de Ed Sheeran să doneze 2 milioane de dolari după scandalul cu Macklemore, acuzat de discursul urii</title>
-        <link>https://www.g4media.ro/robert-kraft-obligat-de-ed-sheeran-sa-doneze-2-milioane-de-dolari-dupa-scandalul-cu-macklemore-acuzat-de-discursul-urii.html</link>
+        <title>Kelemen Hunor, după consultările de la Cotroceni: UDMR va vota un Guvern susținut de PNL și PSD, politic sau format din specialiști</title>
+        <link>https://www.europafm.ro/kelemen-hunor-udmr-guvern-pnl-psd-consultari-cotroceni/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/kelemen-hunor-udmr-guvern-pnl-psd-consultari-cotroceni/</guid>
+    </item>
+    <item>
+        <title>Sporuri de confidențialitate în casele de pensii, în atenția Curții de Conturi. Sindicatul: „Nu au fost acordate discreționar”</title>
+        <link>https://www.mediafax.ro/social/sporuri-de-confidentialitate-in-casele-de-pensii-in-atentia-curtii-de-conturi-sindicatul-nu-au-fost-acordate-discretionar-23808970</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/sporuri-de-confidentialitate-in-casele-de-pensii-in-atentia-curtii-de-conturi-sindicatul-nu-au-fost-acordate-discretionar-23808970</guid>
+    </item>
+    <item>
+        <title>Daniel Pancu, antrenorul echipei Rapid București, după prima treime a sezonului: „Suntem mai bine decât speram”</title>
+        <link>https://www.mediafax.ro/sport/daniel-pancu-antrenorul-echipei-rapid-bucuresti-dupa-prima-treime-a-sezonului-suntem-mai-bine-decat-speram-23808979</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/daniel-pancu-antrenorul-echipei-rapid-bucuresti-dupa-prima-treime-a-sezonului-suntem-mai-bine-decat-speram-23808979</guid>
+    </item>
+    <item>
+        <title>Rusia îl decorează pe comandantul corvetei care a lansat rachete de semnalizare spre un elicopter danez</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/rusia-il-decoreaza-pe-comandantul-corvetei-care-a-2558137.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/rusia-il-decoreaza-pe-comandantul-corvetei-care-a-2558137.html</guid>
+    </item>
+    <item>
+        <title>Grindeanu, after consultations: I told the president that we are ready to take over the government</title>
+        <link>https://www.mediafax.ro/english/grindeanu-after-consultations-i-told-the-president-that-we-are-ready-to-take-over-the-government-23809016</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/english/grindeanu-after-consultations-i-told-the-president-that-we-are-ready-to-take-over-the-government-23809016</guid>
+    </item>
+    <item>
+        <title>Comisia Europeană a adoptat regulamentul care interzice accesul copiilor sub 13 ani la rețelele sociale. Marile platforme vor fi obligate să elaboreze</title>
+        <link>https://www.europafm.ro/comisia-europeana-kids-act-retele-sociale-copii-sub-13-ani/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/comisia-europeana-kids-act-retele-sociale-copii-sub-13-ani/</guid>
+    </item>
+    <item>
+        <title>Studiu Cult Research: Aproape 9 din 10 români sunt de acord cu limitarea accesului minorilor pe rețelele sociale</title>
+        <link>https://www.g4media.ro/studiu-cult-research-aproape-9-din-10-romani-sunt-de-acord-cu-limitarea-accesului-minorilor-pe-retelele-sociale.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/robert-kraft-obligat-de-ed-sheeran-sa-doneze-2-milioane-de-dolari-dupa-scandalul-cu-macklemore-acuzat-de-discursul-urii.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/studiu-cult-research-aproape-9-din-10-romani-sunt-de-acord-cu-limitarea-accesului-minorilor-pe-retelele-sociale.html</guid>
     </item>
     <item>
-        <title>Haosul din Piața Victoriei aduce primele arestări. Suspecții au interzis să mai intre pe rețelele sociale</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/un-barbat-a-fost-arestat-preventiv-si-alti-patru-2558077.html</link>
+        <title>Moscova testează nervii NATO. Două bombardiere rusești Tu-95MS, încărcate cu rachete de croazieră, interceptate în largul coastelor Norvegiei</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/moscova-testeaza-nervii-nato-doua-bombardiere-2558128.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/un-barbat-a-fost-arestat-preventiv-si-alti-patru-2558077.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/moscova-testeaza-nervii-nato-doua-bombardiere-2558128.html</guid>
     </item>
     <item>
-        <title>Zi decisivă la Cotroceni: Nicușor Dan, consultări cu partidele / Președintele urmează să numească un premier după 5 luni de interimat la Palatul Victo</title>
-        <link>https://www.g4media.ro/zi-decisiva-la-cotroceni-nicusor-dan-consultari-cu-partidele-presedintele-urmeaza-sa-numeasca-un-premier-dupa-5-luni-de-interimat-la-palatul-victoria-numele-vehiculate-urmareste-live-pe-g4medi.html</link>
+        <title>Thom Browne primăvară-vară 2027 la New York Fashion Week : uniforma preppy intră în grădină și iese de acolo transformată</title>
+        <link>https://www.g4media.ro/thom-browne-primavara-vara-2027-la-new-york-fashion-week-uniforma-preppy-intra-in-gradina-si-iese-de-acolo-transformata.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/zi-decisiva-la-cotroceni-nicusor-dan-consultari-cu-partidele-presedintele-urmeaza-sa-numeasca-un-premier-dupa-5-luni-de-interimat-la-palatul-victoria-numele-vehiculate-urmareste-live-pe-g4medi.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/thom-browne-primavara-vara-2027-la-new-york-fashion-week-uniforma-preppy-intra-in-gradina-si-iese-de-acolo-transformata.html</guid>
     </item>
     <item>
-        <title>Transportul public se scumpește în Europa: Bucureștiul, printre capitalele cu creșteri de peste 10%</title>
-        <link>https://www.mediafax.ro/social/transportul-public-se-scumpeste-in-europa-bucurestiul-printre-capitalele-cu-cresteri-de-peste-10-23808675</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/transportul-public-se-scumpeste-in-europa-bucurestiul-printre-capitalele-cu-cresteri-de-peste-10-23808675</guid>
-    </item>
-    <item>
-        <title>„Nu putem să mai așteptăm”. Astăzi au loc consultări la Palatul Cotroceni pentru nominalizarea unui nou prim-ministru</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/nu-putem-sa-mai-asteptam-azi-au-loc-consultari-la-palatul-cotroceni-pentru-nominalizarea-unui-nou-prim-ministru-3950273</link>
+        <title>Kelemen Hunor, după întâlnirea cu Nicușor Dan: Viitorul premier „să nu fie un om care să poată fi aburit ușor cu basme”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-dupa-intalnirea-cu-nicusor-dan-viitorul-premier-sa-nu-fie-un-om-care-sa-poata-fi-aburit-usor-cu-basme-3951809</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nu-putem-sa-mai-asteptam-azi-au-loc-consultari-la-palatul-cotroceni-pentru-nominalizarea-unui-nou-prim-ministru-3950273</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-dupa-intalnirea-cu-nicusor-dan-viitorul-premier-sa-nu-fie-un-om-care-sa-poata-fi-aburit-usor-cu-basme-3951809</guid>
     </item>
     <item>
-        <title>FC Barcelona scrie istorie: șapte victorii la start de sezon și 28 de goluri marcate în primele șase etape în LaLiga</title>
-        <link>https://www.mediafax.ro/sport/fc-barcelona-scrie-istorie-sapte-victorii-la-start-de-sezon-si-28-de-goluri-marcate-in-primele-sase-etape-in-laliga-23808668</link>
+        <title>Consultări la Cotroceni pentru desemnarea unui nou premier: PSD i-a transmis președintelui României că social-democrații își asumă guvernarea | AUDIO</title>
+        <link>https://www.europafm.ro/psd-i-a-transmis-presedintelui-romaniei-ca-social-democratii-isi-asuma-guvernarea/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/psd-i-a-transmis-presedintelui-romaniei-ca-social-democratii-isi-asuma-guvernarea/</guid>
+    </item>
+    <item>
+        <title>Consultări în desfășurare la Cotroceni pentru desemnarea unui nou premier | VIDEO</title>
+        <link>https://www.europafm.ro/nicusor-dan-consultari-cotroceni-desemnare-premier-psd-aur/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/nicusor-dan-consultari-cotroceni-desemnare-premier-psd-aur/</guid>
+    </item>
+    <item>
+        <title>Alarmant și periculos</title>
+        <link>https://adevarul.ro/blogurile-adevarul/alarmant-si-periculos-2558154.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/alarmant-si-periculos-2558154.html</guid>
+    </item>
+    <item>
+        <title>România în Direct. Premierul lui Nicușor Dan. Mai poate fi lăsat AUR în afara guvernării?</title>
+        <link>https://www.europafm.ro/romania-in-direct-premierul-lui-nicusor-dan-mai-poate-fi-lasat-aur-in-afara-guvernarii/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/romania-in-direct-premierul-lui-nicusor-dan-mai-poate-fi-lasat-aur-in-afara-guvernarii/</guid>
+    </item>
+    <item>
+        <title>FBI a zădărnicit un complot rusesc de asasinare a unui disident cunoscut, la Washington</title>
+        <link>https://adevarul.ro/stiri-externe/sua/fbi-a-zadarnicit-un-complot-rusesc-de-asasinare-a-2558140.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/fbi-a-zadarnicit-un-complot-rusesc-de-asasinare-a-2558140.html</guid>
+    </item>
+    <item>
+        <title>Consultările de la Cotroceni continuă. Ce propun partidele pentru viitorul Guvern</title>
+        <link>https://www.mediafax.ro/politic/au-inceput-consultarile-la-palatul-cotroceni-sorin-grindeanu-suntem-pregatiti-sa-preluam-guvernarea-simion-aur-nu-va-vota-un-guvern-din-care-nu-face-parte-23808574</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/fc-barcelona-scrie-istorie-sapte-victorii-la-start-de-sezon-si-28-de-goluri-marcate-in-primele-sase-etape-in-laliga-23808668</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/au-inceput-consultarile-la-palatul-cotroceni-sorin-grindeanu-suntem-pregatiti-sa-preluam-guvernarea-simion-aur-nu-va-vota-un-guvern-din-care-nu-face-parte-23808574</guid>
     </item>
     <item>
-        <title>Magdalena Andersson se pregătește să revină în scaunul de premier al Suediei. Blocul de stânga a câștigat alegerile</title>
-        <link>https://adevarul.ro/stiri-externe/europa/magdalena-andersson-se-pregateste-sa-revina-in-2558080.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/magdalena-andersson-se-pregateste-sa-revina-in-2558080.html</guid>
+        <title>Orașul care șochează din nou. Ți se pune taxă pentru muzica pe care nici n-ai cerut-o</title>
+        <link>https://www.mediafax.ro/life-inedit/orasul-care-socheaza-din-nou-ti-se-pune-taxa-pentru-muzica-pe-care-nici-n-ai-cerut-o-23809002</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/orasul-care-socheaza-din-nou-ti-se-pune-taxa-pentru-muzica-pe-care-nici-n-ai-cerut-o-23809002</guid>
     </item>
     <item>
-        <title>Congresul SUA a adoptat un nou pachet de sancţiuni împotriva Rusiei. Este prima acţiune majoră împotriva Moscovei din mandatul lui Donald Trump</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/congresul-sua-a-adoptat-un-nou-pachet-de-sanctiuni-2558081.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/congresul-sua-a-adoptat-un-nou-pachet-de-sanctiuni-2558081.html</guid>
+        <title>Primele arestări în urma protestului din Piața Victoriei. 4 bărbați au fost plasați în arest la domiciliu. Un altul a fost arestat preventiv pentru 30</title>
+        <link>https://www.europafm.ro/primele-arestari-in-urma-protestului-din-piata-victoriei/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/primele-arestari-in-urma-protestului-din-piata-victoriei/</guid>
     </item>
     <item>
-        <title>Rata de vaccinare a copiilor a scăzut în mai multe ţări UE. România este pe listă (studiu)</title>
-        <link>https://www.digi24.ro/stiri/actualitate/sanatate/rata-de-vaccinare-a-copiilor-a-scazut-in-mai-multe-tari-ue-romania-este-pe-lista-studiu-3951267</link>
+        <title>Marea Britanie a cerut oficial SUA extrădarea fraților Tate. Ce acuzații apar împotriva lor</title>
+        <link>https://www.digi24.ro/stiri/externe/marea-britanie-a-cerut-oficial-sua-extradarea-fratilor-tate-ce-acuzatii-apar-impotriva-lor-3951837</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/rata-de-vaccinare-a-copiilor-a-scazut-in-mai-multe-tari-ue-romania-este-pe-lista-studiu-3951267</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/marea-britanie-a-cerut-oficial-sua-extradarea-fratilor-tate-ce-acuzatii-apar-impotriva-lor-3951837</guid>
     </item>
     <item>
-        <title>Râurile lumii rămân fără apă. Un nou raport avertizează asupra unei crize care se vede și pe Dunăre</title>
-        <link>https://www.mediafax.ro/social/raurile-lumii-raman-fara-apa-un-nou-raport-avertizeaza-asupra-unei-crize-care-se-vede-si-pe-dunare-23808687</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/raurile-lumii-raman-fara-apa-un-nou-raport-avertizeaza-asupra-unei-crize-care-se-vede-si-pe-dunare-23808687</guid>
-    </item>
-    <item>
-        <title>Fratele Prințesei Diana susține că Charles a spus că aceasta va fi uitată „destul de curând”. Noi dezvăluiri din memoriile lui Spencer</title>
-        <link>https://www.mediafax.ro/life-inedit/fratele-printesei-diana-sustine-ca-charles-a-spus-ca-aceasta-va-fi-uitata-destul-de-curand-noi-dezvaluiri-din-memoriile-lui-spencer-23808713</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/fratele-printesei-diana-sustine-ca-charles-a-spus-ca-aceasta-va-fi-uitata-destul-de-curand-noi-dezvaluiri-din-memoriile-lui-spencer-23808713</guid>
-    </item>
-    <item>
-        <title>OpenAI dezvăluie șase noi incidente de siguranță AI care au ridicat riscuri pentru oameni</title>
-        <link>https://www.mediafax.ro/tehnologie/openai-dezvaluie-sase-noi-incidente-de-siguranta-ai-care-au-ridicat-riscuri-pentru-oameni-23808684</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/openai-dezvaluie-sase-noi-incidente-de-siguranta-ai-care-au-ridicat-riscuri-pentru-oameni-23808684</guid>
-    </item>
-    <item>
-        <title>Provocarea zilei pe „Adevărul”: știi să rezolvi Quiz-ul de azi?</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/provocarea-zilei-pe-adevarul-stii-sa-rezolvi-2558076.html</link>
+        <title>SOS nu participă la consultările la Cotroceni. Motivul pentru care cere reprogramarea consultărilor</title>
+        <link>https://adevarul.ro/politica/sos-nu-participa-la-consultarile-la-cotroceni-2558143.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/provocarea-zilei-pe-adevarul-stii-sa-rezolvi-2558076.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/sos-nu-participa-la-consultarile-la-cotroceni-2558143.html</guid>
     </item>
     <item>
-        <title>Expozițiile Bienalei de Grafică din Ținutul Secuiesc vor putea fi vizionate la Miercurea-Ciuc și la Sfântu Gheorghe. Tema anului este distorsiunea</title>
-        <link>https://www.g4media.ro/expozitiile-bienalei-de-grafica-din-tinutul-secuiesc-vor-putea-fi-vizionate-la-miercurea-ciuc-si-la-sfantu-gheorghe-tema-anului-este-distorsiunea.html</link>
+        <title>Varujan Pambuccian, reprezentantul minorităților din Parlament: L-am rugat pe preşedinte să amâne propunerea de premier</title>
+        <link>https://www.g4media.ro/varujan-pambuccian-reprezentantul-minoritatilor-din-parlament-l-am-rugat-pe-presedinte-sa-amane-propunerea-de-premier.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/expozitiile-bienalei-de-grafica-din-tinutul-secuiesc-vor-putea-fi-vizionate-la-miercurea-ciuc-si-la-sfantu-gheorghe-tema-anului-este-distorsiunea.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/varujan-pambuccian-reprezentantul-minoritatilor-din-parlament-l-am-rugat-pe-presedinte-sa-amane-propunerea-de-premier.html</guid>
     </item>
     <item>
-        <title>Fostul șef al armatei ucrainene avertizează: armele noi nu pot câștiga un război cu strategii vechi</title>
-        <link>https://adevarul.ro/stiri-externe/europa/fostul-sef-al-armatei-ucrainene-avertizeaza-2557993.html</link>
+        <title>Reacția Ambasadei Ucrainei în cazul clasei românești desființate la Orlivka: „Sunt alimentate emoții negative în jurul acestei situații”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/reactia-ambasadei-ucrainei-in-cazul-clasei-2558146.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/fostul-sef-al-armatei-ucrainene-avertizeaza-2557993.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/reactia-ambasadei-ucrainei-in-cazul-clasei-2558146.html</guid>
     </item>
     <item>
-        <title>4 ani de la descoperirea gropilor comune din Izium, Ucraina. Anchetatorii au identificat 15 suspecți: „Crimele nu au fost uitate”</title>
-        <link>https://www.digi24.ro/stiri/externe/4-ani-de-la-descoperirea-gropilor-comune-din-izium-ucraina-anchetatorii-au-identificat-15-suspecti-crimele-nu-au-fost-uitate-3950383</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/4-ani-de-la-descoperirea-gropilor-comune-din-izium-ucraina-anchetatorii-au-identificat-15-suspecti-crimele-nu-au-fost-uitate-3950383</guid>
-    </item>
-    <item>
-        <title>Guvernul Republicii Moldova a aprobat construcția podului peste râul Prut și a primului sector de autostradă carese unește cu România</title>
-        <link>https://www.g4media.ro/guvernul-republicii-moldova-a-aprobat-constructia-podului-peste-raul-prut-si-a-primului-sector-de-autostrada-carese-uneste-cu-romania.html</link>
+        <title>Viitorul muncii hibride: Cum răspunde ecosistemul Lenovo Think nevoii de soluții integrate la birou</title>
+        <link>https://economedia.ro/viitorul-muncii-hibride-cum-raspunde-ecosistemul-lenovo-think-nevoii-de-solutii-integrate-la-birou.html#new_tab</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/guvernul-republicii-moldova-a-aprobat-constructia-podului-peste-raul-prut-si-a-primului-sector-de-autostrada-carese-uneste-cu-romania.html</guid>
+        <guid isPermaLink="true">https://economedia.ro/viitorul-muncii-hibride-cum-raspunde-ecosistemul-lenovo-think-nevoii-de-solutii-integrate-la-birou.html#new_tab</guid>
     </item>
     <item>
-        <title>O familie din SUA a cumpărat un vagon de tren construit în 1934 și l-a transformat într-o casă, în care locuiește împreună cu copilul lor</title>
-        <link>https://www.mediafax.ro/life-inedit/o-familie-din-sua-a-cumparat-un-vagon-de-tren-construit-in-1934-si-l-a-transformat-intr-o-casa-in-care-locuieste-impreuna-cu-copilul-lor-23808657</link>
+        <title>Kelemen Hunor vrea un premier care să facă balet: „Va merge pe o linie foarte, foarte subțire”. Cravata aleasă de liderul UDMR</title>
+        <link>https://adevarul.ro/politica/liderul-udmr-kelemen-hunor-vrea-un-premier-care-sa-2558138.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/liderul-udmr-kelemen-hunor-vrea-un-premier-care-sa-2558138.html</guid>
+    </item>
+    <item>
+        <title>Ponta se oferă pentru funcția de premier: „Dacă voi fi desemnat, voi discuta cu toate grupurile, mai puțin cu USR”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ponta-se-ofera-pentru-functia-de-premier-are-pe-cine-sa-puna-domnul-presedinte-nicusor-dan-3951943</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ponta-se-ofera-pentru-functia-de-premier-are-pe-cine-sa-puna-domnul-presedinte-nicusor-dan-3951943</guid>
+    </item>
+    <item>
+        <title>O dronă rusească a lovit o navă în Marea Neagră, acuză Kievul. Căpitanul a murit, alte trei persoane au fost rănite</title>
+        <link>https://www.digi24.ro/stiri/externe/o-drona-ruseasca-a-lovit-o-nava-in-marea-neagra-acuza-kievul-capitanul-a-murit-alte-trei-persoane-au-fost-ranite-3952051</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/o-drona-ruseasca-a-lovit-o-nava-in-marea-neagra-acuza-kievul-capitanul-a-murit-alte-trei-persoane-au-fost-ranite-3952051</guid>
+    </item>
+    <item>
+        <title>Trei seri cu concerte live în Piaţeta Cazino din Mamaia încheie sezonul estival / ”Încheiem un sezon intens, cu multe evenimente, cu o staţiune vie şi</title>
+        <link>https://www.g4media.ro/trei-seri-cu-concerte-live-in-piateta-cazino-din-mamaia-incheie-sezonul-estival-incheiem-un-sezon-intens-cu-multe-evenimente-cu-o-statiune-vie-si-cu-foarte-multi-turisti.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/trei-seri-cu-concerte-live-in-piateta-cazino-din-mamaia-incheie-sezonul-estival-incheiem-un-sezon-intens-cu-multe-evenimente-cu-o-statiune-vie-si-cu-foarte-multi-turisti.html</guid>
+    </item>
+    <item>
+        <title>SUA ar fi comis crime de război în Iran, în urma  a două lovituri militare asupra unei şcoli şi a unei baze sportive, susține o misiune de anchetă a O</title>
+        <link>https://www.g4media.ro/sua-ar-fi-comis-crime-de-razboi-in-iran-in-urma-a-doua-lovituri-militare-asupra-unei-scoli-si-a-unei-baze-sportive-sustine-o-misiune-de-ancheta-a-onu.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/sua-ar-fi-comis-crime-de-razboi-in-iran-in-urma-a-doua-lovituri-militare-asupra-unei-scoli-si-a-unei-baze-sportive-sustine-o-misiune-de-ancheta-a-onu.html</guid>
+    </item>
+    <item>
+        <title>Chelsea, noi schimbări la conducere: Președintele Todd Boehly și-a vândut pachetul de acțiuni către acționarul majoritar Clearlake Capital</title>
+        <link>https://www.g4media.ro/chelsea-noi-schimbari-la-conducere-presedintele-todd-boehly-si-a-vandut-pachetul-de-actiuni-catre-actionarul-majoritar-clearlake-capital.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/chelsea-noi-schimbari-la-conducere-presedintele-todd-boehly-si-a-vandut-pachetul-de-actiuni-catre-actionarul-majoritar-clearlake-capital.html</guid>
+    </item>
+    <item>
+        <title>Copiii sub 13 ani nu vor putea avea conturi pe social media. Ce reguli propune UE</title>
+        <link>https://www.mediafax.ro/externe/copiii-sub-13-ani-nu-vor-putea-avea-conturi-pe-social-media-ce-reguli-propune-ue-23808986</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/o-familie-din-sua-a-cumparat-un-vagon-de-tren-construit-in-1934-si-l-a-transformat-intr-o-casa-in-care-locuieste-impreuna-cu-copilul-lor-23808657</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/copiii-sub-13-ani-nu-vor-putea-avea-conturi-pe-social-media-ce-reguli-propune-ue-23808986</guid>
     </item>
     <item>
-        <title>Hackerii susțin că au compromis noul sistem electoral „imposibil de spart” al Rusiei înaintea alegerilor pentru Duma de Stat</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/hackerii-sustin-ca-au-compromis-noul-sistem-electoral-imposibil-de-spart-al-rusiei-inaintea-alegerilor-pentru-duma-de-stat-3950289</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/hackerii-sustin-ca-au-compromis-noul-sistem-electoral-imposibil-de-spart-al-rusiei-inaintea-alegerilor-pentru-duma-de-stat-3950289</guid>
-    </item>
-    <item>
-        <title>Cel puțin 12 răniți, printre care și copii, la Kiev, în urma unui atac rusesc cu rachete și drone în noaptea de miercuri spre joi</title>
-        <link>https://www.digi24.ro/stiri/externe/cel-putin-12-raniti-printre-care-si-copii-la-kiev-in-urma-unui-atac-rusesc-cu-rachete-si-drone-in-noaptea-de-miercuri-spre-joi-3951249</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/cel-putin-12-raniti-printre-care-si-copii-la-kiev-in-urma-unui-atac-rusesc-cu-rachete-si-drone-in-noaptea-de-miercuri-spre-joi-3951249</guid>
-    </item>
-    <item>
-        <title>Oamenii de știință au descoperit care organ cedează primul</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/oamenii-de-stiinta-au-descoperit-care-organ-cedeaza-primul-23808674</link>
+        <title>Vacanța de vară, tăiată cu două săptămâni. Propunerea care împarte părinții</title>
+        <link>https://www.mediafax.ro/life-inedit/vacanta-de-vara-taiata-cu-doua-saptamani-propunerea-care-imparte-parintii-23809026</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/oamenii-de-stiinta-au-descoperit-care-organ-cedeaza-primul-23808674</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/vacanta-de-vara-taiata-cu-doua-saptamani-propunerea-care-imparte-parintii-23809026</guid>
     </item>
     <item>
-        <title>Pancreasul și splina, primele organe care îmbătrânesc rapid după 50 de ani, arată oamenii de știință</title>
-        <link>https://www.g4media.ro/pancreasul-si-splina-primele-organe-care-imbatranesc-rapid-dupa-50-de-ani-arata-oamenii-de-stiinta.html</link>
+        <title>Dezvăluiri din culisele negocierilor cu Nicușor Dan. Petrișor Peiu: „Nu a mai fost ostil. A fost deschis la a înțelege poziția noastră”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/dezvaluiri-din-culisele-negocierilor-cu-nicusor-dan-petrisor-peiu-nu-a-mai-fost-ostil-a-fost-deschis-la-a-intelege-pozitia-noastra-3951949</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/dezvaluiri-din-culisele-negocierilor-cu-nicusor-dan-petrisor-peiu-nu-a-mai-fost-ostil-a-fost-deschis-la-a-intelege-pozitia-noastra-3951949</guid>
+    </item>
+    <item>
+        <title>Lovitură pentru pasagerii cărora li se pierd bagajele în aeroport și vor să dea în judecată compania. Ce a decis Curtea de Justiţie UE</title>
+        <link>https://www.digi24.ro/stiri/actualitate/lovitura-pentru-pasagerii-carora-li-se-pierd-bagajele-in-aeroport-si-vor-sa-dea-in-judecata-compania-ce-a-decis-curtea-de-justitie-ue-3951867</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/lovitura-pentru-pasagerii-carora-li-se-pierd-bagajele-in-aeroport-si-vor-sa-dea-in-judecata-compania-ce-a-decis-curtea-de-justitie-ue-3951867</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan outlines to Nicușor Dan the direction the new prime minister should take: We will seek a formula to have a government in place</title>
+        <link>https://www.mediafax.ro/english/ilie-bolojan-outlines-to-nicusor-dan-the-direction-the-new-prime-minister-should-take-we-will-seek-a-formula-to-have-a-government-in-place-23809021</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/english/ilie-bolojan-outlines-to-nicusor-dan-the-direction-the-new-prime-minister-should-take-we-will-seek-a-formula-to-have-a-government-in-place-23809021</guid>
+    </item>
+    <item>
+        <title>Consultări la Cotroceni. AUR insistă că își asumă guvernarea. PNL afirmă că va căuta o formulă pentru a avea un guvern instalat | AUDIO</title>
+        <link>https://www.europafm.ro/consultarile-de-la-cotroceni-aur-insista-ca-isi-asuma-guvernarea-pnl-afirma-ca-va-cauta-o-formula-pentru-a-avea-un-guvern-instalat/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/consultarile-de-la-cotroceni-aur-insista-ca-isi-asuma-guvernarea-pnl-afirma-ca-va-cauta-o-formula-pentru-a-avea-un-guvern-instalat/</guid>
+    </item>
+    <item>
+        <title>Canada spune „da” ofertei UE. Carney salută ideea de „membru asociat” și propune o alianță pe apărare, AI și energie</title>
+        <link>https://www.mediafax.ro/stirile-zilei/canada-spune-da-ofertei-ue-carney-saluta-ideea-de-membru-asociat-si-propune-o-alianta-pe-aparare-ai-si-energie-23809028</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/canada-spune-da-ofertei-ue-carney-saluta-ideea-de-membru-asociat-si-propune-o-alianta-pe-aparare-ai-si-energie-23809028</guid>
+    </item>
+    <item>
+        <title>London Fashion Week începe astăzi / Cinci zile, 47 de show-uri și revenirea McQueen pe podiumul londonez</title>
+        <link>https://www.g4media.ro/london-fashion-week-incepe-astazi-cinci-zile-47-de-show-uri-si-revenirea-mcqueen-pe-podiumul-londonez.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pancreasul-si-splina-primele-organe-care-imbatranesc-rapid-dupa-50-de-ani-arata-oamenii-de-stiinta.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/london-fashion-week-incepe-astazi-cinci-zile-47-de-show-uri-si-revenirea-mcqueen-pe-podiumul-londonez.html</guid>
     </item>
     <item>
-        <title>Înalta Curte s-ar putea pronunţa azi în procesul cu Guvernul privind restanţele salariale de un miliard de euro ale magistraţilor</title>
-        <link>https://www.digi24.ro/stiri/actualitate/justitie/inalta-curte-s-ar-putea-pronunta-azi-in-procesul-cu-guvernul-privind-restantele-salariale-de-un-miliard-de-euro-ale-magistratilor-3951255</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/justitie/inalta-curte-s-ar-putea-pronunta-azi-in-procesul-cu-guvernul-privind-restantele-salariale-de-un-miliard-de-euro-ale-magistratilor-3951255</guid>
+        <title>USR, după consultările cu președintele Dan: Menținem propunerea Siegfried Mureșan, împreună cu PNL și UDMR. Suntem deschiși și altei nominalizări a pr</title>
+        <link>https://www.europafm.ro/consultari-cotroceni-desemnare-premier-usr-siegfried-muresan/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/consultari-cotroceni-desemnare-premier-usr-siegfried-muresan/</guid>
     </item>
     <item>
-        <title>Ce sporuri și prime pot crește pensia. Când sunt luate în calcul al 13-lea salariu și orele suplimentare</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/ce-sporuri-si-prime-pot-creste-pensia-cand-sunt-luate-in-calcul-al-13-lea-salariu-si-orele-suplimentare-3949943</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/ce-sporuri-si-prime-pot-creste-pensia-cand-sunt-luate-in-calcul-al-13-lea-salariu-si-orele-suplimentare-3949943</guid>
-    </item>
-    <item>
-        <title>Partidele chemate joi la consultări de președintele Nicușor Dan. Spre seară am putea afla cine este premierul desemnat</title>
-        <link>https://adevarul.ro/politica/partidele-chemate-joi-la-consultari-de-2558079.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/partidele-chemate-joi-la-consultari-de-2558079.html</guid>
-    </item>
-    <item>
-        <title>Dispută între giganții IA pe tema conștiinței artificiale. Microsoft critică abordarea Anthropic: Face dificilă oprirea sau controlarea</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/lumea-digitala/disputa-intre-gigantii-ia-pe-tema-constiintei-artificiale-microsoft-critica-abordarea-anthropic-face-dificila-oprirea-sau-controlarea-3950657</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/lumea-digitala/disputa-intre-gigantii-ia-pe-tema-constiintei-artificiale-microsoft-critica-abordarea-anthropic-face-dificila-oprirea-sau-controlarea-3950657</guid>
-    </item>
-    <item>
-        <title>Canada primește o invitație pe care UE nu o poate onora</title>
-        <link>https://adevarul.ro/blogurile-adevarul/canada-primeste-o-invitatie-pe-care-ue-nu-o-poate-2558084.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/canada-primeste-o-invitatie-pe-care-ue-nu-o-poate-2558084.html</guid>
-    </item>
-    <item>
-        <title>Procesul privind bustul lui Octavian Goga din Iași a rămas fără obiect / Statuia a dispărut din Copou</title>
-        <link>https://www.g4media.ro/procesul-privind-bustul-lui-octavian-goga-din-iasi-a-ramas-fara-obiect-statuia-a-disparut-din-copou.html</link>
+        <title>Vânătoarea navelor lansatoare de rachete „Kalibr”: cum a atras Ucraina fregatele Rusiei din Marea Neagră într-o capcană și le elimină treptat</title>
+        <link>https://www.g4media.ro/vanatoarea-navelor-lansatoare-de-rachete-kalibr-cum-a-atras-ucraina-fregatele-rusiei-din-marea-neagra-intr-o-capcana-si-le-elimina-treptat.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/procesul-privind-bustul-lui-octavian-goga-din-iasi-a-ramas-fara-obiect-statuia-a-disparut-din-copou.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/vanatoarea-navelor-lansatoare-de-rachete-kalibr-cum-a-atras-ucraina-fregatele-rusiei-din-marea-neagra-intr-o-capcana-si-le-elimina-treptat.html</guid>
+    </item>
+    <item>
+        <title>Nicu Ștefănuță cere majorarea bursei sociale pentru studenți la minimum 1.050 de lei. Ce alte măsuri solicită Ministerului Educației</title>
+        <link>https://www.mediafax.ro/stirile-zilei/nicu-stefanuta-cere-majorarea-bursei-sociale-pentru-studenti-la-minimum-1-050-de-lei-ce-alte-masuri-solicita-ministerului-educatiei-23808976</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/nicu-stefanuta-cere-majorarea-bursei-sociale-pentru-studenti-la-minimum-1-050-de-lei-ce-alte-masuri-solicita-ministerului-educatiei-23808976</guid>
+    </item>
+    <item>
+        <title>Ce-și propune legea UE pentru restricționarea accesului copiilor la rețelele sociale. „Copilăria înapoi la copii”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/ce-si-propune-legea-ue-pentru-restrictionarea-accesului-copiilor-la-retelele-sociale-copilaria-inapoi-la-copii-3951851</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ce-si-propune-legea-ue-pentru-restrictionarea-accesului-copiilor-la-retelele-sociale-copilaria-inapoi-la-copii-3951851</guid>
+    </item>
+    <item>
+        <title>Pambuccian, la consultările de la Cotroceni: L-am rugat pe preşedinte să amâne propunerea de premier</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/pambuccian-la-consultarile-de-la-cotroceni-l-am-rugat-pe-presedinte-sa-amane-propunerea-de-premier-3951929</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/pambuccian-la-consultarile-de-la-cotroceni-l-am-rugat-pe-presedinte-sa-amane-propunerea-de-premier-3951929</guid>
+    </item>
+    <item>
+        <title>După Germania, vine valul MAGA și în România? Profesor din SUA: „Populismul nu se învinge prin etichetarea alegătorilor drept ignoranți”</title>
+        <link>https://adevarul.ro/securitate-si-aparare/dupa-germania-vine-valul-maga-si-in-romania-2557157.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/dupa-germania-vine-valul-maga-si-in-romania-2557157.html</guid>
+    </item>
+    <item>
+        <title>Cele două propuneri prezentate de PNL la consultările de la Cotroceni. „Desemnarea unui premier ar trebui să aibă loc astăzi”</title>
+        <link>https://adevarul.ro/politica/cele-doua-propuneri-prezentate-de-pnl-la-2558132.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/cele-doua-propuneri-prezentate-de-pnl-la-2558132.html</guid>
+    </item>
+    <item>
+        <title>Pedeapsa cu moartea și detenţie pe viaţă, primele verdicte pronunţate în procesul masacrelor împotriva comunităţii alawite de pe zona de coastă a Siri</title>
+        <link>https://www.g4media.ro/pedeapsa-cu-moartea-si-detentie-pe-viata-primele-verdicte-pronuntate-in-procesul-masacrelor-impotriva-comunitatii-alawite-de-pe-zona-de-coasta-a-siriei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/pedeapsa-cu-moartea-si-detentie-pe-viata-primele-verdicte-pronuntate-in-procesul-masacrelor-impotriva-comunitatii-alawite-de-pe-zona-de-coasta-a-siriei.html</guid>
+    </item>
+    <item>
+        <title>Avertisment dur al șefului NATO: „Ne confruntăm cu cel mai periculos context de securitate din ultima generație”</title>
+        <link>https://www.digi24.ro/stiri/externe/avertisment-dur-al-sefului-nato-ne-confruntam-cu-cel-mai-periculos-context-de-securitate-din-ultima-generatie-3951869</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/avertisment-dur-al-sefului-nato-ne-confruntam-cu-cel-mai-periculos-context-de-securitate-din-ultima-generatie-3951869</guid>
     </item>
     <item>
         <title>Ghidul de supraviețuire pentru tinerii cu studii și salariul minim: „Seara iei legume la reducere, te îmbraci de la Pepco și nu mergi la doctori”</title>
@@ -206,46 +302,10 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/ghidul-de-supravietuire-pentru-tinerii-cu-studii-2557975.html</guid>
     </item>
     <item>
-        <title>Înalta Curte de Casaţie şi Justiţie ar urma să pronunţe soluţia definitivă în procesul privind restanţele salariale ale magistraţilor. Instanţa suprem</title>
-        <link>https://www.europafm.ro/inalta-curte-de-casatie-si-justitie-ar-urma-sa-pronunte-solutia-definitiva-in-procesul-privind-restantele-salariale-ale-magistratilor/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/inalta-curte-de-casatie-si-justitie-ar-urma-sa-pronunte-solutia-definitiva-in-procesul-privind-restantele-salariale-ale-magistratilor/</guid>
-    </item>
-    <item>
-        <title>Studiu: Scădere generalizată a vaccinării copiilor în UE / România se află la coada clasamentului / Există riscul reapariției unor boli eradicate</title>
-        <link>https://www.g4media.ro/studiu-scadere-generalizata-a-vaccinarii-copiilor-in-ue-romania-se-afla-la-coada-clasamentului-exista-riscul-reaparitiei-unor-boli-eradicate.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/studiu-scadere-generalizata-a-vaccinarii-copiilor-in-ue-romania-se-afla-la-coada-clasamentului-exista-riscul-reaparitiei-unor-boli-eradicate.html</guid>
-    </item>
-    <item>
-        <title>Mediul de afaceri din Ruse și Giurgiu caută investitori comuni</title>
-        <link>https://www.g4media.ro/mediul-de-afaceri-din-ruse-si-giurgiu-cauta-investitori-comuni.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/mediul-de-afaceri-din-ruse-si-giurgiu-cauta-investitori-comuni.html</guid>
-    </item>
-    <item>
-        <title>Încep Zilele Dovleacului Kikinda, din Serbia / în 2025, o treime din vizitatori au fost români / Dragana Mirković și Goca Tržan, în concert la ”Dani L</title>
-        <link>https://www.g4media.ro/incep-zilele-dovleacului-kikinda-din-serbia-in-2025-o-treime-din-vizitatori-au-fost-romani-dragana-mirkovic-si-goca-trzan-in-concert-la-dani-ludaje-frustiuc-banatean-concer.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/incep-zilele-dovleacului-kikinda-din-serbia-in-2025-o-treime-din-vizitatori-au-fost-romani-dragana-mirkovic-si-goca-trzan-in-concert-la-dani-ludaje-frustiuc-banatean-concer.html</guid>
-    </item>
-    <item>
-        <title>Noua axă a liberului schimb: Australia vizează o apropiere istorică de UE, urmând exemplul Canadei / „Împărtășim aceeași viziune”</title>
-        <link>https://www.g4media.ro/noua-axa-a-liberului-schimb-australia-vizeaza-o-apropiere-istorica-de-ue-urmand-exemplul-canadei-impartasim-aceeasi-viziune.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/noua-axa-a-liberului-schimb-australia-vizeaza-o-apropiere-istorica-de-ue-urmand-exemplul-canadei-impartasim-aceeasi-viziune.html</guid>
-    </item>
-    <item>
-        <title>Deciziile privind activele rusești înghețate, declarate ilegale. Sute de hotărâri ale Trezoreriei, fără bază juridică</title>
-        <link>https://www.mediafax.ro/externe/deciziile-privind-activele-rusesti-inghetate-declarate-ilegale-sute-de-hotarari-ale-trezoreriei-fara-baza-juridica-23808673</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/deciziile-privind-activele-rusesti-inghetate-declarate-ilegale-sute-de-hotarari-ale-trezoreriei-fara-baza-juridica-23808673</guid>
-    </item>
-    <item>
-        <title>Houthii ajung la „Poarta Lacrimilor\</title>
-        <link>https://adevarul.ro/stiri-externe/europa/houthii-ajung-la-poarta-lacrimilor-cum-schimba-2557890.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/houthii-ajung-la-poarta-lacrimilor-cum-schimba-2557890.html</guid>
+        <title>Hackerii susțin că au compromis noul sistem electoral „imposibil de spart” al Rusiei înaintea alegerilor pentru Duma de Stat</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/hackerii-sustin-ca-au-compromis-noul-sistem-electoral-imposibil-de-spart-al-rusiei-inaintea-alegerilor-pentru-duma-de-stat-3950289</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/hackerii-sustin-ca-au-compromis-noul-sistem-electoral-imposibil-de-spart-al-rusiei-inaintea-alegerilor-pentru-duma-de-stat-3950289</guid>
     </item>
     <item>
         <title>Psihologii susțin că, dacă mașina ta este mereu murdară și dezordonată, ai aceste 5 trăsături</title>
@@ -254,118 +314,58 @@
         <guid isPermaLink="true">https://www.mediafax.ro/social/psihologii-sustin-ca-daca-masina-ta-este-mereu-murdara-si-dezordonata-ai-aceste-5-trasaturi-23808705</guid>
     </item>
     <item>
-        <title>Sancțiunile americane asupra Rusiei, la un pas de realitate. Proiectul de lege are nevoie de semnătura lui Trump</title>
-        <link>https://www.mediafax.ro/externe/sanctiunile-americane-asupra-rusiei-la-un-pas-de-realitate-proiectul-de-lege-are-nevoie-de-semnatura-lui-trump-23808611</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/sanctiunile-americane-asupra-rusiei-la-un-pas-de-realitate-proiectul-de-lege-are-nevoie-de-semnatura-lui-trump-23808611</guid>
-    </item>
-    <item>
-        <title>Fostă ministră din Franța, dar și actual primar al unui arondisment din Paris, judecată pentru corupție. Și-ar putea pierde funcția</title>
-        <link>https://www.mediafax.ro/externe/fosta-ministra-din-franta-dar-si-actual-primar-al-unui-arondisment-din-paris-judecata-pentru-coruptie-si-ar-putea-pierde-functia-23808605</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/fosta-ministra-din-franta-dar-si-actual-primar-al-unui-arondisment-din-paris-judecata-pentru-coruptie-si-ar-putea-pierde-functia-23808605</guid>
-    </item>
-    <item>
-        <title>Rudele a doi prizonieri politici din China cer eliberarea lor înaintea vizitei lui Xi în SUA</title>
-        <link>https://www.mediafax.ro/externe/rudele-a-doi-prizonieri-politici-din-china-cer-eliberarea-lor-inaintea-vizitei-lui-xi-in-sua-23808608</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/rudele-a-doi-prizonieri-politici-din-china-cer-eliberarea-lor-inaintea-vizitei-lui-xi-in-sua-23808608</guid>
-    </item>
-    <item>
-        <title>La ce vârstă ar trebui să primească un copil primul smartphone</title>
-        <link>https://adevarul.ro/dezvoltare-personala/relatii/la-ce-varsta-ar-trebui-sa-primeasca-un-copil-2557788.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/relatii/la-ce-varsta-ar-trebui-sa-primeasca-un-copil-2557788.html</guid>
-    </item>
-    <item>
-        <title>Pornografia cu minori va fi sancționată penal chiar dacă imaginile/video au fost generate cu AI</title>
-        <link>https://adevarul.ro/adevarul-juridic/pornografia-cu-minori-va-fi-sanctionata-penal-2558060.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/adevarul-juridic/pornografia-cu-minori-va-fi-sanctionata-penal-2558060.html</guid>
-    </item>
-    <item>
-        <title>Ce spune legea despre fondul clasei. Este legal să li se ceară bani parinților în 2026?</title>
-        <link>https://adevarul.ro/stiri-interne/educatie/ce-spune-legea-despre-fondul-clasei-este-legal-sa-2557604.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/ce-spune-legea-despre-fondul-clasei-este-legal-sa-2557604.html</guid>
-    </item>
-    <item>
-        <title>Cum văd copiii de 10 ani viitorul. „Le-am luat capacitatea de a visa din cauza AI”</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/cum-vad-copiii-de-10-ani-viitorul-le-am-luat-2557773.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cum-vad-copiii-de-10-ani-viitorul-le-am-luat-2557773.html</guid>
-    </item>
-    <item>
-        <title>Grecia se împrumută mai ieftin decât Franța, deși are o datorie publică mult mai mare. Cum s-a schimbat percepția investitorilor</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/grecia-se-imprumuta-mai-ieftin-decat-franta-desi-are-o-datorie-publica-mult-mai-mare-cum-s-a-schimbat-perceptia-investitorilor-3951047</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/grecia-se-imprumuta-mai-ieftin-decat-franta-desi-are-o-datorie-publica-mult-mai-mare-cum-s-a-schimbat-perceptia-investitorilor-3951047</guid>
-    </item>
-    <item>
-        <title>Donald Trump: SUA retrage Venezuela de pe lista ţărilor implicate în traficul de droguri. Columbia ar putea urma</title>
-        <link>https://www.digi24.ro/stiri/externe/donald-trump-sua-retrage-venezuela-de-pe-lista-tarilor-implicate-in-traficul-de-droguri-columbia-ar-putea-urma-3951063</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/donald-trump-sua-retrage-venezuela-de-pe-lista-tarilor-implicate-in-traficul-de-droguri-columbia-ar-putea-urma-3951063</guid>
-    </item>
-    <item>
-        <title>SUA retrage Venezuela de pe lista ţărilor implicate în traficul de droguri şi ar putea proceda identic cu Columbia</title>
-        <link>https://www.g4media.ro/sua-retrage-venezuela-de-pe-lista-tarilor-implicate-in-traficul-de-droguri-si-ar-putea-proceda-identic-cu-columbia.html</link>
+        <title>Mediul de afaceri din Ruse și Giurgiu caută investitori comuni</title>
+        <link>https://www.g4media.ro/mediul-de-afaceri-din-ruse-si-giurgiu-cauta-investitori-comuni.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/sua-retrage-venezuela-de-pe-lista-tarilor-implicate-in-traficul-de-droguri-si-ar-putea-proceda-identic-cu-columbia.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/mediul-de-afaceri-din-ruse-si-giurgiu-cauta-investitori-comuni.html</guid>
     </item>
     <item>
-        <title>Acuzați că au furat 12 milioane de dolari din ajutoarele pentru oameni fără adăpost</title>
-        <link>https://www.mediafax.ro/externe/acuzati-ca-au-furat-12-milioane-de-dolari-din-ajutoarele-pentru-oameni-fara-adapost-23808585</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/acuzati-ca-au-furat-12-milioane-de-dolari-din-ajutoarele-pentru-oameni-fara-adapost-23808585</guid>
-    </item>
-    <item>
-        <title>Ministrul israelian al apărării susține că „armata este gata să termine treaba” în Gaza</title>
-        <link>https://www.g4media.ro/ministrul-israelian-al-apararii-sustine-ca-armata-este-gata-sa-termine-treaba-in-gaza.html</link>
+        <title>Robert Kraft, obligat de Ed Sheeran să doneze 2 milioane de dolari după scandalul cu Macklemore, acuzat de discursul urii</title>
+        <link>https://www.g4media.ro/robert-kraft-obligat-de-ed-sheeran-sa-doneze-2-milioane-de-dolari-dupa-scandalul-cu-macklemore-acuzat-de-discursul-urii.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ministrul-israelian-al-apararii-sustine-ca-armata-este-gata-sa-termine-treaba-in-gaza.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/robert-kraft-obligat-de-ed-sheeran-sa-doneze-2-milioane-de-dolari-dupa-scandalul-cu-macklemore-acuzat-de-discursul-urii.html</guid>
     </item>
     <item>
-        <title>Produse de albire a pielii cu mercur. La un deceniu după interzicerea în cosmetice, substanța toxică nu a dispărut de pe piaţa globală</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/produse-de-albire-a-pielii-cu-mercur-la-un-deceniu-dupa-interzicerea-in-cosmetice-substanta-toxica-nu-a-disparut-de-pe-piata-globala-3951121</link>
+        <title>Donald Trump amenință că va întrerupe schimburile comerciale cu UE în cazul unei asocieri cu Canada: „Ar fi un act ostil”</title>
+        <link>https://www.digi24.ro/stiri/externe/donald-trump-ameninta-ca-va-intrerupe-schimburile-comerciale-cu-ue-in-cazul-unei-asocieri-cu-canada-ar-fi-un-act-ostil-3951263</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/produse-de-albire-a-pielii-cu-mercur-la-un-deceniu-dupa-interzicerea-in-cosmetice-substanta-toxica-nu-a-disparut-de-pe-piata-globala-3951121</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/donald-trump-ameninta-ca-va-intrerupe-schimburile-comerciale-cu-ue-in-cazul-unei-asocieri-cu-canada-ar-fi-un-act-ostil-3951263</guid>
     </item>
     <item>
-        <title>Șumudică pune capăt speculațiilor privind FCSB: „Gândul, energia și inima mea sunt aici, la CFR”</title>
-        <link>https://www.mediafax.ro/sport/sumudica-pune-capat-speculatiilor-privind-fcsb-gandul-energia-si-inima-mea-sunt-aici-la-cfr-23808570</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/sumudica-pune-capat-speculatiilor-privind-fcsb-gandul-energia-si-inima-mea-sunt-aici-la-cfr-23808570</guid>
-    </item>
-    <item>
-        <title>Două bombardiere rusești înarmate cu rachete au fost observate și urmărite de două avioane F-35 în largul coastei Norvegieirachete, Norvegia</title>
-        <link>https://www.g4media.ro/doua-bombardiere-rusesti-inarmate-cu-rachete-au-fost-observate-si-urmarite-de-doua-avioane-f-35-in-largul-coastei-norvegieirachete-norvegia.html</link>
+        <title>Pancreasul și splina, primele organe care îmbătrânesc rapid după 50 de ani, arată oamenii de știință</title>
+        <link>https://www.g4media.ro/pancreasul-si-splina-primele-organe-care-imbatranesc-rapid-dupa-50-de-ani-arata-oamenii-de-stiinta.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/doua-bombardiere-rusesti-inarmate-cu-rachete-au-fost-observate-si-urmarite-de-doua-avioane-f-35-in-largul-coastei-norvegieirachete-norvegia.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/pancreasul-si-splina-primele-organe-care-imbatranesc-rapid-dupa-50-de-ani-arata-oamenii-de-stiinta.html</guid>
     </item>
     <item>
-        <title>R. Moldova ar putea primi o foaie de parcurs pentru integrarea în UE. „Este un semnal politic important”</title>
-        <link>https://www.digi24.ro/stiri/externe/r-moldova-ar-putea-primi-o-foaie-de-parcurs-pentru-integrarea-in-ue-este-un-semnal-politic-important-3951103</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/r-moldova-ar-putea-primi-o-foaie-de-parcurs-pentru-integrarea-in-ue-este-un-semnal-politic-important-3951103</guid>
-    </item>
-    <item>
-        <title>Iranul respinge afirmațiile lui Donald Trump privind negocierile de pace: „Vom lupta până la ultima picătură de sânge”</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/iranul-respinge-afirmatiile-lui-donald-trump-privind-negocierile-de-pace-vom-lupta-pana-la-ultima-picatura-de-sange-3951149</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/iranul-respinge-afirmatiile-lui-donald-trump-privind-negocierile-de-pace-vom-lupta-pana-la-ultima-picatura-de-sange-3951149</guid>
-    </item>
-    <item>
-        <title>România comunistă, cuprinsă de „febra OZN-urilor”. Aparițiile misterioase care au alimentat teoriile despre extratereștri</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/romania-comunista-cuprinsa-de-febra-ozn-urilor-2557911.html</link>
+        <title>Partidele chemate joi la consultări de președintele Nicușor Dan. Spre seară am putea afla cine este premierul desemnat</title>
+        <link>https://adevarul.ro/politica/partidele-chemate-joi-la-consultari-de-2558079.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/romania-comunista-cuprinsa-de-febra-ozn-urilor-2557911.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/partidele-chemate-joi-la-consultari-de-2558079.html</guid>
     </item>
     <item>
-        <title>Volei: România a învins Franța, campioana olimpică, după o revenire spectaculoasă de la 0-2</title>
-        <link>https://www.mediafax.ro/sport/volei-romania-a-invins-franta-campioana-olimpica-dupa-o-revenire-spectaculoasa-de-la-0-2-23808580</link>
+        <title>Înalta Curte s-ar putea pronunţa azi în procesul cu Guvernul privind restanţele salariale de un miliard de euro ale magistraţilor</title>
+        <link>https://www.digi24.ro/stiri/actualitate/justitie/inalta-curte-s-ar-putea-pronunta-azi-in-procesul-cu-guvernul-privind-restantele-salariale-de-un-miliard-de-euro-ale-magistratilor-3951255</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/justitie/inalta-curte-s-ar-putea-pronunta-azi-in-procesul-cu-guvernul-privind-restantele-salariale-de-un-miliard-de-euro-ale-magistratilor-3951255</guid>
+    </item>
+    <item>
+        <title>Deciziile privind activele rusești înghețate, declarate ilegale. Sute de hotărâri ale Trezoreriei, fără bază juridică</title>
+        <link>https://www.mediafax.ro/externe/deciziile-privind-activele-rusesti-inghetate-declarate-ilegale-sute-de-hotarari-ale-trezoreriei-fara-baza-juridica-23808673</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/volei-romania-a-invins-franta-campioana-olimpica-dupa-o-revenire-spectaculoasa-de-la-0-2-23808580</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/deciziile-privind-activele-rusesti-inghetate-declarate-ilegale-sute-de-hotarari-ale-trezoreriei-fara-baza-juridica-23808673</guid>
+    </item>
+    <item>
+        <title>Rata de vaccinare a copiilor a scăzut în mai multe ţări UE. România este pe listă (studiu)</title>
+        <link>https://www.digi24.ro/stiri/actualitate/sanatate/rata-de-vaccinare-a-copiilor-a-scazut-in-mai-multe-tari-ue-romania-este-pe-lista-studiu-3951267</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/rata-de-vaccinare-a-copiilor-a-scazut-in-mai-multe-tari-ue-romania-este-pe-lista-studiu-3951267</guid>
+    </item>
+    <item>
+        <title>Primării înrolate degeaba pe ghișeul.ro. Datele cetățenilor există doar pe hârtie și trebuie să vină personal pentru a plăti taxele</title>
+        <link>https://www.digi24.ro/special/statul-la-stat/primarii-inrolate-degeaba-pe-ghiseul-ro-datele-cetatenilor-exista-doar-pe-hartie-si-trebuie-sa-vina-personal-pentru-a-plati-taxele-3950527</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/special/statul-la-stat/primarii-inrolate-degeaba-pe-ghiseul-ro-datele-cetatenilor-exista-doar-pe-hartie-si-trebuie-sa-vina-personal-pentru-a-plati-taxele-3950527</guid>
     </item>
 </channel>
 </rss>
