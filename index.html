@@ -766,18 +766,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Rac", msg: "Sentimente reciproce" },
-            { sign: "Pești", msg: "Creativitate artistică" },
-            { sign: "Berbec", msg: "Energie maximă, profită de ea" },
-            { sign: "Scorpion", msg: "Mister și charisma" },
-            { sign: "Capricorn", msg: "Disciplină de fier" },
-            { sign: "Taur", msg: "Harmonie în familie" },
-            { sign: "Vărsător", msg: "Inovație și originalitate" },
-            { sign: "Gemeni", msg: "Comunicare excelentă" },
-            { sign: "Săgetător", msg: "Călătorii benefice" },
-            { sign: "Balanță", msg: "Frumusețe și artă" },
-            { sign: "Fecioară", msg: "Perfecțiune în lucruri" },
-            { sign: "Leu", msg: "Strălucești în orice situație" },
+            { sign: "Fecioară", msg: "Sănătate și bunăstare" },
+            { sign: "Taur", msg: "Zi de relaxare și reflecție" },
+            { sign: "Vărsător", msg: "Schimbări benefice" },
+            { sign: "Berbec", msg: "Success în proiectele personale" },
+            { sign: "Săgetător", msg: "Libertate personală" },
+            { sign: "Rac", msg: "Timp prețios cu familia" },
+            { sign: "Capricorn", msg: "Obiective clare" },
+            { sign: "Gemeni", msg: "Inspirație creativă" },
+            { sign: "Leu", msg: "Leadership natural" },
+            { sign: "Pești", msg: "Lume interioară bogată" },
+            { sign: "Scorpion", msg: "Putere și determinare" },
+            { sign: "Balanță", msg: "Relații armonioase" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
