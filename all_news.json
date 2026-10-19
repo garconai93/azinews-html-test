@@ -1,5 +1,505 @@
 [
   {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/un-sofer-de-76-de-ani-a-mers-pe-contrasens-pe-strazile-din-vaslui-a-ramas-fara-permis-si-a-primit-o-amenda-de-aproape-2-600-de-lei-23828372",
+    "title": "Un șofer de 76 de ani a mers pe contrasens pe străzile din Vaslui. A rămas fără permis și a primit o amendă de aproape 2.600 de lei",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/11/7762925-mediafax_foto-emanuel_titus_iliesi-1024x683.jpg",
+    "time": "18:51",
+    "date": "19 Oct",
+    "content": "Un bărbat în vârstă de 76 de ani a fost amendat cu 2.595 de lei și a rămas fără permis pentru 120 de zile, după ce a circulat pe contrasens pe străzile din municipiul Vaslui.",
+    "fetched_at": "2026-10-19T22:37:24.936906"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sport/cristiano-ronaldo-amendat-cu-255-de-euro-si-suspendat-30-de-zile-dupa-ce-a-parasit-nationala-portugaliei-23828381",
+    "title": "Cristiano Ronaldo, amendat cu 255 de euro și suspendat 30 de zile după ce a părăsit naționala Portugaliei",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/01/cristiano-ronaldo-juventus-1024x683.jpg",
+    "time": "19:18",
+    "date": "19 Oct",
+    "content": "Cristiano Ronaldo a fost amendat cu 255 de euro și suspendat pentru 30 de zile de Consiliul de Disciplină al Federației Portugheze de Fotbal, după ce a părăsit prematur cantonamentul echipei naționale, la finalul lunii septembrie.",
+    "fetched_at": "2026-10-19T22:37:24.936884"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stil-de-viata/horoscop/horoscop-marti-20-octombrie-zodia-care-primeste-2565099.html",
+    "title": "Horoscop marți, 20 octombrie. Zodia care primește undă verde pentru proiecte noi. Cine riscă să piardă bani",
+    "image": "https://cdn.adh.reperio.news/image-c/c8f5bc47-28a0-441f-a6f1-27f25da47a2f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "19:58",
+    "date": "19 Oct",
+    "content": "Lorina, astrologul Click!, prezintă horoscopul zilei pentru toate zodiile și dezvăluie ce îi așteaptă pe nativi în dragoste, sănătate și bani. Unii vor primi vești bune și vor avea undă verde pentru proiecte noi, în timp ce alții trebuie să fie atenți la cheltuieli.",
+    "fetched_at": "2026-10-19T22:37:33.172648"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/in-lume/autostrada-in-carouri-rosii-solutia-neobisnuita-2565095.html",
+    "title": "Autostrada în carouri roșii, soluția neobișnuită găsită de inginerii unei țări. Șoferii sunt avertizați că intră într-un sector în care trebuie să red",
+    "image": "https://cdn.adh.reperio.news/image-c/cd31afd5-c65b-4c73-af4f-c20c880cbe26/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "19:59",
+    "date": "19 Oct",
+    "content": "O autostradă a fost amenajată cu marcaje roșii în carouri, pentru a reduce accidentele în care sunt implicate animalele sălbatice, din India. Tronsonul are o lungime de 11,96 kilometri și include 25 de pasaje subterane prin care animalele pot traversa în siguranță pe sub șosea.",
+    "fetched_at": "2026-10-19T22:37:33.172642"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/bogdan-ivan-propune-acces-interzis-retele-sociale-facebook-tiktok-instagram-copiii-sub-14-ani-atac-scoala-bistrita-nqj65ch",
+    "title": "Acces interzis pe Facebook, Instagram și TikTok în România pentru copiii sub 14 ani, proiect de lege după atacul de la școala din Bistrița",
+    "image": "https://ocdn.eu/pulscms-transforms/1/aqHktkpTURBXy84NGVlNDFlYzI2ODM1YmIxMWRiZWIyZjFiZmI4MjlhOS5qcGeRlQMAzIXNBLDNAqM",
+    "time": "20:47",
+    "date": "19 Oct",
+    "content": "Prim-vicepreședintele PSD, Bogdan Ivan, a anunțat luni, 19 octombrie, că „ceea ce s-a întâmplat la Bistrița, unde o profesoară și un elev au fost înjunghiați de un minor, trebuie să fie un semnal de alarmă” și a anunțat un proiect de lege prin care accesul la rețelele sociale să fie blocat pentru copiii sub 14 ani, iar crearea de conturi „doar cu buletinul pentru dovada vârstei”.",
+    "fetched_at": "2026-10-19T22:37:32.788904"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/cunoscut-youtuber-roman-a-fost-controlat-timp-de-noua-luni-de-anaf-si-lauda-inspectorii-w1yn5by",
+    "title": "Un cunoscut YouTuber român a fost controlat timp de nouă luni de ANAF și îi laudă pe inspectori: „Au fost de nota 10”",
+    "image": "https://ocdn.eu/pulscms-transforms/1/fRYktkpTURBXy9kMjVlY2M2MDAxYWJlZGEyZmVlZDgwMjlhZDFhNWJkMC5qcGeRlQMAB80EsM0Cow",
+    "time": "20:19",
+    "date": "19 Oct",
+    "content": "Cătălin Stănciulescu, cunoscut pe YouTube ca BackPackYourLife, a dezvăluit recent experiența sa cu un control ANAF care a durat aproape nouă luni. Într-un videoclip publicat pe canalul său, el a detaliat cum a decurs această investigație fiscală și cum s-a pregătit pentru controlul inspectorilor. Clipul a atras rapid atenția, acumulând peste 69.000 de vizualizări în primele 22 de ore de la publicare. Bărbatul i-a lăudat pe inspectorii Antifraudă, despre care spune că „au fost de nota 10”.",
+    "fetched_at": "2026-10-19T22:37:32.788941"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stil-de-viata/magazin/cadoul-neobisnuit-primit-de-regele-mihai-la-23-de-2565044.html",
+    "title": "Cadoul neobișnuit primit de Regele Mihai la 23 de ani. Cum a devenit gestul generalului Avramescu simbolul Zilei Armatei Române",
+    "image": "https://cdn.adh.reperio.news/image-5/5daafb42-47a1-4f6c-b897-d1d9c9c69728/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "21:37",
+    "date": "19 Oct",
+    "content": "Gheorghe Avramescu, unul dintre cei mai galonați generali din istoria României, i-a făcut pe 25 octombrie 1944, un cadou inedit regelui Mihai I al României. Darul generalului Avramescu a devenit simbol național și este sărbătorit și astăzi.",
+    "fetched_at": "2026-10-19T22:37:33.172611"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/kelemen-hunor-aur-ar-obtine-40percent-din-voturi-daca-2565096.html",
+    "title": "Kelemen Hunor: AUR ar obține 40% din voturi dacă românii ar vota azi. Ce spune despre anularea alegerilor din 2024",
+    "image": "https://cdn.adh.reperio.news/image-a/ad15f9ab-47a2-4e7f-92af-a48ca8f97829/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "19:55",
+    "date": "19 Oct",
+    "content": "Liderul UDMR, Kelemen Hunor, a declarat luni,19 noiembrie, că, dacă am fi avut azi alegeri, AUR ar fi ieșit pe primul loc, însă, până în 2028, vor apărea alte două partide care au posibilitatea de creștere în opoziție.",
+    "fetched_at": "2026-10-19T22:37:33.172654"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cj-iasi-pierde-doi-consilieri-din-cauza-noilor-conditii-de-integritate-locul-lor-ar-putea-fi-luat-de-finul-presedintelui-costel-alexe-si-ginerele-unui-lider-pnl.html",
+    "title": "CJ Iași pierde doi consilieri din cauza noilor condiții de integritate / Locul lor ar putea fi luat de finul președintelui Costel Alexe și ginerele un",
+    "image": "https://www.g4media.ro//wp-content/uploads/2021/01/costel-Alexe-INQUAM-PHOTOS-OCTAV-GANEA_e-e1609773467151-1024x632.jpg",
+    "time": "19:51",
+    "date": "19 Oct",
+    "content": "Întrunit în ședință extraordinară convocată de îndată, Consiliul Județean a constatat vacantarea mandatelor a doi consilieri liberali: Ioana Dănilă și Alexandru Calance, relatează Ziarul de Iași. Demisiile celor doi consilieri au venit după ultimele modificări aduse Codului administrativ, ambii fiind și angajați la cabinetul șefului CJ. Ei au optat pentru jobul mai bine plătit, cel [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842864"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/tehnologie/japonia-a-lansat-o-sonda-spatiala-catre-satelitii-lui-marte-intr-o-misiune-indrazneata-de-a-aduce-mostre-de-sol-23828385",
+    "title": "Japonia a lansat o sondă spațială către sateliții lui Marte, într-o misiune îndrăzneață de a aduce mostre de sol",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/05/marte-1024x576.jpg",
+    "time": "20:50",
+    "date": "19 Oct",
+    "content": "O sondă spațială japoneză a fost lansată spre Marte, într-o misiune fără precedent de a explora sateliții săi misterioși și de a aduce mostre.",
+    "fetched_at": "2026-10-19T22:37:24.936845"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/istoria-zilei/20-octombrie-ziua-in-care-400000-de-romani-si-au-2564126.html",
+    "title": "20 octombrie: Ziua în care 400.000 de români și-au cerut drepturile. Prima mare grevă din România",
+    "image": "https://cdn.adh.reperio.news/image-0/03d68170-3e97-41fe-951a-d279819b0272/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0%252C0.847%252C1%26f%3Djpeg&file=image.jpeg",
+    "time": "21:01",
+    "date": "19 Oct",
+    "content": "Greva generală din octombrie 1920 a fost prima grevă generală politică a proletariatului din România, desfășurată între 20 și 28 octombrie 1920 în Regatul României. Tot pe 20 octombrie s-au născut actorul Ion Dichiseanu și vicepreședinta SUA Kamala Haris.",
+    "fetched_at": "2026-10-19T22:37:33.172630"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cuplul-de-miliardari-din-greenwich-care-investeste-sume-uriase-pentru-a-reinventa-partidul-democrat-din-sua.html",
+    "title": "Cuplul de miliardari din Greenwich care investește sume uriașe pentru a reinventa Partidul Democrat din SUA",
+    "image": "https://www.g4media.ro//wp-content/uploads/2020/09/elephant-2798628_1280-1024x576.jpg",
+    "time": "18:42",
+    "date": "19 Oct",
+    "content": "La zece zile după alegerile parțiale din 3 noiembrie 2026, aproximativ 2.000 de democrați se vor aduna în Denver pentru o conferință intitulată „What’s Next?”. Printre personalitățile din prim-plan se vor număra șase potențiali candidați la alegerile prezidențiale din 2028. Însă doi dintre oamenii care controlează evenimentul nici măcar nu figurează pe programul oficial: miliardarii [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842912"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/video-incidente-agresive-in-scoli-cazul-din-bistrita-se-alatura-unor-situatii-similare-din-polonia-si-italia-un-lant-de-magazine-din-polonia-a-retras-de-pe-rafturi-produsele-halloween.html",
+    "title": "VIDEO Incidente agresive în școli / Cazul din Bistrița se alătură unor situații similare din Polonia și Italia / Un lanț de magazine din Polonia a ret",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/wokandapix-student-1647136_1920-1024x731.jpg",
+    "time": "18:21",
+    "date": "19 Oct",
+    "content": "O profesoară de la o școală gimnazială din Bistrița a fost înjunghiată luni de către un elev al școlii. Un alt elev care a intervenit în a-și proteja profesoara, a fost și el rănit. Trei incidente asemănătoare au avut loc și în Polonia în urmă cu câteva săptămâni. &#160; &#160; Vezi această postare pe Instagram [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842937"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/premiera-in-ucraina-un-militar-ranit-a-fost-2565106.html",
+    "title": "Premieră în Ucraina: un militar rănit a fost evacuat de pe front cu ajutorul unei drone",
+    "image": "https://cdn.adh.reperio.news/image-2/287d3838-a3ec-410b-a705-240fa19276b8/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "21:03",
+    "date": "19 Oct",
+    "content": "Un militar rănit în Ucraina a fost evacuat cu ajutorul unei drone aeriene, în premieră, având în vedere că minele antipersonal și dronele rusești au împiedicat folosirea altor metode de evacuare.",
+    "fetched_at": "2026-10-19T22:37:33.172623"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/un-egiptean-stabilit-in-italia-repara-gratuit-o-scoala-devastata-de-langa-milano-e-povestea-unuia-dintre-tinerii-minori-care-ajung-la-noi-fara-nimeni-cu-viata-inainte-si-nimic-altceva.html",
+    "title": "Un egiptean stabilit în Italia repară gratuit o școala devastată de lângă Milano / ”E povestea unuia dintre tinerii minori care ajung la noi fără nime",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/egiptean-italia.jpeg",
+    "time": "19:09",
+    "date": "19 Oct",
+    "content": "Magdy Shalaby a venit în Italia la vârsta de 16 ani, din Egipt, fără să aibă pe nimeni alături. Crescut în comunitatea de aici, astăzi este căsătorit, are patru copii și o mică firmă de renovări. Când institutul „Calvino” din Rozzano a fost devastat, s-a apucat de treabă fără să ceară bani și, împreună cu [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842895"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/liderul-unei-secte-din-kenya-a-fost-gasit-vinovat-de-191-de-crime-el-le-cerea-parintilor-sa-si-infometeze-copiii-23828400",
+    "title": "Liderul unei secte din Kenya a fost găsit vinovat de 191 de crime. El le cerea părinților să-și înfometeze copiii",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/11/inchisoare-710x1024.jpg",
+    "time": "21:51",
+    "date": "19 Oct",
+    "content": "Liderul unei secte apocaliptice din Kenya, Paul Mackenzie, a fost găsit vinovat de uciderea a 190 de copii și un adult. Sentința finală urmează să fie pronunțată pe 6 noiembrie.",
+    "fetched_at": "2026-10-19T22:37:24.936820"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/lifestyle/horoscop-azi-20-octombrie-2026-5qnb0p9",
+    "title": "Horoscop 20 octombrie 2026. Peștii au de ales între nesiguranță permanentă sau atitudine constructivă, deschisă la nou",
+    "image": "https://ocdn.eu/pulscms-transforms/1/2n5ktkpTURBXy80NDAyYzk5ZTEwMGZhYTgxYTY2NjNiODY1ZTA1ZjJkZi5qcGeRlQMAB80EsM0Cow",
+    "time": "18:50",
+    "date": "19 Oct",
+    "content": "Horoscop 20 octombrie 2026. Citește horoscopul de azi pentru zodia ta. Pe Libertatea găsești Horoscop zilnic cu previziuni în dragoste, bani sau sănătate. Află ce îți rezervă astrele pentru ziua de azi.",
+    "fetched_at": "2026-10-19T22:37:32.788978"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/sibiu/in-romania-oamenii-nu-mai-construiesc-astfel-de-2562891.html",
+    "title": "„În România, oamenii nu mai construiesc astfel de case”. Locuința de 73.000 de euro dintr-un sat transilvan i-a uimit pe străini",
+    "image": "https://cdn.adh.reperio.news/image-9/99147f16-e41f-4337-a8c3-1afe03f38f19/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "21:49",
+    "date": "19 Oct",
+    "content": "„În România, oamenii nu mai construiesc astfel de case”, afirmă un cuplu de români care și-a cumpărat o casă veche, renovată, într-un sat din Transilvania. Locuința a costat aproximativ 73.000 de euro și i-a impresionat pe străini prin farmecul rustic și autenticitatea ei.",
+    "fetched_at": "2026-10-19T22:37:33.172603"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/social/o-femeie-de-43-de-ani-a-murit-dupa-ce-a-fost-lovita-de-un-autocar-pe-soseaua-colentina-din-capitala-3999657",
+    "title": "O femeie de 43 de ani a murit după ce a fost lovită de un autocar pe Șoseaua Colentina din Capitală",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjEzJTJGMjY4MTcwMV8yNjgx/NzAxX0dldHR5SW1hZ2VzLTE0NjcxODc5/OTEuanBnJmhhc2g9YTA2OTc5MmIyZTFhODMxYzNhYjYzNDg4M2M5NzYzMTA=.jpg",
+    "time": "21:24",
+    "date": "19 Oct",
+    "content": "O femeie în vârstă de 43 de ani a murit, după ce a fost lovită de un autocar pe Șoseaua Colentina din București. Accidentul s-a produs în jurul orei 19:45, la intersecția cu Șoseaua Ștefan cel Mare. La volanul autocarului se afla un bărbat de 50 de ani, cetățean străin.",
+    "fetched_at": "2026-10-19T22:37:23.843418"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/papa-leon-ii-cere-lui-zelenski-sa-coopereze-cu-rusia-pentru-a-permite-accesul-ajutoarelor-in-orasul-blocat-oleski-23828373",
+    "title": "Papa Leon îi cere lui Zelenski să coopereze cu Rusia pentru a permite accesul ajutoarelor în orașul blocat Oleșki",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8160883-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "time": "18:56",
+    "date": "19 Oct",
+    "content": "Papa Leon le cere Ucrainei și Rusiei să coopereze pentru livrarea alimentelor și a ajutoarelor medicale în orașul ocupat Oleșki, unde criza umanitară se extinde tot mai mult.",
+    "fetched_at": "2026-10-19T22:37:24.936897"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/justitie/sefa-ccr-discutii-cu-delegatia-comisiei-de-la-venetia-despre-criteriile-statului-de-drept-si-controlul-de-constitutionalitate-3999669",
+    "title": "Șefa CCR, discuții cu delegația Comisiei de la Veneția despre criteriile statului de drept și controlul de constituționalitate",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE5JTJGMzAyMTI5MV8zMDIx/MjkxX3NpbWluYS1jb21pc2lhLXZlbmV0/aWEuanBlZyZoYXNoPWUyOWNhZGQyZDcwMGIxOWJhM2FiOGEwYTlmNTlmYTY1.jpeg",
+    "time": "21:41",
+    "date": "19 Oct",
+    "content": "Președinta CCR Simina Tănăsescu s-a întâlnit luni cu o delegație a Comisiei de la Veneția, condusă de Marta Cartabia, pentru a discuta despre includerea controlului de constituționalitate în lista criteriilor privind statul de drept (Rule of Law Checklist) și despre adaptarea acestui instrument la noile provocări, inclusiv cele generate de tehnologie.",
+    "fetched_at": "2026-10-19T22:37:23.843400"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/horoscop/horoscop-20-octombrie-2026-zodiile-care-pot-avea-parte-de-castiguri-financiare-si-oportunitati-profesionale-cine-trebuie-sa-fie-atent-la-bani-23828376",
+    "title": "Horoscop 20 octombrie 2026. Zodiile care pot avea parte de câștiguri financiare și oportunități profesionale. Cine trebuie să fie atent la bani",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/08/screenshot-2025-05-31-005130-1024x575.png",
+    "time": "19:30",
+    "date": "19 Oct",
+    "content": "Ziua de 20 octombrie 2026 vine cu perspective favorabile pentru unele zodii, atât în plan financiar, cât și profesional. Racii își pot organiza mai bine bugetul și pot face progrese în proiectele importante, în timp ce Fecioarele ar putea rezolva probleme financiare și ar putea obține câștiguri. Scorpionii au șansa de a-și pune în valoare aptitudinile la locul de muncă, inclusiv în activitățile care presupun colaborări cu parteneri din străinătate. Alte zodii sunt sfătuite să economisească, să...",
+    "fetched_at": "2026-10-19T22:37:24.936875"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-explica-de-ce-udmr-nu-a-intrat-la-guvernare-era-aproape-imposibil-sa-sari-dintr-un-tren-in-celalalt-3999665",
+    "title": "Kelemen Hunor explică de ce UDMR nu a intrat la guvernare: Era aproape imposibil să sari dintr-un tren în celălalt",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjA0JTJGMjU3ODkzOF8yNTc4/OTM4X0tlbGVtZW4uanBnJmhhc2g9Yjc5/YWNiMzNlYzYwMjQwNjNhYTkzNGQ4Mjc0NjE3ZDQ=.jpg",
+    "time": "21:33",
+    "date": "19 Oct",
+    "content": "Preşedintele UDMR, Kelemen Hunor, explică de ce formaţiunea nu a intrat la guvernare alături de PSD şi de cei câţiva miniştri independenţi. „Era aproape imposibil, din punct de vedere moral, să sari dintr-un tren în celălalt în trei săptămâni, când nu s-a schimbat nimic”, spune el.",
+    "fetched_at": "2026-10-19T22:37:23.843409"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/23828384-23828384",
+    "title": "Papa Leon al XIV-lea ar putea călători în America Latină în noiembrie, după operația la plămân. Ce spune chirurgul care l-a operat",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/05/8131392-mediafax_foto-dpa_hepta-1024x683.jpg",
+    "time": "19:58",
+    "date": "19 Oct",
+    "content": "Papa Leon al XIV-lea ar putea efectua călătoria în America Latină, programată în perioada 6-17 noiembrie, după operația la plămân suferită pe 13 octombrie. Profesorul Stefano Margaritora, chirurgul care l-a operat pe Suveranul Pontif la Spitalul Gemelli din Roma, afirmă că, din punct de vedere medical, nu există motive care să împiedice deplasarea.",
+    "fetched_at": "2026-10-19T22:37:24.936858"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/samsarii-de-terenuri-au-inceput-sa-ii-caute-pe-harghitenii-aflati-in-proximitatea-viitoarei-autostrazi-a8-stiu-ca-dupa-finalizarea-acesteia-valoarea-terenurilor-va-creste.html",
+    "title": "Samsarii de terenuri au început să îi caute pe harghitenii aflați în proximitatea viitoarei autostrăzi A8 / ”Știu că după finalizarea acesteia, valoar",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/08/Autostrada-Unirii-A8-Miercurea-Nirajului-Sarateni-Targu-Mures-Ditrau.jpg",
+    "time": "18:36",
+    "date": "19 Oct",
+    "content": "Autoritățile îi îndeamnă pe proprietarii de terenuri din zona Gheorgheni să fie atenți în privinţa ofertelor de cumpărare, anunță Agenția de presă Rador, care citează Radio Târgu Mureș. Problema a fost sesizată la întâlnirea din 14 octombrie de la sediul CJ Harghita, la care au participat reprezentanții CNIR, ai constructorului și ai proiectantului. ,,Am primit [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842920"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/cleric-roman-arestat-in-grecia-in-timp-ce-se-ducea-la-muntele-athos-ce-au-descoperit-politistii-eleni-3999745",
+    "title": "Cleric român arestat în Grecia, în timp ce se ducea la Muntele Athos. Ce au descoperit polițiștii eleni",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMSUyRjExJTJGMjE2NTMxN18yMTY1/MzE3X1ByZW90LVJ1c2lhLVVjcmFpbmEu/anBnJmhhc2g9NTRiNzFkYzRiOTBjNGQzZGM1ZWI2NDlhZGVkYjEyMDM=.jpg",
+    "time": "23:54",
+    "date": "19 Oct",
+    "content": "Un cetăţean român, în vârsta de 44 de ani, îmbrăcat în haine clericale, a fost arestat în oraşul Ouranoupoli din Grecia în baza unui mandat european de arestare emis de România pentru infracţiuni rutiere, transmite luni agenţia elenă de presă ANA.",
+    "fetched_at": "2026-10-19T22:37:23.843331"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/china/recordul-comercial-al-chinei-zguduie-economia-2565038.html",
+    "title": "Recordul comercial al Chinei zguduie economia globală. Ce avertizează experții",
+    "image": "https://cdn.adh.reperio.news/image-c/ca1ec1c6-f574-4484-b5eb-bf11cd3ed0ad/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "22:08",
+    "date": "19 Oct",
+    "content": "Supracapacitatea industrială a Chinei se apropie, potrivit experților, de un punct critic. Depășirea acestui prag ar putea declanșa o criză economică globală, într-un moment în care guvernele sunt deosebit de slab pregătite să îi gestioneze consecințele.",
+    "fetched_at": "2026-10-19T22:37:33.172590"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/functionarii-lui-trump-fug-dintr-o-administratie-sortita-esecului-sustine-trimisul-special-proaspat-demis-paolo-zampolli-3999695",
+    "title": "Funcționarii lui Trump „fug” dintr-o administrație sortită eșecului, susține trimisul special proaspăt demis, Paolo Zampolli",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNjM2MF8zMDE2/MzYwX1Bhb2xvLVphbXBvbGxpXy1Gb3Rv/LVByb2ZpbWVkaWEuanBnJmhhc2g9NDEy/ZDA2NmE4NzllMDAzZmZkMjc4MzlkNDdmNGEyZDA=.jpg",
+    "time": "23:11",
+    "date": "19 Oct",
+    "content": "Paolo Zampolli, vechiul prieten al președintelui american, care, recent, a fost demis de Departamentul de Stat din calitatea sa de trimis special, avertizează în legătură cu un „exod” din Administrație.  Zampolli a afirmat că funcționarii „fug” din administrația SUA înaintea alegerilor de la jumătatea mandatului, scrie The Independent, care citează un interviu acordat de acesta cotidianului italian La Repubblica.",
+    "fetched_at": "2026-10-19T22:37:23.843348"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/sute-de-scoli-din-mai-multe-tari-europene-au-primit-alerte-false-cu-bomba-nu-se-stie-ce-legatura-e-intre-aceste-incidente-3999751",
+    "title": "Sute de școli din mai multe țări europene au primit alerte false cu bombă. Nu se știe ce legătură e între aceste incidente",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjIxJTJGMjg2MTcwOF8yODYx/NzA4X1N0aW11bGVudGUtZmluYW5jaWFy/ZS1wZW50cnUtZWxldmlfLUZvdG8tR2V0/dHktSW1hZ2VzLmpwZyZoYXNoPWE2N2Vh/YWZiNjQ4MWIyMzU0NTljOTY0YzM2NzAxZTll.jpg",
+    "time": "00:05",
+    "date": "20 Oct",
+    "content": "Sute de şcoli din Irlanda de Nord, Scoţia, Ungaria şi Serbia au primit luni mesaje de de alertă cu bombă care au dus la evacuarea unora dintre instituții, au anunţat autorităţile locale.",
+    "fetched_at": "2026-10-19T22:37:23.843285"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-despre-nicusor-dan-nu-poti-sa-l-banuiesti-de-rautate-are-un-anumit-ritm-care-pentru-unii-e-mai-incet-dar-face-fata-3999699",
+    "title": "Kelemen Hunor, despre Nicuşor Dan: „Nu poţi să-l bănuieşti de răutate. Are un anumit ritm, care pentru unii e mai încet. Dar face faţă”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA1JTJGMjk5NzgxNl8yOTk3/ODE2X3h4LmpwZyZoYXNoPWI1ZjFmOWJkOWU1MGY2MTVhNWVhMmU2NmFjOWJlZGM2.jpg",
+    "time": "22:28",
+    "date": "19 Oct",
+    "content": "Liderul UDMR, Kelemen Hunor, spune că nu îl bănuieşte de „răutate” pe preşedintele Nicuşor Dan, adăugând că modul în care acesta a acţionat în contextul crizei politice prelungite ţine de stilul acestuia de a aborda problemele, care nu este la fel de alert cum ar dori alte persoane. „În politică există presiuni de fiecare dată, indiferent cine e preşedinte, dar preşedintele nu trebuie să cedeze la presiuni, el trebuie să ştie care e direcţia, unde vrea să ajungă şi să ţină de acea direcţie”,...",
+    "fetched_at": "2026-10-19T22:37:23.843368"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/autoritatile-din-franta-impun-restrictii-de-circulatie-pe-timp-de-noapte-din-cauza-protestelor-8gc763m",
+    "title": "Restricții de circulație în Franța, după protestele violente din weekend: măsurile sunt valabile în intervalul 20.00 - 06.00",
+    "image": "https://ocdn.eu/pulscms-transforms/1/PeTktkpTURBXy8xMmE4NDhhYzgxNmU5NDJmY2Q3MDk5OTRkN2Q5NmY0NS5qcGeRlQMAB80EsM0Cow",
+    "time": "19:54",
+    "date": "19 Oct",
+    "content": "Premierul Franței, Sébastien Lecornu, a anunțat luni că autoritățile locale au fost îndrumate să introducă restricții parțiale de circulație în cursul serii, ca răspuns la protestele violente care au avut loc în toată țara pe parcursul weekendului, informează Reuters. Autoritățile au impus restricții de circulație pe timpul nopții în anumite regiuni din Franța.",
+    "fetched_at": "2026-10-19T22:37:32.788960"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/37-de-masini-scoase-la-licitatie-de-primaria-arad-preturile-pornesc-de-la-271-de-lei-mercedes-benz-a-class-din-2008-48975-lei.html",
+    "title": "37 de mașini, scoase la licitație de Primăria Arad / Prețurile pornesc de la 271 de lei / Mercedes-Benz A Class, din 2008 – 489,75 lei",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/01/sofer-volan-mercedes-1024x577.jpeg",
+    "time": "20:16",
+    "date": "19 Oct",
+    "content": "Primăria Municipiului Arad organizează o nouă licitație publică pentru vânzarea a 37 de autoturisme abandonate sau fără stăpân, anunță Agenția de presă Rador, care citează Radio Timișoara. Printre vehiculele scoase la vânzare se numără modele BMW, Mercedes-Benz, Audi, Volkswagen, Opel, Ford, Peugeot și Dacia. Prețurile de pornire sunt cuprinse între 271,50 și 598,50 lei, fără [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842846"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/video-apu-a-vorbit-din-nou-in-serialul-the-simpsons-dupa-o-pauza-de-aproape-un-deceniu-a-fost-retras-din-cauza-acuzatiilor-de-stereotipuri-rasiale.html",
+    "title": "VIDEO Apu a „vorbit” din nou în serialul „The Simpsons”, după o pauză de aproape un deceniu / A fost retras din cauza acuzațiilor de stereotipuri rasi",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/apu-familia-simpson-1024x551.jpg",
+    "time": "19:15",
+    "date": "19 Oct",
+    "content": "Personajul Apu a &#8222;vorbit&#8221; din nou în serialul TV animat &#8222;The Simpsons&#8221; (&#8222;Familia Simpson&#8221;), interpretat de un nou actor, după o absenţă de aproape un deceniu, survenită pe fundalul unor acuzaţii de promovare a stereotipurilor rasiale, informează Agerpres, care citează BBC. Apu Nahasapeemapetilon &#8211; acesta fiind numele complet al îndrăgitului personaj animat, care este un [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842886"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/financial-times-scrie-despre-cele-doua-optiuni-europene-pentru-vladimir-putin-inghetarea-liniei-de-front-contra-blocarii-nato-sau-cedarea-donbasului-pentru-aderarea-ucrainei.html",
+    "title": "Financial Times scrie despre cele două opțiuni europene pentru Vladimir Putin: Înghețarea liniei de front contra blocării NATO sau cedarea Donbasului ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/02/Macron-Putin-1024x684.jpg",
+    "time": "18:55",
+    "date": "19 Oct",
+    "content": "Relațiile diplomatice din jurul războiului din Ucraina intră într-o nouă fază critică, marcată de schimbarea de strategie de la Bruxelles și din marile capitale europene. În condițiile în care sprijinul financiar și militar de la Washington s-a diminuat considerabil, iar președintele american Donald Trump dorește să prioritizeze acordurile comerciale cu Moscova, liderii europeni sunt pregătiți [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842904"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/prabusirea-unei-mine-ilegale-de-aur-din-columbia-a-ucis-noua-persoane-23828398",
+    "title": "Prăbușirea unei mine ilegale de aur din Columbia a ucis nouă persoane",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/06/x_4phuzu.jpeg",
+    "time": "21:26",
+    "date": "19 Oct",
+    "content": "O alunecare de teren la o mină ilegală de aur a făcut nouă morți și zeci de persoane sunt dispărute în Columbia, într-o zonă din sud-vestul țării controlată de grupări armate, au anunțat luni autoritățile.",
+    "fetched_at": "2026-10-19T22:37:24.936837"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/prejudicii-peste-22-milioane-lei-centurile-comarnic-mizil-audi-curtea-de-conturi-reactie-consiliul-judetean-prahova-cz8prsd",
+    "title": "Prejudicii de peste 22 milioane de lei la Centurile Comarnic și Mizil, stabilite de un audit al Curții de Conturi: Ce spune CJ Prahova",
+    "image": "https://ocdn.eu/pulscms-transforms/1/xEPktkpTURBXy8yMjIyMzhjYTE0YzNiZGM3ZDBmNmViMTM1ZTJmMWQwOS5qcGeRlQMAB80EsM0Cow",
+    "time": "20:37",
+    "date": "19 Oct",
+    "content": "Peste 22 milioane de lei din bani publici au fost plătiți nejustificat pe șantierul centurilor Comarnic și Mizil, din județul Prahova, arată un raport dezastruos publicat de Curtea de Conturi.",
+    "fetched_at": "2026-10-19T22:37:32.788929"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/norvegia-pregateste-noi-interdictii-pentru-copiii-sub-16-ani-jocurile-online-si-aplicatiile-de-mesagerie-pe-langa-retelele-sociale-3999689",
+    "title": "Norvegia pregătește noi interdicții pentru copiii sub 16 ani: Jocurile online și aplicațiile de mesagerie, pe lângă rețelele sociale",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjA0JTJGMTgxMTA2Ml8xODEx/MDYyX2FwbGljYXRpaS10ZWxlZm9uLXJl/dGVsZS1zb2NpYWxlLXBsYXRmb3JtZS1m/YWNlYm9vay15b3V0dWJlLXR3aXR0ZXIu/anBnJmhhc2g9Y2E0OTBmYTU1MzcxZTFjNzk1MGVkNDJkYmExZDMzZTM=.jpg",
+    "time": "22:23",
+    "date": "19 Oct",
+    "content": "Norvegia pregătește extinderea interdicției privind accesul copiilor sub 16 ani la rețelele sociale, astfel încât restricțiile să vizeze și anumite jocuri online și aplicații de mesagerie. Guvernul a anunțat luni că proiectul de lege este aproape finalizat și urmează să fie transmis Parlamentului până la sfârșitul anului.",
+    "fetched_at": "2026-10-19T22:37:23.843376"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/papa-leon-al-xvi-lea-discutie-cu-zelenski-dupa-convorbirea-cu-putin-apel-pentru-un-armistitiu-umanitar-in-ucraina-3999713",
+    "title": "Papa Leon al XVI-lea, discuție cu Zelenski după convorbirea cu Putin. Apel pentru un armistițiu umanitar în Ucraina",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE5JTJGMzAyMTMyOF8zMDIx/MzI4X3Byb2ZpbWVkaWEtMTAyMDU0Nzky/My5qcGcmaGFzaD00ZjZiMzE1ZDA5OWVlZWE4ZTA3ZTk5YWVjZDM0NThjNQ==.jpg",
+    "time": "22:47",
+    "date": "19 Oct",
+    "content": "Papa Leon al XVI-lea a discutat, luni, la telefon cu președintele ucrainean Volodimir Zelenski, la trei zile după convorbirea cu liderul rus Vladimir Putin. Suveranul Pontif a evocat situația umanitară gravă din orașul Oleşkî, din regiunea Herson, și a cerut un armistițiu care să permită livrarea de alimente și ajutoare medicale, precum și evacuarea civililor.",
+    "fetched_at": "2026-10-19T22:37:23.843358"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/drone-rusesti-au-lovit-un-parc-din-harkov-sase-morti-printre-care-trei-copii.html",
+    "title": "Drone rusești au lovit un parc din Harkov: Șase morți, printre care trei copii",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/09/profimedia-0851775561-1024x684.jpg",
+    "time": "18:34",
+    "date": "19 Oct",
+    "content": "Șase persoane, printre care trei copii, au fost ucise luni într-un atac rusesc cu drone asupra unui parc dintr-un sat din regiunea Harkov, în nord-estul Ucrainei, a anunțat guvernatorul regional Oleh Syniehubov, transmite Mediafax. Alte 15 persoane au fost rănite în atacul produs la sud-vest de orașul Harkov, a precizat anterior oficialul ucrainean într-un mesaj [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842928"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/undercloud-19-aduce-19-spectacole-de-teatru-independent-la-bucuresti-festivalul-se-deschide-pe-2-noiembrie-cu-funny-games-in-regia-lui-botond-nagy-cu-ofelia-popii-in-rolul-princi.html",
+    "title": "UNDERCLOUD 19 aduce 19 spectacole de teatru independent la București / Festivalul se deschide pe 2 noiembrie cu “Funny Games”, în regia lui Botond Nag",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/02/Ofelia-Popii-Sursa-foto-TNB-ro-1024x583.jpg",
+    "time": "19:27",
+    "date": "19 Oct",
+    "content": "Festivalul UNDERCLOUD revine între 2 și 11 noiembrie, cu 19 spectacole care explorează teme precum violența, familia, feminitatea și singurătatea. Ediția din acest an aduce și un nou spațiu de joc: Teatrul Grivița 53, relatează Agenția de presă Rador, care citează Radio București. Ajuns la cea de-a 19-a ediție, Festivalul de Teatru Independent UNDERCLOUD propune [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-19T22:37:33.842875"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/ovidiu-popa-ministru-psd-propus-transporturi-despre-tarom-kp6fr4n",
+    "title": "Ovidiu Popa, ministrul PSD propus la Transporturi: „Nu renunțăm la TAROM”",
+    "image": "https://ocdn.eu/pulscms-transforms/1/ArXktkpTURBXy80N2M0NjM5YmYzY2RkMGU3NjU3ZGZiZjNkMGE3NGQ0NC5qcGeRlQMAB80EsM0Cow",
+    "time": "20:29",
+    "date": "19 Oct",
+    "content": "Deputatul PSD Ștefan Ovidiu Popa, ministrul propus la Transporturi în Guvernul Luca Niculescu, a declarat luni, 19 octombrie, la audierea sa în comisiile parlamentare, că statul român nu va renunța, în mandatul său, la compania TAROM. Acesta a primit avizul favorabil al membrilor comisiilor cu 20 de voturi „pentru”, 8 „împotrivă” și 4 „abțineri”.",
+    "fetched_at": "2026-10-19T22:37:32.788984"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-reprezentantii-udmr-in-structurile-guvernamentale-raman-deocamdata-in-functii-3999691",
+    "title": "Kelemen Hunor: Reprezentanţii UDMR în structurile guvernamentale rămân deocamdată în funcţii",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA4JTJGMjk1MTQ5NF8yOTUx/NDk0X2tlbGVtZW4taHVub3ItaW5xdWFt/LXNlYmFzdGlhbi10YXRhcnUuanBnJmhh/c2g9NDU0OTk1YWU0MjM2ZjMwZjI3ODNlZjFkZTI2ZjAzMGM=.jpg",
+    "time": "22:09",
+    "date": "19 Oct",
+    "content": "Preşedintele UDMR, Kelemen Hunor, a spus că, pentru moment cel puţin, reprezentanţii Uniunii în structurile guvernamentale rămân în funcţii, dar că în viitor ar putea pleca sau ar putea fi schimbaţi. El a adăugat că nu a discutat acest subiect cu premierul desemnat Luca Niculescu.",
+    "fetched_at": "2026-10-19T22:37:23.843387"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/o-femeie-a-murit-in-timp-ce-traversa-strada-in-capitala-un-autocar-a-dat-peste-ea-restrictii-de-trafic-in-sectorul-2-23828368",
+    "title": "O femeie a murit în timp ce traversa strada în Capitală. Un autocar a dat peste ea. Restricții de trafic în Sectorul 2",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/05/7641188-mediafax-foto-eduard-vinatoru-1-1024x682.jpg",
+    "time": "19:06",
+    "date": "19 Oct",
+    "content": "O femeie, în vârstă de 47 de ani, a murit luni seară, după ce a fost călcată de un autocar. Șoferul, de cetățenie străină, circula pe Șoseaua Colentina, din Sectorul 2 al Capitalei.",
+    "fetched_at": "2026-10-19T22:37:24.936890"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/cum-se-modifica-mersul-trenurilor-odata-cu-trecerea-la-ora-de-iarna-2026-anuntul-facut-de-cfr-calatori-zxy5t0b",
+    "title": "Cum se modifică mersul trenurilor odată cu trecerea la ora de iarnă 2026. Anunțul făcut de CFR Călători",
+    "image": "https://ocdn.eu/pulscms-transforms/1/_ZuktkuTURBXy84NDJkMWNiYS04MzNkLTRlMzQtOWFjMi1hZWUzZTU0NWM4NjMuanBlZ5GVAwBDzQSwzQKj",
+    "time": "19:39",
+    "date": "19 Oct",
+    "content": "România trece la ora oficială de iarnă în noaptea de sâmbătă spre duminică, respectiv 25 spre 26 octombrie 2026. În acest interval, ora 04.00 va deveni ora 03.00, făcând ca ultima duminică din lună să fie cea mai lungă zi din an, cu 25 de ore.",
+    "fetched_at": "2026-10-19T22:37:32.788950"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/kelemen-hunor-despre-nicusor-dan-nu-poti-sa-l-2565102.html",
+    "title": "Kelemen Hunor, despre Nicușor Dan: „Nu poți să-l bănuiești de răutate”. „Nu are un ritm așa rapid și așteaptă și gândește mult”",
+    "image": "https://cdn.adh.reperio.news/image-9/9049b0d9-da19-482d-ba6f-5ea13eb71963/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "20:11",
+    "date": "19 Oct",
+    "content": "Liderul UDMR, Kelemen Hunor, a afirmat luni seară, 19 octombrie, că atunci când „nu ești în pielea președintelui, e mai ușor să comentezi”, întrebat despre modul în care Nicușor Dan a gestionat criza politică.",
+    "fetched_at": "2026-10-19T22:37:33.172635"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/restrictii-de-circulatie-in-paris-si-in-mai-multe-orase-din-franta-dupa-protestele-violente-ale-studentilor-23828383",
+    "title": "Restricții de circulație în Paris și în mai multe orașe din Franța, după protestele violente ale studenților",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/7981274-mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "time": "20:11",
+    "date": "19 Oct",
+    "content": "Autoritățile din Franța au impus restricții de circulație în mai multe orașe, în urma protestelor violente din ultimele zile. Inclusiv Parisul este blocat, iar circulația minorilor pe timpul nopții este interzisă în mai multe zone.",
+    "fetched_at": "2026-10-19T22:37:24.936851"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/sport/fcsb-s-a-impus-cu-emotii-la-voluntari-reghe-2565109.html",
+    "title": "FCSB s-a impus cu emoții la Voluntari, „Reghe” spune că echipa trebuie să sufere",
+    "image": "https://cdn.adh.reperio.news/image-a/a938f22b-973f-4b9f-b8d1-4ec6f292bef9/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "21:37",
+    "date": "19 Oct",
+    "content": "În ultimul meci din runda cu numărul 12 a Superligii, FCSB a câștigat cu 2-1 (1-0) pe terenul lui FC Voluntari. După confruntare, Laurențiu Reghencampf, antrenorul grupării roș-albastre, a spus că nu e deranjat de faptul că jucătorii săi obțin victorii la limită.",
+    "fetched_at": "2026-10-19T22:37:33.172617"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/kelemen-hunor-l-a-atentionat-pe-luca-niculescu-are-6-luni-de-zile-fara-motiune-de-cenzura-qqv7we8",
+    "title": "Kelemen Hunor l-a atenționat pe Luca Niculescu înaintea votului din Parlament: „Are 6 luni de zile fără moțiune de cenzură”",
+    "image": "https://ocdn.eu/pulscms-transforms/1/AC7ktkpTURBXy9iNzM4YWY4MGNhZjE2ZThhNGNhOWNjZDZiMjRjZTUwOC5qcGeRlQMADM0EsM0Cow",
+    "time": "19:20",
+    "date": "19 Oct",
+    "content": "Președintele UDMR, Kelemen Hunor, a anunțat luni, 19 octombrie, la TVR, că Guvernul Luca Niculescu va trece la votul din Parlament, dar premierul desemnat „are un acord semnat cu noi și cu PNL pentru 6 luni”, după care este posibilă moțiunea de cenzură.",
+    "fetched_at": "2026-10-19T22:37:32.788966"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/impozitarea-locuintelor-la-valoarea-de-piata-nu-se-aplica-din-2027-ttnfb9g",
+    "title": "Impozitarea locuințelor la valoarea de piață nu se va aplica de la 1 ianuarie 2027 după modificarea jalonului PNRR",
+    "image": "https://ocdn.eu/pulscms-transforms/1/jYJktkpTURBXy9lNGY4M2IxNTRiYmNjZWQ1NjE2MzkzZTVhNTYwZGVlMi5qcGeRlQMAB80EsM0Cow",
+    "time": "19:01",
+    "date": "19 Oct",
+    "content": "Impozitarea proprietăților la valoarea de piață nu va fi aplicată din 2027, a anunțat luni Alexandru Nazare. Ministrul Finanțelor spune că măsurile fiscale vor fi stabilite odată cu bugetul 2027.",
+    "fetched_at": "2026-10-19T22:37:32.788972"
+  },
+  {
+    "source": "Libertatea",
+    "url": "https://www.libertatea.ro/stiri/val-de-violente-in-italia-guvernul-meloni-trimite-500-de-militari-la-milano-pentru-operatiunea-strade-sicure-ldnnd5q",
+    "title": "Val de violențe în Italia: Guvernul  Meloni trimite 500 de militari la Milano pentru operațiunea „Strade Sicure”",
+    "image": "https://ocdn.eu/pulscms-transforms/1/e3SktkpTURBXy9jMzQ3YzFjM2RjYTcyZmQ4YWMyYjY4NWVkNDIwYzc0NC5qcGeRlQMAB80EsM0Cow",
+    "time": "20:37",
+    "date": "19 Oct",
+    "content": "Valul de nemulțumire socială care străbate Italia a atins un punct critic. Din Nord și până în Sud, mii de oameni au ieșit în stradă împotriva scăderii puterii de cumpărare, a salariilor mici și a scumpirii carburanților.",
+    "fetched_at": "2026-10-19T22:37:32.788921"
+  },
+  {
     "source": "Adevarul",
     "url": "https://adevarul.ro/politica/ilie-bolojan-si-a-prezentat-bilantul-mandatului-2565048.html",
     "title": "Ilie Bolojan și-a prezentat bilanțul mandatului: „Nu am ascuns nimic românilor, nu am modificat cifre şi am refuzat să fac promisiuni fără acoperire”",
