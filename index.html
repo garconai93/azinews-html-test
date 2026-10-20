@@ -766,18 +766,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Săgetător", msg: "Libertate personală" },
             { sign: "Balanță", msg: "Echilibru în toate" },
-            { sign: "Gemeni", msg: "Comunicare excelentă" },
-            { sign: "Vărsător", msg: "Schimbări benefice" },
-            { sign: "Fecioară", msg: "Analiză profundă" },
-            { sign: "Leu", msg: "Succes în afaceri" },
-            { sign: "Taur", msg: "Stabilitate financiară" },
-            { sign: "Pești", msg: "Intuiție spirituală" },
+            { sign: "Berbec", msg: "Energie maximă, profită de ea" },
+            { sign: "Fecioară", msg: "Organizare impecabilă" },
+            { sign: "Leu", msg: "Leadership natural" },
+            { sign: "Taur", msg: "Harmonie în familie" },
+            { sign: "Pești", msg: "Creativitate artistică" },
+            { sign: "Săgetător", msg: "Optimism exploziv" },
             { sign: "Capricorn", msg: "Ambitionează sus" },
             { sign: "Rac", msg: "Protecție și siguranță" },
-            { sign: "Scorpion", msg: "Descoperiri importante" },
-            { sign: "Berbec", msg: "Zi perfectă pentru inițiative noi" },
+            { sign: "Vărsător", msg: "Viitor luminos" },
+            { sign: "Scorpion", msg: "Putere și determinare" },
+            { sign: "Gemeni", msg: "Comunicare excelentă" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
