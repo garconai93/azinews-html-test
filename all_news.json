@@ -1,6 +1,506 @@
 [
   {
     "source": "G4Media",
+    "url": "https://www.g4media.ro/avocati-portalul-instantelor-de-judecata-se-incarca-foarte-greu-sau-nu-functioneaza-ministrul-justitiei-radu-marinescu-vom-aloca-toate-resursele-necesare-pentru-ca-aceasta-componenta-de-digitaliza.html",
+    "title": "Avocaţi: Portalul instanţelor de judecată se încarcă foarte greu sau nu funcţionează / Ministrul Justiţiei Radu Marinescu: Vom aloca toate resursele n",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/Portalul-instantelor-1024x724.jpeg",
+    "time": "12:56",
+    "date": "21 Oct",
+    "content": "Mai mulţi avocaţi, grefieri, jurnalişti şi justiţiabili au semnalat faptul că portalul instanţelor de judecată – portal.just-ro – se încarcă foarte greu sa nu funcţionează. „Am constatat că în ultimele 2 săptămâni portalul instanţelor de judecată este greu accesibil, cu timpi de aşteptare mari. De asemenea, am observat că tot timpul personalul auxiliar din instanţele [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360196"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sport/cele-mai-grele-lupte-sunt-cele-pe-care-nimeni-nu-le-vede-cristiano-ronaldo-mesaj-de-sustinere-pentru-kvaratskhelia-dupa-accidentare-23829479",
+    "title": "„Cele mai grele lupte sunt cele pe care nimeni nu le vede”. Cristiano Ronaldo, mesaj de susținere pentru Kvaratskhelia după accidentare",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/kvaratskhelia-1024x683.jpg",
+    "time": "14:38",
+    "date": "21 Oct",
+    "content": "Cristiano Ronaldo i-a transmis un mesaj de încurajare lui Khvicha Kvaratskhelia, după ce atacantul georgian al lui Paris Saint-Germain a suferit o ruptură a ligamentului încrucișat anterior al genunchiului drept și urmează să fie operat.",
+    "fetched_at": "2026-10-21T15:35:29.370886"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/prefectul-capitalei-a-demisionat-dupa-numirea-lui-marian-neacsu-la-interne-o-sfidare-pentru-toti-oamenii-decenti-din-mai-23829483",
+    "title": "Prefectul Capitalei a demisionat după numirea lui Marian Neacșu la Interne: „O sfidare pentru toți oamenii decenți din MAI”",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/8078249-mediafax_foto-alexandra_pandrea_gmn-1024x683.jpg",
+    "time": "14:36",
+    "date": "21 Oct",
+    "content": "Andrei Nistor a demisionat din funcția de prefect al Capitalei, în semn de protest față de numirea lui Marian Neacșu la conducerea Ministerului de Interne.",
+    "fetched_at": "2026-10-21T15:35:29.370899"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/dupa-intalnirea-putin-witkoff-in-rusia-kremlinul-face-un-anunt-privind-negocierile-de-pace-in-ucraina-4002931",
+    "title": "După întâlnirea Putin-Witkoff în Rusia, Kremlinul face un anunț privind negocierile de pace în Ucraina",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTAyNF8zMDI1/MDI0X3Byb2ZpbWVkaWEtMTE0NTM0NDE5/MS5qcGcmaGFzaD02YzM1NjA1MjM2MDJlNTI1MGI4YWExZWFmYjhmY2FhYQ==.jpg",
+    "time": "17:57",
+    "date": "21 Oct",
+    "content": "Preşedintele rus Vladimir Putin i-a spus miercuri trimisului special al SUA, Steve Witkoff, că Moscova este dispusă, în principiu, să reia luna viitoare discuţiile cu Ucraina şi SUA pentru încheierea războiului din Ucraina, a declarat Iuri Uşakov, consilierul liderului de la Kremlin, relatează Reuters.",
+    "fetched_at": "2026-10-21T15:35:28.296763"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/ue-ii-cere-lui-elon-musk-sa-asigure-servicii-starlink-fara-restrictii-pentru-ucraina-4002901",
+    "title": "UE îi cere lui Elon Musk să asigure servicii Starlink fără restricţii pentru Ucraina",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNDk5OV8zMDI0/OTk5X21pbGl0YXItdWNyYWluZWFuLXN0/YXJsaW5rLXByb2ZpbWVkaWEuanBnJmhh/c2g9YjFmNTI1NjMwN2M4YWUwYjQ1MDkwMjQzMDMxY2UyYjA=.jpg",
+    "time": "17:43",
+    "date": "21 Oct",
+    "content": "Uniunea Europeană a descris miercuri informaţiile potrivit cărora Elon Musk, directorul executiv al companiei SpaceX, ar fi dispus restricţionarea serviciului de internet prin satelit Starlink în Ucraina drept „profund îngrijorătoare şi incompatibile cu modul în care compania a oferit acces la aceste servicii anterior”, relatează dpa.",
+    "fetched_at": "2026-10-21T15:35:28.296799"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/grupul-parlamentar-pace-intai-romania-s-a-desfiintat-dupa-demisia-a-doua-senatoare-contre-intre-ninel-peia-si-senatoarea-cosmina-cerva/",
+    "title": "Grupul parlamentar PACE – Întâi România s-a desființat după demisia a două senatoare. Schimb de replici între Ninel Peia și senatoarea Cosmina Cerva |",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/12/ninel-peia-foto-inquam-george-calin-200x200.jpg",
+    "time": "15:03",
+    "date": "21 Oct",
+    "content": "Grupul parlamentar PACE – Întâi România s-a desființat după demisiile senatoarelor Cosmina Cerva și Rodica Cușnir. Ninel Peia a criticat decizia, iar grupul a depus o cerere de reînființare.",
+    "fetched_at": "2026-10-21T15:35:30.311021"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/proteste-grecia-costul-vietii-studenti-chirii-investitii-educatie/",
+    "title": "Proteste și greve în Grecia, din cauza costului vieții. Studenții cer chirii mai mici și investiții în educație | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/proteste-grecia-foto-shutterstock-200x200.jpg",
+    "time": "12:51",
+    "date": "21 Oct",
+    "content": "Studenții, elevii și angajații din sectorul public protestează în Grecia, nemulțumiți de creșterea costului vieții. Ei cer chirii mai mici, subvenții pentru locuințe și investiții în educație.",
+    "fetched_at": "2026-10-21T15:35:30.311101"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/societate/vesti-pentru-pensionarii-militari-indexarea-2565492.html",
+    "title": "Vești pentru pensionarii militari: indexarea ar putea fi mai mare decât la civili. Ce spune ministrul Muncii despre vârsta de pensionare",
+    "image": "https://cdn.adh.reperio.news/image-2/294afdb5-4ee7-47ad-a2db-216f22e9552c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:22",
+    "date": "21 Oct",
+    "content": "Ministrul Muncii, Florin Manole, a declarat că nu va exista un nou proiect de creștere a vârstei de pensionare în sistemul militar. În privința pensiilor militare, acesta a afirmat că procentul de indexare ar putea fi diferit de cel aplicat pensiilor civile, inclusiv mai mare.",
+    "fetched_at": "2026-10-21T15:35:30.829267"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/premierul-luca-niculescu-se-intalneste-joi-cu-ambasadorul-sua-in-romania-este-prima-intalnire-cu-un-ambasador-de-la-preluarea-mandatului-de-premier.html",
+    "title": "Premierul Luca Niculescu se întâlnește, joi, cu ambasadorul SUA în România / Este prima întâlnire cu un ambasador de la preluarea mandatului de premie",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/INSTANT_PARLAMENT_CABINET_NICULESCU_026_INQUAM_Photos_George_Calin-1024x683.jpg",
+    "time": "15:28",
+    "date": "21 Oct",
+    "content": "Premierul Luca Niculescu va avea, joi, o întâlnire cu ambasadorul SUA în România, Darryl Nirenberg. Este prima întâlnire cu un ambasador de la preluarea mandatului de premier. Întrevederea va avea loc joi, de la ora 11.00, potrivit unui anunț al Biroului de presă al Guvernului. Până acum, premierul Luca Niculescu nu are programată vreo întâlnire [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360107"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/iasi-droguri-si-trafic-de-minori-intr-un-centru-familial-din-verseni-mai-multe-fete-ar-fi-fost-exploatate-sexual-de-colege-de-ale-lor-si-de-adulti/",
+    "title": "Iași: Droguri și trafic de minori într-un centru familial din Verșeni. Mai multe fete ar fi fost exploatate sexual de colege de-ale lor și de adulți  ",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/08/masina-politie-foto-inquam-photos-cosmin-enache-200x200.jpg",
+    "time": "13:43",
+    "date": "21 Oct",
+    "content": "Ancheta DIICOT într-un centru familial din Verșeni, județul Iași, vizează suspiciuni de trafic de minori, exploatare sexuală și distribuire de droguri. Patru persoane au fost reținute, iar două minore sunt cercetate sub control judiciar.",
+    "fetched_at": "2026-10-21T15:35:30.311079"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/un-barbat-sustine-ca-a-lasat-capul-de-porc-la-2565560.html",
+    "title": "Un bărbat susține că a lăsat capul de porc la poarta firmei lui Lulea chiar la cererea acestuia. Ce a postat în social media",
+    "image": "https://cdn.adh.reperio.news/image-e/ec5ff892-4563-4791-ae9b-b0dd4f3b342e/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:13",
+    "date": "21 Oct",
+    "content": "Adrian Jucătoru, care se dă drept consilier la Camera Deputaților, a spus miercuri, 21 octombrie, că el a lăsat un cap de porc în fața sediului unei firme din Tunari la care fostul prim-vicepreședinte AUR, Marius Lulea, a fost acționar.",
+    "fetched_at": "2026-10-21T15:35:30.829317"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/ue-ii-cere-lui-elon-musk-sa-restabileasca-starlink-2565558.html",
+    "title": "UE îi cere lui Elon Musk să restabilească Starlink în Ucraina. Situația, considerată „profund îngrijorătoare”",
+    "image": "https://cdn.adh.reperio.news/image-6/603bcefa-697f-40a0-9541-03f4e70ea95e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:52",
+    "date": "21 Oct",
+    "content": "UE i-a cerut miercuri, 21 octombrie, lui Elon Musk, directorul executiv al SpaceX, să restabilească de urgență serviciile complete de comunicații prin satelit în Ucraina, esențiale pentru operarea dronelor folosite în apărarea țării.",
+    "fetched_at": "2026-10-21T15:35:30.829294"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/guvernul-niculescu-analiza-legilor-justitiei-razvan-dinca/",
+    "title": "Guvernul Niculescu ar trebui să înființeze un Comitet de analiză a legilor justiției, consideră decanul Facultății de Drept a UNIBUC: „mecanismele jus",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/07/instante-judecatori-justitie-Shutterstock-200x200.jpg",
+    "time": "12:55",
+    "date": "21 Oct",
+    "content": "Decanul Facultății de Drept a Universității din București, Răzvan Dincă, consideră că Guvernul Niculescu ar trebui să reia analiza legilor justiției, eventual printr-un mecanism diferit. Comitetul înființat de fostul premier Ilie Bolojan după documentarul Recorder „Justiție Capturată” a fost suspendat de Înalta Curte.",
+    "fetched_at": "2026-10-21T15:35:30.311093"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/masina-zburatoare-prezentata-de-musk-a-starnit-un-val-de-ironii-si-a-alimentat-teoria-conspiratiei-23829495",
+    "title": "Mașina zburătoare prezentată de Musk a stârnit un val de ironii și a alimentat teoria conspirației",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hutym17b0aa1bpg-1024x683.jpg",
+    "time": "15:19",
+    "date": "21 Oct",
+    "content": "Mașina zburătoare prezentată de compania Tesla a celebrului Elon Musk a stârnit un val de ironii și a alimentat teoria conspirației. Deși prezentarea sugerează că vehiculele zburătoare vor fi folosite în curând, scepticii cred că prezentarea are rol publicitar și ascunde mai multe lucruri.",
+    "fetched_at": "2026-10-21T15:35:29.370827"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/reuters-ungaria-ia-in-calcul-renuntarea-la-compania-rusa-rosatom-pentru-extinderea-centralei-nucleare-de-la-paks.html",
+    "title": "Reuters: Ungaria ia în calcul renunțarea la compania rusă Rosatom pentru extinderea centralei nucleare de la Paks",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/06/paks-centrala-nucleara.jpg",
+    "time": "12:57",
+    "date": "21 Oct",
+    "content": "Ungaria analizează posibilitatea înlocuirii companiei ruse Rosatom cu un alt furnizor pentru extinderea centralei nucleare de la Paks, unul dintre cele mai importante proiecte nucleare ale Rusiei în Uniunea Europeană, scrie Mediafax. Guvernul condus de Peter Magyar a început să evalueze alternativele, iar o decizie finală este așteptată până la începutul anului viitor, potrivit Reuters. [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360188"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/niculescu-anunta-o-noua-directie-pentru-politica-externa-a-romaniei-de-la-diplomatia-participarii-la-diplomatia-proiectelor-23829499",
+    "title": "Niculescu anunță o nouă direcție pentru politica externă a României: De la diplomația participării la diplomația proiectelor",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/856602314_1808113890323721_8659730343401654116_n-1024x682.jpg",
+    "time": "14:54",
+    "date": "21 Oct",
+    "content": "Premierul Luca Niculescu susține că România trebuie să treacă de la „diplomația participării” la „diplomația proiectelor”, astfel încât politica externă să contribuie la atragerea investițiilor, sprijinirea exportatorilor și crearea de noi oportunități pentru companiile românești.",
+    "fetched_at": "2026-10-21T15:35:29.370880"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/sport/lista-jucatoarelor-calificate-la-turneul-campioanelor-definitivata-karolina-muchova-completeaza-tabloul-23829501",
+    "title": "Lista jucătoarelor calificate la Turneul Campioanelor, definitivată. Karolina Muchova completează tabloul",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/karolina-muchova-1024x682.jpg",
+    "time": "15:04",
+    "date": "21 Oct",
+    "content": "Jucătoarea cehă Karolina Muchova a obținut ultimul loc disponibil în competiția de simplu de la Turneul Campioanelor (WTA Finals), turneul care reunește la finalul sezonului cele mai bune opt tenismene ale anului. Competiția este programată între 8 și 15 noiembrie, la Indian Wells, în SUA.",
+    "fetched_at": "2026-10-21T15:35:29.370860"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/eurostat-romania-e-in-topul-tarilor-ue-cu-cele-mai-mici-cresteri-ale-preturilor-la-combustibili-in-septembrie-fata-de-august-2026-4002975",
+    "title": "Eurostat: România e în topul ţărilor UE cu cele mai mici creşteri ale preţurilor la combustibili în septembrie, faţă de august 2026",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwOSUyRjE1JTJGMTU4MzMwMV8xNTgz/MzAxX3Byb2ZpbWVkaWEtcG9tcGEtZGUt/YmVuemluYS1zY2FsZWQtMS5qcGcmaGFz/aD00NDg5ZjJjOGFhOTVjNzI0MTViYmFlY2IwYWQyOTYzOQ==.jpg",
+    "time": "18:20",
+    "date": "21 Oct",
+    "content": "România se numără printre ţările UE care care au înregistrat cele mai mici creşteri ale preţurilor la combustibili, în septembrie, faţă de luna august, cu un vârf de 4,2% la benzină, în timp ce la nivelul UE a fost consemnată o majorare la benzină de 6,7%, respectiv 5,9% la motorină, potrivit datelor Eurostat.",
+    "fetched_at": "2026-10-21T15:35:28.296732"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/fenechiu-ipotezele-ca-in-pnl-va-fi-dihonie-foarte-mare-sunt-usor-exagerate-lucrurile-au-inceput-sa-se-calmeze-4002935",
+    "title": "Fenechiu: Ipotezele că în PNL va fi dihonie foarte mare sunt ușor exagerate. Lucrurile au început să se calmeze",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMjU0NV8zMDEy/NTQ1X3BubC1pbnF1YW0tcGhvdG9zLWdl/b3JnZS1jYWxpbi0xLmpwZyZoYXNoPTU2/MWE0ZTRlMzAyMTJjODMzZTNkNmYxOWExODIwMGQ4.jpg",
+    "time": "17:54",
+    "date": "21 Oct",
+    "content": "Liderul senatorilor liberali, Daniel Fenechiu, a declarat, miercuri, că nu crede că un congres al PNL va avea loc foarte repede, menţionând că „lucrurile au început să se calmeze” şi sunt „uşor exagerate” ipotezele că în partid va fi „dihonie foarte mare şi urmează diverse lucruri”.",
+    "fetched_at": "2026-10-21T15:35:28.296783"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/video-din-ce-traieste-familia-georgescu-cristela-georgescu-spune-ca-au-economisit-din-salariile-mari-castigate-in-functii-executive-nu-ne-am-desfranat.html",
+    "title": "VIDEO | Din ce trăiește familia Georgescu. Cristela Georgescu spune că au economisit din salariile mari câștigate în funcții executive: ”Nu ne-am desf",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/8162549-Mediafax_Foto-Alexandru_Nechez-1024x683.jpg",
+    "time": "15:00",
+    "date": "21 Oct",
+    "content": "Soția lui Călin Georgescu a vorbit luni seara la Marius Tucă Show despre sursele de venit ale familiei. În răspunsul său, Cristela a sugerat că au consumat din conturile din bancă în care au depus regulat în timpul în care erau angajați și plătiți cu salarii mari, și că au vândut și o mașină. A [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360136"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/breaking-serviciile-secrete-americane-sustin-ca-atacul-esuat-cu-drone-asupra-unui-avion-ucrainean-pe-aeroportul-din-leipzig-germania-este-semnalul-de-start-pentru-o-campanie-intensificata-de-sabotaj.html",
+    "title": "BREAKING Serviciile secrete americane susțin că atacul eșuat cu drone asupra unui avion ucrainean pe aeroportul din Leipzig este startul unei campanii",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/aeroport-Leipzig-incident-drona-avion-ucrainean-1024x499.jpg",
+    "time": "13:29",
+    "date": "21 Oct",
+    "content": "Un atac eșuat cu drone explozive asupra aeroportului Leipzig din estul Germaniei, desfășurat la începutul lunii august, a marcat debutul unei noi etape agresive în campania de acțiuni acoperite organizată de Rusia împotriva statelor membre NATO, relatează The Wall Street Journal. Potrivit agențiilor de informații americane și oficialilor europeni citați de WSJ, operațiunea de pe [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360155"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/cand-va-recupera-anaf-banii-de-la-klaus-iohannis-anuntul-lui-adrian-nica-despre-datoria-un-milion-de-euro-a-fostului-presedinte-4002963",
+    "title": "Când va recupera ANAF banii de la Klaus Iohannis. Anunțul lui Adrian Nica despre datoria un milion de euro a fostului președinte",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjE0JTJGMjMyODY1OV8yMzI4/NjU5X2tsYXVzLWlvaGFubmlzLWlucXVh/bS1vY3Rhdi1nYW5lYS5qcGcmaGFzaD1l/Y2I2NDRiZTQ1N2UzOTVjMWJjOGY5NTNkZDhjMmVlMw==.jpg",
+    "time": "18:19",
+    "date": "21 Oct",
+    "content": "ANAF continuă lupta cu fostul președinte al României pentru a recupera aproape un milion de euro pe care îl datorează Klaus Iohannis statului, după ce a pierdut definitiv un proces privind una dintre casele sale din Sibiu. Nica a dezvăluit într-un podcast că instituția pe care o conduce face, în continuare, toate demersurile pentru a recupera fiecare leu de la cei care datorează bani, inclusiv de la Iohannis.",
+    "fetched_at": "2026-10-21T15:35:28.296740"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/zelenski-ar-accepta-inghetarea-frontului-acesta-2565570.html",
+    "title": "Zelenski ar accepta înghețarea frontului: „Acesta este minimul pe care îl aşteptăm astăzi de la Rusia”",
+    "image": "https://cdn.adh.reperio.news/image-4/47647e9a-0414-4365-bfe8-09c2f7fd48dc/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:03",
+    "date": "21 Oct",
+    "content": "Volodimir Zelenski ar accepta oprirea luptelor pe actuala linie a frontului, dar le cere SUA și aliaţilor europeni garanții pentru securitatea Ucrainei.",
+    "fetched_at": "2026-10-21T15:35:30.829281"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/nato-trimite-aeronave-si-drone-suplimentare-in-marea-neagra-dupa-atacurile-asupra-navelor/",
+    "title": "NATO trimite aeronave și drone suplimentare în Marea Neagră, după atacurile asupra navelor | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/nava-scufundata-constanta-foto-MAI-200x200.jpg",
+    "time": "14:07",
+    "date": "21 Oct",
+    "content": "NATO va trimite mijloace suplimentare de supraveghere în Marea Neagră, după ce, în ultimele patru luni au avut loc cel puțin 10 incidente maritime grave în apropierea României și Bulgariei.",
+    "fetched_at": "2026-10-21T15:35:30.311063"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/wsj-atacul-cu-drone-de-pe-aeroportul-din-leipzig-ar-fi-fost-ordonat-de-vladimir-putin-sustin-serviciile-secrete-americane/",
+    "title": "WSJ: Atacul cu drone de pe aeroportul din Leipzig ar fi fost ordonat de Vladimir Putin, susțin serviciile secrete americane | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/aeroport-leipzig-foto-shutterstock-200x200.jpg",
+    "time": "14:43",
+    "date": "21 Oct",
+    "content": "Potrivit Wall Street Journal, serviciile secrete americane și europene suspectează că atacul cu drone asupra unui avion ucrainean pe aeroportul din Leipzig a fost ordonat de Vladimir Putin și ar marca intensificarea sabotajelor rusești în UE.",
+    "fetched_at": "2026-10-21T15:35:30.311038"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/dezbaterea-controlul-greutatii-implicatiile-mai-putin-cunoscute-ale-obezitatii-si-solutiile-disponibile-urmareste-live-joi-de-la-ora-10-00.html",
+    "title": "Dezbaterea „Controlul greutății: implicațiile mai puțin cunoscute ale obezității și soluțiile disponibile” / Urmărește LIVE joi, de la ora 10.00",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/22-Octombrie-G4Debate-Controlul-Greutatii-1-1024x576.jpg",
+    "time": "15:15",
+    "date": "21 Oct",
+    "content": "G4Media continuă seria dezbaterilor G4Debate. Discutăm joi, 22 octombrie, de la ora 10.00, în cadrul dezbaterii „G4Media continuă seria dezbaterilor G4Debate. Discutăm marți, 29 septembrie, de la ora 10.00, în cadrul dezbaterii „Antirisipa – soluții pentru economisire”, despre efectele obezității asupra întregului organism, din perspective medicale diferite: inimă, metabolism, sănătate reproductivă, tratamente disponibile și rolul [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360126"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/vaslui/preot-arestat-preventiv-intr-un-dosar-de-viol-si-2565578.html",
+    "title": "Preot arestat preventiv într-un dosar de viol și agresiuni sexuale asupra a două minore. Episcopia Hușilor nu-l mai lasă să țină slujbe",
+    "image": "https://cdn.adh.reperio.news/image-2/2eb15cee-149c-4931-bc36-8c88dc32e774/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0.212%252C0%252C0.788%252C0.737%26f%3Djpeg&file=image.jpeg",
+    "time": "15:31",
+    "date": "21 Oct",
+    "content": "Un preot din Parohia Parpanița, aparținând orașului vasluian Negrești, a fost arestat preventiv pentru 30 de zile, după ce a fost acuzat de agresiuni sexuale, viol săvârșit asupra unui minor și act sexual cu un minor. Victimele sunt două copile de 13, respectiv 15 ani.",
+    "fetched_at": "2026-10-21T15:35:30.829254"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/social/mirabela-gradinaru-cum-afecteaza-era-digitala-sanatatea-mintala-a-copiilor-sa-ne-uitam-la-lumea-pe-care-am-construit-o-in-jurul-lor-4002927",
+    "title": "Mirabela Grădinaru: Cum afectează era digitală sănătatea mintală a copiilor. „Să ne uităm la lumea pe care am construit-o în jurul lor”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI3JTJGMjYwOTI2MV8yNjA5/MjYxX21pcmFiZWxhLWdyYWRpbmFydS5q/cGcmaGFzaD04ODRkY2M0NTJlMzliNjViMzBjNjg0Y2UyZjcyMzA4ZA==.jpg",
+    "time": "17:53",
+    "date": "21 Oct",
+    "content": "Mirabela Grădinaru: Cum afectează era digitală sănătatea mintală a copiilor. „Să ne uităm la lumea pe care am construit-o în jurul lor”",
+    "fetched_at": "2026-10-21T15:35:28.296791"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/un-lider-liberal-nu-exclude-o-colaborare-a-pnl-cu-2565549.html",
+    "title": "Un lider liberal nu exclude o colaborare a PNL cu AUR în opoziție. Acesta admite că unii liberali ar putea trece la PSD",
+    "image": "https://cdn.adh.reperio.news/image-6/69fb9fa9-5013-41b3-84e7-78131552767c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:52",
+    "date": "21 Oct",
+    "content": "Adrian Cozma, vicepreședintele Camerei Deputaților, a declarat, la „Interviurile Adevărul”, că asocierea dintre PNL și PSD a avut costuri politice majore pentru liberali, iar partidul are nevoie de o perioadă în opoziție pentru a se reconstrui.",
+    "fetched_at": "2026-10-21T15:35:30.829288"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/social/proiect-depus-in-parlament-pentru-eliminarea-tva-la-mai-multe-produse-de-igiena-nu-este-populism-ci-o-masura-sociala-4002941",
+    "title": "Proiect depus în Parlament pentru eliminarea TVA la mai multe produse de igienă: Nu este populism, ci o măsură socială",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTA0MF8zMDI1/MDQwX2NhbWVyYS1kZXB1dGF0aWxvci1p/bnF1YW0tZ2VvcmdlLWNhbGluLmpwZyZo/YXNoPTBkM2NlMTA5OWQ1YTc1MWI4MzEwOTNmYjMwMzk0MGEw.jpg",
+    "time": "18:12",
+    "date": "21 Oct",
+    "content": "Un proiect privind eliminarea TVA pentru scutece, absorbante, alte produse de igienă, dar şi prezervative, a fost depus, miercuri, la Parlament, de deputatele neafiliate Dumitriţa Albu şi Aurora Simu, reprezentante ale Partidului UNIT (Uniunea Naţională pentru Inovaţie şi Tradiţie).",
+    "fetched_at": "2026-10-21T15:35:28.296748"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/piata-victoriei-invitatul-madalinei-dobrovolschi-este-mircea-abrudean-presedintele-senatului-romaniei/",
+    "title": "Piața Victoriei. Invitatul Mădălinei Dobrovolschi este Mircea Abrudean, președintele Senatului României",
+    "image": "https://www.europafm.ro/wp-content/uploads/2025/09/Mircea-Abrudean-2-200x200.jpg",
+    "time": "13:53",
+    "date": "21 Oct",
+    "content": "După luni de criză politică, România are, în sfârșit, un guvern cu puteri depline. Cât va rezista noul guvern? Cine va plăti costul politic al compromisurilor? Ce se întâmplă cu PNL, prins între opoziție, propriile conflicte și lupta pentru supraviețuire politică? Și, mai ales, cât își mai permite România să piardă în jocurile de putere, când [&#8230;]",
+    "fetched_at": "2026-10-21T15:35:30.311071"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/ferrari-transfer-de-marca-in-f1-de-la-rivala-mercedes.html",
+    "title": "Ferrari, transfer de marcă în F1 de la rivala Mercedes",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/03/Lewis-Hamilton-1.jpg",
+    "time": "12:59",
+    "date": "21 Oct",
+    "content": "Scuderia Ferrari l-a adus la echipă pe Jasper van Schaick de la rivala Mercedes, transmite Crash.net. Acesta vine la Maranello în calitate de specialist în sisteme de șasiu. Jasper a făcut pasul la echipa italiană în această lună, iar la Mercedes a lucrat timp de aproape opt ani de zile. Următoarea etapă din calendarul Formulei [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360180"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/cea-mai-mare-fabrica-de-penicilina-din-europa-risca-sa-se-inchida-preturile-reduse-la-antibioticele-chinezesti-ataca-industria-23829489",
+    "title": "Cea mai mare fabrică de penicilină din Europa riscă să se închidă. Prețurile reduse la antibioticele chinezești atacă industria",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/05/penicilina-antibiotice-iasi-1024x676.jpg",
+    "time": "15:16",
+    "date": "21 Oct",
+    "content": "Prețurile tot mai reduse ale antibioticelor chinezești amenință industriile europene. Ultima mare fabrică de penicilină din Europa, aflată în Austria, riscă să se închidă.",
+    "fetched_at": "2026-10-21T15:35:29.370844"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/economic/peste-un-miliard-de-euro-in-plus-pentru-bugetul-ue-din-2027-pentru-ce-domenii-se-cer-mai-multi-bani-23829494",
+    "title": "Peste un miliard de euro în plus pentru bugetul UE din 2027. Pentru ce domenii se cer mai mulți bani",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/12/8033277-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "time": "15:03",
+    "date": "21 Oct",
+    "content": "Parlamentul European solicită suplimentarea bugetului Uniunii Europene pentru 2027 cu 1,17 miliarde de euro față de propunerea Comisiei Europene. Fondurile suplimentare ar urma să fie direcționate către agricultură, educație, sănătate, infrastructură și alte programe europene.",
+    "fetched_at": "2026-10-21T15:35:29.370867"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/adrian-caciu-acuza-o-diferenta-de-37-de-miliarde-de-lei-intre-deficitul-cash-si-cel-esa-cam-asta-e-gaura-23829503",
+    "title": "Adrian Câciu acuză o diferență de 37 de miliarde de lei între deficitul cash și cel ESA: Cam asta e gaura",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/8004286-mediafax_foto-alexandru_dobre-1-1024x683.jpg",
+    "time": "15:01",
+    "date": "21 Oct",
+    "content": "Deputatul PSD Adrian Câciu susține că deficitul bugetar al României calculat potrivit metodologiei europene ESA este semnificativ mai mare decât cel raportat în sistemul cash și cere Ministerului Finanțelor să explice diferența.",
+    "fetched_at": "2026-10-21T15:35:29.370873"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/de-ce-nasul-vede-uneori-mai-departe-decat-ochiul-care-e-legatura-dintre-mirosul-de-tara-vreme-sol-si-hrana-noastra-p/",
+    "title": "De ce nasul „vede” uneori mai departe decât ochiul? Care e legătură dintre „mirosul de țară”, vreme, sol și hrana noastră (P)",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/fertilizanti-organici-200x200.jpg",
+    "time": "14:10",
+    "date": "21 Oct",
+    "content": "Generații întregi i-au spus simplu „miros de țară”, pentru că fertilizarea cu gunoi de fermă este una dintre cele mai vechi metode prin care agricultura readuce în sol o parte dintre resursele luate de recoltele precedente. Agricultura modernă nu a abandonat acest principiu, l-a mutat într-un sistem mult mai controlat: depozitare și compostare în condiții [&#8230;]",
+    "fetched_at": "2026-10-21T15:35:30.311056"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/nicusor-dan-sustine-eforturile-lui-trump-dar-nu-crede-ca-rusia-e-pregatita-sa-negocieze-interviu-la-un-post-tv-conservator-american-4002921",
+    "title": "Nicușor Dan susține eforturile lui Trump, dar nu crede că Rusia e pregătită să negocieze. Interviu la un post TV conservator american",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNyUyRjMwJTJGMjMxNzI5OF8yMzE3/Mjk4X05pY3Vzb3ItRGFuLXNpLURvbmFs/ZC1UcnVtcC5qcGcmaGFzaD03NGVmNjg5/NjJhZjg1ZTIwOWJhM2E0YjhmZWEyM2E0MA==.jpg",
+    "time": "18:09",
+    "date": "21 Oct",
+    "content": "Președintele Nicușor Dan a salutat eforturile liderului american Donald Trump de a pune capăt războiului din Ucraina, dar s-a declarat sceptic în privința disponibilității Rusiei de a negocia un acord de pace. Într-un interviu acordat postului american Newsmax, șeful statului a susținut continuarea sancțiunilor economice împotriva Moscovei și a afirmat că Trump are dreptate atunci când cere statelor europene să își asume o responsabilitate mai mare pentru propria apărare.",
+    "fetched_at": "2026-10-21T15:35:28.296769"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/ciprian-ciucu-ramane-sub-control-judiciar-tribunalul-bucuresti-i-a-respins-contestatia/",
+    "title": "Ciprian Ciucu rămâne sub control judiciar. Tribunalul București i-a respins contestația | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/06/Ciprian-ciucu-dna-foto-inquam-octav-ganea-200x200.jpg",
+    "time": "14:29",
+    "date": "21 Oct",
+    "content": "Tribunalul București a respins contestația lui Ciprian Ciucu împotriva prelungirii controlului judiciar. Primarul general al Capitalei este cercetat de DNA pentru luare de mită.",
+    "fetched_at": "2026-10-21T15:35:30.311048"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/nibiru-distins-cu-premiul-de-excelenta-al-hospitality-culture-institute-la-romanian-hospitality-awards-2026.html",
+    "title": "NIBIRU, distins cu Premiul de Excelență al Hospitality Culture Institute la Romanian Hospitality Awards 2026",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/NIBIRU_echipa-1024x683.jpg",
+    "time": "13:08",
+    "date": "21 Oct",
+    "content": "NIBIRU, stațiunea de entertainment dezvoltată pe litoralul românesc, a primit Premiul de Excelență al Hospitality Culture Institute în cadrul Galei Romanian Hospitality Awards 2026, o recunoaștere a contribuției sale la dezvoltarea industriei ospitalității din România. Premiul de Excelență ocupă un loc aparte între distincțiile Galei: este unic și este acordat direct de Hospitality Culture Institute, [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360164"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/politica/pnl-trece-in-opozitie-dar-pastreaza-sefia-2565565.html",
+    "title": "PNL trece în opoziție, dar păstrează șefia Senatului. De ce nu va fi înlocuit Mircea Abrudean",
+    "image": "https://cdn.adh.reperio.news/image-9/9937ae79-fe2b-4040-8225-35d7b1d4cae9/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:22",
+    "date": "21 Oct",
+    "content": "Deși PNL se pregătește să treacă în opoziție, Mircea Abrudean își va păstra funcția de președinte al Senatului, susține liderul senatorilor liberali, Daniel Fenechiu. Acesta afirmă că mandatul lui Abrudean se bazează pe o înțelegere politică ce nu a fost denunțată.",
+    "fetched_at": "2026-10-21T15:35:30.829305"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/au-inceput-forajele-pentru-metroul-spre-aeroportul-2565566.html",
+    "title": "Au început forajele pentru metroul spre Aeroportul Otopeni. Cât au avansat lucrările la Magistrala 6",
+    "image": "https://cdn.adh.reperio.news/image-e/e56145b3-9389-47e4-83a6-96b5f92dec3b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:21",
+    "date": "21 Oct",
+    "content": "Secțiunea de Sud a Magistralei 6 de metrou este realizată în proporție de 78%, iar cea de Nord a ajuns la un stadiu fizic de 34%. Unul dintre cele două utilaje de forare a tunelurilor a fost pornit miercuri.",
+    "fetched_at": "2026-10-21T15:35:30.829311"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/romania-printre-statele-ue-cu-cele-mai-mici-2565576.html",
+    "title": "România, printre statele UE cu cele mai mici scumpiri la carburanți în septembrie, potrivit Eurostat. Creșterea anuală a ajuns însă la aproape 30%",
+    "image": "https://cdn.adh.reperio.news/image-0/077ad389-f8c3-4b3f-ad02-884e923e0b0e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:04",
+    "date": "21 Oct",
+    "content": "România s-a numărat printre țările Uniunii Europene care au înregistrat cele mai reduse majorări ale prețurilor la carburanți în septembrie 2026, comparativ cu luna precedentă, potrivit datelor publicate de Eurostat.",
+    "fetched_at": "2026-10-21T15:35:30.829274"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/ue-investigheaza-posibila-implicare-rusia-proteste-franta/",
+    "title": "UE investighează posibila implicare a Rusiei în protestele violente din Franța | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/proteste-franta-violente-foto-shutterstock-200x200.jpg",
+    "time": "13:07",
+    "date": "21 Oct",
+    "content": "Uniunea Europeană investighează posibile campanii de dezinformare și ingerințe străine în contextul protestelor violente din Franța. Sunt analizate inclusiv rolul rețelelor sociale și posibila implicare a unor actori proruşi.",
+    "fetched_at": "2026-10-21T15:35:30.311086"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/rusia-anunta-cand-ar-putea-relua-negocierile-de-pace-cu-ucraina-si-sua-ce-i-a-transmis-putin-emisarului-lui-trump-23829487",
+    "title": "Rusia anunță când ar putea relua negocierile de pace cu Ucraina și SUA. Ce i-a transmis Putin emisarului lui Trump",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/04/8035444-hepta_mediafax_foto-dpa_hepta-1-1024x632.jpg",
+    "time": "14:37",
+    "date": "21 Oct",
+    "content": "Rusia este pregătită să reia negocierile trilaterale cu Statele Unite și Ucraina la jumătatea lunii noiembrie, a declarat consilierul prezidențial rus Iuri Ușakov, după întâlnirea dintre Vladimir Putin și emisarul special american Steve Witkoff, desfășurată miercuri la Sankt Petersburg.",
+    "fetched_at": "2026-10-21T15:35:29.370893"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/perchezitii-la-parlamentul-european-parchetul-european-ancheteaza-grupul-identitate-si-democratie-fostul-grup-politic-din-care-facea-parte-partidul-francez-de-extrema-dreapta.html",
+    "title": "Percheziții la Parlamentul European / Parchetul European anchetează grupul „Identitate şi Democraţie”, fostul grup politic din care făcea parte partid",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/11/profimedia-1047139512-scaled-1-1024x683.jpg",
+    "time": "13:02",
+    "date": "21 Oct",
+    "content": "Mai multe percheziţii au avut loc miercuri la Parlamentul European în cadrul unei anchete a Parchetului European (EPPO) care vizează grupul „Identitate şi Democraţie” (ID), fostul grup politic din care făcea parte partidul francez de extremă dreapta „Rassemblement National” (RN), au anunţat „Patrioţii”, noul grup ce include formaţiunea condusă de Jordan Bardella, relatează agenția de [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360172"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/ue/perchezitii-la-parlamentul-european-intr-o-ancheta-privind-deturnarea-a-milioane-de-euro-in-vizor-un-fost-grup-de-extrema-dreapta-4002987",
+    "title": "Percheziții la Parlamentul European, într-o anchetă privind deturnarea a milioane de euro. În vizor, un fost grup de extremă dreapta",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTA4OV8zMDI1/MDg5X3Byb2ZpbWVkaWEtMTA4NjQyODA3/OS5qcGcmaGFzaD1mY2U2NDY1ZjBmMDhjMDA1MzI5OTc3N2M3YTFiYzQxMA==.jpg",
+    "time": "18:31",
+    "date": "21 Oct",
+    "content": "Parchetul European (EPPO) a efectuat miercuri percheziții la sediile Parlamentului European din Bruxelles și Strasbourg, într-o anchetă care ar viza fostul grup politic de extremă dreapta Identitate și Democrație (ID), potrivit grupului Patrioți pentru Europa (PfE).",
+    "fetched_at": "2026-10-21T15:35:28.296714"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/un-avion-de-vanatoare-rusesc-su-30sm-s-a-prabusit-in-regiunea-kaliningrad-pilotii-fiind-raniti-4002873",
+    "title": "Un avion de vânătoare rusesc Su-30SM s-a prăbușit în regiunea Kaliningrad, piloții fiind răniți",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTAwMl8zMDI1/MDAyX0F2aW9uLVN1LTMwU01fLUltYWdp/bmUtY3UtY2FyYWN0ZXItaWx1c3RyYXRp/dl8tRm90by1Qcm9maW1lZGlhLmpwZyZo/YXNoPWUzYTJmMTAzYjg3NjNjMGZiM2FhOTFkNjdlNDFkMmJm.jpg",
+    "time": "18:01",
+    "date": "21 Oct",
+    "content": "Ministerul Apărării din Rusia a declarat miercuri că un avion de vânătoare rusesc Su-30SM s-a prăbușit în regiunea Kaliningrad în timpul unui zbor de antrenament programat, relatează Anadolu.",
+    "fetched_at": "2026-10-21T15:35:28.296755"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/ministrul-de-externe-discutii-cu-omologii-din-republica-moldova-si-estonia-romania-isi-mentine-sprijinul-pentru-parcursul-european-al-chisinaului-23829504",
+    "title": "Ministrul de Externe, discuții cu omologii din Republica Moldova și Estonia. România își menține sprijinul pentru parcursul european al Chișinăului",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hvkhgvuxoaag0-w-1024x768.jpeg",
+    "time": "15:08",
+    "date": "21 Oct",
+    "content": "Ministrul de Externe, Dan Neculăescu, a discutat cu omologii din Republica Moldova și Estonia despre sprijinul României pentru parcursul european al Chișinăului și consolidarea cooperării în domeniul securității pentru apărarea Flancului Estic al NATO.",
+    "fetched_at": "2026-10-21T15:35:29.370853"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stil-de-viata/auto/ce-pregatesc-omoda-and-jaecoo-la-wuhu-toate-2565569.html",
+    "title": "Ce pregătesc OMODA & JAECOO la Wuhu? Toate noutățile de la  International User Summit 2026",
+    "image": "https://cdn.adh.reperio.news/image-1/13f05585-bfd9-41b4-acbc-839f380b040e/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "14:24",
+    "date": "21 Oct",
+    "content": "De la tehnologia HEV de 5 kWh și parcarea autonomă SIVP, până la debutul spectaculos al noului OMODA X, brandul își dezvăluie la summit viziunea pentru mobilitatea viitorului",
+    "fetched_at": "2026-10-21T15:35:30.829299"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/patridul-drept-acuza-guvernul-psd-nicusor-dan-luca-niculescu-ca-a-dat-noaptea-o-ordonanta-de-urgenta-cu-dedicatie-pentru-ca-specialii-sistemului-sa-poata-ocupa-functii-in-locul-inalt.html",
+    "title": "Patridul DREPT acuză guvernul PSD-Nicușor Dan-Luca Niculescu că a dat noaptea o ordonanță de urgență cu dedicație pentru ca ”specialii Sistemului” să ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/INSTANT_PARLAMENT_CABINET_NICULESCU_023_INQUAM_Photos_George_Calin-1024x683.jpg",
+    "time": "13:35",
+    "date": "21 Oct",
+    "content": "Patridul DREPT a acuzat miercuri guvernul PSD-Nicușor Dan condus de Luca Niculescu că a adoptat marți noapte, în prima ședință, o ordonanță de urgență cu dedicație pentru ca ”specialii Sistemului” să poată ocupa funcții în locul înalților funcționari publici, fiind exceptați de la reguli. ”Guvernul Luca Pesedescu, primul OUG: toată puterea pentru penalul Neacșu și [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-21T15:35:31.360145"
+  },
+  {
+    "source": "G4Media",
     "url": "https://www.g4media.ro/foto-mercedes-dezvaluie-un-design-spectaculos-cu-ocazia-cursei-de-f1-de-la-austin.html",
     "title": "FOTO: Mercedes dezvăluie un design spectaculos cu ocazia cursei de F1 de la Austin",
     "image": "https://www.g4media.ro//wp-content/uploads/2026/02/8107384-Hepta_Mediafax_Foto-DPA_Hepta.jpg",
