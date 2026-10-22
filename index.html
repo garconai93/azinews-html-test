@@ -847,9 +847,18 @@ ${newsContext}`;
                 const min = Math.round((Date.now() - t) / 60000);
                 if (min >= 0 && min < 60) return min <= 1 ? 'acum un minut' : `acum ${min} min`;
                 if (min >= 60 && min < 6 * 60) { const h = Math.floor(min / 60); return h === 1 ? 'acum o oră' : `acum ${h} ore`; }
-                return new Date(t).toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Bucharest' });
+                const d = new Date(t);
+                const hm = d.toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Bucharest' });
+                return `${shortDay(roDay(d))}, ${hm}`;
             }
-            return n.time || '';
+            return [n.date, n.time].filter(Boolean).join(', ');
+        }
+        // 'azi', 'ieri', '20 oct' sau '20 oct 2025' (alt an)
+        function shortDay(day) {
+            if (day === roDay(new Date())) return 'azi';
+            if (day === roDay(new Date(Date.now() - 864e5))) return 'ieri';
+            const [y, m, d] = day.split('-').map(Number);
+            return `${d} ${MONTHS[m - 1].slice(0, 3)}${y !== new Date().getFullYear() ? ' ' + y : ''}`;
         }
         function metaHtml(n, extra) {
             const v = SOURCE_VAR[n.source];
@@ -1066,7 +1075,7 @@ ${newsContext}`;
             const count = searchState.results.length;
             setTitle(count ? `${count.toLocaleString('ro-RO')} rezultate pentru „${q}”` : `Caut „${q}”...`);
             document.getElementById('newsGrid').innerHTML = searchState.results.slice(0, 200)
-                .map(n => storyHtml(n, n.day ? `${n.time ? n.time + ', ' : ''}${dayHeading(n.day).toLowerCase()}` : null)).join('');
+                .map(n => storyHtml(n, n.day ? `${shortDay(n.day)}${n.time ? ', ' + n.time : ''}` : null)).join('');
             const more = searchState.nextMonth < searchState.months.length;
             if (more) {
                 const m = searchState.months[searchState.nextMonth];
