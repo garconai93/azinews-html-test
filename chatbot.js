@@ -484,20 +484,15 @@
         }
 
         async loadNewsContext() {
-            try {
-                const response = await fetch('all_news.json');
-                const news = await response.json();
-                
-                // Build context string
-                newsContext = news.map(n => 
-                    `[${n.source}] ${n.date} ${n.time}\nTitlu: ${n.title}\nConținut: ${n.content}`
-                ).join('\n\n');
-                
-                console.log('✅ Context știri încărcat:', news.length, 'știri');
-            } catch (error) {
-                console.error('❌ Eroare la încărcarea știrilor:', error);
-                newsContext = 'Nu am putut încărca știrile. Încearcă mai târziu.';
-            }
+            // Contextul se construiește la fiecare întrebare din știrile deja încărcate (vezi getLatestNews)
+        }
+
+        async getLatestNews() {
+            if (Array.isArray(window.news) && window.news.length) return window.news;
+            const response = await fetch('data/latest.json', { cache: 'no-cache' });
+            if (!response.ok) return [];
+            const data = await response.json();
+            return data.items || [];
         }
 
         setupEvents() {
@@ -587,9 +582,8 @@
             // Fetch news from all_news.json
             let newsContext = 'Nu am informații despre știri momentan.';
             try {
-                const response = await fetch('all_news.json');
-                if (response.ok) {
-                    const news = await response.json();
+                {
+                    const news = await this.getLatestNews();
                     if (news && news.length > 0) {
                         newsContext = news.slice(0, 20).map(n => {
                             const title = n.title || '';

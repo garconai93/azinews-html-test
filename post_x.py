@@ -2,45 +2,22 @@
 """
 AziNews X Poster - Extrage știri și le formatează pentru X/Twitter
 """
+import os
 import re
 import sys
 
 NEWS_FILE = "/home/elitedesk/.openclaw/workspace/AziNews-HTML/index.html"
 
 def extract_news():
-    """Extrage știrile din fișierul HTML"""
+    """Citește ultimele știri din data/latest.json"""
+    import json
+    path = os.path.join(os.path.dirname(NEWS_FILE), "data", "latest.json")
     try:
-        with open(NEWS_FILE, 'r', encoding='utf-8') as f:
-            content = f.read()
-    except FileNotFoundError:
-        return None
-    
-    # Găsește secțiunea de știri
-    news_match = re.search(r'const news = \[(.*?)\]', content, re.DOTALL)
-    if not news_match:
-        return None
-    
-    news_str = news_match.group(1)
-    
-    # Extrage titlurile și sursele
-    news_items = []
-    item_matches = re.finditer(r"\{([^}]+)\}", news_str)
-    
-    for item_match in item_matches:
-        item = item_match.group(1)
-        # title poate avea ghilimele duble sau simple
-        title_match = re.search(r'''title: ["']([^"']+)["']''', item)
-        source_match = re.search(r"source: '([^']+)'", item)
-        url_match = re.search(r"url: '([^']+)'", item)
-        
-        if title_match and source_match and url_match:
-            news_items.append({
-                'title': title_match.group(1),
-                'source': source_match.group(1),
-                'url': url_match.group(1)
-            })
-    
-    return news_items
+        with open(path, 'r', encoding='utf-8') as f:
+            items = json.load(f).get('items', [])
+    except (OSError, ValueError):
+        return []
+    return [{'title': n['title'], 'source': n['source'], 'url': n['url']} for n in items]
 
 def format_for_x(news_item, max_length=280):
     """Formatează știrea pentru X"""

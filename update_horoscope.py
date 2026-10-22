@@ -12,16 +12,16 @@ HOROSCOPE_MESSAGES = {
     "Berbec": [
         "Zi perfectă pentru inițiative noi",
         "Energie maximă, profită de ea",
-        "Momente favoabile în relații",
-        "Success în proiectele personale",
-        "Opportunități profesionale"
+        "Momente favorabile în relații",
+        "Succes în proiectele personale",
+        "Oportunități profesionale"
     ],
     "Taur": [
         "Stabilitate financiară",
         "Zi de relaxare și reflecție",
         "Conexiuni emoționale puternice",
         "Progrese în carieră",
-        "Harmonie în familie"
+        "Armonie în familie"
     ],
     "Gemeni": [
         "Zi dinamică și interesantă",
@@ -75,7 +75,7 @@ HOROSCOPE_MESSAGES = {
     "Capricorn": [
         "Responsabilitate și disciplină",
         "Obiective clare",
-        "Ambitionează sus",
+        "Țintește sus",
         "Disciplină de fier",
         "Succes garantat"
     ],
@@ -123,23 +123,13 @@ def get_daily_horoscope():
     
     return horoscope
 
-def update_html(horoscope):
-    """Actualizează index.html cu horoscopul zilnic"""
-    HTML_FILE = Path(__file__).parent / "index.html"
-    html_content = HTML_FILE.read_text(encoding='utf-8')
-    
-    # Creează array-ul JavaScript
-    js_array = "const horoscope = [\n"
-    for h in horoscope:
-        js_array += f'            {{ sign: "{h["sign"]}", msg: "{h["msg"]}" }},\n'
-    js_array += "        ];"
-    
-    # Înlocuiește vechiul horoscop
-    import re
-    pattern = r'const horoscope = \[.*?\];'
-    html_content = re.sub(pattern, js_array, html_content, flags=re.DOTALL)
-    
-    HTML_FILE.write_text(html_content, encoding='utf-8')
+def update_json(horoscope):
+    """Scrie horoscopul în data/horoscope.json (citit de index.html)"""
+    import json
+    out = Path(__file__).parent / "data" / "horoscope.json"
+    out.parent.mkdir(exist_ok=True)
+    out.write_text(json.dumps({"date": datetime.now().strftime('%Y-%m-%d'), "items": horoscope},
+                              ensure_ascii=False, indent=1), encoding='utf-8')
     print(f"Horoscop actualizat pentru {datetime.now().strftime('%d-%m-%Y')}")
 
 def main():
@@ -150,7 +140,7 @@ def main():
     for h in horoscope:
         print(f"  {h['sign']}: {h['msg']}")
     
-    update_html(horoscope)
+    update_json(horoscope)
     print("\nGata!")
 
 if __name__ == "__main__":

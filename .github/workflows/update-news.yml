@@ -1,22 +1,27 @@
-# Auto-update AziNews every hour
+# Preia știrile la fiecare oră și le salvează în data/ (fără push --force)
 name: AziNews Update
 
 on:
   schedule:
-    - cron: '42 * * * *'  # Every hour at minute 42 (active)
+    - cron: '42 * * * *'  # în fiecare oră, la minutul 42
   workflow_dispatch:
+
+# un singur job care scrie în repo rulează la un moment dat (știri sau horoscop)
+concurrency:
+  group: azinews-data
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
     steps:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.GH_TOKEN || github.token }}
 
       - name: Setup Python
         uses: actions/setup-python@v6
@@ -24,7 +29,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser beautifulsoup4 requests
+        run: pip install requests tzdata
 
       - name: Update news
         run: |
@@ -35,7 +40,11 @@ jobs:
         run: |
           git config --local user.email "garconaibot@gmail.com"
           git config --local user.name "GitHub Actions"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/garconai93/azinews-html-test.git
-          git add .
-          git diff --staged --quiet || git commit -m "Auto-update: $(date)"
-          git push origin master
+          git add data feed.xml
+          git diff --staged --quiet && exit 0
+          git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep 10
+          done
+          exit 1

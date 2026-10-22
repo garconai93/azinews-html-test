@@ -1,13 +1,24 @@
 #!/usr/bin/env python3
-"""Update AziNews HTML with news from RSS feeds - WITH HISTORICAL PERSISTENCE"""
+"""AziNews: preia știrile din RSS și le salvează ca fișiere JSON mici.
+
+Structura datelor (tot ce citește site-ul):
+  data/latest.json            ultimele LATEST_COUNT știri + lista zilelor din arhivă
+  data/archive/YYYY-MM-DD.json  toate știrile unei zile (cele mai noi primele)
+  data/search/YYYY-MM.json    index compact pentru căutare: [titlu, sursă, url, zi, oră]
+
+Ziua unei știri = data (ora României) la care a fost preluată.
+"""
+
+import json
+import os
+import random
+import re
+import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
 
 import requests
-import xml.etree.ElementTree as ET
-import re
-import os
-import json
-from datetime import datetime
-import random
 
 SOURCES = [
     ("Digi24", "https://www.digi24.ro/rss"),
@@ -18,236 +29,202 @@ SOURCES = [
     ("G4Media", "https://www.g4media.ro/feed"),
 ]
 
-NEWS_JSON_FILE = "all_news.json"
-# MAX_DISPLAY_NEWS = None  # Afișăm TOATE știrile (Varianta A)
+RO_TZ = ZoneInfo("Europe/Bucharest")
+DATA_DIR = "data"
+ARCHIVE_DIR = os.path.join(DATA_DIR, "archive")
+SEARCH_DIR = os.path.join(DATA_DIR, "search")
+LATEST_FILE = os.path.join(DATA_DIR, "latest.json")
+LATEST_COUNT = 300
+DEDUPE_DAYS = 7  # câte zile în urmă verificăm dacă știrea există deja
+ITEMS_PER_FEED = 20
 
-def load_existing_news():
-    """Load existing news from all_news.json if it exists"""
-    if os.path.exists(NEWS_JSON_FILE):
-        try:
-            with open(NEWS_JSON_FILE, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                if isinstance(data, list):
-                    print(f"  📂 Încarc {len(data)} știri existente din JSON")
-                    return data
-        except Exception as e:
-            print(f"  ⚠ Nu am putut încărca {NEWS_JSON_FILE}: {e}")
-    return []
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; AziNewsBot/2.0; +https://azinews.ro)"}
 
-def save_all_news(news_list):
-    """Save all news to all_news.json"""
+
+# ---------- utilitare ----------
+
+def utc_iso(dt):
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def day_of(item):
+    """Ziua (ora României) în care a fost preluată știrea, ca YYYY-MM-DD."""
+    fa = item.get("fetched_at", "")
     try:
-        with open(NEWS_JSON_FILE, 'w', encoding='utf-8') as f:
-            json.dump(news_list, f, ensure_ascii=False, indent=2)
-        print(f"  💾 Salvate {len(news_list)} știri în {NEWS_JSON_FILE}")
-    except Exception as e:
-        print(f"  ⚠ Nu am putut salva {NEWS_JSON_FILE}: {e}")
+        dt = datetime.fromisoformat(fa.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(RO_TZ).strftime("%Y-%m-%d")
+    except ValueError:
+        return datetime.now(RO_TZ).strftime("%Y-%m-%d")
+
+
+def read_json(path, default):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return default
+
+
+def write_json(path, data):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
+    os.replace(tmp, path)
+
+
+def archive_path(day):
+    return os.path.join(ARCHIVE_DIR, f"{day}.json")
+
+
+def list_days():
+    if not os.path.isdir(ARCHIVE_DIR):
+        return []
+    return sorted((f[:-5] for f in os.listdir(ARCHIVE_DIR) if f.endswith(".json")), reverse=True)
+
+
+def clean_text(text):
+    text = re.sub(r"<[^>]+>", "", text or "")
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+# ---------- preluare RSS ----------
 
 def fetch_news(source_name, url):
-    """Fetch news from RSS feed"""
     news = []
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-    
     try:
-        r = requests.get(url, headers=headers, timeout=15)
+        r = requests.get(url, headers=HEADERS, timeout=15)
         if r.status_code != 200:
             print(f"  ⚠ {source_name}: HTTP {r.status_code}")
             return news
-            
-        root = ET.fromstring(r.text)
-        
-        for item in root.findall('.//item')[:10]:
-            title_elem = item.find('title')
-            link_elem = item.find('link')
-            pubdate_elem = item.find('pubDate')
-            desc_elem = item.find('description')
-            enclosure = item.find('enclosure')
-            
-            image_url = ""
-            if enclosure is not None:
-                image_url = enclosure.get('url', '')
-            
-            # Also try media:content
-            if not image_url:
-                media_content = item.find('.//{http://search.yahoo.com/mrss/}content')
-                if media_content is not None:
-                    image_url = media_content.get('url', '')
-            
-            if title_elem is not None and link_elem is not None:
-                title = (title_elem.text or "").strip()
-                link = (link_elem.text or "").strip()
-                
-                # Skip empty or very short titles
-                if len(title) < 15:
-                    continue
-                
-                # Clean title
-                title = re.sub(r'<[^>]+>', '', title)
-                
-                # Parse time from pubDate
-                time_str = ""
-                date_str = ""
-                if pubdate_elem is not None and pubdate_elem.text:
-                    try:
-                        pubdate = pubdate_elem.text
-                        # Extract time from RFC 2822 format: "Fri, 13 Mar 2026 15:34:11 +0200"
-                        time_match = re.search(r'(\d{1,2}:\d{2})', pubdate)
-                        if time_match:
-                            time_str = time_match.group(1)
-                        # Extract date
-                        date_match = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})', pubdate)
-                        if date_match:
-                            date_str = f"{date_match.group(1)} {date_match.group(2)}"
-                    except:
-                        pass
-                
-                # Get description/content - stop at word boundary, not mid-word
-                content_str = ""
-                if desc_elem is not None and desc_elem.text:
-                    cleaned = re.sub(r'<[^>]+>', '', desc_elem.text).strip()
-                    if len(cleaned) > 500:
-                        # Find last space before 500 chars
-                        cut = cleaned[:500]
-                        last_space = cut.rfind(' ')
-                        if last_space > 400:
-                            content_str = cut[:last_space] + "..."
-                        else:
-                            content_str = cut + "..."
-                    else:
-                        content_str = cleaned
-                
-                news.append({
-                    "source": source_name,
-                    "url": link,
-                    "title": title[:150],
-                    "image": image_url,
-                    "time": time_str,
-                    "date": date_str,
-                    "content": content_str,
-                    "fetched_at": datetime.now().isoformat()  # Când a fost adăugată
-                })
-                
-    except Exception as e:
+        root = ET.fromstring(r.content)
+    except Exception as e:  # rețea sau XML invalid
         print(f"  ⚠ {source_name}: {e}")
-    
+        return news
+
+    now = datetime.now(timezone.utc)
+    for item in root.findall(".//item")[:ITEMS_PER_FEED]:
+        title = clean_text(item.findtext("title"))
+        link = (item.findtext("link") or "").strip()
+        if len(title) < 15 or not link.startswith("http"):
+            continue
+
+        image = ""
+        enclosure = item.find("enclosure")
+        if enclosure is not None:
+            image = enclosure.get("url", "")
+        if not image:
+            media = item.find(".//{http://search.yahoo.com/mrss/}content")
+            if media is not None:
+                image = media.get("url", "")
+
+        ts = ""
+        time_str = ""
+        date_str = ""
+        pub = item.findtext("pubDate")
+        if pub:
+            try:
+                pdt = parsedate_to_datetime(pub)
+                if pdt.tzinfo is None:
+                    pdt = pdt.replace(tzinfo=RO_TZ)
+                ts = utc_iso(pdt)
+                local = pdt.astimezone(RO_TZ)
+                time_str = local.strftime("%H:%M")
+                date_str = f"{local.day} {local.strftime('%b')}"
+            except (TypeError, ValueError):
+                pass
+
+        content = clean_text(item.findtext("description"))
+        if len(content) > 500:
+            cut = content[:500]
+            space = cut.rfind(" ")
+            content = (cut[:space] if space > 400 else cut) + "..."
+
+        news.append({
+            "source": source_name,
+            "url": link,
+            "title": title[:200],
+            "image": image,
+            "time": time_str,
+            "date": date_str,
+            "ts": ts,
+            "content": content,
+            "fetched_at": utc_iso(now),
+        })
     return news
 
-def update_index_html(all_news):
-    """New news shuffled at top, old news in order at bottom"""
-    import random
-    from datetime import datetime, timedelta
-    
-    now = datetime.now()
-    cutoff = now - timedelta(hours=4)  # 4+ hours = old
-    
-    new_news = []
-    old_news = []
-    
-    for item in all_news:
-        try:
-            fetched = datetime.fromisoformat(item.get('fetched_at', '2000-01-01'))
-            if fetched >= cutoff:
-                new_news.append(item)
-            else:
-                old_news.append(item)
-        except:
-            old_news.append(item)
-    
-    # New shuffled at top, old in order at bottom
-    random.shuffle(new_news)
-    display_news = new_news + old_news
-    
-    # Build news array for JavaScript
-    news_js = "const news = [\n"
-    for item in display_news:
-        title_escaped = item['title'].replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
-        content_escaped = item.get('content', '').replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
-        image = item.get('image', '')
-        time_str = item.get('time', '')
-        date_str = item.get('date', '')
-        
-        news_item = f"    {{ source: '{item['source']}', url: '{item['url']}', title: \"{title_escaped}\""
-        if image:
-            news_item += f', image: "{image}"'
-        if time_str:
-            news_item += f', time: "{time_str}"'
-        if date_str:
-            news_item += f', date: "{date_str}"'
-        if content_escaped:
-            news_item += f', content: "{content_escaped}"'
-        news_item += " },\n"
-        news_js += news_item
-    news_js = news_js.rstrip(',\n') + "\n];"
-    
-    # Read current index.html
-    with open('index.html', 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Replace existing news array
-    pattern = r'const news = \[.*?\];'
-    new_content = re.sub(pattern, news_js, content, flags=re.DOTALL)
-    
-    # Update timestamp and show total count
-    total = len(all_news)
-    new_content = new_content.replace(
-        'Ultimele știri din România',
-        f'Ultimele știri din România • {datetime.now().strftime("%d %b %H:%M")} ({total} știri)'
-    )
-    
-    with open('index.html', 'w', encoding='utf-8') as f:
-        f.write(new_content)
-    
-    print(f"✅ Actualizat cu {total} știri în site")
+
+# ---------- scriere fișiere derivate ----------
+
+def rebuild_latest(days, touched=()):
+    items = []
+    for day in days:
+        items.extend(read_json(archive_path(day), []))
+        if len(items) >= LATEST_COUNT:
+            break
+    # refolosim numărătorile vechi; recitim doar zilele modificate sau necunoscute
+    old = {d["d"]: d["n"] for d in read_json(LATEST_FILE, {}).get("days", [])}
+    counts = {}
+    for day in days:
+        if day in touched or day not in old:
+            counts[day] = len(read_json(archive_path(day), []))
+        else:
+            counts[day] = old[day]
+    total = sum(counts.values())
+    write_json(LATEST_FILE, {
+        "updated": utc_iso(datetime.now(timezone.utc)),
+        "total": total,
+        "days": [{"d": d, "n": counts[d]} for d in days],
+        "items": items[:LATEST_COUNT],
+    })
+    return total
+
+
+def rebuild_search_month(month, days):
+    rows = []
+    for day in days:
+        if day.startswith(month):
+            for n in read_json(archive_path(day), []):
+                rows.append([n["title"], n["source"], n["url"], day, n.get("time", "")])
+    write_json(os.path.join(SEARCH_DIR, f"{month}.json"), rows)
+
 
 def main():
-    print(f"[{datetime.now().strftime('%H:%M')}] Actualizare știri...")
-    
-    # Load existing news from JSON
-    all_news = load_existing_news()
-    
-    # Fetch new news from RSS feeds
-    new_news_by_source = {}
+    print(f"[{datetime.now(RO_TZ).strftime('%H:%M')}] Actualizare știri...")
+    days = list_days()
+
+    seen = set()
+    for day in days[:DEDUPE_DAYS]:
+        seen.update(n["url"] for n in read_json(archive_path(day), []))
+
+    fresh = []
     for name, url in SOURCES:
         print(f"Preia {name}...")
-        news = fetch_news(name, url)
-        print(f"  -> {len(news)} știri noi")
-        new_news_by_source[name] = news
-    
-    # Add new news to the beginning of the list (most recent first)
-    # Build set of existing URLs to avoid duplicates
-    existing_urls = set(n['url'] for n in all_news)
-    
-    # Collect all new news first, then shuffle them before inserting
-    new_news_list = []
-    
-    for name, url in SOURCES:
-        if new_news_by_source[name]:
-            # Add only news that aren't already in the list
-            for news_item in new_news_by_source[name]:
-                if news_item['url'] not in existing_urls:
-                    new_news_list.append(news_item)
-                    existing_urls.add(news_item['url'])
-    
-    # Shuffle new news so they get mixed from different sources
-    random.shuffle(new_news_list)
-    
-    # Insert shuffled new news at the beginning
-    for news_item in new_news_list:
-        all_news.insert(0, news_item)
-    
-    # Report total
-    total = len(all_news)
-    if total > 0:
-        print(f"📰 Total {total} știri în arhivă")
-    
-    # Save all news to JSON (persistent storage)
-    save_all_news(all_news)
-    
-    # Update index.html with recent news
-    if all_news:
-        update_index_html(all_news)
-    else:
-        print("⚠ Nu există știri de afișat!")
+        items = fetch_news(name, url)
+        added = 0
+        for n in items:
+            if n["url"] not in seen:
+                seen.add(n["url"])
+                fresh.append(n)
+                added += 1
+        print(f"  -> {added} știri noi din {len(items)}")
+
+    touched = set()
+    if fresh:
+        random.shuffle(fresh)  # amestecă sursele în lotul nou
+        today = day_of(fresh[0])
+        path = archive_path(today)
+        write_json(path, fresh + read_json(path, []))
+        touched.add(today)
+        days = list_days()
+        rebuild_search_month(today[:7], days)
+
+    total = rebuild_latest(days, touched)
+    print(f"✅ {len(fresh)} știri noi, {total} în arhivă, {len(days)} zile")
+
 
 if __name__ == "__main__":
     main()

@@ -1,89 +1,52 @@
 #!/usr/bin/env python3
-"""Generate RSS feed from AziNews HTML"""
+"""Generează feed.xml din data/latest.json"""
 
-import re
-import html
-from datetime import datetime
+import json
+from datetime import datetime, timezone
+from email.utils import format_datetime
+from xml.sax.saxutils import escape
 
-# Read the index.html
-with open('index.html', 'r', encoding='utf-8') as f:
-    content = f.read()
+with open('data/latest.json', encoding='utf-8') as f:
+    items = json.load(f).get('items', [])
 
-news_items = []
-
-def escape_xml(text):
-    """Escape special XML characters"""
-    text = text.replace('&', '&amp;')
-    text = text.replace('<', '&lt;')
-    text = text.replace('>', '&gt;')
-    text = text.replace('"', '&quot;')
-    text = text.replace("'", '&apos;')
-    return text
-
-# Try new static HTML format first
-news_cards = re.findall(r'<div class="news-card"[^>]*data-url="([^"]+)"[^>]*>.*?<div class="news-source"><a[^>]*>([^<]+)</a>.*?<div class="news-title">([^<]+)</div>', content, re.DOTALL)
-
-if news_cards:
-    for url, source, title in news_cards:
-        title = re.sub(r'<[^>]+>', '', title).strip()
-        title = title.replace('&#8222;', '"').replace('&#8221;', '"').replace('&#8217;', "'").replace('&#8211;', '–')
-        title = escape_xml(title)
-        news_items.append({'source': source.strip(), 'url': url.strip(), 'title': title})
-
-# Fallback: try old JS array format
-if not news_items:
-    match = re.search(r'const news = \[(.*?)\];', content, re.DOTALL)
-    if match:
-        news_text = match.group(1)
-        item_pattern = r"{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\""
-        for m in re.finditer(item_pattern, news_text):
-            source, url, title = m.groups()
-            title = title.replace('&#8222;', '"').replace('&#8221;', '"').replace('&#8217;', "'").replace('&#8211;', '–')
-            title = escape_xml(title)
-            news_items.append({'source': source, 'url': url, 'title': title})
-
-# Always check JS array as fallback
-if not news_items:
-    match = re.search(r'const news = \[(.*?)\];', content, re.DOTALL)
-    if match:
-        news_text = match.group(1)
-        item_pattern = r"{ source: '([^']+)', url: '([^']+)', title: \"([^\"]+)\""
-        for m in re.finditer(item_pattern, news_text):
-            source, url, title = m.groups()
-            title = title.replace('&#8222;', '"').replace('&#8221;', '"').replace('&#8217;', "'").replace('&#8211;', '–')
-            title = escape_xml(title)
-            news_items.append({'source': source, 'url': url, 'title': title})
-
-if not news_items:
+if not items:
     print("No news found!")
-    exit(0)  # Don't fail, just skip
+    raise SystemExit(0)
 
-# Generate RSS
-rss = '''<?xml version="1.0" encoding="UTF-8"?>
+
+def pub_date(n):
+    for key in ('ts', 'fetched_at'):
+        try:
+            return format_datetime(datetime.fromisoformat(n[key].replace('Z', '+00:00')))
+        except (KeyError, ValueError, AttributeError):
+            pass
+    return ''
+
+
+now = format_datetime(datetime.now(timezone.utc))
+parts = [f'''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>AziNews - Știri din România</title>
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>{date}</lastBuildDate>
+    <lastBuildDate>{now}</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-'''.format(date=datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0200'))
-
-for i, item in enumerate(news_items[:60]):
-    rss += '''    <item>
-        <title>{title}</title>
-        <link>{url}</link>
-        <description>{source}</description>
-        <guid isPermaLink="true">{url}</guid>
+''']
+for n in items[:60]:
+    pd = pub_date(n)
+    parts.append(f'''    <item>
+        <title>{escape(n['title'])}</title>
+        <link>{escape(n['url'])}</link>
+        <description>{escape(n.get('content') or n['source'])}</description>
+        <source url="https://azinews.ro/feed.xml">{escape(n['source'])}</source>
+        <guid isPermaLink="true">{escape(n['url'])}</guid>{f"""
+        <pubDate>{pd}</pubDate>""" if pd else ''}
     </item>
-'''.format(title=item['title'], url=item['url'], source=item['source'])
+''')
+parts.append('</channel>\n</rss>\n')
 
-rss += '''</channel>
-</rss>'''
-
-# Write RSS file
 with open('feed.xml', 'w', encoding='utf-8') as f:
-    f.write(rss)
-
-print(f"Generated RSS with {len(news_items)} items")
+    f.write(''.join(parts))
+print(f"Generated RSS with {min(len(items), 60)} items")
