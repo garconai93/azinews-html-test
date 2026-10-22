@@ -2,896 +2,719 @@
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AziNews - Știri din România</title>
-    <meta name="description" content="Știri din România - Digi24, Mediafax">
-    <meta name="google-site-verification" content="google-site-verification-code">
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZG88DTDR53"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-ZG88DTDR53');
-    </script>
-    <meta name="theme-color" content="#58a6ff">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>AziNews - Știrile de azi din România</title>
+    <meta name="description" content="Știrile zilei din România într-un singur loc: Digi24, Mediafax, Adevărul, G4Media, Libertatea și Europa FM. Plus vremea, cursul valutar și radio live.">
+    <meta property="og:title" content="AziNews - Știrile de azi din România">
+    <meta property="og:description" content="Știrile zilei din șase surse românești, actualizate în fiecare oră.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://azinews.ro/">
+    <meta property="og:image" content="https://azinews.ro/icon-512.png">
+    <meta name="theme-color" content="#F2F3EF" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#0E1525" media="(prefers-color-scheme: dark)">
     <link rel="manifest" href="manifest.json">
-    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" as="style">
-    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/garconaibot/AziNews-HTML/master/icon-192.png">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9063451798744835" crossorigin="anonymous"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="icon-192.png">
+    <link rel="apple-touch-icon" href="icon-192.png">
+    <link rel="alternate" type="application/rss+xml" title="AziNews" href="feed.xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+    <script>
+        // tema se aplică înainte de randare, ca să nu clipească pagina
+        (function () {
+            try {
+                var t = localStorage.getItem('theme');
+                if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+            } catch (e) {}
+        })();
+    </script>
     <style>
         :root {
-            --bg-primary: #0d1117;
-            --bg-secondary: #161b22;
-            --bg-tertiary: #21262d;
-            --border-color: #30363d;
-            --text-primary: #f0f6fc;
-            --text-secondary: #8b949e;
-            --accent: #58a6ff;
-        }
-        
-        html.light-mode, body.light-mode {
-            background: #ffffff;
-        }
-        
-        body.light-mode {
-            --bg-primary: #ffffff;
-            --bg-secondary: #ffffff;
-            --bg-tertiary: #f0f0f0;
-            --border-color: #000000;
-            --text-primary: #000000;
-            --text-secondary: #333333;
-            --accent: #000000;
-        }
-        
-        body.light-mode .card, 
-        body.light-mode .news-card,
-        body.light-mode .horoscope-item,
-        body.light-mode .radio-section,
-        body.light-mode .disclaimer, body.light-mode .forecast-section { background: #ffffff; }
-        body.light-mode .forecast-day { background: #f5f5f5;
-        }
-        
-        body.light-mode .forecast-day-name,
-        body.light-mode .forecast-temp-min { color: #000000 !important; }
-        
-        body.light-mode .forecast-temp { color: #000000 !important; }
-        body.light-mode .cookie-banner {
-            background: var(--bg-secondary);
-            border-color: var(--border-color);
-        }
-        
-        body.light-mode header,
-        body.light-mode footer,
-        body.light-mode .section h2 {
-            border-color: var(--border-color);
-            color: #000000 !important;
-        }
-        
-        body.light-mode header h1,
-        body.light-mode .news-title,
-        body.light-mode .card-value,
-        body.light-mode .horoscope-sign,
-        body.light-mode .radio-title {
-            color: #000000 !important;
-        }
-        
-        body.light-mode .date,
-        body.light-mode .card-title,
-        body.light-mode .card-sub,
-        body.light-mode .news-source,
-        body.light-mode .news-time,
-        body.light-mode .news-content,
-        body.light-mode .horoscope-msg,
-        body.light-mode footer,
-        body.light-mode .menu-option,
-        body.light-mode .menu-section-title {
-            color: #000000 !important;
-        }
-        
-        .theme-toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            cursor: pointer;
-            font-size: 1.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            z-index: 1001;
-            transition: all 0.3s;
-        }
-        
-        .theme-toggle:hover {
-            border-color: var(--accent);
-        }
+            --paper: #F2F3EF;
+            --surface: #FFFFFF;
+            --ink: #14213D;
+            --ink-2: #4E5A70;
+            --ink-3: #7A8496;
+            --rule: #DADDD4;
+            --link: #2448E0;
+            --azi: #FFCB3D;
+            --azi-ink: #14213D;
+            --up: #12805C;
+            --down: #C23A2B;
+            --shadow: 0 1px 2px rgba(20, 33, 61, .06), 0 8px 24px rgba(20, 33, 61, .06);
 
-        /* Menu button (left side) */
-        .menu-toggle {
-            position: fixed;
-            top: 20px;
-            left: 20px;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            z-index: 1001;
-            transition: all 0.3s;
-            padding: 0;
-        }
+            --src-digi24: #2D6BE4;
+            --src-mediafax: #D2462F;
+            --src-europafm: #D99A00;
+            --src-libertatea: #C2185B;
+            --src-adevarul: #23855E;
+            --src-g4media: #7B4FD6;
 
-        .menu-toggle svg {
-            width: 24px;
-            height: 24px;
-            fill: var(--text-primary);
+            --display: 'Bricolage Grotesque', system-ui, sans-serif;
+            --serif: 'Source Serif 4', Georgia, serif;
+            --radius-lg: 22px;
+            --radius: 14px;
+            --radius-sm: 9px;
+            --gutter: 16px;
+            color-scheme: light;
         }
-
-        .menu-toggle:hover {
-            border-color: var(--accent);
-        }
-
-        .menu-toggle:hover svg {
-            fill: var(--accent);
-        }
-
-        .menu-toggle.active {
-            background: var(--accent);
-            border-color: var(--accent);
-        }
-
-        .menu-toggle.active svg {
-            fill: var(--bg-primary);
-        }
-
-        /* Dropdown menu */
-        .menu-dropdown {
-            display: none;
-            position: fixed;
-            top: 80px;
-            left: 20px;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 15px;
-            z-index: 1002;
-            min-width: 220px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-        }
-
-        .menu-dropdown.show {
-            display: block;
-        }
-
-        .menu-section {
-            margin-bottom: 15px;
-        }
-
-        .menu-section:last-child {
-            margin-bottom: 0;
-        }
-
-        .menu-section-title {
-            font-size: 0.75rem;
-            color: var(--text-secondary);
-            text-transform: uppercase;
-            margin-bottom: 8px;
-            font-weight: 600;
-        }
-
-        .news-search-input {
-            width: 100%;
-            padding: 8px 12px;
-            border: 1px solid var(--border);
-            border-radius: 6px;
-            background: var(--bg);
-            color: var(--text);
-            font-size: 0.875rem;
-            outline: none;
-        }
-
-        .news-search-input:focus {
-            border-color: var(--accent);
-        }
-
-        .search-clear {
-            position: absolute;
-            right: 10px;
-            top: 50%;
-            transform: translateY(-50%);
-            color: var(--text-secondary);
-            cursor: pointer;
-            font-size: 1rem;
-            line-height: 1;
-            padding: 4px;
-        }
-
-        .search-clear:hover {
-            color: var(--text);
-        }
-
-        .menu-section {
-            margin-bottom: 12px;
-        }
-
-        .menu-options {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
-        }
-
-        .menu-option {
-            background: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 6px;
-            padding: 6px 12px;
-            font-size: 0.8rem;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .menu-option:hover {
-            border-color: var(--accent);
-        }
-
-        .menu-option.active {
-            background: var(--accent);
-            color: var(--bg-primary);
-            border-color: var(--accent);
-        }
-
-        .menu-reset {
-            width: 100%;
-            text-align: center;
-            background: transparent;
-            border: 1px dashed var(--border-color);
-            margin-top: 10px;
-        }
-
-        .menu-reset:hover {
-            border-color: var(--accent);
-            border-style: solid;
-        }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Inter', sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.6; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
-        
-        header { text-align: center; padding: 30px 20px; border-bottom: 1px solid #30363d; margin-bottom: 30px; }
-        header h1 { font-size: 2.5rem; font-weight: 700; color: #f0f6fc; margin-bottom: 5px; }
-        header h1 span { color: #58a6ff; }
-        .date { color: #8b949e; font-size: 1rem; }
-
-        .info-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-bottom: 40px; }
-        .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; text-align: center; min-height: 120px; }
-        .card-icon { font-size: 2rem; margin-bottom: 10px; }
-        
-        /* Top News card - full width on mobile when expanded */
-        .info-cards .card.top-news-expanded {
-            grid-column: 1 / -1;
-            text-align: left;
-            overflow-y: auto;
-            max-height: 80vh;
-        }
-        @media (max-width: 768px) {
-            .info-cards .card.top-news-expanded {
-                position: fixed;
-                top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-                z-index: 9999;
-                border-radius: 0;
-                overflow-y: auto;
-                padding: 15px;
-            }
-            .info-cards .card.top-news-expanded .news-expand-hint {
-                display: block !important;
+        @media (prefers-color-scheme: dark) {
+            :root:not([data-theme="light"]) {
+                --paper: #0E1525;
+                --surface: #162038;
+                --ink: #E9EDF5;
+                --ink-2: #A3AEC2;
+                --ink-3: #75819A;
+                --rule: #26324D;
+                --link: #93AAFF;
+                --azi: #FFD45C;
+                --up: #4CC79A;
+                --down: #FF7A6B;
+                --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 10px 30px rgba(0, 0, 0, .25);
+                color-scheme: dark;
             }
         }
-        .card-title { font-size: 0.9rem; color: #8b949e; margin-bottom: 5px; }
-        .card-value { font-size: 1.5rem; font-weight: 600; color: #f0f6fc; }
-        .card-sub { font-size: 0.8rem; color: #8b949e; }
-
-        .section { margin-bottom: 40px; text-align: center; }
-        .section h2 { font-size: 1.5rem; color: #f0f6fc; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #30363d; }
-
-        .news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
-        .news-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; cursor: pointer; transition: all 0.3s; }
-        .news-card:hover { border-color: #58a6ff; }
-        .news-card.expanded { border-color: #58a6ff; }
-        .news-image { width: 100%; height: 180px; object-fit: cover; background: #21262d; }
-        .news-body { padding: 20px; }
-        .news-source { color: #58a6ff; font-size: 0.8rem; font-weight: 600; margin-bottom: 8px; }
-        .news-source a { color: inherit; text-decoration: none; }
-        .news-source a:hover { text-decoration: underline; }
-        .news-title { color: #f0f6fc; font-size: 1rem; font-weight: 500; margin-bottom: 10px; }
-        .news-content { display: none; color: #8b949e; font-size: 0.9rem; margin-top: 15px; padding-top: 15px; border-top: 1px solid #30363d; }
-        .news-card.expanded .news-content { display: block; }
-        .news-time { color: #8b949e; font-size: 0.8rem; }
-        .news-ad { padding: 10px 0; grid-column: 1 / -1; }
-        .news-status { grid-column: 1 / -1; padding: 20px; color: var(--text-secondary); font-size: 0.9rem; }
-        .news-status .menu-option { display: inline-block; color: var(--text-primary); }
-        
-        .news-share { 
-            background: transparent; 
-            border: none; 
-            color: var(--accent); 
-            cursor: pointer; 
-            font-size: 1rem;
-            margin-left: 10px;
-            padding: 2px 8px;
-            border-radius: 4px;
-            transition: all 0.3s;
-        }
-        
-        .news-share:hover { 
-            background: var(--accent); 
-            color: var(--bg-primary); 
-        }
-        
-        .news-source-row {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
+        :root[data-theme="dark"] {
+            --paper: #0E1525;
+            --surface: #162038;
+            --ink: #E9EDF5;
+            --ink-2: #A3AEC2;
+            --ink-3: #75819A;
+            --rule: #26324D;
+            --link: #93AAFF;
+            --azi: #FFD45C;
+            --up: #4CC79A;
+            --down: #FF7A6B;
+            --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 10px 30px rgba(0, 0, 0, .25);
+            color-scheme: dark;
         }
 
-        .news-expand-hint { color: #58a6ff; font-size: 0.8rem; margin-top: 10px; }
-        .news-card.expanded .news-expand-hint { display: none; }
+        *, *::before, *::after { box-sizing: border-box; }
+        html { -webkit-text-size-adjust: 100%; }
+        body {
+            margin: 0;
+            background: var(--paper);
+            color: var(--ink);
+            font-family: var(--display);
+            font-size: 16px;
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+        a { color: var(--link); }
+        button { font: inherit; color: inherit; }
+        img { display: block; max-width: 100%; }
+        :focus-visible { outline: 3px solid var(--link); outline-offset: 2px; border-radius: 6px; }
+        .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+        .wrap { max-width: 1180px; margin: 0 auto; padding: 0 var(--gutter); }
 
-        
+        /* ---------- bara de sus ---------- */
+        .topbar {
+            position: sticky; top: 0; z-index: 50;
+            background: color-mix(in srgb, var(--paper) 88%, transparent);
+            backdrop-filter: saturate(1.4) blur(12px);
+            -webkit-backdrop-filter: saturate(1.4) blur(12px);
+            border-bottom: 1px solid transparent;
+            transition: border-color .2s;
+        }
+        .topbar.scrolled { border-bottom-color: var(--rule); }
+        .topbar .wrap { display: flex; align-items: center; gap: 12px; height: 60px; }
+        .wordmark {
+            font-weight: 800; font-size: 1.35rem; letter-spacing: -0.03em;
+            color: var(--ink); text-decoration: none; display: flex; align-items: center; gap: 8px;
+            font-variation-settings: "wdth" 85;
+        }
+        .wordmark .sun {
+            width: 22px; height: 22px; border-radius: 50%; background: var(--azi);
+            box-shadow: inset -4px -4px 0 rgba(0,0,0,.08);
+        }
+        .search {
+            flex: 1; display: flex; align-items: center; gap: 8px;
+            max-width: 460px; margin-left: auto;
+            background: var(--surface); border: 1px solid var(--rule); border-radius: 999px;
+            padding: 0 6px 0 14px; height: 42px;
+        }
+        .search:focus-within { border-color: var(--link); }
+        .search svg { flex: none; width: 18px; height: 18px; color: var(--ink-3); }
+        .search input {
+            flex: 1; min-width: 0; border: 0; outline: 0; background: transparent;
+            font: inherit; font-size: 0.95rem; color: var(--ink);
+        }
+        .search input::-webkit-search-cancel-button { display: none; }
+        .search input::placeholder { color: var(--ink-3); }
+        .icon-btn {
+            flex: none; width: 42px; height: 42px; border-radius: 50%;
+            display: grid; place-items: center; cursor: pointer;
+            background: transparent; border: 1px solid var(--rule);
+        }
+        .icon-btn:hover { background: var(--surface); }
+        .icon-btn svg { width: 20px; height: 20px; }
+        .search .clear { width: 32px; height: 32px; border: 0; display: none; }
+        .search.has-text .clear { display: grid; }
 
-        .horoscope-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; justify-content: center; }
-        .horoscope-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; text-align: center; }
-        .horoscope-sign { font-weight: 600; color: #f0f6fc; margin-bottom: 5px; }
-        .horoscope-msg { color: #8b949e; font-size: 0.85rem; }
+        /* ---------- azi: data ca masthead ---------- */
+        .today { padding: 28px 0 8px; }
+        .today h1 {
+            margin: 0; font-weight: 800; line-height: .9; letter-spacing: -0.03em;
+            font-size: clamp(3.1rem, 13vw, 7.6rem);
+            font-variation-settings: "wdth" 84, "opsz" 96;
+        }
+        .today .weekday {
+            display: block; font-size: .36em; letter-spacing: -0.02em; font-weight: 700;
+            color: var(--ink-2); margin-bottom: .18em; font-variation-settings: "wdth" 90, "opsz" 48;
+        }
+        .today .num {
+            display: inline-grid; place-items: center;
+            min-width: 1.18em; height: 1.18em; padding: 0 .08em; margin-right: .06em;
+            border-radius: 999px; background: var(--azi); color: var(--azi-ink);
+            vertical-align: -.12em;
+        }
+        .today .status { margin: 14px 0 0; color: var(--ink-2); font-size: .95rem; }
+        .today .status strong { color: var(--ink); font-weight: 600; }
 
-        .radio-section { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 25px; text-align: center; }
-        .radio-title { font-size: 1.2rem; color: #f0f6fc; margin-bottom: 15px; }
-        .radio-player audio { width: 100%; max-width: 400px; }
+        /* ---------- dintr-o privire: vreme, curs, crypto ---------- */
+        .glance {
+            display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px;
+            margin: 24px 0 0;
+        }
+        .glance-item {
+            text-align: left; cursor: pointer; background: var(--surface);
+            border: 1px solid var(--rule); border-radius: var(--radius);
+            padding: 12px 14px; min-width: 0;
+        }
+        .glance-item:hover { border-color: var(--ink-3); }
+        .glance-item[aria-expanded="true"] { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+        .glance-label { display: block; font-size: .8rem; color: var(--ink-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .glance-value {
+            display: block; font-weight: 700; font-size: 1.45rem; letter-spacing: -0.02em;
+            font-variant-numeric: tabular-nums; font-variation-settings: "wdth" 85;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }
+        .glance-sub { display: block; font-size: .8rem; color: var(--ink-3); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .drawer {
+            margin-top: 10px; background: var(--surface); border: 1px solid var(--rule);
+            border-radius: var(--radius); padding: 16px;
+        }
+        .drawer[hidden] { display: none; }
+        .drawer h2 { margin: 0 0 12px; font-size: 1.05rem; font-weight: 700; }
+        .drawer-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 8px; }
+        .tile { background: var(--paper); border-radius: var(--radius-sm); padding: 10px 12px; }
+        .tile b { display: block; font-size: 1.05rem; font-variant-numeric: tabular-nums; }
+        .tile span { display: block; font-size: .8rem; color: var(--ink-2); }
+        .tile .up { color: var(--up); } .tile .down { color: var(--down); }
+        .city-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; position: relative; }
+        .city-row input {
+            flex: 1 1 200px; height: 40px; border-radius: 999px; border: 1px solid var(--rule);
+            background: var(--paper); color: var(--ink); padding: 0 14px; font: inherit;
+        }
+        .chip {
+            flex: none; height: 36px; padding: 0 14px; border-radius: 999px; cursor: pointer;
+            border: 1px solid var(--rule); background: var(--surface); color: var(--ink);
+            font-size: .9rem; display: inline-flex; align-items: center; gap: 7px; white-space: nowrap;
+        }
+        .chip:hover { border-color: var(--ink-3); }
+        .chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+        .city-results { display: flex; gap: 6px; flex-wrap: wrap; }
+        .muted { color: var(--ink-2); font-size: .9rem; }
 
-        footer { text-align: center; padding: 30px 20px; border-top: 1px solid #30363d; margin-top: 40px; color: #8b949e; font-size: 0.9rem; }
-        footer a { color: #58a6ff; text-decoration: none; margin: 0 10px; }
-        footer a:hover { text-decoration: underline; }
+        /* ---------- surse ---------- */
+        .sources {
+            display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none;
+            margin: 28px calc(var(--gutter) * -1) 0; padding: 2px var(--gutter) 4px;
+        }
+        .sources::-webkit-scrollbar { display: none; }
+        .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--src, var(--ink-3)); flex: none; }
+        .chip[aria-pressed="true"] .dot { box-shadow: 0 0 0 2px var(--paper); }
 
-        .disclaimer { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin-top: 30px; text-align: center; color: #8b949e; font-size: 0.85rem; }
-        .disclaimer p { margin: 0; line-height: 1.6; }
-        
-        .adsbygoogle { margin: 20px 0; }
+        /* ---------- layout ---------- */
+        .layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 40px; align-items: start; margin-top: 18px; padding-bottom: 40px; }
+        .feed-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 6px 0 4px; }
+        .feed-head h2 { margin: 0; font-size: 1.5rem; letter-spacing: -0.02em; font-weight: 800; font-variation-settings: "wdth" 85; }
 
-        .cookie-banner { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #161b22; border-top: 1px solid #30363d; padding: 20px; text-align: center; z-index: 1000; }
-        .cookie-banner p { margin: 0 0 15px 0; color: #8b949e; font-size: 0.9rem; }
-        .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; margin: 0 5px; }
-        
-        .forecast-section { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; padding: 15px; background: #161b22; border-radius: 12px; margin-top: 10px; }
-        .forecast-day { text-align: center; padding: 10px; background: #21262d; border-radius: 8px; cursor: pointer; }
-        .forecast-day-name { font-size: 12px; color: #8b949e; margin-bottom: 5px; }
-        .forecast-temp { font-size: 14px; font-weight: bold; color: #f0f6fc; }
-        .forecast-temp-min { font-size: 12px; color: #8b949e; }
-        .forecast-info { font-size: 10px; color: #58a6ff; margin-top: 5px; }
-        .cookie-banner button:hover { background: #4393e6; }
-        .cookie-banner .reject { background: #333; }
-        .cookie-banner .reject:hover { background: #444; }
+        /* știrea principală */
+        .lead { margin: 12px 0 8px; }
+        .lead-media {
+            display: block; position: relative; border-radius: var(--radius-lg); overflow: hidden;
+            aspect-ratio: 16 / 9; background: var(--rule);
+        }
+        .lead-media img { width: 100%; height: 100%; object-fit: cover; }
+        .lead .story-meta { margin-top: 14px; }
+        .lead h3 {
+            margin: 6px 0 0; font-size: clamp(1.55rem, 4.2vw, 2.3rem); line-height: 1.12;
+            letter-spacing: -0.018em; font-weight: 750; font-variation-settings: "wdth" 94, "opsz" 72;
+            max-width: 28ch;
+        }
+        .lead h3 a { color: inherit; text-decoration: none; }
+        .lead h3 a:hover { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; }
+        .lead p { font-family: var(--serif); font-size: 1.08rem; line-height: 1.62; color: var(--ink-2); max-width: 62ch; margin: 10px 0 0; }
 
-        @media (max-width: 768px) {
-            .info-cards { grid-template-columns: repeat(2, 1fr); }
-            .news-grid { grid-template-columns: 1fr; }
-            .horoscope-grid { grid-template-columns: repeat(2, 1fr); }
-            .adsbygoogle { display: none !important; }
+        /* lista de știri */
+        .day-break {
+            display: flex; align-items: center; gap: 12px; margin: 28px 0 6px;
+            font-weight: 700; font-size: 1.05rem; letter-spacing: -0.01em;
+        }
+        .day-break::after { content: ""; flex: 1; height: 2px; background: var(--ink); opacity: .9; border-radius: 2px; }
+        .story { border-bottom: 1px solid var(--rule); }
+        .story-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; padding: 16px 0; align-items: start; }
+        .story-meta { display: flex; align-items: center; gap: 8px; font-size: .82rem; color: var(--ink-2); flex-wrap: wrap; }
+        .story-meta .src { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; color: var(--ink); }
+        .story-meta time { color: var(--ink-3); }
+        .story-toggle {
+            all: unset; display: block; cursor: pointer; margin-top: 4px;
+            font-size: 1.12rem; line-height: 1.3; font-weight: 650; letter-spacing: -0.012em;
+            font-variation-settings: "opsz" 24;
+        }
+        .story-toggle:hover { text-decoration: underline; text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+        .story-toggle:focus-visible { outline: 3px solid var(--link); outline-offset: 3px; border-radius: 4px; }
+        .story-thumb { width: 104px; height: 78px; border-radius: var(--radius-sm); object-fit: cover; background: var(--rule); }
+        .story-more { padding: 0 0 18px; }
+        .story-more[hidden] { display: none; }
+        .story-more p { font-family: var(--serif); font-size: 1.02rem; line-height: 1.62; color: var(--ink-2); margin: 0 0 14px; max-width: 64ch; }
+        .story-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+        .btn {
+            display: inline-flex; align-items: center; gap: 8px; height: 40px; padding: 0 16px;
+            border-radius: 999px; font-size: .92rem; font-weight: 600; cursor: pointer; text-decoration: none;
+            border: 1px solid var(--ink); background: var(--ink); color: var(--paper);
+        }
+        .btn.ghost { background: transparent; color: var(--ink); border-color: var(--rule); }
+        .btn.ghost:hover { border-color: var(--ink-3); }
+        .btn svg { width: 16px; height: 16px; }
+        .story.hit .story-row { padding: 14px 0; }
+        .news-status { padding: 22px 0; color: var(--ink-2); }
+        .news-status:empty { display: none; }
+        #railAd:empty { display: none; }
+        .news-ad { padding: 16px 0; border-bottom: 1px solid var(--rule); min-height: 0; }
+
+        /* ---------- coloana laterală ---------- */
+        .rail { display: grid; gap: 16px; position: sticky; top: 76px; }
+        .panel { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius-lg); padding: 18px; }
+        .panel h2 { margin: 0 0 4px; font-size: 1.15rem; font-weight: 800; letter-spacing: -0.015em; font-variation-settings: "wdth" 88; }
+        .panel > p { margin: 0 0 14px; color: var(--ink-2); font-size: .9rem; }
+        .top10 { margin: 0; padding: 0; list-style: none; counter-reset: top; }
+        .top10 li { counter-increment: top; display: grid; grid-template-columns: 30px 1fr; gap: 6px; padding: 10px 0; border-top: 1px solid var(--rule); font-size: .95rem; line-height: 1.4; }
+        .top10 li::before { content: counter(top); font-weight: 800; font-size: 1.15rem; line-height: 1.2; font-variant-numeric: tabular-nums; }
+        .top10 strong { font-weight: 650; }
+        .radio { display: flex; align-items: center; gap: 14px; }
+        .play {
+            width: 54px; height: 54px; border-radius: 50%; border: 0; cursor: pointer; flex: none;
+            background: var(--azi); color: var(--azi-ink); display: grid; place-items: center;
+        }
+        .play svg { width: 22px; height: 22px; }
+        .radio-name { font-weight: 700; }
+        .radio-state { font-size: .85rem; color: var(--ink-2); display: flex; align-items: center; gap: 6px; }
+        .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--ink-3); }
+        .radio.playing .live-dot { background: var(--down); animation: pulse 1.6s ease-in-out infinite; }
+        @keyframes pulse { 50% { opacity: .35; } }
+        #volume { width: 100%; margin-top: 12px; accent-color: var(--ink); }
+        .signs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
+        .sign {
+            all: unset; cursor: pointer; display: grid; grid-template-columns: 26px 1fr; gap: 2px 6px;
+            padding: 9px 10px; border-radius: var(--radius-sm); background: var(--paper); font-size: .85rem;
+        }
+        .sign:focus-visible { outline: 3px solid var(--link); }
+        .sign .glyph { grid-row: span 2; font-size: 1.2rem; line-height: 1.2; }
+        .sign b { font-weight: 650; }
+        .sign span { color: var(--ink-2); font-size: .8rem; line-height: 1.3; }
+        .sign.mine { background: var(--azi); color: var(--azi-ink); grid-column: 1 / -1; }
+        .sign.mine span { color: var(--azi-ink); opacity: .8; }
+
+        footer { border-top: 1px solid var(--rule); padding: 28px 0 110px; color: var(--ink-2); font-size: .9rem; }
+        footer nav { display: flex; gap: 6px 18px; flex-wrap: wrap; margin-bottom: 12px; }
+        footer nav a { color: var(--ink); }
+        footer p { margin: 0 0 8px; max-width: 70ch; }
+
+        .consent {
+            position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 60; max-width: 560px; margin: 0 auto;
+            background: var(--ink); color: var(--paper); border-radius: var(--radius-lg); padding: 16px 18px;
+            box-shadow: var(--shadow); display: none;
+        }
+        .consent.show { display: block; }
+        .consent p { margin: 0 0 12px; font-size: .92rem; }
+        .consent a { color: inherit; }
+        .consent .row { display: flex; gap: 8px; flex-wrap: wrap; }
+        .consent .btn { background: var(--azi); color: var(--azi-ink); border-color: var(--azi); }
+        .consent .btn.ghost { background: transparent; color: var(--paper); border-color: color-mix(in srgb, var(--paper) 40%, transparent); }
+
+        /* chatbot-ul (chatbot.js) adus la paleta site-ului */
+        html body .azinews-chat-btn { background: var(--ink); box-shadow: var(--shadow); width: 56px; height: 56px; right: 16px; bottom: 16px; }
+        html body .azinews-chat-btn:hover { transform: none; box-shadow: var(--shadow); }
+
+        @media (max-width: 960px) {
+            .layout { grid-template-columns: 1fr; gap: 24px; }
+            .rail { position: static; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+        }
+        @media (max-width: 640px) {
+            .topbar .wrap { gap: 8px; }
+            .search { height: 40px; }
+            .wordmark .label { display: none; }
+            .glance { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; margin-top: 20px; }
+            .glance-item { padding: 10px 12px; border-radius: var(--radius-sm); }
+            .glance-value { font-size: 1.25rem; }
+            .today { padding-top: 20px; }
+            .lead p { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; font-size: 1.02rem; }
+            .sources { margin-top: 20px; }
+            .story-thumb { width: 88px; height: 66px; }
+            .lead-media { border-radius: var(--radius); }
+        }
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
         }
     </style>
 </head>
 <body>
-    <button class="theme-toggle" onclick="toggleTheme()" title="Dark/Light Mode">🌙</button>
-    <button class="menu-toggle" onclick="toggleMenu()" title="Filtrează știrile">
-        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
-        </svg>
-    </button>
-    
-    <!-- Dropdown Menu -->
-    <div class="menu-dropdown" id="menuDropdown">
-        <div class="menu-section">
-            <div class="menu-section-title">Surse</div>
-            <div class="menu-options">
-                <div class="menu-option" data-source="Digi24" onclick="filterNews('source', 'Digi24', this)">Digi24</div>
-                <div class="menu-option" data-source="Mediafax" onclick="filterNews('source', 'Mediafax', this)">Mediafax</div>
-                <div class="menu-option" data-source="Europa FM" onclick="filterNews('source', 'Europa FM', this)">Europa FM</div>
-                <div class="menu-option" data-source="Libertatea" onclick="filterNews('source', 'Libertatea', this)">Libertatea</div>
-                <div class="menu-option" data-source="Adevarul" onclick="filterNews('source', 'Adevarul', this)">Adevărul</div>
-                <div class="menu-option" data-source="G4Media" onclick="filterNews('source', 'G4Media', this)">G4Media</div>
-            </div>
-        </div>
-        <div class="menu-section">
-            <div class="menu-section-title">Caută</div>
-            <div style="position:relative;">
-                <input type="search" id="news-search" class="news-search-input" placeholder="Ex: economie, fotbal, politică..." oninput="searchNews(this.value)" onkeydown="if(event.key==='Enter') searchNews(this.value, true)" enterkeyhint="search">
-                <span class="search-clear" onclick="clearSearch()" style="display:none;">✕</span>
-            </div>
-        </div>
-        <div class="menu-option menu-reset" onclick="resetFilters()">🔄 Arată toate știrile</div>
-    </div>
-    <header>
-        <div class="container">
-            <h1>AziNews</h1>
-            <p class="date" id="currentDate"></p>
+    <header class="topbar" id="topbar">
+        <div class="wrap">
+            <a class="wordmark" href="./" aria-label="AziNews, prima pagină"><span class="sun" aria-hidden="true"></span><span class="label">AziNews</span></a>
+            <form class="search" id="searchForm" role="search" onsubmit="event.preventDefault(); searchNews(this.q.value, true);">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+                <label class="sr-only" for="news-search">Caută în știri</label>
+                <input type="search" id="news-search" name="q" placeholder="Caută în toate știrile" autocomplete="off" enterkeyhint="search" oninput="searchNews(this.value)">
+                <button type="button" class="icon-btn clear" onclick="clearSearch()" aria-label="Șterge căutarea">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+                </button>
+            </form>
+            <button class="icon-btn" id="themeBtn" onclick="toggleTheme()" aria-label="Schimbă tema">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+            </button>
         </div>
     </header>
 
-    <div class="container">
-        <div class="info-cards">
-            <div class="card" onclick="toggleWeatherForecast()" style="cursor: pointer;">
-                <div class="card-icon">☀️</div>
-                <div class="card-title">Vremea <span style="font-size:10px;">▼</span></div>
-                <div class="card-value" id="weather">--°C</div>
-                <div class="card-sub">
-                    <input type="text" id="city-search" placeholder="Caută oraș..." 
-                           style="background:transparent;border:none;color:inherit;font-size:14px;width:100%;padding:2px;text-align:center;"
-                           onclick="event.stopPropagation(); showCityDropdown()"
-                           onkeyup="searchCity(this.value)">
-                    <div id="city-dropdown" style="display:none;position:absolute;background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:8px;padding:8px;z-index:1000;max-height:200px;overflow-y:auto;width:180px;">
+    <div class="wrap">
+        <section class="today" aria-label="Azi">
+            <h1 id="todayTitle"><span class="weekday">Azi</span>Știrile zilei</h1>
+            <p class="status" id="todayStatus">Se încarcă știrile...</p>
+
+            <div class="glance">
+                <button class="glance-item" aria-expanded="false" aria-controls="drawer-weather" data-drawer="weather">
+                    <span class="glance-label" id="weatherLabel">Vremea în București</span>
+                    <span class="glance-value" id="weather">--°</span>
+                    <span class="glance-sub" id="weatherSub">Prognoză pe 7 zile</span>
+                </button>
+                <button class="glance-item" aria-expanded="false" aria-controls="drawer-fx" data-drawer="fx">
+                    <span class="glance-label">Euro</span>
+                    <span class="glance-value" id="eur">--</span>
+                    <span class="glance-sub">lei, alte valute</span>
+                </button>
+                <button class="glance-item" aria-expanded="false" aria-controls="drawer-fx" data-drawer="fx">
+                    <span class="glance-label">Dolar</span>
+                    <span class="glance-value" id="usd">--</span>
+                    <span class="glance-sub">lei</span>
+                </button>
+                <button class="glance-item" aria-expanded="false" aria-controls="drawer-crypto" data-drawer="crypto">
+                    <span class="glance-label">Bitcoin</span>
+                    <span class="glance-value" id="btc">--</span>
+                    <span class="glance-sub" id="eth">Ethereum --</span>
+                </button>
+            </div>
+
+            <div class="drawer" id="drawer-weather" hidden>
+                <h2>Vremea</h2>
+                <div class="city-row">
+                    <label class="sr-only" for="city-search">Caută un oraș</label>
+                    <input type="search" id="city-search" placeholder="Caută un oraș din România" autocomplete="off" oninput="searchCity(this.value)">
+                </div>
+                <div class="city-results" id="city-dropdown"></div>
+                <div class="drawer-grid" id="weather-forecast" style="margin-top:14px;"></div>
+            </div>
+            <div class="drawer" id="drawer-fx" hidden>
+                <h2>Cursul valutar</h2>
+                <div class="drawer-grid" id="currency-rates"><p class="muted">Se încarcă...</p></div>
+            </div>
+            <div class="drawer" id="drawer-crypto" hidden>
+                <h2>Crypto</h2>
+                <div class="drawer-grid" id="crypto-rates"><p class="muted">Se încarcă...</p></div>
+            </div>
+
+            <nav class="sources" aria-label="Filtrează după sursă" id="sources">
+                <button class="chip" aria-pressed="true" data-source="">Toate sursele</button>
+                <button class="chip" aria-pressed="false" data-source="Digi24"><span class="dot" style="--src: var(--src-digi24)"></span>Digi24</button>
+                <button class="chip" aria-pressed="false" data-source="Mediafax"><span class="dot" style="--src: var(--src-mediafax)"></span>Mediafax</button>
+                <button class="chip" aria-pressed="false" data-source="Adevarul"><span class="dot" style="--src: var(--src-adevarul)"></span>Adevărul</button>
+                <button class="chip" aria-pressed="false" data-source="G4Media"><span class="dot" style="--src: var(--src-g4media)"></span>G4Media</button>
+                <button class="chip" aria-pressed="false" data-source="Libertatea"><span class="dot" style="--src: var(--src-libertatea)"></span>Libertatea</button>
+                <button class="chip" aria-pressed="false" data-source="Europa FM"><span class="dot" style="--src: var(--src-europafm)"></span>Europa FM</button>
+            </nav>
+        </section>
+
+        <div class="layout">
+            <main class="feed news-section" id="feed">
+                <div class="feed-head"><h2 id="feedTitle">Ultimele știri</h2></div>
+                <div id="newsGrid"></div>
+                <div id="newsStatus" class="news-status" aria-live="polite"></div>
+                <div id="infiniteScrollSentinel" style="height: 1px;"></div>
+            </main>
+
+            <aside class="rail" aria-label="Mai mult">
+                <section class="panel" id="topPanel">
+                    <h2>Top 10 azi</h2>
+                    <p>Cele mai importante știri ale momentului, alese de AI din ultimele titluri.</p>
+                    <button class="btn" id="top-news-btn" onclick="generateTopNews()">Arată topul</button>
+                    <div id="top-news-loading" class="muted" style="display:none; padding: 12px 0;">Se alege topul...</div>
+                    <ol class="top10" id="top-news-list"></ol>
+                </section>
+
+                <section class="panel">
+                    <h2>Radio live</h2>
+                    <div class="radio" id="radio">
+                        <button class="play" id="playBtn" aria-label="Pornește radioul">
+                            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" id="playIcon"><path d="M8 5.5v13l11-6.5z"/></svg>
+                        </button>
+                        <div>
+                            <div class="radio-name">Enjoy Radio</div>
+                            <div class="radio-state"><span class="live-dot"></span><span id="radioState">Oprit</span></div>
+                        </div>
                     </div>
-                </div>
-            </div>
-            <div id="weather-forecast" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
-            <div class="card" onclick="toggleCurrencyRates()" style="cursor: pointer;">
-                <div class="card-icon">💰</div>
-                <div class="card-title">Curs <span style="font-size:10px;">▼</span></div>
-                <div class="card-value" id="eur">€ --</div>
-                <div class="card-sub">$ <span id="usd">--</span> RON</div>
-            </div>
-            <div id="currency-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
-            <div class="card" onclick="toggleCryptoRates()" style="cursor: pointer;">
-                <div class="card-icon">₿</div>
-                <div class="card-title">Crypto <span style="font-size:10px;">▼</span></div>
-                <div class="card-value" id="btc">BTC: $--</div>
-                <div class="card-sub">ETH: $<span id="eth">--</span></div>
-            </div>
-            <div id="crypto-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
-            <div class="card" onclick="toggleTopNews(this)" style="cursor: pointer;">
-                <div class="card-icon">🤖</div>
-                <div class="card-title">Top News <span style="font-size:10px;">▼</span></div>
-                <div id="top-news-btn-container">
-                    <button id="top-news-btn" onclick="event.stopPropagation(); generateTopNews()" style="background: #58a6ff; color: #fff; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: 12px; width: 100%;">Vezi Top 10 Știri</button>
-                </div>
-                <div id="top-news-container" style="display: none;">
-                    <div id="top-news-list" style="font-size: 13px; line-height: 1.5;"></div>
-                    <div style="font-size: 10px; color: #888; margin-top: 8px; text-align: right;">✨ generat cu AziNews AI</div>
-                </div>
-                <div id="top-news-loading" style="text-align: center; padding: 20px; color: #888; display: none;">
-                    <div style="font-size: 20px;">🔄</div>
-                    <div style="font-size: 11px;">Se generează...</div>
-                </div>
-                <div class="news-expand-hint" style="display:none;">Click pentru a închide ▼</div>
-            </div>
-        </div>
+                    <label class="sr-only" for="volume">Volum</label>
+                    <input type="range" id="volume" min="0" max="1" step="0.05" value="0.15">
+                    <audio id="radioPlayer" preload="none" src="https://live.enjoyradio.ro/radio/8000/enjoylive.mp3"></audio>
+                </section>
 
-        <div class="section">
-            <h2>Radio Live</h2>
-            <div class="radio-section">
-                <div class="radio-title">🎵 Enjoy Radio</div>
-                <audio id="radioPlayer" controls>
-                    <source src="https://live.enjoyradio.ro/radio/8000/enjoylive.mp3" type="audio/mp3">
-                </audio>
-            </div>
-        </div>
+                <section class="panel">
+                    <h2>Horoscop</h2>
+                    <p>Alege-ți zodia și o vei vedea mereu prima.</p>
+                    <div class="signs" id="horoscopeGrid"></div>
+                </section>
 
-        <!-- AdSense FIX 1 - after radio -->
-        <div class="section">
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543211" data-ad-format="auto" data-full-width-responsive="true"></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                <div class="news-ad" id="railAd"></div>
+            </aside>
         </div>
-
-        <div class="section news-section">
-            <h2>Știri din România</h2>
-            <div class="news-grid" id="newsGrid"></div>
-            <div id="newsStatus" class="news-status" style="display:none;"></div>
-            <div id="infiniteScrollSentinel" style="height: 10px; width: 100%;"></div>
-        </div>
-
-        <!-- AdSense FIX 2 - before horoscop -->
-        <div class="section">
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </div>
-
-        <div class="section">
-            <h2>Horoscop</h2>
-            <div class="horoscope-grid" id="horoscopeGrid"></div>
-        </div>
-
-        <div class="disclaimer">
-            <p><strong>Disclaimer:</strong> AziNews este un agregator de știri publice și radio. Nu deținem conținutul afișat. Toate știrile și posturile de radio aparțin surselor originale (Digi24, Mediafax, Europa FM, Libertatea, Adevărul, G4Media, Enjoy Radio). Acest serviciu este doar în scop informativ.</p>
-        </div>
-    </div>
-
-    <!-- AdSense FIX 3 - before footer -->
-    <div class="container">
-        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543210" data-ad-format="auto" data-full-width-responsive="true"></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
 
     <footer>
-        <p>© 2026 AziNews. Toate drepturile rezervate.</p>
-        <p>
-            <a href="terms.html" target="_blank">Termeni și Condiții</a> | 
-            <a href="privacy.html" target="_blank">Politica de Confidențialitate</a> |
-            <a href="despre.html">Despre</a> |
-            <a href="contact.html">Contact</a>
-        </p>
+        <div class="wrap">
+            <nav aria-label="Pagini">
+                <a href="despre.html">Despre</a>
+                <a href="contact.html">Contact</a>
+                <a href="terms.html">Termeni și condiții</a>
+                <a href="privacy.html">Confidențialitate</a>
+                <a href="feed.xml">RSS</a>
+                <a href="#" onclick="event.preventDefault(); showConsent()">Setări cookies</a>
+            </nav>
+            <p>AziNews adună titlurile publice de la Digi24, Mediafax, Adevărul, G4Media, Libertatea și Europa FM și trimite către articolul original. Conținutul aparține surselor. Radio: Enjoy Radio.</p>
+            <p>© 2026 AziNews</p>
+        </div>
     </footer>
 
-
-    <div class="cookie-banner" id="cookieBanner">
-        <p>🍪 Folosim cookies pentru a afișa reclame Google. <a href="privacy.html" style="color: #58a6ff;">Citește Politica de Confidențialitate</a></p>
-        <div>
-            <button onclick="acceptCookies()">Accept</button>
-            <button class="reject" onclick="rejectCookies()">Respinge</button>
+    <div class="consent" id="cookieBanner" role="dialog" aria-label="Cookies">
+        <p>Folosim cookies pentru reclame Google și statistici de trafic. Fără acordul tău nu se încarcă nimic din acestea. <a href="privacy.html">Detalii</a></p>
+        <div class="row">
+            <button class="btn" onclick="acceptCookies()">Accept</button>
+            <button class="btn ghost" onclick="rejectCookies()">Refuz</button>
         </div>
     </div>
 
     <script>
+        // ---------- utilitare ----------
+        const store = {
+            get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+            set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+        };
+        function esc(s) {
+            return String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+        }
+        function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : '#'; }
+        function norm(s) { return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+        const fmt = (n, d = 2) => Number(n).toLocaleString('ro-RO', { minimumFractionDigits: d, maximumFractionDigits: d });
+        const WEEKDAYS = ['Duminică', 'Luni', 'Marți', 'Miercuri', 'Joi', 'Vineri', 'Sâmbătă'];
+        const MONTHS = ['ianuarie', 'februarie', 'martie', 'aprilie', 'mai', 'iunie', 'iulie', 'august', 'septembrie', 'octombrie', 'noiembrie', 'decembrie'];
+        const roDay = d => d.toLocaleDateString('sv-SE', { timeZone: 'Europe/Bucharest' }); // YYYY-MM-DD
+
+        // ---------- temă ----------
+        function currentTheme() {
+            const set = document.documentElement.dataset.theme;
+            if (set) return set;
+            return matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        function toggleTheme() {
+            const next = currentTheme() === 'dark' ? 'light' : 'dark';
+            document.documentElement.dataset.theme = next;
+            store.set('theme', next);
+        }
+
+        // ---------- data de azi ----------
         function updateDateTime() {
             const now = new Date();
-            const days = ['Duminică', 'Luni', 'Marți', 'Miercuri', 'Joi', 'Vineri', 'Sâmbătă'];
-            const months = ['Ianuarie', 'Februarie', 'Martie', 'Aprilie', 'Mai', 'Iunie', 'Iulie', 'August', 'Septembrie', 'Octombrie', 'Noiembrie', 'Decembrie'];
-            document.getElementById('currentDate').textContent = days[now.getDay()] + ', ' + now.getDate() + ' ' + months[now.getMonth()] + ' ' + now.getFullYear() + ' | România';
+            const parts = new Intl.DateTimeFormat('ro-RO', { timeZone: 'Europe/Bucharest', weekday: 'long', day: 'numeric', month: 'long' }).formatToParts(now);
+            const get = t => (parts.find(p => p.type === t) || {}).value || '';
+            const wd = get('weekday');
+            document.getElementById('todayTitle').innerHTML =
+                `<span class="weekday">${esc(wd.charAt(0).toUpperCase() + wd.slice(1))}</span><span class="num">${esc(get('day'))}</span>${esc(get('month'))}`;
         }
         updateDateTime();
         setInterval(updateDateTime, 60000);
 
+        const topbar = document.getElementById('topbar');
+        addEventListener('scroll', () => topbar.classList.toggle('scrolled', scrollY > 8), { passive: true });
 
-        // Cached API calls (1 hour)
-        const CACHE_DURATION = 60 * 60 * 1000; // 1 hour
-        const LONG_CACHE = 24 * 60 * 60 * 1000; // 24 ore pentru crypto
-        
-        function fetchWithCache(url, key, updateFn, duration = CACHE_DURATION) {
-            const cached = localStorage.getItem(key);
+        // ---------- cache simplu pentru API-uri ----------
+        function fetchWithCache(url, key, updateFn, duration) {
+            const cached = store.get(key);
             if (cached) {
-                const data = JSON.parse(cached);
-                if (Date.now() - data.timestamp < duration) {
+                try {
+                    const data = JSON.parse(cached);
                     updateFn(data.value);
-                    return;
-                }
+                    if (Date.now() - data.timestamp < duration) return;
+                } catch (e) {}
             }
             fetch(url).then(r => r.json()).then(d => {
-                localStorage.setItem(key, JSON.stringify({ timestamp: Date.now(), value: d }));
+                store.set(key, JSON.stringify({ timestamp: Date.now(), value: d }));
                 updateFn(d);
             }).catch(() => {});
         }
-        
-        // Weather with fallback chain: open-meteo -> wttr -> cached
+
+        // ---------- sertare (vreme / curs / crypto) ----------
+        const drawerLoaders = {};
+        document.querySelectorAll('.glance-item').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const id = btn.dataset.drawer;
+                const drawer = document.getElementById('drawer-' + id);
+                const opening = drawer.hidden;
+                document.querySelectorAll('.drawer').forEach(d => d.hidden = true);
+                document.querySelectorAll('.glance-item').forEach(b => b.setAttribute('aria-expanded', 'false'));
+                if (opening) {
+                    drawer.hidden = false;
+                    document.querySelectorAll(`.glance-item[data-drawer="${id}"]`).forEach(b => b.setAttribute('aria-expanded', 'true'));
+                    if (drawerLoaders[id]) drawerLoaders[id]();
+                }
+            });
+        });
+
+        // ---------- vremea ----------
+        const WEATHER_TEXT = c =>
+            c === 0 ? 'Senin' : c <= 2 ? 'Parțial noros' : c === 3 ? 'Înnorat' : c <= 48 ? 'Ceață' :
+            c <= 57 ? 'Burniță' : c <= 67 ? 'Ploaie' : c <= 77 ? 'Ninsoare' : c <= 82 ? 'Averse' :
+            c <= 86 ? 'Averse de ninsoare' : 'Furtună';
+        const CITIES = [
+            { name: 'București', lat: 44.43, lon: 26.10 }, { name: 'Cluj-Napoca', lat: 46.77, lon: 23.60 },
+            { name: 'Timișoara', lat: 45.75, lon: 21.23 }, { name: 'Iași', lat: 47.16, lon: 27.59 },
+            { name: 'Constanța', lat: 44.18, lon: 28.65 }, { name: 'Craiova', lat: 44.32, lon: 23.80 },
+            { name: 'Brașov', lat: 45.64, lon: 25.59 }, { name: 'Galați', lat: 45.42, lon: 28.04 },
+            { name: 'Ploiești', lat: 44.94, lon: 26.02 }, { name: 'Oradea', lat: 47.06, lon: 21.92 }
+        ];
+        let currentCity = CITIES[0];
+        try { const c = JSON.parse(store.get('azinews_city')); if (c && c.name) currentCity = c; } catch (e) {}
+
+        function showWeather(temp, code) {
+            document.getElementById('weather').textContent = `${temp}°`;
+            document.getElementById('weatherLabel').textContent = `Vremea în ${currentCity.name}`;
+            document.getElementById('weatherSub').textContent = code != null ? WEATHER_TEXT(code) : 'Prognoză pe 7 zile';
+        }
         function fetchWeather() {
-            const weatherEl = document.getElementById('weather');
             const cacheKey = 'azinews_weather';
-            const cached = localStorage.getItem(cacheKey);
-            
-            // Show cached data immediately if available
-            if (cached) {
-                const data = JSON.parse(cached);
-                if (data.temp) weatherEl.textContent = data.temp + '°C';
-            }
-            
-            // Try open-meteo first (supports 7-day forecast)
-            fetch(`https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true&daily=weathercode,temperature_2m_max,temperature_2m_min&forecast_days=7&timezone=Europe/Bucharest`)
+            try {
+                const c = JSON.parse(store.get(cacheKey));
+                if (c && c.city === currentCity.name) showWeather(c.temp, c.code);
+            } catch (e) {}
+            const { lat, lon, name } = currentCity;
+            fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&daily=weathercode,temperature_2m_max,temperature_2m_min,precipitation_sum&forecast_days=7&timezone=Europe/Bucharest`)
                 .then(r => r.json())
                 .then(d => {
                     const temp = Math.round(d.current_weather.temperature);
-                    weatherEl.textContent = temp + '°C';
-                    localStorage.setItem(cacheKey, JSON.stringify({ temp: temp, timestamp: Date.now() }));
+                    const code = d.current_weather.weathercode;
+                    showWeather(temp, code);
+                    store.set(cacheKey, JSON.stringify({ temp, code, city: name, timestamp: Date.now() }));
+                    renderForecast(d.daily.time.map((t, i) => ({
+                        date: t, max: Math.round(d.daily.temperature_2m_max[i]), min: Math.round(d.daily.temperature_2m_min[i]),
+                        info: WEATHER_TEXT(d.daily.weathercode[i]), rain: `${fmt(d.daily.precipitation_sum[i], 1)} mm`
+                    })));
                 })
                 .catch(() => {
-                    // Fallback to wttr.in
-                    fetch(`https://wttr.in/Bucharest?format=j1`)
-                        .then(r => r.json())
-                        .then(d => {
-                            const temp = d.current_condition[0].temp_C;
-                            weatherEl.textContent = temp + '°C';
-                            localStorage.setItem(cacheKey, JSON.stringify({ temp: temp, timestamp: Date.now() }));
-                        })
-                        .catch(() => {
-                            console.log('Weather APIs unavailable');
-                        });
-                });
-        }
-        fetchWeather();
-        
-        // Weather search by city
-        let currentCity = { name: 'București', lat: 44.43, lon: 26.10 };
-        
-        function showCityDropdown() {
-            const dropdown = document.getElementById('city-dropdown');
-            dropdown.style.display = 'block';
-            dropdown.innerHTML = getCityButtons();
-        }
-        
-        function getCityButtons() {
-            const cities = [
-                {name: 'București', lat: 44.43, lon: 26.10},
-                {name: 'Cluj-Napoca', lat: 46.77, lon: 23.60},
-                {name: 'Timișoara', lat: 45.75, lon: 21.23},
-                {name: 'Iași', lat: 47.16, lon: 27.59},
-                {name: 'Constanța', lat: 44.18, lon: 28.65},
-                {name: 'Craiova', lat: 44.32, lon: 23.80},
-                {name: 'Brașov', lat: 45.64, lon: 25.59},
-                {name: 'Galați', lat: 45.42, lon: 28.04},
-                {name: 'Ploiești', lat: 44.94, lon: 26.02},
-                {name: 'Oradea', lat: 47.06, lon: 21.92}
-            ];
-            return cities.map(c => `<div onclick="selectCity('${c.name}', ${c.lat}, ${c.lon})" 
-                style="padding:8px;cursor:pointer;border-radius:4px;hover:background:var(--bg-tertiary)">📍 ${c.name}</div>`).join('');
-        }
-        
-        function searchCity(query) {
-            const dropdown = document.getElementById('city-dropdown');
-            if (query.length < 2) {
-                dropdown.innerHTML = getCityButtons();
-                return;
-            }
-            // Use Nominatim for geocoding
-            fetch(`https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(query)},Romania&format=json&limit=5&accept-language=ro`)
-                .then(r => r.json())
-                .then(d => {
-                    if (d && d.length > 0) {
-                        dropdown.innerHTML = d.slice(0, 5).map(c => `<div onclick="selectCityFromSearch('${c.display_name.split(',')[0]}', ${c.lat}, ${c.lon})" 
-                            style="padding:8px;cursor:pointer;font-size:12px;">📍 ${c.display_name.split(',')[0]}, ${c.display_name.split(',')[1] || ''}</div>`).join('');
-                    } else {
-                        dropdown.innerHTML = `<div style="padding:8px;color:#888;">Nu am găsit: ${query}</div>`;
-                    }
-                })
-                .catch(() => {
-                    dropdown.innerHTML = getCityButtons();
-                });
-        }
-        
-        function selectCityFromSearch(name, lat, lon) {
-            selectCity(name, lat, lon);
-        }
-        
-        function selectCity(name, lat, lon) {
-            currentCity = { name: name, lat: lat, lon: lon };
-            document.getElementById('city-search').value = name;
-            document.getElementById('city-dropdown').style.display = 'none';
-            
-            // Fetch weather for city (open-meteo first, wttr backup)
-            fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&daily=weathercode,temperature_2m_max,temperature_2m_min&forecast_days=7&timezone=Europe/Bucharest`)
-                .then(r => r.json())
-                .then(d => {
-                    const temp = Math.round(d.current_weather.temperature);
-                    document.getElementById('weather').textContent = temp + '°C';
-                    localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
-                })
-                .catch(() => {
-                    // Fallback to wttr.in
                     fetch(`https://wttr.in/${encodeURIComponent(name)}?format=j1`)
                         .then(r => r.json())
                         .then(d => {
                             const temp = d.current_condition[0].temp_C;
-                            document.getElementById('weather').textContent = temp + '°C';
-                            localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
-                        });
-                });
-            
-            localStorage.setItem('azinews_city', JSON.stringify(currentCity));
-        }
-        
-        // Load saved city on page load
-        const savedCity = localStorage.getItem('azinews_city');
-        if (savedCity) {
-            try {
-                currentCity = JSON.parse(savedCity);
-                document.getElementById('city-search').value = currentCity.name;
-                // Update weather for saved city (open-meteo first)
-                fetch(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&current_weather=true&daily=weathercode,temperature_2m_max,temperature_2m_min&forecast_days=7&timezone=Europe/Bucharest`)
-                    .then(r => r.json())
-                    .then(d => {
-                        const temp = Math.round(d.current_weather.temperature);
-                        document.getElementById('weather').textContent = temp + '°C';
-                        localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
-                    })
-                    .catch(() => {
-                        // Fallback to wttr
-                        fetch(`https://wttr.in/${encodeURIComponent(currentCity.name)}?format=j1`)
-                            .then(r => r.json())
-                            .then(d => {
-                                const temp = d.current_condition[0].temp_C;
-                                document.getElementById('weather').textContent = temp + '°C';
-                                localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
-                            });
-                    });
-            } catch(e) {}
-        }
-        
-        // Close dropdown when clicking outside
-        document.addEventListener('click', function(e) {
-            const dropdown = document.getElementById('city-dropdown');
-            const input = document.getElementById('city-search');
-            if (!dropdown.contains(e.target) && e.target !== input) {
-                dropdown.style.display = 'none';
-            }
-        });
-        
-        // Weather 7-day forecast (open-meteo primary, wttr fallback)
-        let weatherForecastLoaded = false;
-        function toggleWeatherForecast() {
-            const el = document.getElementById('weather-forecast');
-            if (el.style.display === 'none') {
-                el.style.display = 'grid';
-                if (!weatherForecastLoaded) {
-                    // Try open-meteo first (7-day forecast)
-                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&forecast_days=7&timezone=Europe/Bucharest`)
-                        .then(r => r.json())
-                        .then(d => {
-                            const days = ['Dum', 'Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm'];
-                            let html = '';
-                            d.daily.time.forEach((date, i) => {
-                                const dayName = days[new Date(date).getDay()];
-                                html += `<div class="forecast-day">
-                                    <div class="forecast-day-name">${dayName}</div>
-                                    <div class="forecast-temp">${d.daily.temperature_2m_max[i]}°</div>
-                                    <div class="forecast-temp-min">${d.daily.temperature_2m_min[i]}°</div>
-                                    <div class="forecast-info">💧 ${d.daily.precipitation_sum[i]}mm</div>
-                                </div>`;
-                            });
-                            el.innerHTML = html;
-                            weatherForecastLoaded = true;
+                            showWeather(temp, null);
+                            store.set(cacheKey, JSON.stringify({ temp, code: null, city: name, timestamp: Date.now() }));
+                            renderForecast(d.weather.map(w => ({ date: w.date, max: w.maxtempC, min: w.mintempC, info: '', rain: `${w.hourly[4].chanceofrain}% ploaie` })));
                         })
-                        .catch(() => {
-                            // Fallback to wttr (3-day forecast)
-                            fetch(`https://wttr.in/${encodeURIComponent(currentCity.name)}?format=j1`)
-                                .then(r => r.json())
-                                .then(d => {
-                                    const days = ['Dum', 'Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm'];
-                                    let html = '';
-                                    d.weather.forEach(day => {
-                                        const date = new Date(day.date);
-                                        const dayName = days[date.getDay()];
-                                        html += `<div class="forecast-day">
-                                            <div class="forecast-day-name">${dayName}</div>
-                                            <div class="forecast-temp">${day.maxtempC}°</div>
-                                            <div class="forecast-temp-min">${day.mintempC}°</div>
-                                            <div class="forecast-info">💧 ${day.hourly[4].chanceofrain}%</div>
-                                        </div>`;
-                                    });
-                                    el.innerHTML = html;
-                                    weatherForecastLoaded = true;
-                                });
-                        });
-                }
-            } else {
-                el.style.display = 'none';
-            }
+                        .catch(() => { document.getElementById('weatherSub').textContent = 'Indisponibil acum'; });
+                });
         }
-        
-        // Currency rates - multiple currencies
-        let currencyRatesLoaded = false;
-        function toggleCurrencyRates() {
-            const el = document.getElementById('currency-rates');
-            if (el.style.display === 'none') {
-                el.style.display = 'grid';
-                if (!currencyRatesLoaded) {
-                    fetch('https://open.er-api.com/v6/latest/RON')
-                        .then(r => r.json()).then(data => {
-                            const flags = { EUR: '🇪🇺', USD: '🇺🇸', GBP: '🇬🇧', CHF: '🇨🇭', HUF: '🇭🇺', PLN: '🇵🇱', CZK: '🇨🇿', TRY: '🇹🇷' };
-                            const names = { EUR: 'Euro', USD: 'Dolar', GBP: 'Lira', CHF: 'Franco', HUF: 'Forint', PLN: 'Zlot', CZK: 'Coroana', TRY: 'Lira' };
-                            const currencies = ['EUR', 'USD', 'GBP', 'CHF', 'HUF', 'PLN', 'CZK', 'TRY'];
-                            let html = '';
-                            currencies.forEach(c => {
-                                const rate = (1 / data.rates[c]).toFixed(4);
-                                html += `<div class="forecast-day">
-                                    <div class="forecast-day-name">${flags[c]} ${c}</div>
-                                    <div class="forecast-temp">${rate} RON</div>
-                                    <div class="forecast-info">${names[c]}</div>
-                                </div>`;
-                            });
-                            el.innerHTML = html;
-                            currencyRatesLoaded = true;
-                        });
-                }
-            } else {
-                el.style.display = 'none';
-            }
+        function renderForecast(days) {
+            document.getElementById('weather-forecast').innerHTML = days.map((d, i) => {
+                const name = i === 0 ? 'Azi' : i === 1 ? 'Mâine' : WEEKDAYS[new Date(d.date + 'T12:00').getDay()];
+                return `<div class="tile"><span>${esc(name)}</span><b>${esc(d.max)}° / ${esc(d.min)}°</b><span>${esc(d.info)}${d.info ? ', ' : ''}${esc(d.rain)}</span></div>`;
+            }).join('');
         }
-        
-        fetchWithCache('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd', 'azinews_crypto',
-            d => { 
-                document.getElementById('btc').textContent = 'BTC: $' + d.bitcoin.usd.toLocaleString(); 
-                document.getElementById('eth').textContent = d.ethereum.usd.toLocaleString(); 
-            }, LONG_CACHE);
-        
-        // EUR Rate
-        fetchWithCache('https://open.er-api.com/v6/latest/EUR', 'azinews_eur',
-            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON.toFixed(4) + ' RON'; },
-            30 * 60 * 1000);
-        
-        // USD Rate - with fallback
-        fetchWithCache('https://open.er-api.com/v6/latest/USD', 'azinews_usd',
-            d => { document.getElementById('usd').textContent = d.rates.RON.toFixed(4); },
-            30 * 60 * 1000);
-        
-        // Fallback: try alternative API if main fails
-        setTimeout(() => {
-            if (document.getElementById('usd').textContent === '--') {
-                fetch('https://open.er-api.com/v6/latest/USD')
+        function cityButtons(list) {
+            return list.map((c, i) => `<button class="chip" aria-pressed="${c.name === currentCity.name}" data-i="${i}">${esc(c.name)}</button>`).join('');
+        }
+        let cityList = CITIES;
+        function renderCityList(list) {
+            cityList = list;
+            const el = document.getElementById('city-dropdown');
+            el.innerHTML = list.length ? cityButtons(list) : '<p class="muted">Niciun oraș găsit. Încearcă alt nume.</p>';
+        }
+        document.getElementById('city-dropdown').addEventListener('click', e => {
+            const b = e.target.closest('[data-i]');
+            if (b) selectCity(cityList[+b.dataset.i]);
+        });
+        let cityTimer;
+        function searchCity(query) {
+            clearTimeout(cityTimer);
+            if (query.trim().length < 2) { renderCityList(CITIES); return; }
+            cityTimer = setTimeout(() => {
+                fetch(`https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(query)},Romania&format=json&limit=6&accept-language=ro`)
                     .then(r => r.json())
-                    .then(d => {
-                        if (d.rates && d.rates.RON) {
-                            document.getElementById('usd').textContent = d.rates.RON.toFixed(4);
-                        }
-                    }).catch(() => {});
-            }
-            if (document.getElementById('eur').textContent === '€ -- RON') {
-                fetch('https://open.er-api.com/v6/latest/EUR')
-                    .then(r => r.json())
-                    .then(d => {
-                        if (d.rates && d.rates.RON) {
-                            document.getElementById('eur').textContent = '€ ' + d.rates.RON.toFixed(4) + ' RON';
-                        }
-                    }).catch(() => {});
-            }
-        }, 3000);
-
-        // Crypto - top 8 coins
-        let cryptoRatesLoaded = false;
-        function toggleCryptoRates() {
-            const el = document.getElementById('crypto-rates');
-            if (el.style.display === 'none') {
-                el.style.display = 'grid';
-                if (!cryptoRatesLoaded) {
-                    fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,binancecoin,solana,ripple,cardano,dogecoin,polkadot&order=market_cap_desc&sparkline=false&price_change_percentage=24h')
-                        .then(r => r.json()).then(data => {
-                            const icons = { bitcoin: '₿', ethereum: 'Ξ', binancecoin: 'B', solana: 'S', ripple: 'X', cardano: 'A', dogecoin: 'Ð', polkadot: '●' };
-                            let html = '';
-                            data.forEach(coin => {
-                                const change = coin.price_change_percentage_24h.toFixed(2);
-                                const color = change >= 0 ? '#3fb950' : '#f85149';
-                                const price = parseFloat(coin.current_price.toFixed(4));
-                                html += `<div class="forecast-day">
-                                    <div class="forecast-day-name">${icons[coin.id]} ${coin.symbol.toUpperCase()}</div>
-                                    <div class="forecast-temp">$${price.toLocaleString()}</div>
-                                    <div class="forecast-info" style="color:${color}">${change >= 0 ? '▲' : '▼'} ${Math.abs(change)}%</div>
-                                    <div class="forecast-info">MCap: $${(coin.market_cap/1e9).toFixed(1)}B</div>
-                                </div>`;
-                            });
-                            el.innerHTML = html;
-                            cryptoRatesLoaded = true;
-                        });
-                }
-            } else {
-                el.style.display = 'none';
-            }
+                    .then(d => renderCityList((d || []).map(c => ({ name: c.display_name.split(',')[0], lat: +(+c.lat).toFixed(2), lon: +(+c.lon).toFixed(2) }))))
+                    .catch(() => renderCityList(CITIES));
+            }, 350);
         }
+        function selectCity(city) {
+            currentCity = city;
+            store.set('azinews_city', JSON.stringify(city));
+            document.getElementById('city-search').value = '';
+            renderCityList(CITIES);
+            fetchWeather();
+        }
+        drawerLoaders.weather = () => renderCityList(cityList);
+        fetchWeather();
 
-        // Top News AI - Generated by Groq
-        const TOP_NEWS_CACHE_KEY = 'azinews_topnews';
-        const TOP_NEWS_CACHE_DURATION = 3 * 60 * 60 * 1000; // 3 hours
-        
+        // ---------- curs valutar ----------
+        fetchWithCache('https://open.er-api.com/v6/latest/RON', 'azinews_fx', d => {
+            if (!d || !d.rates) return;
+            const ron = c => 1 / d.rates[c];
+            document.getElementById('eur').textContent = fmt(ron('EUR'), 4);
+            document.getElementById('usd').textContent = fmt(ron('USD'), 4);
+            const names = { EUR: 'Euro', USD: 'Dolar american', GBP: 'Liră sterlină', CHF: 'Franc elvețian', HUF: 'Forint (100)', PLN: 'Zlot polonez', CZK: 'Coroană cehă', TRY: 'Liră turcească', MDL: 'Leu moldovenesc' };
+            document.getElementById('currency-rates').innerHTML = Object.keys(names).filter(c => d.rates[c]).map(c => {
+                const v = c === 'HUF' ? ron(c) * 100 : ron(c);
+                return `<div class="tile"><span>${c}</span><b>${fmt(v, 4)} lei</b><span>${names[c]}</span></div>`;
+            }).join('');
+        }, 30 * 60 * 1000);
+
+        // ---------- crypto ----------
+        fetchWithCache('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd', 'azinews_crypto', d => {
+            if (!d || !d.bitcoin) return;
+            document.getElementById('btc').textContent = '$' + Math.round(d.bitcoin.usd).toLocaleString('ro-RO');
+            document.getElementById('eth').textContent = 'Ethereum $' + Math.round(d.ethereum.usd).toLocaleString('ro-RO');
+        }, 15 * 60 * 1000);
+        let cryptoLoaded = false;
+        drawerLoaders.crypto = () => {
+            if (cryptoLoaded) return;
+            fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,binancecoin,solana,ripple,cardano,dogecoin,polkadot&order=market_cap_desc&sparkline=false&price_change_percentage=24h')
+                .then(r => r.json())
+                .then(data => {
+                    document.getElementById('crypto-rates').innerHTML = data.map(c => {
+                        const ch = c.price_change_percentage_24h || 0;
+                        const price = c.current_price >= 1 ? fmt(c.current_price, 2) : fmt(c.current_price, 4);
+                        return `<div class="tile"><span>${esc(c.symbol.toUpperCase())}</span><b>$${price}</b><span class="${ch >= 0 ? 'up' : 'down'}">${ch >= 0 ? '+' : '−'}${fmt(Math.abs(ch), 2)}% în 24h</span></div>`;
+                    }).join('');
+                    cryptoLoaded = true;
+                })
+                .catch(() => { document.getElementById('crypto-rates').innerHTML = '<p class="muted">Prețurile nu sunt disponibile acum. Încearcă din nou peste câteva minute.</p>'; });
+        };
+
+        // ---------- Top 10 (AI) ----------
         function generateTopNews() {
-            const container = document.getElementById('top-news-container');
             const loading = document.getElementById('top-news-loading');
             const btn = document.getElementById('top-news-btn');
-            const btnContainer = document.getElementById('top-news-btn-container');
-            const card = btn.closest('.card');
-            
-            // Expand card to full width + show loading
-            card.classList.add('top-news-expanded');
-            btnContainer.style.display = 'none';
+            const list = document.getElementById('top-news-list');
+            btn.style.display = 'none';
+            list.innerHTML = '';
             loading.style.display = 'block';
-            
-            // Build context from current news
-            const newsItems = window.news || [];
-            const newsContext = newsItems.slice(0, 30).map(n => `- ${n.title} (${n.source})`).join('\n');
-            
+            loading.textContent = 'Se alege topul...';
+
+            const newsContext = news.slice(0, 40).map(n => `- ${n.title} (${n.source})`).join('\n');
             const prompt = `Analyze the following Romanian news provided below. Identify the 10 MOST IMPORTANT stories from THIS LIST ONLY. Do NOT use any external knowledge. If there are fewer than 10 news items, provide summaries for as many as available.
 
 For each news item, provide:
@@ -901,12 +724,10 @@ For each news item, provide:
 Format EXACTLY like this (numbered list, no other text):
 1. [Short title] - [1 sentence significance]
 
-IMPORTANT: Use ONLY the news below. Do NOT invent or add any information not present. If the news don't cover a topic, skip it.
+IMPORTANT: Use ONLY the news below. Do NOT invent or add any information not present. If the news don't cover a topic, skip it. Write in Romanian.
 
 Today's news:
-${newsContext}
-
-If the list is empty or too short, respond with: "Nu există suficiente știri disponibile pentru a genera un top."`;
+${newsContext}`;
 
             fetch('https://api.groq.com/openai/v1/chat/completions', {
                 method: 'POST',
@@ -917,7 +738,7 @@ If the list is empty or too short, respond with: "Nu există suficiente știri d
                 body: JSON.stringify({
                     model: 'openai/gpt-oss-20b',
                     messages: [
-                        { role: 'system', content: 'You are a news analyst for AziNews.ro, a Romanian news aggregator. You analyze news and highlight the most important stories with brief explanations of their significance. Always respond in Romanian unless the topic is purely international with no Romanian relevance.' },
+                        { role: 'system', content: 'You are a news analyst for AziNews.ro, a Romanian news aggregator. You analyze news and highlight the most important stories with brief explanations of their significance. Always respond in Romanian.' },
                         { role: 'user', content: prompt }
                     ],
                     temperature: 0.3,
@@ -926,160 +747,166 @@ If the list is empty or too short, respond with: "Nu există suficiente știri d
             })
             .then(r => r.json())
             .then(d => {
+                const text = d.choices && d.choices[0] ? (d.choices[0].message.content || '') : '';
+                const items = text.split('\n').map(l => l.match(/^\s*\d+[.)]\s*(.+)/)).filter(Boolean)
+                    .map(m => m[1].replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*(.*?)\*/g, '$1').replace(/^\[|\]/g, '').trim());
+                if (!items.length) throw new Error('empty');
                 loading.style.display = 'none';
-                if (d.choices && d.choices[0]) {
-                    const newsText = d.choices[0].message.content || d.choices[0].message.reasoning || '';
-                    // No cache - always fresh
-                    showTopNews(newsText);
-                } else {
-                    loading.innerHTML = '<div style="color:#f88;">Eroare la generare</div>';
-                }
+                list.innerHTML = items.slice(0, 10).map(it => {
+                    const [title, ...rest] = it.split(/\s[-–—]\s/);
+                    return `<li><div><strong>${esc(title)}</strong>${rest.length ? '<br><span class="muted">' + esc(rest.join(' – ')) + '</span>' : ''}</div></li>`;
+                }).join('');
             })
             .catch(() => {
-                loading.style.display = 'none';
-                loading.innerHTML = '<div style="color:#f88;">Conexiune imposibilă</div>';
-                btn.style.display = 'block';
+                loading.textContent = 'Topul nu a putut fi generat acum. Încearcă din nou peste un minut.';
+                btn.style.display = 'inline-flex';
+                btn.textContent = 'Încearcă din nou';
             });
         }
-        
-        function showTopNews(newsText) {
-            const container = document.getElementById('top-news-container');
-            const list = document.getElementById('top-news-list');
-            const btn = document.getElementById('top-news-btn');
-            
-            // Parse numbered list format (handles **bold**, (1), 1., etc)
-            const lines = newsText.split('\n').filter(line => line.trim());
-            const items = [];
-            
-            for (const line of lines) {
-                // Match numbered items: "1.", "1)", "1 -", "1."
-                const match = line.match(/^\s*(\d+)[.)]\s*(.+)/);
-                if (match) {
-                    // Remove bold/italic markers
-                    let content = match[2].replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*(.*?)\*/g, '$1').trim();
-                    if (content) items.push(`<div style="margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #30363d;">${content}</div>`);
-                }
-            }
-            
-            if (items.length > 0) {
-                list.innerHTML = items.join('');
-                container.style.display = 'block';
-                btn.style.display = 'none';
-            } else {
-                // Fallback: just show the raw text
-                list.innerHTML = `<div style="white-space:pre-wrap;font-size:13px;line-height:1.6;">${newsText}</div>`;
-                container.style.display = 'block';
-                btn.style.display = 'none';
-            }
-        }
-        
-        // Don't auto-generate - user clicks button to see Top News
-        const cachedTopNews = localStorage.getItem('azinews_topnews');
 
+        // ---------- radio ----------
         const audio = document.getElementById('radioPlayer');
-        audio.volume = 0.15;
-        audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
+        const radio = document.getElementById('radio');
+        const playBtn = document.getElementById('playBtn');
+        const volume = document.getElementById('volume');
+        audio.volume = +(store.get('azinews_volume') || 0.15);
+        volume.value = audio.volume;
+        volume.addEventListener('input', () => { audio.volume = +volume.value; store.set('azinews_volume', volume.value); });
+        const ICON_PLAY = '<path d="M8 5.5v13l11-6.5z"/>';
+        const ICON_PAUSE = '<path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z"/>';
+        function setRadio(state) {
+            document.getElementById('radioState').textContent = state;
+            const playing = state === 'În direct';
+            radio.classList.toggle('playing', playing);
+            document.getElementById('playIcon').innerHTML = playing || state === 'Se conectează...' ? ICON_PAUSE : ICON_PLAY;
+            playBtn.setAttribute('aria-label', playing ? 'Oprește radioul' : 'Pornește radioul');
+        }
+        playBtn.addEventListener('click', () => {
+            if (audio.paused) {
+                setRadio('Se conectează...');
+                audio.play().catch(() => setRadio('Nu se poate conecta'));
+            } else {
+                audio.pause();
+            }
+        });
+        audio.addEventListener('playing', () => setRadio('În direct'));
+        audio.addEventListener('pause', () => setRadio('Oprit'));
+        audio.addEventListener('error', () => setRadio('Nu se poate conecta'));
 
-        // ---------- Horoscop (din data/horoscope.json, actualizat zilnic) ----------
-        function renderHoroscope(list) {
-            const grid = document.getElementById('horoscopeGrid');
-            grid.innerHTML = list.map(h =>
-                `<div class="horoscope-item"><div class="horoscope-sign">${esc(h.sign)}</div><div class="horoscope-msg">${esc(h.msg)}</div></div>`
+        // ---------- horoscop ----------
+        const GLYPHS = { 'Berbec': '♈', 'Taur': '♉', 'Gemeni': '♊', 'Rac': '♋', 'Leu': '♌', 'Fecioară': '♍', 'Balanță': '♎', 'Scorpion': '♏', 'Săgetător': '♐', 'Capricorn': '♑', 'Vărsător': '♒', 'Pești': '♓' };
+        let horoscope = [];
+        function renderHoroscope() {
+            const mine = store.get('azinews_sign');
+            const list = [...horoscope].sort((a, b) => (b.sign === mine) - (a.sign === mine) || Object.keys(GLYPHS).indexOf(a.sign) - Object.keys(GLYPHS).indexOf(b.sign));
+            document.getElementById('horoscopeGrid').innerHTML = list.map(h =>
+                `<button class="sign${h.sign === mine ? ' mine' : ''}" data-sign="${esc(h.sign)}" aria-pressed="${h.sign === mine}"><span class="glyph" aria-hidden="true">${(GLYPHS[h.sign] || '★') + '\uFE0E'}</span><b>${esc(h.sign)}</b><span>${esc(h.msg)}</span></button>`
             ).join('');
         }
+        document.getElementById('horoscopeGrid').addEventListener('click', e => {
+            const b = e.target.closest('[data-sign]');
+            if (!b) return;
+            store.set('azinews_sign', store.get('azinews_sign') === b.dataset.sign ? '' : b.dataset.sign);
+            renderHoroscope();
+        });
         fetch('data/horoscope.json', { cache: 'no-cache' })
             .then(r => r.ok ? r.json() : Promise.reject(r.status))
-            .then(d => renderHoroscope(d.items || d))
+            .then(d => { horoscope = d.items || d; renderHoroscope(); })
             .catch(() => {});
 
-        // ---------- Știri: încărcate din data/*.json ----------
+        // ---------- știri ----------
         // data/latest.json          -> ultimele ~300 știri + lista zilelor din arhivă
         // data/archive/ZI.json      -> toate știrile unei zile (încărcate la scroll)
         // data/search/LUNA.json     -> index de căutare [titlu, sursă, url, zi, oră]
-        const news = [];             // toate știrile încărcate până acum (cele mai noi primele)
-        window.news = news;          // folosit de Top News AI
+        const news = [];
+        window.news = news;          // folosit de chatbot
         const seenUrls = new Set();
         const BATCH_SIZE = 30;
-        const feed = {
-            days: [],                // zilele disponibile în arhivă, cele mai noi primele
-            nextDay: 0,              // următoarea zi de încărcat din arhivă
-            view: [],                // știrile care trec de filtrul curent
-            shown: 0,
-            loading: false,
-            source: null,            // filtru pe sursă
-            mode: 'feed'             // 'feed' sau 'search'
-        };
+        const SOURCE_NAMES = { 'Adevarul': 'Adevărul' };
+        const SOURCE_VAR = { 'Digi24': 'digi24', 'Mediafax': 'mediafax', 'Europa FM': 'europafm', 'Libertatea': 'libertatea', 'Adevarul': 'adevarul', 'G4Media': 'g4media' };
+        const srcName = s => SOURCE_NAMES[s] || s;
+        const feed = { days: [], nextDay: 0, view: [], shown: 0, loading: false, source: null, mode: 'feed', lastDay: null, updated: null, total: 0 };
+        const searchState = { query: '', months: [], nextMonth: 0, results: [], urls: new Set(), timer: null, token: 0 };
 
-        function esc(s) {
-            return String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+        function itemDay(n) {
+            const t = Date.parse(n.fetched_at || n.ts || '');
+            return isNaN(t) ? null : roDay(new Date(t));
         }
-        function safeUrl(u) {
-            return /^https?:\/\//i.test(u || '') ? u : '#';
+        function dayHeading(day) {
+            const today = roDay(new Date());
+            const yesterday = roDay(new Date(Date.now() - 864e5));
+            if (day === today) return 'Azi';
+            if (day === yesterday) return 'Ieri';
+            const [y, m, d] = day.split('-').map(Number);
+            const wd = WEEKDAYS[new Date(y, m - 1, d, 12).getDay()];
+            return `${wd}, ${d} ${MONTHS[m - 1]}${y !== new Date().getFullYear() ? ' ' + y : ''}`;
         }
-        function norm(s) {
-            return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
-        }
-        const MONTHS_RO = ['ian', 'feb', 'mar', 'apr', 'mai', 'iun', 'iul', 'aug', 'sep', 'oct', 'nov', 'dec'];
         function whenLabel(n) {
             const t = Date.parse(n.ts || n.fetched_at || '');
             if (!isNaN(t)) {
                 const min = Math.round((Date.now() - t) / 60000);
                 if (min >= 0 && min < 60) return min <= 1 ? 'acum un minut' : `acum ${min} min`;
-                if (min >= 60 && min < 24 * 60) {
-                    const h = Math.floor(min / 60);
-                    return h === 1 ? 'acum o oră' : `acum ${h} ore`;
-                }
+                if (min >= 60 && min < 6 * 60) { const h = Math.floor(min / 60); return h === 1 ? 'acum o oră' : `acum ${h} ore`; }
+                return new Date(t).toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Bucharest' });
             }
-            return [n.time, n.date].filter(Boolean).join(' • ');
+            return n.time || '';
         }
-        function dayLabel(day) {           // '2026-10-21' -> '21 oct 2026'
-            const [y, m, d] = day.split('-');
-            return `${+d} ${MONTHS_RO[+m - 1]} ${y}`;
+        function metaHtml(n, extra) {
+            const v = SOURCE_VAR[n.source];
+            return `<div class="story-meta"><span class="src"><span class="dot" style="--src: var(--src-${v || 'none'})"></span>${esc(srcName(n.source))}</span><time>${esc(extra || whenLabel(n))}</time></div>`;
         }
-
-        function cardHtml(n) {
+        const ICON_EXT = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>';
+        const ICON_SHARE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 14v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-5"/></svg>';
+        function actionsHtml(n) {
+            return `<div class="story-actions">
+                <a class="btn" href="${esc(safeUrl(n.url))}" target="_blank" rel="noopener">Citește pe ${esc(srcName(n.source))} ${ICON_EXT}</a>
+                <button class="btn ghost" data-share>${ICON_SHARE} Distribuie</button>
+            </div>`;
+        }
+        function leadHtml(n) {
             const url = esc(safeUrl(n.url));
-            const img = n.image
-                ? `<img src="${esc(safeUrl(n.image))}" alt="" class="news-image" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`
-                : '';
-            return `
-                <div class="news-card" data-url="${url}">
-                    ${img}
-                    <div class="news-body">
-                        <div class="news-source-row">
-                            <div class="news-source"><a href="${url}" target="_blank" rel="noopener">${esc(n.source)}</a></div>
-                        </div>
-                        <div class="news-title">${esc(n.title)}</div>
-                        <div class="news-time">${esc(whenLabel(n))}</div>
-                        ${n.content ? `<div class="news-content">
-                            ${esc(n.content)}
-                            <div style="margin-top: 10px;"><a href="${url}" target="_blank" rel="noopener" style="color: var(--accent); text-decoration: none;">📎 Citește pe ${esc(n.source)}</a><button class="news-share" data-share title="Distribuie">↗️</button></div>
-                        </div>
-                        <div class="news-expand-hint">Click pentru detalii...</div>` : `
-                        <div style="margin-top: 8px;"><a href="${url}" target="_blank" rel="noopener" style="color: var(--accent); text-decoration: none; font-size: 0.85rem;">📎 Citește pe ${esc(n.source)}</a></div>`}
+            return `<article class="lead" data-url="${url}">
+                <a class="lead-media" href="${url}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+                    <img src="${esc(safeUrl(n.image))}" alt="" fetchpriority="high" referrerpolicy="no-referrer" onerror="this.parentNode.remove()">
+                </a>
+                ${metaHtml(n)}
+                <h3><a href="${url}" target="_blank" rel="noopener">${esc(n.title)}</a></h3>
+                ${n.content ? `<p>${esc(n.content)}</p>` : ''}
+                <div style="margin-top:14px">${actionsHtml(n)}</div>
+            </article>`;
+        }
+        let storyId = 0;
+        function storyHtml(n, extraMeta) {
+            const id = 's' + (++storyId);
+            const thumb = n.image ? `<img class="story-thumb" src="${esc(safeUrl(n.image))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">` : '';
+            return `<article class="story${extraMeta ? ' hit' : ''}" data-url="${esc(safeUrl(n.url))}">
+                <div class="story-row">
+                    <div>
+                        ${metaHtml(n, extraMeta)}
+                        <button class="story-toggle" aria-expanded="false" aria-controls="${id}">${esc(n.title)}</button>
                     </div>
-                </div>`;
+                    ${thumb}
+                </div>
+                <div class="story-more" id="${id}" hidden>
+                    ${n.content ? `<p>${esc(n.content)}</p>` : ''}
+                    ${actionsHtml(n)}
+                </div>
+            </article>`;
         }
 
-        function addAdSlot(grid) {
-            if (localStorage.getItem('cookieConsent') !== 'accepted') return;
-            const adDiv = document.createElement('div');
-            adDiv.className = 'news-ad';
-            adDiv.style.cssText = 'grid-column: 1 / -1; margin: 15px 0; text-align: center;';
-            adDiv.innerHTML = '<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>';
-            grid.appendChild(adDiv);
-            try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
+        function adHtml() {
+            if (store.get('cookieConsent') !== 'accepted') return '';
+            return '<div class="news-ad"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="1234567890" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86"></ins></div>';
+        }
+        function pushAds() {
+            if (!thirdPartyLoaded) return;
+            document.querySelectorAll('ins.adsbygoogle:not([data-adsbygoogle-status])').forEach(() => {
+                try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
+            });
         }
 
-        function setStatus(text) {
-            const el = document.getElementById('newsStatus');
-            el.textContent = text || '';
-            el.style.display = text ? 'block' : 'none';
-        }
-        function setTitle(text) {
-            const el = document.querySelector('.news-section h2');
-            if (el) el.textContent = text;
-        }
+        function setStatus(html) { document.getElementById('newsStatus').innerHTML = html || ''; }
+        function setTitle(text) { document.getElementById('feedTitle').textContent = text; }
 
         function addNews(items) {
             for (const n of items) {
@@ -1089,41 +916,48 @@ If the list is empty or too short, respond with: "Nu există suficiente știri d
                 if (!feed.source || n.source === feed.source) feed.view.push(n);
             }
         }
-
         async function fetchJson(path) {
             const r = await fetch(path, { cache: 'no-cache' });
             if (!r.ok) throw new Error(path + ': HTTP ' + r.status);
             return r.json();
         }
-
         async function loadNextDay() {
             if (feed.nextDay >= feed.days.length) return false;
             const day = feed.days[feed.nextDay++];
-            try {
-                addNews(await fetchJson(`data/archive/${day}.json`));
-            } catch (e) {
-                console.warn('Nu am putut încărca', day, e);
-            }
+            try { addNews(await fetchJson(`data/archive/${day}.json`)); }
+            catch (e) { console.warn('Nu am putut încărca', day, e); }
             return true;
         }
 
-        // Afișează următorul lot de știri; încarcă zile din arhivă când e nevoie
         async function loadMoreNews() {
             if (feed.mode !== 'feed' || feed.loading) return;
             feed.loading = true;
             try {
-                // un filtru pe sursă poate avea puține știri pe zi: încărcăm până avem un lot
                 let guard = 0;
                 while (feed.view.length - feed.shown < BATCH_SIZE && guard++ < 10 && await loadNextDay()) {}
                 const batch = feed.view.slice(feed.shown, feed.shown + BATCH_SIZE);
                 if (batch.length) {
-                    const grid = document.getElementById('newsGrid');
-                    grid.insertAdjacentHTML('beforeend', batch.map(cardHtml).join(''));
+                    let html = '';
+                    batch.forEach((n, i) => {
+                        const day = itemDay(n);
+                        if (feed.shown === 0 && i === 0 && !feed.source && n.image) {
+                            html += leadHtml(n);
+                            feed.lastDay = day;
+                            return;
+                        }
+                        if (day && day !== feed.lastDay) {
+                            html += `<h3 class="day-break">${esc(dayHeading(day))}</h3>`;
+                            feed.lastDay = day;
+                        }
+                        html += storyHtml(n);
+                    });
                     feed.shown += batch.length;
-                    if (feed.shown < feed.view.length || feed.nextDay < feed.days.length) addAdSlot(grid);
+                    if (feed.shown < feed.view.length || feed.nextDay < feed.days.length) html += adHtml();
+                    document.getElementById('newsGrid').insertAdjacentHTML('beforeend', html);
+                    pushAds();
                 }
                 const done = feed.shown >= feed.view.length && feed.nextDay >= feed.days.length;
-                setStatus(done ? (feed.shown ? 'Ai ajuns la capătul arhivei.' : 'Nu există știri pentru acest filtru.') : '');
+                setStatus(done ? (feed.shown ? 'Ai ajuns la începutul arhivei, în aprilie 2026.' : 'Nicio știre de la această sursă.') : '');
             } finally {
                 feed.loading = false;
             }
@@ -1133,305 +967,222 @@ If the list is empty or too short, respond with: "Nu există suficiente știri d
             feed.mode = 'feed';
             feed.view = feed.source ? news.filter(n => n.source === feed.source) : news.slice();
             feed.shown = 0;
+            feed.lastDay = null;
             document.getElementById('newsGrid').innerHTML = '';
             setStatus('');
             loadMoreNews();
+        }
+
+        function updateStatusLine() {
+            if (!feed.updated) return;
+            const min = Math.round((Date.now() - Date.parse(feed.updated)) / 60000);
+            const when = min < 1 ? 'chiar acum' : min < 60 ? `acum ${min} min` : `la ${new Date(feed.updated).toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Bucharest' })}`;
+            const todayCount = (feed.daysInfo || []).find(d => d.d === roDay(new Date()));
+            document.getElementById('todayStatus').innerHTML =
+                `${todayCount ? `<strong>${todayCount.n.toLocaleString('ro-RO')} știri</strong> de azi din 6 surse. ` : ''}Actualizat ${esc(when)}, se reîmprospătează în fiecare oră.`;
         }
 
         async function initNews() {
             setStatus('Se încarcă știrile...');
             try {
                 const data = await fetchJson('data/latest.json');
-                feed.days = (data.days || []).map(d => d.d);
+                feed.daysInfo = data.days || [];
+                feed.days = feed.daysInfo.map(d => d.d);
+                feed.updated = data.updated;
+                feed.total = data.total;
                 addNews(data.items || []);
-                // continuăm arhiva de la ziua celei mai vechi știri din latest
                 const last = news[news.length - 1];
-                const lastDay = last && last.fetched_at ? new Date(last.fetched_at).toLocaleDateString('sv-SE', { timeZone: 'Europe/Bucharest' }) : null;
-                const idx = lastDay ? feed.days.indexOf(lastDay) : -1;
+                const idx = last ? feed.days.indexOf(itemDay(last)) : -1;
                 feed.nextDay = idx >= 0 ? idx : 0;
+                updateStatusLine();
+                setInterval(updateStatusLine, 60000);
                 setStatus('');
                 loadMoreNews();
             } catch (e) {
                 console.error(e);
-                setStatus('Nu am putut încărca știrile. Verifică conexiunea și reîncarcă pagina.');
+                document.getElementById('todayStatus').textContent = 'Știrile nu s-au putut încărca.';
+                setStatus('Verifică conexiunea la internet, apoi <a href="./">reîncarcă pagina</a>.');
             }
         }
 
-        // Click pe card: deschide/închide detaliile; butonul de share are handler propriu
+        // click pe titlu: deschide rezumatul; share: meniu nativ sau copiere link
         document.getElementById('newsGrid').addEventListener('click', e => {
-            const card = e.target.closest('.news-card');
-            if (!card) return;
-            if (e.target.closest('[data-share]')) {
-                e.stopPropagation();
-                const n = news.find(x => x.url === card.dataset.url);
-                if (n) shareNews(n.url, n.title, n.source);
+            const toggle = e.target.closest('.story-toggle');
+            if (toggle) {
+                const more = document.getElementById(toggle.getAttribute('aria-controls'));
+                const open = toggle.getAttribute('aria-expanded') !== 'true';
+                toggle.setAttribute('aria-expanded', String(open));
+                more.hidden = !open;
                 return;
             }
-            if (e.target.closest('a')) return;
-            toggleNews(card);
+            const share = e.target.closest('[data-share]');
+            if (share) {
+                const url = share.closest('[data-url]').dataset.url;
+                const n = news.find(x => x.url === url) || searchState.results.find(x => x.url === url);
+                if (n) shareNews(n.url, n.title, srcName(n.source), share);
+            }
         });
 
-        function toggleNews(card) {
-            const wasExpanded = card.classList.contains('expanded');
-            document.querySelectorAll('.news-card').forEach(c => c.classList.remove('expanded'));
-            if (!wasExpanded) card.classList.add('expanded');
-        }
-
-        function toggleTopNews(card) {
-            const container = document.getElementById('top-news-container');
-            const btnContainer = document.getElementById('top-news-btn-container');
-            const wasExpanded = card.classList.contains('top-news-expanded');
-
-            if (wasExpanded) {
-                // Collapse
-                card.classList.remove('top-news-expanded');
-                container.style.display = 'none';
-                btnContainer.style.display = 'block';
-            } else {
-                // Expand - only show container, NO auto-generate
-                // User must click the button to generate
-                card.classList.add('top-news-expanded');
-                btnContainer.style.display = 'none';
-                container.style.display = 'block';
+        async function shareNews(url, title, source, btn) {
+            if (navigator.share) {
+                try { await navigator.share({ title: `${title} - ${source}`, url }); } catch (e) {}
+                return;
+            }
+            try {
+                await navigator.clipboard.writeText(url);
+                if (btn) { const old = btn.innerHTML; btn.textContent = 'Link copiat'; setTimeout(() => btn.innerHTML = old, 1800); }
+            } catch (e) {
+                prompt('Copiază link-ul:', url);
             }
         }
 
-        // ---------- Căutare în toată arhiva ----------
-        const searchState = { query: '', months: [], nextMonth: 0, results: [], urls: new Set(), timer: null, token: 0 };
-
-        function searchMonths() {
-            return [...new Set(feed.days.map(d => d.slice(0, 7)))];
+        // ---------- surse ----------
+        document.getElementById('sources').addEventListener('click', e => {
+            const chip = e.target.closest('[data-source]');
+            if (chip) filterNews('source', chip.dataset.source || null);
+        });
+        function filterNews(type, value) {
+            feed.source = value || null;
+            document.querySelectorAll('#sources .chip').forEach(c => c.setAttribute('aria-pressed', String((c.dataset.source || null) === feed.source)));
+            const q = document.getElementById('news-search').value.trim();
+            if (q.length >= 2) runSearch(q);
+            else {
+                setTitle(feed.source ? `Știri de la ${srcName(feed.source)}` : 'Ultimele știri');
+                restartFeed();
+            }
+            scrollToFeed();
         }
+        function scrollToFeed() {
+            const top = document.getElementById('feed').getBoundingClientRect().top + scrollY - 76;
+            if (scrollY > top || feed.mode === 'search') scrollTo({ top, behavior: 'smooth' });
+        }
+
+        // ---------- căutare în toată arhiva ----------
+        function searchMonths() { return [...new Set(feed.days.map(d => d.slice(0, 7)))]; }
+        function monthLabel(m) { const [y, mm] = m.split('-'); return `${MONTHS[+mm - 1]} ${y}`; }
 
         function renderSearch() {
             const q = searchState.query;
-            const grid = document.getElementById('newsGrid');
-            grid.innerHTML = searchState.results.slice(0, 200).map(cardHtml).join('');
-            const more = searchState.nextMonth < searchState.months.length;
             const count = searchState.results.length;
-            setTitle(`Rezultate: „${q}” (${count}${count > 200 ? ', primele 200 afișate' : ''})`);
-            const status = document.getElementById('newsStatus');
-            status.style.display = 'block';
+            setTitle(count ? `${count.toLocaleString('ro-RO')} rezultate pentru „${q}”` : `Caut „${q}”...`);
+            document.getElementById('newsGrid').innerHTML = searchState.results.slice(0, 200)
+                .map(n => storyHtml(n, n.day ? `${n.time ? n.time + ', ' : ''}${dayHeading(n.day).toLowerCase()}` : null)).join('');
+            const more = searchState.nextMonth < searchState.months.length;
             if (more) {
                 const m = searchState.months[searchState.nextMonth];
-                const [y, mm] = m.split('-');
-                status.innerHTML = `${count ? '' : 'Niciun rezultat încă. '}<button class="menu-option" id="searchOlder">Caută și în ${MONTHS_RO[+mm - 1]} ${y}</button>`;
+                setStatus(`${count ? (count > 200 ? 'Sunt afișate primele 200. ' : '') : 'Niciun rezultat până acum. '}<button class="btn ghost" id="searchOlder">Caută și în ${esc(monthLabel(m))}</button>`);
                 document.getElementById('searchOlder').onclick = () => searchNextMonth(searchState.token);
             } else {
-                status.textContent = count ? 'Am căutat în toată arhiva.' : 'Niciun rezultat în toată arhiva.';
+                setStatus(count ? (count > 200 ? 'Sunt afișate primele 200 de rezultate din toată arhiva.' : 'Am căutat în toată arhiva.') : 'Niciun rezultat în toată arhiva. Încearcă alt cuvânt.');
+                if (!count) setTitle(`Niciun rezultat pentru „${q}”`);
             }
         }
-
-        function matchItem(n, terms) {
-            const text = norm(n.title + ' ' + (n.content || '') + ' ' + n.source);
-            return terms.every(t => text.includes(t));
-        }
-
         async function searchNextMonth(token) {
             if (searchState.nextMonth >= searchState.months.length) return;
             const month = searchState.months[searchState.nextMonth++];
-            setStatus(`Caut în ${month}...`);
+            setStatus(`Caut în ${esc(monthLabel(month))}...`);
             try {
                 const rows = await fetchJson(`data/search/${month}.json`);
-                if (token !== searchState.token) return;   // s-a schimbat căutarea între timp
+                if (token !== searchState.token) return;
                 const terms = norm(searchState.query).split(/\s+/).filter(Boolean);
+                const found = [];
                 for (const [title, source, url, day, time] of rows) {
-                    if (searchState.urls.has(url)) continue;
-                    if (feed.source && source !== feed.source) continue;
+                    if (searchState.urls.has(url) || (feed.source && source !== feed.source)) continue;
                     if (terms.every(t => norm(title + ' ' + source).includes(t))) {
                         searchState.urls.add(url);
-                        searchState.results.push({ title, source, url, time, date: dayLabel(day) });
+                        found.push({ title, source, url, time, day });
                     }
                 }
-            } catch (e) {
-                console.warn(e);
-            }
+                searchState.results.push(...found);
+            } catch (e) { console.warn(e); }
             if (token === searchState.token) renderSearch();
         }
-
         function runSearch(query) {
             const token = ++searchState.token;
             const terms = norm(query).split(/\s+/).filter(Boolean);
-            searchState.query = query;
-            searchState.urls = new Set();
-            searchState.results = [];
+            Object.assign(searchState, { query, urls: new Set(), results: [], months: searchMonths(), nextMonth: 0 });
             for (const n of news) {
-                if ((!feed.source || n.source === feed.source) && matchItem(n, terms)) {
+                if (feed.source && n.source !== feed.source) continue;
+                if (terms.every(t => norm(n.title + ' ' + (n.content || '') + ' ' + n.source).includes(t))) {
                     searchState.urls.add(n.url);
                     searchState.results.push(n);
                 }
             }
-            searchState.months = searchMonths();
-            searchState.nextMonth = 0;
             feed.mode = 'search';
             renderSearch();
-            // luna curentă se caută automat; lunile mai vechi la cerere
-            searchNextMonth(token);
+            searchNextMonth(token);  // luna curentă automat; cele vechi la cerere
         }
-
-        // Pornire
-        initNews();
-
-        // Infinite scroll with Intersection Observer
-        const sentinel = document.getElementById('infiniteScrollSentinel');
-        if (sentinel) {
-            const observer = new IntersectionObserver((entries) => {
-                if (entries[0].isIntersecting) loadMoreNews();
-            }, { rootMargin: '600px' });
-            observer.observe(sentinel);
-        }
-
-        // Cookie consent
-        function checkCookieConsent() {
-            if (!localStorage.getItem('cookieConsent')) {
-                document.getElementById('cookieBanner').style.display = 'block';
-            }
-        }
-        function acceptCookies() {
-            localStorage.setItem('cookieConsent', 'accepted');
-            document.getElementById('cookieBanner').style.display = 'none';
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        }
-        function rejectCookies() {
-            localStorage.setItem('cookieConsent', 'rejected');
-            document.getElementById('cookieBanner').style.display = 'none';
-        }
-        checkCookieConsent();
-        
-        // Register Service Worker for PWA
-        if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('sw.js')
-                .then(reg => console.log('SW registered'))
-                .catch(err => console.log('SW error', err));
-        }
-    </script>
-
-    <script>
-        function toggleTheme() {
-            document.body.classList.toggle('light-mode');
-            const isLight = document.body.classList.contains('light-mode');
-            localStorage.setItem('theme', isLight ? 'light' : 'dark');
-            document.querySelector('.theme-toggle').textContent = isLight ? '☀️' : '🌙';
-        }
-        
-        // Load saved theme
-        const savedTheme = localStorage.getItem('theme');
-        if (savedTheme === 'light') {
-            document.body.classList.add('light-mode');
-            document.querySelector('.theme-toggle').textContent = '☀️';
-        }
-
-        // Menu functions
-        let currentFilter = { type: null, value: null };
-        
-        function toggleMenu() {
-            const menu = document.getElementById('menuDropdown');
-            const btn = document.querySelector('.menu-toggle');
-            menu.classList.toggle('show');
-            btn.classList.toggle('active');
-        }
-
-        function closeMenu() {
-            document.getElementById('menuDropdown').classList.remove('show');
-            document.querySelector('.menu-toggle').classList.remove('active');
-        }
-
-        // Filtru pe sursă: se aplică pe toate știrile, nu doar pe cele afișate
-        function filterNews(type, value, element) {
-            if (type !== 'source') return;
-            currentFilter = { type, value };
-            feed.source = value;
-            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
-            if (element) element.classList.add('active');
-            closeMenu();
-            const input = document.getElementById('news-search');
-            const label = element ? element.textContent.trim() : value;
-            if (input && input.value.trim().length >= 2) {
-                runSearch(input.value.trim());
-            } else {
-                setTitle(`Știri - ${label}`);
-                restartFeed();
-            }
-            document.querySelector('.news-section').scrollIntoView({ behavior: 'smooth' });
-        }
-
-        function clearSearch() {
-            const searchInput = document.getElementById('news-search');
-            if (searchInput) searchInput.value = '';
-            document.querySelector('.search-clear').style.display = 'none';
-            searchState.token++;
-            setTitle(feed.source ? `Știri - ${feed.source}` : 'Știri din România');
-            restartFeed();
-        }
-
-        // Căutare cu întârziere mică, ca să nu căutăm la fiecare literă
         function searchNews(query, immediate) {
-            const clearBtn = document.querySelector('.search-clear');
             query = (query || '').trim();
+            document.getElementById('searchForm').classList.toggle('has-text', query.length > 0);
             clearTimeout(searchState.timer);
             if (query.length < 2) {
-                if (clearBtn) clearBtn.style.display = 'none';
                 if (feed.mode === 'search') clearSearch();
                 return;
             }
-            if (clearBtn) clearBtn.style.display = 'block';
             searchState.timer = setTimeout(() => {
                 runSearch(query);
-                if (immediate) {
-                    closeMenu();
-                    document.querySelector('.news-section').scrollIntoView({ behavior: 'smooth' });
-                }
+                if (immediate) { document.getElementById('news-search').blur(); scrollToFeed(); }
             }, immediate ? 0 : 350);
         }
-
-        function resetFilters() {
-            currentFilter = { type: null, value: null };
-            feed.source = null;
-            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
-            const searchInput = document.getElementById('news-search');
-            if (searchInput) searchInput.value = '';
-            document.querySelector('.search-clear').style.display = 'none';
+        function clearSearch() {
+            document.getElementById('news-search').value = '';
+            document.getElementById('searchForm').classList.remove('has-text');
             searchState.token++;
-            setTitle('Știri din România');
+            setTitle(feed.source ? `Știri de la ${srcName(feed.source)}` : 'Ultimele știri');
             restartFeed();
-            closeMenu();
+        }
+        function resetFilters() { document.getElementById('news-search').value = ''; filterNews('source', null); }
+
+        // ---------- cookies: reclamele și statisticile se încarcă doar după acord ----------
+        function loadScript(src, attrs) {
+            const s = document.createElement('script');
+            s.async = true; s.src = src;
+            Object.assign(s, attrs || {});
+            document.head.appendChild(s);
+        }
+        let thirdPartyLoaded = false;
+        function loadThirdParty() {
+            if (thirdPartyLoaded) return;
+            thirdPartyLoaded = true;
+            loadScript('https://www.googletagmanager.com/gtag/js?id=G-ZG88DTDR53');
+            window.dataLayer = window.dataLayer || [];
+            window.gtag = function () { dataLayer.push(arguments); };
+            gtag('js', new Date());
+            gtag('config', 'G-ZG88DTDR53');
+            loadScript('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9063451798744835', { crossOrigin: 'anonymous' });
+            const rail = document.getElementById('railAd');
+            if (rail && !rail.firstChild && innerWidth > 960) {
+                rail.innerHTML = '<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543211" data-ad-format="auto" data-full-width-responsive="true"></ins>';
+            }
+            pushAds();
+        }
+        function showConsent() { document.getElementById('cookieBanner').classList.add('show'); }
+        function acceptCookies() {
+            store.set('cookieConsent', 'accepted');
+            document.getElementById('cookieBanner').classList.remove('show');
+            loadThirdParty();
+        }
+        function rejectCookies() {
+            const wasAccepted = store.get('cookieConsent') === 'accepted';
+            store.set('cookieConsent', 'rejected');
+            document.getElementById('cookieBanner').classList.remove('show');
+            if (wasAccepted) location.reload();
         }
 
-        // Close menu when clicking outside
-        document.addEventListener('click', function(e) {
-            const menu = document.getElementById('menuDropdown');
-            const btn = document.querySelector('.menu-toggle');
-            if (!menu.contains(e.target) && !btn.contains(e.target)) {
-                menu.classList.remove('show');
-                btn.classList.remove('active');
-            }
-        });
+        // ---------- pornire ----------
+        const consent = store.get('cookieConsent');
+        if (consent === 'accepted') loadThirdParty();
+        else if (!consent) showConsent();
 
-        async function shareNews(url, title, source) {
-            const shareText = `${title} - ${source}`;
-            
-            if (navigator.share) {
-                // Mobile: use native share
-                try {
-                    await navigator.share({
-                        title: shareText,
-                        url: url
-                    });
-                } catch(e) {
-                    // User cancelled or error
-                }
-            } else {
-                // Desktop: copy to clipboard
-                try {
-                    await navigator.clipboard.writeText(url);
-                    alert('Link copiat în clipboard! 📋');
-                } catch(e) {
-                    // Fallback
-                    prompt('Copiază link-ul:', url);
-                }
-            }
+        initNews();
+        new IntersectionObserver(entries => { if (entries[0].isIntersecting) loadMoreNews(); }, { rootMargin: '800px' })
+            .observe(document.getElementById('infiniteScrollSentinel'));
+
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js').catch(() => {});
         }
     </script>
-
-    <script src="chatbot.js"></script>
+    <script src="chatbot.js" defer></script>
 </body>
+</html>
