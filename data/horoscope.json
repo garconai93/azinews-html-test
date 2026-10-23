@@ -1,53 +1,53 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "items": [
   {
-   "sign": "Pești",
-   "msg": "Compasiune profundă"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Perfecțiune în lucruri"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Zi dinamică și interesantă"
+   "sign": "Rac",
+   "msg": "Sentimente reciproce"
   },
   {
    "sign": "Berbec",
-   "msg": "Energie maximă, profită de ea"
+   "msg": "Zi perfectă pentru inițiative noi"
   },
   {
-   "sign": "Taur",
-   "msg": "Conexiuni emoționale puternice"
+   "sign": "Pești",
+   "msg": "Intuiție spirituală"
   },
   {
-   "sign": "Rac",
-   "msg": "Protecție și siguranță"
+   "sign": "Fecioară",
+   "msg": "Organizare impecabilă"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Frumusețe și artă"
   },
   {
    "sign": "Scorpion",
    "msg": "Descoperiri importante"
   },
   {
-   "sign": "Balanță",
-   "msg": "Echilibru în toate"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Gândire unică"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Călătorii benefice"
-  },
-  {
    "sign": "Capricorn",
-   "msg": "Disciplină de fier"
+   "msg": "Responsabilitate și disciplină"
   },
   {
    "sign": "Leu",
-   "msg": "Succes în afaceri"
+   "msg": "Atenție din partea celorlalți"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Inspirație creativă"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Filozofie de viață"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Viitor luminos"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Stabilitate financiară"
   }
  ]
 }
