@@ -24,10 +24,10 @@
             width: 60px;
             height: 60px;
             border-radius: 50%;
-            background: linear-gradient(135deg, #58a6ff 0%, #1f6feb 100%);
+            background: var(--ink, #1f6feb);
             border: none;
             cursor: pointer;
-            box-shadow: 0 4px 20px rgba(88, 166, 255, 0.4);
+            box-shadow: var(--shadow, 0 4px 20px rgba(0,0,0,.3));
             z-index: 10000;
             display: flex;
             align-items: center;
@@ -38,7 +38,7 @@
 
         .azinews-chat-btn:hover {
             transform: scale(1.1);
-            box-shadow: 0 6px 30px rgba(88, 166, 255, 0.6);
+            box-shadow: var(--shadow, 0 6px 30px rgba(0,0,0,.4));
         }
 
         .azinews-chat-btn.active {
@@ -53,8 +53,8 @@
             width: 380px;
             height: 550px;
             max-height: calc(100vh - 150px);
-            background: #161b22;
-            border: 1px solid #30363d;
+            background: var(--surface, #161b22);
+            border: 1px solid var(--rule, #30363d);
             border-radius: 16px;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
             z-index: 10000;
@@ -81,7 +81,8 @@
 
         /* Chat Header */
         .azinews-chat-header {
-            background: linear-gradient(135deg, #58a6ff 0%, #1f6feb 100%);
+            background: var(--surface, #1f6feb);
+            border-bottom: 1px solid var(--rule, transparent);
             padding: 16px 20px;
             display: flex;
             align-items: center;
@@ -98,7 +99,7 @@
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            background: rgba(255,255,255,0.2);
+            background: var(--azi, rgba(255,255,255,.2));
             display: flex;
             align-items: center;
             justify-content: center;
@@ -106,21 +107,21 @@
         }
 
         .azinews-chat-header-text h3 {
-            color: #fff;
+            color: var(--ink, #fff);
             margin: 0;
             font-size: 16px;
             font-weight: 600;
         }
 
         .azinews-chat-header-text span {
-            color: rgba(255,255,255,0.8);
+            color: var(--ink-2, rgba(255,255,255,.8));
             font-size: 12px;
         }
 
         .azinews-chat-close {
             background: none;
             border: none;
-            color: #fff;
+            color: var(--ink, #fff);
             cursor: pointer;
             font-size: 24px;
             padding: 4px;
@@ -152,7 +153,7 @@
         }
 
         .azinews-chat-messages::-webkit-scrollbar-thumb {
-            background: #30363d;
+            background: var(--rule, #30363d);
             border-radius: 3px;
         }
 
@@ -176,7 +177,7 @@
             width: 32px;
             height: 32px;
             border-radius: 50%;
-            background: #21262d;
+            background: var(--paper, #21262d);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -185,21 +186,21 @@
         }
 
         .azinews-message.user .azinews-message-avatar {
-            background: #58a6ff;
+            background: var(--ink, #58a6ff);
         }
 
         .azinews-message-content {
-            background: #21262d;
+            background: var(--paper, #21262d);
             padding: 12px 16px;
             border-radius: 16px;
             border-top-left-radius: 4px;
-            color: #f0f6fc;
+            color: var(--ink, #f0f6fc);
             font-size: 14px;
             line-height: 1.5;
         }
 
         .azinews-message.user .azinews-message-content {
-            background: #58a6ff;
+            background: var(--ink, #58a6ff);
             border-top-left-radius: 16px;
             border-top-right-radius: 4px;
         }
@@ -220,7 +221,7 @@
         .azinews-typing-dots span {
             width: 8px;
             height: 8px;
-            background: #8b949e;
+            background: var(--ink-2, #8b949e);
             border-radius: 50%;
             animation: typingBounce 1.4s infinite ease-in-out;
         }
@@ -237,8 +238,8 @@
         /* Chat Input */
         .azinews-chat-input-area {
             padding: 16px;
-            background: #0d1117;
-            border-top: 1px solid #30363d;
+            background: var(--surface, #0d1117);
+            border-top: 1px solid var(--rule, #30363d);
             display: flex;
             gap: 12px;
             align-items: flex-end;
@@ -246,32 +247,32 @@
 
         .azinews-chat-input {
             flex: 1;
-            background: #21262d;
-            border: 1px solid #30363d;
+            background: var(--paper, #21262d);
+            border: 1px solid var(--rule, #30363d);
             border-radius: 12px;
             padding: 12px 16px;
-            color: #f0f6fc;
+            color: var(--ink, #f0f6fc);
             font-size: 14px;
             resize: none;
             max-height: 120px;
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: inherit;
             outline: none;
             transition: border-color 0.2s;
         }
 
         .azinews-chat-input:focus {
-            border-color: #58a6ff;
+            border-color: var(--ink, #58a6ff);
         }
 
         .azinews-chat-input::placeholder {
-            color: #8b949e;
+            color: var(--ink-2, #8b949e);
         }
 
         .azinews-chat-send {
             width: 44px;
             height: 44px;
             border-radius: 12px;
-            background: #58a6ff;
+            background: var(--ink, #58a6ff);
             border: none;
             cursor: pointer;
             display: flex;
@@ -282,12 +283,12 @@
         }
 
         .azinews-chat-send:hover {
-            background: #4393e6;
+            background: var(--ink-2, #4393e6);
             transform: scale(1.05);
         }
 
         .azinews-chat-send:disabled {
-            background: #30363d;
+            background: var(--rule, #30363d);
             cursor: not-allowed;
             transform: none;
         }
@@ -295,14 +296,14 @@
         .azinews-chat-send svg {
             width: 20px;
             height: 20px;
-            fill: #fff;
+            fill: var(--paper, #fff);
         }
 
         /* Welcome Message */
         .azinews-welcome {
             text-align: center;
             padding: 40px 20px;
-            color: #8b949e;
+            color: var(--ink-2, #8b949e);
         }
 
         .azinews-welcome-icon {
@@ -311,7 +312,7 @@
         }
 
         .azinews-welcome h4 {
-            color: #f0f6fc;
+            color: var(--ink, #f0f6fc);
             margin: 0 0 8px 0;
             font-size: 18px;
         }
@@ -331,19 +332,19 @@
         }
 
         .azinews-welcome-suggestion {
-            background: #21262d;
-            border: 1px solid #30363d;
+            background: var(--paper, #21262d);
+            border: 1px solid var(--rule, #30363d);
             border-radius: 20px;
             padding: 8px 16px;
             font-size: 13px;
-            color: #58a6ff;
+            color: var(--ink, #58a6ff);
             cursor: pointer;
             transition: all 0.2s;
         }
 
         .azinews-welcome-suggestion:hover {
-            background: #30363d;
-            border-color: #58a6ff;
+            background: var(--rule, #30363d);
+            border-color: var(--ink, #58a6ff);
         }
 
         /* Error Toast */
@@ -352,8 +353,8 @@
             bottom: 100px;
             left: 50%;
             transform: translateX(-50%);
-            background: #f85149;
-            color: #fff;
+            background: var(--down, #f85149);
+            color: var(--paper, #fff);
             padding: 12px 24px;
             border-radius: 8px;
             font-size: 14px;
@@ -646,7 +647,7 @@
                 .replace(/\n/g, '<br>')
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 .replace(/\*(.*?)\*/g, '<em>$1</em>')
-                .replace(/`(.*?)`/g, '<code style="background:#21262d;padding:2px 6px;border-radius:4px;">$1</code>');
+                .replace(/`(.*?)`/g, '<code style="background:var(--paper, #21262d);padding:2px 6px;border-radius:4px;">$1</code>');
         }
 
         showTyping() {

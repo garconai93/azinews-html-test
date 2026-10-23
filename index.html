@@ -18,7 +18,7 @@
     <link rel="alternate" type="application/rss+xml" title="AziNews" href="feed.xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Serif+4:opsz,wght@8..60,400&display=swap" rel="stylesheet">
     <script>
         // tema se aplică înainte de randare, ca să nu clipească pagina
         (function () {
@@ -34,7 +34,7 @@
             --surface: #FFFFFF;
             --ink: #14213D;
             --ink-2: #4E5A70;
-            --ink-3: #7A8496;
+            --ink-3: #636C7E;
             --rule: #DADDD4;
             --link: #2448E0;
             --azi: #FFCB3D;
@@ -64,7 +64,7 @@
                 --surface: #162038;
                 --ink: #E9EDF5;
                 --ink-2: #A3AEC2;
-                --ink-3: #75819A;
+                --ink-3: #8C97AE;
                 --rule: #26324D;
                 --link: #93AAFF;
                 --azi: #FFD45C;
@@ -79,7 +79,7 @@
             --surface: #162038;
             --ink: #E9EDF5;
             --ink-2: #A3AEC2;
-            --ink-3: #75819A;
+            --ink-3: #8C97AE;
             --rule: #26324D;
             --link: #93AAFF;
             --azi: #FFD45C;
@@ -120,7 +120,7 @@
         .topbar .wrap { display: flex; align-items: center; gap: 12px; height: 60px; }
         .wordmark {
             font-weight: 800; font-size: 1.35rem; letter-spacing: -0.03em;
-            color: var(--ink); text-decoration: none; display: flex; align-items: center; gap: 8px;
+            color: var(--ink); text-decoration: none; display: flex; align-items: center; gap: 8px; min-height: 44px;
             font-variation-settings: "wdth" 85;
         }
         .wordmark .sun {
@@ -200,7 +200,7 @@
         .drawer-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
         .drawer-head h2 { margin: 0; }
         .seg { display: inline-flex; background: var(--paper); border-radius: 999px; padding: 3px; }
-        .seg button { all: unset; cursor: pointer; padding: 6px 14px; border-radius: 999px; font-size: .88rem; font-weight: 600; color: var(--ink-2); }
+        .seg button { all: unset; cursor: pointer; padding: 9px 16px; border-radius: 999px; font-size: .88rem; font-weight: 600; color: var(--ink-2); }
         .seg button[aria-selected="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.12); }
         .seg button:focus-visible { outline: 3px solid var(--link); }
         .fx-note { margin: 12px 0 0; font-size: .82rem; }
@@ -265,7 +265,7 @@
             appearance: none; -webkit-appearance: none; height: 36px; border-radius: 999px; cursor: pointer;
             border: 1px solid var(--rule); background-color: var(--surface); color: var(--ink);
             font: inherit; font-size: .9rem; padding: 0 34px 0 14px;
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237A8496' stroke-width='2.5'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23636C7E' stroke-width='2.5'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
             background-repeat: no-repeat; background-position: right 12px center; background-size: 14px;
         }
 
@@ -280,8 +280,8 @@
         .ts-item h3 a:hover { text-decoration: underline; text-underline-offset: 3px; }
         .why { font-family: var(--serif); color: var(--ink-2); font-size: .98rem; line-height: 1.55; margin: 0; }
         .lead .why { font-size: 1.08rem; line-height: 1.6; margin-top: 10px; max-width: 62ch; }
-        .coverage { margin-top: 12px; }
-        .cov-toggle { all: unset; cursor: pointer; display: inline-flex; align-items: center; gap: 10px; font-size: .88rem; font-weight: 600; color: var(--ink); }
+        .coverage { margin-top: 4px; }
+        .cov-toggle { all: unset; cursor: pointer; display: inline-flex; align-items: center; gap: 10px; min-height: 40px; font-size: .88rem; font-weight: 600; color: var(--ink); }
         .cov-toggle:hover span:last-child { text-decoration: underline; text-underline-offset: 3px; }
         .cov-toggle:focus-visible { outline: 3px solid var(--link); outline-offset: 3px; border-radius: 4px; }
         .cov-toggle svg { width: 14px; height: 14px; transition: transform .15s; }
@@ -290,7 +290,7 @@
         .cov-dots .dot { width: 13px; height: 13px; margin-left: -4px; box-shadow: 0 0 0 2px var(--paper); }
         .cov-list { list-style: none; margin: 10px 0 0; padding: 0; border-left: 2px solid var(--rule); }
         .cov-list[hidden] { display: none; }
-        .cov-list li { padding: 6px 0 6px 14px; font-size: .93rem; line-height: 1.38; }
+        .cov-list li { padding: 8px 0 8px 14px; font-size: .93rem; line-height: 1.38; }
         .cov-list .src { font-weight: 650; margin-right: 6px; display: inline-flex; align-items: center; gap: 6px; }
         .cov-list a { color: var(--ink); text-decoration-color: var(--rule); text-underline-offset: 3px; }
         .cov-list a:hover { text-decoration-color: currentColor; }
@@ -392,7 +392,7 @@
 
         footer { border-top: 1px solid var(--rule); padding: 28px 0 110px; color: var(--ink-2); font-size: .9rem; }
         footer nav { display: flex; gap: 6px 18px; flex-wrap: wrap; margin-bottom: 12px; }
-        footer nav a { color: var(--ink); }
+        footer nav a { color: var(--ink); display: inline-block; padding: 10px 0; }
         footer p { margin: 0 0 8px; max-width: 70ch; }
 
         .consent {
