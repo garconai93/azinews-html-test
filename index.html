@@ -173,7 +173,7 @@
 
         /* ---------- dintr-o privire: vreme, curs, crypto ---------- */
         .glance {
-            display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px;
+            display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px;
             margin: 24px 0 0;
         }
         .glance-item {
@@ -190,6 +190,22 @@
             white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
         }
         .glance-sub { display: block; font-size: .8rem; color: var(--ink-3); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .glance-item { position: relative; }
+        .glance-value { display: flex; align-items: center; gap: 8px; }
+        .wx:empty { display: none; }
+        .wx svg { width: 28px; height: 28px; display: block; }
+        .chg { color: var(--ink-2); font-weight: 600; font-variant-numeric: tabular-nums; }
+        .spark { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); width: 76px; height: 30px; color: var(--ink-3); }
+        .spark svg { width: 100%; height: 100%; display: block; overflow: visible; }
+        .drawer-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
+        .drawer-head h2 { margin: 0; }
+        .seg { display: inline-flex; background: var(--paper); border-radius: 999px; padding: 3px; }
+        .seg button { all: unset; cursor: pointer; padding: 6px 14px; border-radius: 999px; font-size: .88rem; font-weight: 600; color: var(--ink-2); }
+        .seg button[aria-selected="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.12); }
+        .seg button:focus-visible { outline: 3px solid var(--link); }
+        .fx-note { margin: 12px 0 0; font-size: .82rem; }
+        .fx-note:empty { display: none; }
+        .tile .chg { font-size: .8rem; }
         .drawer {
             margin-top: 10px; background: var(--surface); border: 1px solid var(--rule);
             border-radius: var(--radius); padding: 16px;
@@ -199,7 +215,10 @@
         .drawer-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 8px; }
         .tile { background: var(--paper); border-radius: var(--radius-sm); padding: 10px 12px; }
         .tile b { display: block; font-size: 1.05rem; font-variant-numeric: tabular-nums; }
-        .tile span { display: block; font-size: .8rem; color: var(--ink-2); }
+        .tile > span { display: block; font-size: .8rem; color: var(--ink-2); }
+        .tile b.glance-value { display: flex; gap: 6px; margin: 4px 0 2px; }
+        .tile svg { width: 22px; height: 22px; flex: none; }
+        .drawer-grid[hidden], .fx-note[hidden] { display: none; }
         .tile .up { color: var(--up); } .tile .down { color: var(--down); }
         .city-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; position: relative; }
         .city-row input {
@@ -392,6 +411,7 @@
         html body .azinews-chat-btn { background: var(--ink); box-shadow: var(--shadow); width: 56px; height: 56px; right: 16px; bottom: 16px; }
         html body .azinews-chat-btn:hover { transform: none; box-shadow: var(--shadow); }
 
+        @media (max-width: 1100px) { .spark { display: none; } }
         @media (max-width: 960px) {
             .layout { grid-template-columns: 1fr; gap: 24px; }
             .rail { position: static; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
@@ -400,9 +420,13 @@
             .topbar .wrap { gap: 8px; }
             .search { height: 40px; }
             .wordmark .label { display: none; }
-            .glance { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; margin-top: 20px; }
-            .glance-item { padding: 10px 12px; border-radius: var(--radius-sm); }
-            .glance-value { font-size: 1.25rem; }
+            .glance { gap: 6px; margin-top: 18px; }
+            .glance-item { padding: 9px 10px; border-radius: var(--radius-sm); }
+            .glance-value { font-size: 1.2rem; gap: 5px; }
+            .wx svg { width: 22px; height: 22px; }
+            .glance .vs, .spark { display: none; }
+            .city-results { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 -16px; padding: 0 16px; }
+            .city-results::-webkit-scrollbar { display: none; }
             .today { padding-top: 20px; }
             .lead p { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; font-size: 1.02rem; }
             .sources { margin-top: 20px; }
@@ -442,29 +466,26 @@
 
             <div class="glance">
                 <button class="glance-item" aria-expanded="false" aria-controls="drawer-weather" data-drawer="weather">
-                    <span class="glance-label" id="weatherLabel">Vremea în București</span>
-                    <span class="glance-value" id="weather">--°</span>
-                    <span class="glance-sub" id="weatherSub">Prognoză pe 7 zile</span>
+                    <span class="glance-label" id="weatherLabel">București</span>
+                    <span class="glance-value"><span class="wx" id="weatherIcon" aria-hidden="true"></span><span id="weather">--°</span></span>
+                    <span class="glance-sub" id="weatherSub">Vremea</span>
                 </button>
-                <button class="glance-item" aria-expanded="false" aria-controls="drawer-fx" data-drawer="fx">
+                <button class="glance-item fx-item" aria-expanded="false" aria-controls="drawer-fx" data-drawer="fx">
                     <span class="glance-label">Euro</span>
                     <span class="glance-value" id="eur">--</span>
-                    <span class="glance-sub">lei, alte valute</span>
+                    <span class="glance-sub" id="eurSub">lei</span>
+                    <span class="spark" id="eurSpark" aria-hidden="true"></span>
                 </button>
-                <button class="glance-item" aria-expanded="false" aria-controls="drawer-fx" data-drawer="fx">
+                <button class="glance-item fx-item" aria-expanded="false" aria-controls="drawer-fx" data-drawer="fx">
                     <span class="glance-label">Dolar</span>
                     <span class="glance-value" id="usd">--</span>
-                    <span class="glance-sub">lei</span>
-                </button>
-                <button class="glance-item" aria-expanded="false" aria-controls="drawer-crypto" data-drawer="crypto">
-                    <span class="glance-label">Bitcoin</span>
-                    <span class="glance-value" id="btc">--</span>
-                    <span class="glance-sub" id="eth">Ethereum --</span>
+                    <span class="glance-sub" id="usdSub">lei</span>
+                    <span class="spark" id="usdSpark" aria-hidden="true"></span>
                 </button>
             </div>
 
             <div class="drawer" id="drawer-weather" hidden>
-                <h2>Vremea</h2>
+                <h2 id="weatherTitle">Vremea</h2>
                 <div class="city-row">
                     <label class="sr-only" for="city-search">Caută un oraș</label>
                     <input type="search" id="city-search" placeholder="Caută un oraș din România" autocomplete="off" oninput="searchCity(this.value)">
@@ -473,12 +494,16 @@
                 <div class="drawer-grid" id="weather-forecast" style="margin-top:14px;"></div>
             </div>
             <div class="drawer" id="drawer-fx" hidden>
-                <h2>Cursul valutar</h2>
+                <div class="drawer-head">
+                    <h2 id="fxTitle">Cursul valutar</h2>
+                    <div class="seg" role="tablist" aria-label="Tip curs">
+                        <button role="tab" aria-selected="true" data-fxtab="fiat">Valute</button>
+                        <button role="tab" aria-selected="false" data-fxtab="crypto">Crypto</button>
+                    </div>
+                </div>
                 <div class="drawer-grid" id="currency-rates"><p class="muted">Se încarcă...</p></div>
-            </div>
-            <div class="drawer" id="drawer-crypto" hidden>
-                <h2>Crypto</h2>
-                <div class="drawer-grid" id="crypto-rates"><p class="muted">Se încarcă...</p></div>
+                <div class="drawer-grid" id="crypto-rates" hidden><p class="muted">Se încarcă...</p></div>
+                <p class="muted fx-note" id="fxNote"></p>
             </div>
 
         </section>
@@ -662,16 +687,35 @@
         let currentCity = CITIES[0];
         try { const c = JSON.parse(store.get('azinews_city')); if (c && c.name) currentCity = c; } catch (e) {}
 
-        function showWeather(temp, code) {
+        // pictograme simple pentru starea vremii (cod WMO de la open-meteo)
+        const CLOUD = '<path d="M7 19h10a4 4 0 0 0 .6-7.96A6 6 0 0 0 6.2 10.3 4.4 4.4 0 0 0 7 19z"/>';
+        const WX_ICONS = {
+            sun: '<circle cx="12" cy="12" r="4.2" fill="var(--azi)"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6"/>',
+            partly: '<circle cx="8.5" cy="8.5" r="3.4" fill="var(--azi)"/><path d="M8.5 2.3v1.4M2.3 8.5h1.4M4.1 4.1l1 1M12.9 4.1l-1 1"/><path d="M9 20h8.5a3.5 3.5 0 0 0 .4-6.98A5 5 0 0 0 8.4 12.3 3.9 3.9 0 0 0 9 20z" fill="var(--surface)"/>',
+            cloud: CLOUD,
+            fog: '<path d="M4 9h16M3 13h18M5 17h14"/>',
+            rain: CLOUD.replace('19h10', '15.5h10').replace('7 19z', '7 15.5z') + '<path d="M9 18.5l-1 2.5M13 18.5l-1 2.5M17 18.5l-1 2.5"/>',
+            snow: CLOUD.replace('19h10', '15.5h10').replace('7 19z', '7 15.5z') + '<path d="M9 19.5h.01M12.5 21h.01M16 19.5h.01" stroke-width="2.6"/>',
+            storm: CLOUD.replace('19h10', '15.5h10').replace('7 19z', '7 15.5z') + '<path d="M13 16l-2.5 3.5h3L11 23" />'
+        };
+        const wxKind = c => c == null ? null : c === 0 ? 'sun' : c <= 2 ? 'partly' : c === 3 ? 'cloud' : c <= 48 ? 'fog' :
+            c <= 67 || (c >= 80 && c <= 82) ? 'rain' : c <= 77 || c <= 86 ? 'snow' : 'storm';
+        const wxSvg = k => k ? `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">${WX_ICONS[k]}</svg>` : '';
+
+        function showWeather(temp, code, max, min) {
             document.getElementById('weather').textContent = `${temp}°`;
-            document.getElementById('weatherLabel').textContent = `Vremea în ${currentCity.name}`;
-            document.getElementById('weatherSub').textContent = code != null ? WEATHER_TEXT(code) : 'Prognoză pe 7 zile';
+            document.getElementById('weatherIcon').innerHTML = wxSvg(wxKind(code));
+            document.getElementById('weatherLabel').textContent = currentCity.name;
+            document.getElementById('weatherTitle').textContent = `Vremea în ${currentCity.name}`;
+            const desc = code != null ? WEATHER_TEXT(code) : '';
+            const range = max != null ? `${max}° / ${min}°` : '';
+            document.getElementById('weatherSub').innerHTML = esc(desc) + (desc && range ? '<span class="vs">, ' + esc(range) + '</span>' : esc(range)) || 'Vremea';
         }
         function fetchWeather() {
             const cacheKey = 'azinews_weather';
             try {
                 const c = JSON.parse(store.get(cacheKey));
-                if (c && c.city === currentCity.name) showWeather(c.temp, c.code);
+                if (c && c.city === currentCity.name) showWeather(c.temp, c.code, c.max, c.min);
             } catch (e) {}
             const { lat, lon, name } = currentCity;
             fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&daily=weathercode,temperature_2m_max,temperature_2m_min,precipitation_sum&forecast_days=7&timezone=Europe/Bucharest`)
@@ -679,11 +723,13 @@
                 .then(d => {
                     const temp = Math.round(d.current_weather.temperature);
                     const code = d.current_weather.weathercode;
-                    showWeather(temp, code);
-                    store.set(cacheKey, JSON.stringify({ temp, code, city: name, timestamp: Date.now() }));
+                    const max = Math.round(d.daily.temperature_2m_max[0]), min = Math.round(d.daily.temperature_2m_min[0]);
+                    showWeather(temp, code, max, min);
+                    store.set(cacheKey, JSON.stringify({ temp, code, max, min, city: name, timestamp: Date.now() }));
                     renderForecast(d.daily.time.map((t, i) => ({
                         date: t, max: Math.round(d.daily.temperature_2m_max[i]), min: Math.round(d.daily.temperature_2m_min[i]),
-                        info: WEATHER_TEXT(d.daily.weathercode[i]), rain: `${fmt(d.daily.precipitation_sum[i], 1)} mm`
+                        code: d.daily.weathercode[i], info: WEATHER_TEXT(d.daily.weathercode[i]),
+                        rain: d.daily.precipitation_sum[i] >= 0.1 ? `${fmt(d.daily.precipitation_sum[i], 1)} mm` : ''
                     })));
                 })
                 .catch(() => {
@@ -701,7 +747,8 @@
         function renderForecast(days) {
             document.getElementById('weather-forecast').innerHTML = days.map((d, i) => {
                 const name = i === 0 ? 'Azi' : i === 1 ? 'Mâine' : WEEKDAYS[new Date(d.date + 'T12:00').getDay()];
-                return `<div class="tile"><span>${esc(name)}</span><b>${esc(d.max)}° / ${esc(d.min)}°</b><span>${esc(d.info)}${d.info ? ', ' : ''}${esc(d.rain)}</span></div>`;
+                const extra = [d.info, d.rain].filter(Boolean).join(', ');
+                return `<div class="tile"><span>${esc(name)}</span><b class="glance-value" style="font-size:1.05rem">${wxSvg(wxKind(d.code))}${esc(d.max)}° / ${esc(d.min)}°</b><span>${esc(extra)}</span></div>`;
             }).join('');
         }
         function cityButtons(list) {
@@ -738,27 +785,53 @@
         drawerLoaders.weather = () => renderCityList(cityList);
         fetchWeather();
 
-        // ---------- curs valutar ----------
-        fetchWithCache('https://open.er-api.com/v6/latest/RON', 'azinews_fx', d => {
-            if (!d || !d.rates) return;
-            const ron = c => 1 / d.rates[c];
-            document.getElementById('eur').textContent = fmt(ron('EUR'), 4);
-            document.getElementById('usd').textContent = fmt(ron('USD'), 4);
-            const names = { EUR: 'Euro', USD: 'Dolar american', GBP: 'Liră sterlină', CHF: 'Franc elvețian', HUF: 'Forint (100)', PLN: 'Zlot polonez', CZK: 'Coroană cehă', TRY: 'Liră turcească', MDL: 'Leu moldovenesc' };
-            document.getElementById('currency-rates').innerHTML = Object.keys(names).filter(c => d.rates[c]).map(c => {
-                const v = c === 'HUF' ? ron(c) * 100 : ron(c);
-                return `<div class="tile"><span>${c}</span><b>${fmt(v, 4)} lei</b><span>${names[c]}</span></div>`;
-            }).join('');
-        }, 30 * 60 * 1000);
+        // ---------- curs valutar (data/fx.json: BNR, cu rezervă BCE; în ultimă instanță open.er-api) ----------
+        const FX_NAMES = { EUR: 'Euro', USD: 'Dolar american', GBP: 'Liră sterlină', CHF: 'Franc elvețian', HUF: '100 forinți', PLN: 'Zlot polonez', CZK: 'Coroană cehă', TRY: 'Liră turcească', MDL: 'Leu moldovenesc' };
+        function changeHtml(v, prev) {
+            if (prev == null) return '';
+            const d = v - prev;
+            if (Math.abs(d) < 0.00005) return '<span class="chg">neschimbat</span><span class="vs"> față de ieri</span>';
+            const word = d > 0 ? 'a crescut cu' : 'a scăzut cu';
+            return `<span class="chg"><span aria-hidden="true">${d > 0 ? '▲' : '▼'}</span><span class="sr-only">${word}</span> ${fmt(Math.abs(d), 4)}</span><span class="vs"> față de ieri</span>`;
+        }
+        function sparkline(values) {
+            if (!values || values.length < 2) return '';
+            const min = Math.min(...values), max = Math.max(...values), span = max - min || 1;
+            const pts = values.map((v, i) => `${(i / (values.length - 1) * 76).toFixed(1)},${(26 - (v - min) / span * 22).toFixed(1)}`);
+            const last = pts[pts.length - 1].split(',');
+            return `<svg viewBox="0 0 76 30" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><polyline points="${pts.join(' ')}"/><circle cx="${last[0]}" cy="${last[1]}" r="2.6" fill="var(--ink)" stroke="none"/></svg>`;
+        }
+        function renderFx(fx) {
+            const r = fx.rates;
+            for (const c of ['EUR', 'USD']) {
+                if (!r[c]) continue;
+                document.getElementById(c.toLowerCase()).textContent = fmt(r[c].v, 4);
+                document.getElementById(c.toLowerCase() + 'Sub').innerHTML = changeHtml(r[c].v, r[c].prev) || 'lei';
+                document.getElementById(c.toLowerCase() + 'Spark').innerHTML = sparkline(fx.history && fx.history[c]);
+            }
+            document.getElementById('currency-rates').innerHTML = Object.keys(FX_NAMES).filter(c => r[c]).map(c =>
+                `<div class="tile"><span>${esc(FX_NAMES[c])}</span><b>${fmt(r[c].v, 4)} lei</b><span>${changeHtml(r[c].v, r[c].prev).replace(' față de ieri', '') || c}</span></div>`
+            ).join('');
+            if (fx.date) {
+                const [y, m, d] = fx.date.split('-').map(Number);
+                document.getElementById('fxNote').textContent = fx.source === 'BNR'
+                    ? `Cursul oficial BNR din ${d} ${MONTHS[m - 1]} ${y}. Variația e față de ziua bancară anterioară.`
+                    : `Cursul de referință BCE din ${d} ${MONTHS[m - 1]} ${y}, aproape de cursul BNR. Variația e față de ziua bancară anterioară.`;
+            }
+        }
+        fetch('data/fx.json', { cache: 'no-cache' })
+            .then(r => r.ok ? r.json() : Promise.reject(r.status))
+            .then(renderFx)
+            .catch(() => fetchWithCache('https://open.er-api.com/v6/latest/RON', 'azinews_fx', d => {
+                if (!d || !d.rates) return;
+                const rates = {};
+                for (const c of Object.keys(FX_NAMES)) if (d.rates[c]) rates[c] = { v: (1 / d.rates[c]) * (c === 'HUF' ? 100 : 1) };
+                renderFx({ rates });
+            }, 30 * 60 * 1000));
 
-        // ---------- crypto ----------
-        fetchWithCache('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd', 'azinews_crypto', d => {
-            if (!d || !d.bitcoin) return;
-            document.getElementById('btc').textContent = '$' + Math.round(d.bitcoin.usd).toLocaleString('ro-RO');
-            document.getElementById('eth').textContent = 'Ethereum $' + Math.round(d.ethereum.usd).toLocaleString('ro-RO');
-        }, 15 * 60 * 1000);
+        // ---------- crypto (tab în sertarul de curs) ----------
         let cryptoLoaded = false;
-        drawerLoaders.crypto = () => {
+        function loadCrypto() {
             if (cryptoLoaded) return;
             fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,binancecoin,solana,ripple,cardano,dogecoin,polkadot&order=market_cap_desc&sparkline=false&price_change_percentage=24h')
                 .then(r => r.json())
@@ -766,12 +839,23 @@
                     document.getElementById('crypto-rates').innerHTML = data.map(c => {
                         const ch = c.price_change_percentage_24h || 0;
                         const price = c.current_price >= 1 ? fmt(c.current_price, 2) : fmt(c.current_price, 4);
-                        return `<div class="tile"><span>${esc(c.symbol.toUpperCase())}</span><b>$${price}</b><span class="${ch >= 0 ? 'up' : 'down'}">${ch >= 0 ? '+' : '−'}${fmt(Math.abs(ch), 2)}% în 24h</span></div>`;
+                        return `<div class="tile"><span>${esc(c.name)}</span><b>$${price}</b><span class="${ch >= 0 ? 'up' : 'down'}">${ch >= 0 ? '+' : '−'}${fmt(Math.abs(ch), 2)}% în 24h</span></div>`;
                     }).join('');
                     cryptoLoaded = true;
                 })
                 .catch(() => { document.getElementById('crypto-rates').innerHTML = '<p class="muted">Prețurile nu sunt disponibile acum. Încearcă din nou peste câteva minute.</p>'; });
-        };
+        }
+        document.querySelector('#drawer-fx .seg').addEventListener('click', e => {
+            const t = e.target.closest('[data-fxtab]');
+            if (!t) return;
+            const crypto = t.dataset.fxtab === 'crypto';
+            document.querySelectorAll('#drawer-fx [data-fxtab]').forEach(b => b.setAttribute('aria-selected', String(b === t)));
+            document.getElementById('currency-rates').hidden = crypto;
+            document.getElementById('crypto-rates').hidden = !crypto;
+            document.getElementById('fxNote').hidden = crypto;
+            document.getElementById('fxTitle').textContent = crypto ? 'Crypto, în dolari' : 'Cursul valutar';
+            if (crypto) loadCrypto();
+        });
 
         // ---------- radio ----------
         const audio = document.getElementById('radioPlayer');

@@ -35,6 +35,7 @@ jobs:
         run: |
           python3 update_news.py
           python3 generate_rss.py
+          python3 fetch_fx.py || echo "Curs valutar indisponibil, continui"
 
       - name: Pe scurt (AI, opțional)
         env:
