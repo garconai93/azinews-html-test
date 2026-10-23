@@ -24,3 +24,5 @@ Disallow: /
 
 User-agent: meta-externalagent
 Disallow: /
+
+Sitemap: https://azinews.ro/sitemap.xml

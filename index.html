@@ -10,6 +10,13 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://azinews.ro/">
     <meta property="og:image" content="https://azinews.ro/icon-512.png">
+    <meta property="og:locale" content="ro_RO">
+    <link rel="canonical" href="https://azinews.ro/">
+    <meta name="robots" content="noindex"><!-- doar-test -->
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"WebSite","name":"AziNews","url":"https://azinews.ro/","inLanguage":"ro",
+     "potentialAction":{"@type":"SearchAction","target":"https://azinews.ro/?q={search_term_string}","query-input":"required name=search_term_string"}}
+    </script>
     <meta name="theme-color" content="#F2F3EF" media="(prefers-color-scheme: light)">
     <meta name="theme-color" content="#0E1525" media="(prefers-color-scheme: dark)">
     <link rel="manifest" href="manifest.json">
@@ -164,7 +171,7 @@
         }
         .today .num {
             display: inline-grid; place-items: center;
-            min-width: 1.18em; height: 1.18em; padding: 0 .08em; margin-right: .06em;
+            min-width: 1.18em; height: 1.18em; padding: 0 .08em; margin-right: -.12em;
             border-radius: 999px; background: var(--azi); color: var(--azi-ink);
             vertical-align: -.12em;
         }
@@ -631,7 +638,7 @@
             const get = t => (parts.find(p => p.type === t) || {}).value || '';
             const wd = get('weekday');
             document.getElementById('todayTitle').innerHTML =
-                `<span class="weekday">${esc(wd.charAt(0).toUpperCase() + wd.slice(1))}</span><span class="num">${esc(get('day'))}</span>${esc(get('month'))}`;
+                `<span class="weekday">${esc(wd.charAt(0).toUpperCase() + wd.slice(1))}<span class="sr-only">,</span> </span><span class="num">${esc(get('day'))}</span> ${esc(get('month'))}`;
         }
         updateDateTime();
         setInterval(updateDateTime, 60000);
@@ -1194,6 +1201,14 @@
                 feed.nextDay = idx >= 0 ? idx : 0;
                 updateStatusLine();
                 setInterval(updateStatusLine, 60000);
+                const q = new URLSearchParams(location.search).get('q');
+                if (q && q.trim().length >= 2) {
+                    document.getElementById('news-search').value = q.trim();
+                    document.getElementById('searchForm').classList.add('has-text');
+                    setStatus('');
+                    runSearch(q.trim());
+                    return;
+                }
                 setStatus('');
                 renderTopStories();
                 loadMoreNews();
