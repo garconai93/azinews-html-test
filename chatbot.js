@@ -14,15 +14,24 @@
     const CONTEXT_ITEMS = 25;
 
     const css = `
+    /* buton: „soarele” galben din logo, cu steluța asistentului (ca în antetul chatului) */
     .azn-launch {
         position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom)); z-index: 9000;
-        display: inline-flex; align-items: center; gap: 8px; height: 52px; padding: 0 20px 0 16px;
+        display: inline-flex; align-items: center; gap: 10px; height: 56px; padding: 6px 20px 6px 6px;
         border: 0; border-radius: 999px; cursor: pointer;
         background: var(--ink, #14213D); color: var(--paper, #fff);
-        font: 600 15px/1 var(--display, system-ui, sans-serif);
-        box-shadow: 0 6px 24px rgba(0,0,0,.22);
+        font: 650 15px/1 var(--display, system-ui, sans-serif); letter-spacing: -0.01em;
+        box-shadow: 0 8px 28px rgba(8, 12, 24, .28), 0 1px 2px rgba(8, 12, 24, .2);
+        transition: transform .15s ease, box-shadow .15s ease;
     }
-    .azn-launch svg { width: 22px; height: 22px; flex: none; }
+    .azn-launch:hover { transform: translateY(-1px); box-shadow: 0 12px 32px rgba(8, 12, 24, .32), 0 1px 2px rgba(8, 12, 24, .2); }
+    .azn-orb {
+        width: 44px; height: 44px; flex: none; border-radius: 50%; display: grid; place-items: center;
+        background: var(--azi, #FFCB3D); color: var(--azi-ink, #14213D);
+        box-shadow: inset -5px -5px 0 rgba(0,0,0,.08);
+    }
+    .azn-orb svg { width: 22px; height: 22px; transition: transform .25s ease; }
+    .azn-launch:hover .azn-orb svg { transform: rotate(18deg) scale(1.08); }
     .azn-launch:focus-visible { outline: 3px solid var(--link, #2448E0); outline-offset: 3px; }
     .azn-open .azn-launch { display: none; }
     body:has(.consent.show) .azn-launch { display: none; }
@@ -103,7 +112,9 @@
     }
 
     @media (max-width: 640px) {
-        .azn-launch { padding: 0; width: 52px; justify-content: center; }
+        .azn-launch { padding: 0; width: 60px; height: 60px; justify-content: center; background: var(--azi, #FFCB3D); box-shadow: 0 0 0 3px var(--paper, #fff), 0 8px 24px rgba(8, 12, 24, .3); }
+        .azn-launch .azn-orb { width: 60px; height: 60px; }
+        .azn-launch .azn-orb svg { width: 26px; height: 26px; }
         .azn-launch .azn-label { display: none; }
         .azn-open .azn-backdrop { display: block; position: fixed; inset: 0; z-index: 9000; background: rgba(8, 12, 24, .45); }
         .azn-panel {
@@ -190,7 +201,7 @@
             this.root = document.createElement('div');
             this.root.className = 'azn';
             this.root.innerHTML = `
-                <button class="azn-launch" type="button" aria-haspopup="dialog" aria-controls="aznPanel" aria-expanded="false" aria-label="Întreabă asistentul AI">${ICON.chat}<span class="azn-label" aria-hidden="true">Întreabă AI</span></button>
+                <button class="azn-launch" type="button" aria-haspopup="dialog" aria-controls="aznPanel" aria-expanded="false" aria-label="Întreabă asistentul AI"><span class="azn-orb" aria-hidden="true">${ICON.spark}</span><span class="azn-label" aria-hidden="true">Întreabă AI</span></button>
                 <div class="azn-backdrop"></div>
                 <section class="azn-panel" id="aznPanel" role="dialog" aria-label="Asistentul AziNews">
                     <div class="azn-handle" aria-hidden="true"></div>
