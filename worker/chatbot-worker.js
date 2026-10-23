@@ -12,7 +12,6 @@
  */
 
 const MODEL = 'openai/gpt-oss-20b';
-const ALLOWED_ORIGINS = ['https://azinews.ro', 'https://www.azinews.ro', 'https://garconai93.github.io'];
 const MAX_MESSAGE = 500;      // caractere
 const MAX_CONTEXT = 14000;    // caractere
 
@@ -23,13 +22,12 @@ const SYSTEM = `Ești asistentul site-ului de știri AziNews.ro. Reguli:
 - Când enumeri mai multe știri, folosește o listă cu „- ” și pune sursa la final, în paranteză, de exemplu (Digi24).
 - Maxim 150 de cuvinte. Fără introduceri de tipul „Iată răspunsul”. Nu descrie cum ai gândit.`;
 
-function cors(origin) {
-    const allow = ALLOWED_ORIGINS.includes(origin) ? origin : ALLOWED_ORIGINS[0];
+// Ca worker-ul vechi: acceptă cereri de pe orice site (azinews.ro, site-ul de test, aplicația Android).
+function cors() {
     return {
-        'Access-Control-Allow-Origin': allow,
+        'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Methods': 'POST, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type',
-        'Vary': 'Origin',
     };
 }
 
