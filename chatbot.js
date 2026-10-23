@@ -128,18 +128,34 @@
         send: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>'
     };
 
+    const norm = s => String(s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    const STOP = new Set('care sunt cele mele care este pentru despre dintre ultimele stiri stirile stire azi astazi acum ceva spune explica rezuma rezumat importante important noutati nou noua spunemi'.split(' '));
+    const CAT_HINTS = {
+        economie: ['econom', 'bani', 'pret', 'curs', 'euro', 'inflat', 'taxe', 'impozit', 'buget', 'salari', 'pensi', 'bursa', 'afaceri'],
+        sport: ['sport', 'fotbal', 'meci', 'tenis', 'handbal', 'baschet', 'campionat', 'liga'],
+        politica: ['politic', 'guvern', 'parlament', 'partid', 'alegeri', 'ministr', 'premier', 'presedint'],
+        externe: ['extern', 'international', 'ucraina', 'rusia', 'sua', 'trump', 'europa', 'razboi', 'israel', 'iran', 'china'],
+        sanatate: ['sanatat', 'spital', 'medic', 'boala', 'stiint', 'tehnolog', 'virus', 'vaccin'],
+        lifestyle: ['vedet', 'showbiz', 'monden', 'film', 'muzic', 'horoscop', 'calator']
+    };
+
     const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
     // text simplu -> HTML sigur: paragrafe, liste cu „-” sau „1.”, **bold**
     function formatAnswer(text) {
-        const blocks = esc(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').split(/\n{2,}/);
-        return blocks.map(b => {
-            const lines = b.split('\n').filter(l => l.trim());
-            if (lines.length > 1 && lines.every(l => /^\s*([-•*]|\d+[.)])\s+/.test(l))) {
-                return '<ul>' + lines.map(l => '<li>' + l.replace(/^\s*([-•*]|\d+[.)])\s+/, '') + '</li>').join('') + '</ul>';
-            }
-            return '<p>' + lines.join('<br>') + '</p>';
-        }).join('');
+        const LIST = /^\s*([-•*]|\d+[.)])\s+/;
+        const html = [];
+        let list = null, para = [];
+        const flushPara = () => { if (para.length) { html.push('<p>' + para.join('<br>') + '</p>'); para = []; } };
+        const flushList = () => { if (list) { html.push('<ul>' + list.map(l => '<li>' + l + '</li>').join('') + '</ul>'); list = null; } };
+        for (const raw of esc(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').split('\n')) {
+            const line = raw.trim();
+            if (!line) { flushPara(); flushList(); continue; }
+            if (LIST.test(line)) { flushPara(); (list = list || []).push(line.replace(LIST, '')); }
+            else { flushList(); para.push(line); }
+        }
+        flushPara(); flushList();
+        return html.join('');
     }
 
     function suggestions() {
@@ -263,7 +279,8 @@
             return el;
         }
 
-        async context() {
+        // Alegem știrile care se potrivesc cu întrebarea, nu doar ultimele apărute.
+        async context(question) {
             let items = Array.isArray(window.news) && window.news.length ? window.news : [];
             if (!items.length) {
                 try {
@@ -272,8 +289,23 @@
                 } catch (e) {}
             }
             if (!items.length) return 'Nu am informații despre știri momentan.';
-            return items.slice(0, CONTEXT_ITEMS).map(n =>
-                `${n.source}: ${n.title}${n.content ? ' - ' + n.content.slice(0, 300) : ''}`).join('\n\n');
+            const q = norm(question);
+            const words = new Set(q.split(/[^a-z0-9]+/).filter(w => w.length > 3 && !STOP.has(w)).map(w => w.slice(0, 6)));
+            const cats = Object.keys(CAT_HINTS).filter(c => CAT_HINTS[c].some(h => q.includes(h)));
+            const scored = items.slice(0, 300).map((n, i) => {
+                const text = norm(n.title + ' ' + (n.content || ''));
+                let score = 0;
+                for (const w of words) if (text.includes(w)) score += 2;
+                if (cats.includes(n.cat)) score += 3;
+                return { n, score: score - i / 300 };   // la egalitate, cea mai nouă câștigă
+            });
+            const relevant = scored.filter(x => x.score > 0.5).sort((a, b) => b.score - a.score).slice(0, 18).map(x => x.n);
+            const pool = relevant.length >= 6 ? relevant : [...relevant, ...items.slice(0, 18 - relevant.length)];
+            const seen = new Set();
+            return pool.filter(n => !seen.has(n.url) && seen.add(n.url)).map(n => {
+                const when = (n.ts || n.fetched_at || '').slice(0, 16).replace('T', ' ');
+                return `[${n.source}${when ? ', ' + when + ' UTC' : ''}] ${n.title}${n.content ? ' - ' + n.content.slice(0, 280) : ''}`;
+            }).join('\n\n');
         }
 
         async ask(text, isRetry) {
@@ -293,10 +325,12 @@
                 const r = await fetch(WORKER_URL, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ message: text, context: await this.context() })
+                    body: JSON.stringify({ message: text, context: await this.context(text) })
                 });
                 const data = await r.json().catch(() => ({}));
                 if (!r.ok || !data.response) throw new Error(data.error || 'HTTP ' + r.status);
+                // worker-ul vechi poate trimite „gândirea” modelului (în engleză) în loc de răspuns
+                if (/^\s*(we need to|we have to|let's|let me|the user|okay,|ok,|so the user)/i.test(data.response)) throw new Error('raspuns-ciorna');
                 typing.remove();
                 this.add(formatAnswer(data.response), 'bot');
             } catch (e) {
