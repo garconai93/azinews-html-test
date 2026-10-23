@@ -1,0 +1,64 @@
+# Publică worker-ul asistentului AI pe Cloudflare când se schimbă codul din worker/.
+# Are nevoie de 3 secrete în repo (Settings -> Secrets and variables -> Actions):
+#   CLOUDFLARE_API_TOKEN  - cheie Cloudflare cu șablonul „Edit Cloudflare Workers”
+#   CLOUDFLARE_ACCOUNT_ID - ID-ul contului Cloudflare
+#   GROQ_API_KEY          - cheia Groq; ajunge în worker ca secret, nu în cod
+# Fără ele, workflow-ul doar spune ce lipsește și nu publică nimic.
+name: Worker AI
+
+on:
+  push:
+    branches: [master]
+    paths: ['worker/**']
+  workflow_dispatch:
+
+concurrency:
+  group: worker-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Verifică secretele
+        id: check
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          GROQ: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          missing=""
+          [ -z "$CF_TOKEN" ] && missing="$missing CLOUDFLARE_API_TOKEN"
+          [ -z "$CF_ACCOUNT" ] && missing="$missing CLOUDFLARE_ACCOUNT_ID"
+          [ -z "$GROQ" ] && missing="$missing GROQ_API_KEY"
+          if [ -n "$missing" ]; then
+            echo "Lipsesc secretele:$missing. Nu public nimic."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publică worker-ul
+        if: steps.check.outputs.ok == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: worker
+          secrets: |
+            GROQ_API_KEY
+          command: deploy
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+      - name: Verifică worker-ul publicat
+        if: steps.check.outputs.ok == 'true'
+        run: |
+          code=$(curl -s -o r.json -w '%{http_code}' -X POST https://azinews-chatbot.garconai93.workers.dev \
+            -H 'Origin: https://azinews.ro' -H 'Content-Type: application/json' \
+            -d '{"message":"Spune doar: merge","context":"Test: worker-ul a fost publicat."}')
+          echo "HTTP $code"; head -c 300 r.json; echo
+          [ "$code" = "200" ]

@@ -1,0 +1,5 @@
+# Worker-ul asistentului AI (același nume ca cel existent, deci îl înlocuiește în loc să creeze altul)
+name = "azinews-chatbot"
+main = "chatbot-worker.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
