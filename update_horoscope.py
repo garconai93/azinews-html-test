@@ -3,9 +3,15 @@
 AziNews Horoscop Generator
 Generează horoscop zilnic diferit pentru fiecare zodie
 """
+import json
 import random
+import sys
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
+
+RO_TZ = ZoneInfo("Europe/Bucharest")
+OUT = Path(__file__).parent / "data" / "horoscope.json"
 
 # Mesaje pentru fiecare zodie (vor fi amestecate zilnic)
 HOROSCOPE_MESSAGES = {
@@ -97,7 +103,7 @@ HOROSCOPE_MESSAGES = {
 
 def get_daily_horoscope():
     """Generează horoscop zilnic bazat pe ziua lunii"""
-    today = datetime.now()
+    today = datetime.now(RO_TZ)
     day_of_month = today.day
     month = today.month
     
@@ -125,15 +131,22 @@ def get_daily_horoscope():
 
 def update_json(horoscope):
     """Scrie horoscopul în data/horoscope.json (citit de index.html)"""
-    import json
-    out = Path(__file__).parent / "data" / "horoscope.json"
-    out.parent.mkdir(exist_ok=True)
-    out.write_text(json.dumps({"date": datetime.now().strftime('%Y-%m-%d'), "items": horoscope},
+    OUT.parent.mkdir(exist_ok=True)
+    OUT.write_text(json.dumps({"date": datetime.now(RO_TZ).strftime('%Y-%m-%d'), "items": horoscope},
                               ensure_ascii=False, indent=1), encoding='utf-8')
-    print(f"Horoscop actualizat pentru {datetime.now().strftime('%d-%m-%Y')}")
+    print(f"Horoscop actualizat pentru {datetime.now(RO_TZ).strftime('%d-%m-%Y')}")
+
 
 def main():
-    print(f"Horoscop Generator - {datetime.now()}")
+    # --if-new-day: rulează doar dacă horoscopul nu e deja de azi (folosit de actualizarea orară)
+    if "--if-new-day" in sys.argv:
+        try:
+            if json.loads(OUT.read_text(encoding="utf-8")).get("date") == datetime.now(RO_TZ).strftime('%Y-%m-%d'):
+                print("Horoscopul e deja de azi.")
+                return
+        except (OSError, ValueError):
+            pass
+    print(f"Horoscop Generator - {datetime.now(RO_TZ)}")
     horoscope = get_daily_horoscope()
     
     print("\nHoroscop zilnic:")

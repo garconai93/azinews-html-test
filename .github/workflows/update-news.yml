@@ -1,12 +1,17 @@
-# Preia știrile la fiecare oră și le salvează în data/ (fără push --force)
+# Preia știrile cam o dată pe oră și le salvează în data/ (fără push --force).
+#
+# GitHub nu garantează ora rulărilor programate: pe conturile gratuite le amână sau le sare
+# des (în practică la 3-5 ore). De aceea pornim la fiecare 15 minute, iar pasul „Verifică”
+# oprește rularea dacă ultima actualizare are mai puțin de 45 de minute. Rulările oprite
+# durează câteva secunde și sunt gratuite pentru repo-urile publice.
 name: AziNews Update
 
 on:
   schedule:
-    - cron: '42 * * * *'  # în fiecare oră, la minutul 42
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
 
-# un singur job care scrie în repo rulează la un moment dat (știri sau horoscop)
+# un singur job care scrie în repo rulează la un moment dat
 concurrency:
   group: azinews-data
   cancel-in-progress: false
@@ -23,26 +28,48 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN || github.token }}
 
+      - name: Verifică dacă e timpul pentru o actualizare
+        id: due
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          try:
+              updated = json.load(open("data/latest.json"))["updated"]
+              age = (datetime.now(timezone.utc) - datetime.fromisoformat(updated.replace("Z", "+00:00"))).total_seconds() / 60
+          except Exception:
+              age = 999
+          due = os.environ["GITHUB_EVENT_NAME"] != "schedule" or age >= 45
+          print(f"Ultima actualizare acum {age:.0f} min -> {'actualizez' if due else 'sar peste'}")
+          open(os.environ["GITHUB_OUTPUT"], "a").write(f"run={'true' if due else 'false'}\n")
+          PY
+
       - name: Setup Python
+        if: steps.due.outputs.run == 'true'
         uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
       - name: Install dependencies
+        if: steps.due.outputs.run == 'true'
         run: pip install requests tzdata
 
       - name: Update news
+        if: steps.due.outputs.run == 'true'
         run: |
           python3 update_news.py
           python3 generate_rss.py
           python3 fetch_fx.py || echo "Curs valutar indisponibil, continui"
+          python3 update_horoscope.py --if-new-day
 
       - name: Pe scurt (AI, opțional)
+        if: steps.due.outputs.run == 'true'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python3 generate_brief.py || echo "Pe scurt a eșuat, continui fără"
 
       - name: Commit and push
+        if: steps.due.outputs.run == 'true'
         run: |
           git config --local user.email "garconaibot@gmail.com"
           git config --local user.name "GitHub Actions"
