@@ -1052,8 +1052,7 @@
             const max = topExpanded ? 13 : 5;
             const [lead, ...rest] = list.slice(0, max);
             el.hidden = false;
-            el.innerHTML = `<div class="ts-head feed-head" style="display:block"><h2 id="tsTitle">Subiectele zilei${feed.cat ? ': ' + esc(CATS[feed.cat]) : ''}</h2>
-                    <p>Știrile despre care scriu cele mai multe surse, în ultimele 36 de ore.</p></div>
+            el.innerHTML = `<div class="ts-head feed-head" style="display:block"><h2 id="tsTitle">Subiectele zilei${feed.cat ? ': ' + esc(CATS[feed.cat]) : ''}</h2></div>
                 ${leadStoryHtml(lead)}
                 ${rest.length ? `<div class="ts-grid">${rest.map(topStoryHtml).join('')}</div>` : ''}
                 ${list.length > max ? `<button class="btn ghost" id="tsMore" style="margin-top:6px">Arată încă ${Math.min(list.length, 13) - max} subiecte</button>` : ''}`;
