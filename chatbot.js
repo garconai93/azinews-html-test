@@ -1,706 +1,316 @@
 /**
- * AziNews AI Chatbot - Widget de chat cu Hugging Face Inference API
- * Design: tema întunecată cu accent albastru
+ * Asistentul AziNews: chat despre știrile de azi.
+ * Trimite întrebarea și titlurile recente către worker-ul Cloudflare, care răspunde cu AI.
+ *
+ * Desktop: fereastră în colțul din dreapta jos.
+ * Mobil (≤640px): panou care urcă de jos (cam 60% din ecran), cu fundal estompat;
+ * câmpul de text are 16px, ca iPhone-ul să nu mărească pagina la atingere.
+ * Culorile vin din variabilele site-ului (--ink, --surface...), cu rezerve pentru alte pagini.
  */
-
-(function() {
+(function () {
     'use strict';
 
-    // ============================================
-    // CONFIGURAȚIE - Cloudflare Worker
-    // ============================================
     const WORKER_URL = 'https://azinews-chatbot.garconai93.workers.dev';
-    const SYSTEM_PROMPT = 'Ești un asistent AI pentru site-ul de știri românesc AziNews. Răspunzi prietenos, în limba română, despre știrile din context. Nu inventa informații. Răspunzi scurt și la obiect.';
+    const CONTEXT_ITEMS = 25;
 
-    // ============================================
-    // CSS STILURI
-    // ============================================
-    const styles = `
-        /* Chat Button - Fixed bottom right */
-        .azinews-chat-btn {
-            position: fixed;
-            bottom: 24px;
-            right: 24px;
-            width: 60px;
-            height: 60px;
-            border-radius: 50%;
-            background: var(--ink, #1f6feb);
-            border: none;
-            cursor: pointer;
-            box-shadow: var(--shadow, 0 4px 20px rgba(0,0,0,.3));
-            z-index: 10000;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 28px;
-            transition: all 0.3s ease;
+    const css = `
+    .azn-launch {
+        position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom)); z-index: 9000;
+        display: inline-flex; align-items: center; gap: 8px; height: 52px; padding: 0 20px 0 16px;
+        border: 0; border-radius: 999px; cursor: pointer;
+        background: var(--ink, #14213D); color: var(--paper, #fff);
+        font: 600 15px/1 var(--display, system-ui, sans-serif);
+        box-shadow: 0 6px 24px rgba(0,0,0,.22);
+    }
+    .azn-launch svg { width: 22px; height: 22px; flex: none; }
+    .azn-launch:focus-visible { outline: 3px solid var(--link, #2448E0); outline-offset: 3px; }
+    .azn-open .azn-launch { display: none; }
+    body:has(.consent.show) .azn-launch { display: none; }
+
+    .azn-backdrop { display: none; }
+    .azn-panel {
+        position: fixed; right: 16px; bottom: 16px; z-index: 9001;
+        width: 380px; height: min(580px, calc(100dvh - 32px));
+        display: none; flex-direction: column; overflow: hidden;
+        background: var(--surface, #fff); color: var(--ink, #14213D);
+        border: 1px solid var(--rule, #DADDD4); border-radius: 22px;
+        box-shadow: 0 18px 60px rgba(0,0,0,.25);
+        font-family: var(--display, system-ui, sans-serif);
+    }
+    .azn-open .azn-panel { display: flex; animation: azn-in .18s ease-out; }
+    @keyframes azn-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+
+    .azn-handle { display: none; }
+    .azn-head { display: flex; align-items: center; gap: 12px; padding: 14px 12px 12px 16px; border-bottom: 1px solid var(--rule, #DADDD4); }
+    .azn-avatar { width: 38px; height: 38px; border-radius: 50%; flex: none; display: grid; place-items: center; background: var(--azi, #FFCB3D); color: var(--azi-ink, #14213D); }
+    .azn-avatar svg { width: 20px; height: 20px; }
+    .azn-title { flex: 1; min-width: 0; }
+    .azn-title b { display: block; font-size: 16px; font-weight: 700; letter-spacing: -0.01em; }
+    .azn-title span { display: block; font-size: 13px; color: var(--ink-2, #4E5A70); }
+    .azn-icon {
+        width: 40px; height: 40px; flex: none; display: grid; place-items: center; cursor: pointer;
+        border: 0; border-radius: 50%; background: transparent; color: var(--ink, #14213D);
+    }
+    .azn-icon:hover { background: var(--paper, #F2F3EF); }
+    .azn-icon svg { width: 20px; height: 20px; }
+    .azn-icon:focus-visible, .azn-chip:focus-visible, .azn-send:focus-visible { outline: 3px solid var(--link, #2448E0); outline-offset: 2px; }
+
+    .azn-body { flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 10px; overscroll-behavior: contain; }
+    .azn-hello { margin: 4px 0 6px; }
+    .azn-hello h3 { margin: 0 0 4px; font-size: 20px; line-height: 1.2; letter-spacing: -0.02em; }
+    .azn-hello p { margin: 0; color: var(--ink-2, #4E5A70); font-size: 14px; line-height: 1.45; }
+    .azn-chips { display: flex; flex-direction: column; gap: 8px; margin-top: 14px; }
+    .azn-chip {
+        text-align: left; cursor: pointer; padding: 11px 14px; border-radius: 14px;
+        border: 1px solid var(--rule, #DADDD4); background: var(--paper, #F2F3EF); color: var(--ink, #14213D);
+        font: 500 14px/1.35 var(--display, system-ui, sans-serif);
+    }
+    .azn-chip:hover { border-color: var(--ink-3, #636C7E); }
+
+    .azn-msg { max-width: 88%; padding: 10px 14px; border-radius: 18px; font-size: 15px; line-height: 1.5; overflow-wrap: anywhere; }
+    .azn-msg.user { align-self: flex-end; background: var(--ink, #14213D); color: var(--paper, #fff); border-bottom-right-radius: 6px; }
+    .azn-msg.bot { align-self: flex-start; background: var(--paper, #F2F3EF); border-bottom-left-radius: 6px; }
+    .azn-msg.bot p { margin: 0 0 8px; } .azn-msg.bot p:last-child { margin: 0; }
+    .azn-msg.bot ul { margin: 4px 0 8px; padding-left: 18px; }
+    .azn-msg.error { background: transparent; border: 1px dashed var(--rule, #DADDD4); color: var(--ink-2, #4E5A70); }
+    .azn-msg.error button { margin-top: 8px; }
+    .azn-typing { display: inline-flex; gap: 4px; padding: 4px 0; }
+    .azn-typing i { width: 7px; height: 7px; border-radius: 50%; background: var(--ink-3, #636C7E); animation: azn-dot 1.2s infinite ease-in-out; }
+    .azn-typing i:nth-child(2) { animation-delay: .15s; } .azn-typing i:nth-child(3) { animation-delay: .3s; }
+    @keyframes azn-dot { 0%, 80%, 100% { opacity: .3; transform: translateY(0); } 40% { opacity: 1; transform: translateY(-3px); } }
+
+    .azn-foot { border-top: 1px solid var(--rule, #DADDD4); padding: 10px 12px calc(8px + env(safe-area-inset-bottom)); }
+    .azn-form { display: flex; align-items: flex-end; gap: 8px; }
+    .azn-input {
+        flex: 1; min-width: 0; resize: none; max-height: 120px; padding: 11px 16px; border-radius: 22px;
+        border: 1px solid var(--rule, #DADDD4); background: var(--paper, #F2F3EF); color: var(--ink, #14213D);
+        font: 16px/1.35 var(--display, system-ui, sans-serif); outline: none;
+    }
+    .azn-input:focus { border-color: var(--link, #2448E0); }
+    .azn-input::placeholder { color: var(--ink-3, #636C7E); }
+    .azn-send {
+        width: 44px; height: 44px; flex: none; border: 0; border-radius: 50%; cursor: pointer;
+        display: grid; place-items: center; background: var(--ink, #14213D); color: var(--paper, #fff);
+    }
+    .azn-send:disabled { opacity: .35; cursor: default; }
+    .azn-send svg { width: 20px; height: 20px; }
+    .azn-note { margin: 6px 4px 0; font-size: 12px; color: var(--ink-3, #636C7E); text-align: center; }
+
+    .azn-btn {
+        display: inline-flex; align-items: center; height: 36px; padding: 0 14px; border-radius: 999px; cursor: pointer;
+        border: 1px solid var(--rule, #DADDD4); background: var(--surface, #fff); color: var(--ink, #14213D);
+        font: 600 14px/1 var(--display, system-ui, sans-serif);
+    }
+
+    @media (max-width: 640px) {
+        .azn-launch { padding: 0; width: 52px; justify-content: center; }
+        .azn-launch .azn-label { display: none; }
+        .azn-open .azn-backdrop { display: block; position: fixed; inset: 0; z-index: 9000; background: rgba(8, 12, 24, .45); }
+        .azn-panel {
+            left: 8px; right: 8px; bottom: 8px; width: auto;
+            height: min(62dvh, 560px); border-radius: 22px;
         }
+        .azn-open .azn-panel { animation: azn-up .22s ease-out; }
+        @keyframes azn-up { from { transform: translateY(40px); opacity: .6; } to { transform: none; opacity: 1; } }
+        .azn-handle { display: block; width: 40px; height: 4px; border-radius: 4px; background: var(--rule, #DADDD4); margin: 8px auto -4px; }
+        .azn-chips { flex-direction: row; flex-wrap: wrap; }
+        .azn-chip { padding: 9px 12px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+        .azn-open .azn-panel, .azn-typing i { animation: none; }
+    }`;
 
-        .azinews-chat-btn:hover {
-            transform: scale(1.1);
-            box-shadow: var(--shadow, 0 6px 30px rgba(0,0,0,.4));
-        }
+    const ICON = {
+        chat: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20.5l1.4-4.9A8 8 0 1 1 21 12z"/><path d="M8.5 11h.01M12 11h.01M15.5 11h.01" stroke-width="2.6"/></svg>',
+        spark: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.5l1.9 5.6 5.6 1.9-5.6 1.9L12 17.5l-1.9-5.6L4.5 10l5.6-1.9z"/><path d="M18.5 15l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8z"/></svg>',
+        close: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>',
+        reset: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>',
+        send: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>'
+    };
 
-        .azinews-chat-btn.active {
-            transform: rotate(180deg);
-        }
+    const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
-        /* Chat Panel */
-        .azinews-chat-panel {
-            position: fixed;
-            bottom: 100px;
-            right: 24px;
-            width: 380px;
-            height: 550px;
-            max-height: calc(100vh - 150px);
-            background: var(--surface, #161b22);
-            border: 1px solid var(--rule, #30363d);
-            border-radius: 16px;
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
-            z-index: 10000;
-            display: none;
-            flex-direction: column;
-            overflow: hidden;
-        }
-
-        .azinews-chat-panel.open {
-            display: flex;
-            animation: slideUp 0.3s ease;
-        }
-
-        @keyframes slideUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
+    // text simplu -> HTML sigur: paragrafe, liste cu „-” sau „1.”, **bold**
+    function formatAnswer(text) {
+        const blocks = esc(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').split(/\n{2,}/);
+        return blocks.map(b => {
+            const lines = b.split('\n').filter(l => l.trim());
+            if (lines.length > 1 && lines.every(l => /^\s*([-•*]|\d+[.)])\s+/.test(l))) {
+                return '<ul>' + lines.map(l => '<li>' + l.replace(/^\s*([-•*]|\d+[.)])\s+/, '') + '</li>').join('') + '</ul>';
             }
-            to {
-                opacity: 1;
-                transform: translateY(0);
+            return '<p>' + lines.join('<br>') + '</p>';
+        }).join('');
+    }
+
+    function suggestions() {
+        const list = [];
+        try {
+            // „stories” vine din index.html (subiectele zilei), dacă există
+            if (typeof stories !== 'undefined' && stories.length) {
+                const t = stories[0].title;
+                list.push({ label: 'Explică-mi subiectul principal al zilei', msg: `Explică-mi pe scurt subiectul: ${t}` });
             }
-        }
+        } catch (e) {}
+        list.push(
+            { label: 'Care sunt cele mai importante știri de azi?', msg: 'Care sunt cele mai importante știri de azi? Dă-mi un rezumat scurt.' },
+            { label: 'Ce e nou în economie?', msg: 'Ce știri economice importante au apărut azi?' },
+            { label: 'Ce s-a întâmplat în sport?', msg: 'Ce știri de sport au apărut azi?' }
+        );
+        return list.slice(0, 4);
+    }
 
-        /* Chat Header */
-        .azinews-chat-header {
-            background: var(--surface, #1f6feb);
-            border-bottom: 1px solid var(--rule, transparent);
-            padding: 16px 20px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-
-        .azinews-chat-header-info {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .azinews-chat-avatar {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background: var(--azi, rgba(255,255,255,.2));
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 20px;
-        }
-
-        .azinews-chat-header-text h3 {
-            color: var(--ink, #fff);
-            margin: 0;
-            font-size: 16px;
-            font-weight: 600;
-        }
-
-        .azinews-chat-header-text span {
-            color: var(--ink-2, rgba(255,255,255,.8));
-            font-size: 12px;
-        }
-
-        .azinews-chat-close {
-            background: none;
-            border: none;
-            color: var(--ink, #fff);
-            cursor: pointer;
-            font-size: 24px;
-            padding: 4px;
-            line-height: 1;
-            opacity: 0.8;
-            transition: opacity 0.2s;
-        }
-
-        .azinews-chat-close:hover {
-            opacity: 1;
-        }
-
-        /* Chat Messages */
-        .azinews-chat-messages {
-            flex: 1;
-            overflow-y: auto;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
-        }
-
-        .azinews-chat-messages::-webkit-scrollbar {
-            width: 6px;
-        }
-
-        .azinews-chat-messages::-webkit-scrollbar-track {
-            background: transparent;
-        }
-
-        .azinews-chat-messages::-webkit-scrollbar-thumb {
-            background: var(--rule, #30363d);
-            border-radius: 3px;
-        }
-
-        /* Message Bubbles */
-        .azinews-message {
-            display: flex;
-            gap: 10px;
-            max-width: 85%;
-        }
-
-        .azinews-message.user {
-            align-self: flex-end;
-            flex-direction: row-reverse;
-        }
-
-        .azinews-message.bot {
-            align-self: flex-start;
-        }
-
-        .azinews-message-avatar {
-            width: 32px;
-            height: 32px;
-            border-radius: 50%;
-            background: var(--paper, #21262d);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 14px;
-            flex-shrink: 0;
-        }
-
-        .azinews-message.user .azinews-message-avatar {
-            background: var(--ink, #58a6ff);
-        }
-
-        .azinews-message-content {
-            background: var(--paper, #21262d);
-            padding: 12px 16px;
-            border-radius: 16px;
-            border-top-left-radius: 4px;
-            color: var(--ink, #f0f6fc);
-            font-size: 14px;
-            line-height: 1.5;
-        }
-
-        .azinews-message.user .azinews-message-content {
-            background: var(--ink, #58a6ff);
-            border-top-left-radius: 16px;
-            border-top-right-radius: 4px;
-        }
-
-        /* Typing Indicator */
-        .azinews-typing {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            padding: 8px 0;
-        }
-
-        .azinews-typing-dots {
-            display: flex;
-            gap: 4px;
-        }
-
-        .azinews-typing-dots span {
-            width: 8px;
-            height: 8px;
-            background: var(--ink-2, #8b949e);
-            border-radius: 50%;
-            animation: typingBounce 1.4s infinite ease-in-out;
-        }
-
-        .azinews-typing-dots span:nth-child(1) { animation-delay: 0s; }
-        .azinews-typing-dots span:nth-child(2) { animation-delay: 0.2s; }
-        .azinews-typing-dots span:nth-child(3) { animation-delay: 0.4s; }
-
-        @keyframes typingBounce {
-            0%, 60%, 100% { transform: translateY(0); }
-            30% { transform: translateY(-6px); }
-        }
-
-        /* Chat Input */
-        .azinews-chat-input-area {
-            padding: 16px;
-            background: var(--surface, #0d1117);
-            border-top: 1px solid var(--rule, #30363d);
-            display: flex;
-            gap: 12px;
-            align-items: flex-end;
-        }
-
-        .azinews-chat-input {
-            flex: 1;
-            background: var(--paper, #21262d);
-            border: 1px solid var(--rule, #30363d);
-            border-radius: 12px;
-            padding: 12px 16px;
-            color: var(--ink, #f0f6fc);
-            font-size: 14px;
-            resize: none;
-            max-height: 120px;
-            font-family: inherit;
-            outline: none;
-            transition: border-color 0.2s;
-        }
-
-        .azinews-chat-input:focus {
-            border-color: var(--ink, #58a6ff);
-        }
-
-        .azinews-chat-input::placeholder {
-            color: var(--ink-2, #8b949e);
-        }
-
-        .azinews-chat-send {
-            width: 44px;
-            height: 44px;
-            border-radius: 12px;
-            background: var(--ink, #58a6ff);
-            border: none;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.2s;
-            flex-shrink: 0;
-        }
-
-        .azinews-chat-send:hover {
-            background: var(--ink-2, #4393e6);
-            transform: scale(1.05);
-        }
-
-        .azinews-chat-send:disabled {
-            background: var(--rule, #30363d);
-            cursor: not-allowed;
-            transform: none;
-        }
-
-        .azinews-chat-send svg {
-            width: 20px;
-            height: 20px;
-            fill: var(--paper, #fff);
-        }
-
-        /* Welcome Message */
-        .azinews-welcome {
-            text-align: center;
-            padding: 40px 20px;
-            color: var(--ink-2, #8b949e);
-        }
-
-        .azinews-welcome-icon {
-            font-size: 48px;
-            margin-bottom: 16px;
-        }
-
-        .azinews-welcome h4 {
-            color: var(--ink, #f0f6fc);
-            margin: 0 0 8px 0;
-            font-size: 18px;
-        }
-
-        .azinews-welcome p {
-            margin: 0;
-            font-size: 14px;
-            line-height: 1.5;
-        }
-
-        .azinews-welcome-suggestions {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            justify-content: center;
-            margin-top: 20px;
-        }
-
-        .azinews-welcome-suggestion {
-            background: var(--paper, #21262d);
-            border: 1px solid var(--rule, #30363d);
-            border-radius: 20px;
-            padding: 8px 16px;
-            font-size: 13px;
-            color: var(--ink, #58a6ff);
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .azinews-welcome-suggestion:hover {
-            background: var(--rule, #30363d);
-            border-color: var(--ink, #58a6ff);
-        }
-
-        /* Error Toast */
-        .azinews-error-toast {
-            position: fixed;
-            bottom: 100px;
-            left: 50%;
-            transform: translateX(-50%);
-            background: var(--down, #f85149);
-            color: var(--paper, #fff);
-            padding: 12px 24px;
-            border-radius: 8px;
-            font-size: 14px;
-            z-index: 10001;
-            animation: fadeInUp 0.3s ease;
-        }
-
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateX(-50%) translateY(10px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(-50%) translateY(0);
-            }
-        }
-
-        /* Responsive */
-        @media (max-width: 480px) {
-            .azinews-chat-panel {
-                width: calc(100vw - 32px);
-                right: 16px;
-                bottom: 90px;
-                height: calc(100vh - 130px);
-            }
-
-            .azinews-chat-btn {
-                bottom: 20px;
-                right: 20px;
-                width: 56px;
-                height: 56px;
-                font-size: 24px;
-            }
-        }
-    `;
-
-    // ============================================
-    // HTML TEMPLATE
-    // ============================================
-    const chatHTML = `
-        <style>${styles}</style>
-        
-        <!-- Chat Button -->
-        <button class="azinews-chat-btn" id="azinewsChatBtn" title="Chat AI 💬">
-            💬
-        </button>
-        
-        <!-- Chat Panel -->
-        <div class="azinews-chat-panel" id="azinewsChatPanel">
-            <div class="azinews-chat-header">
-                <div class="azinews-chat-header-info">
-                    <div class="azinews-chat-avatar">🤖</div>
-                    <div class="azinews-chat-header-text">
-                        <h3>AziNews AI</h3>
-                        <span>Asistent virtual</span>
-                    </div>
-                </div>
-                <button class="azinews-chat-close" id="azinewsChatClose">×</button>
-            </div>
-            
-            <div class="azinews-chat-messages" id="azinewsMessages">
-                <div class="azinews-welcome">
-                    <div class="azinews-welcome-icon">🔍</div>
-                    <h4>Bună! Sunt AziNews AI</h4>
-                    <p>Îți pot răspunde despre știrile de azi, rezuma conținut sau explica subiecte din newsfeed.</p>
-                    <div class="azinews-welcome-suggestions">
-                        <div class="azinews-welcome-suggestion" data-msg="Care sunt cele mai importante știri azi?">📰 Știri importante</div>
-                        <div class="azinews-welcome-suggestion" data-msg="Rezumă știrile despre conflictul SUA și Iran">⚔️ SUA - Iran</div>
-                        <div class="azinews-welcome-suggestion" data-msg="Rezumă știrile despre economie">💹 Știri economice</div>
-                        <div class="azinews-welcome-suggestion" data-msg="Ce a mai fost în știri despre sport?">⚽ Știri sportive</div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="azinews-chat-input-area">
-                <textarea 
-                    class="azinews-chat-input" 
-                    id="azinewsChatInput" 
-                    placeholder="Scrie o întrebare..."
-                    rows="1"
-                ></textarea>
-                <button class="azinews-chat-send" id="azinewsChatSend" title="Trimite">
-                    <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
-                </button>
-            </div>
-        </div>
-    `;
-
-    // ============================================
-    // NEWS CONTEXT (va fi încărcat din all_news.json)
-    // ============================================
-    let newsContext = '';
-
-    // ============================================
-    // CLASA PRINCIPALĂ
-    // ============================================
-    class AziNewsChatbot {
+    class AziNewsChat {
         constructor() {
-            this.panel = null;
-            this.messagesEl = null;
-            this.inputEl = null;
-            this.sendBtn = null;
-            this.isOpen = false;
-            this.isLoading = false;
-            this.conversationHistory = [];
-            this.init();
+            this.busy = false;
+            this.lastQuestion = '';
+            this.build();
         }
 
-        async init() {
-            // Inject HTML
-            document.body.insertAdjacentHTML('beforeend', chatHTML);
-            
-            // Get elements
-            this.panel = document.getElementById('azinewsChatPanel');
-            this.messagesEl = document.getElementById('azinewsMessages');
-            this.inputEl = document.getElementById('azinewsChatInput');
-            this.sendBtn = document.getElementById('azinewsChatSend');
-            
-            // Load news context
-            await this.loadNewsContext();
-            
-            // Setup event listeners
-            this.setupEvents();
-            
-            // Auto-resize textarea
-            this.inputEl.addEventListener('input', () => this.autoResize());
-        }
+        build() {
+            const style = document.createElement('style');
+            style.textContent = css;
+            document.head.appendChild(style);
 
-        async loadNewsContext() {
-            // Contextul se construiește la fiecare întrebare din știrile deja încărcate (vezi getLatestNews)
-        }
-
-        async getLatestNews() {
-            if (Array.isArray(window.news) && window.news.length) return window.news;
-            const response = await fetch('data/latest.json', { cache: 'no-cache' });
-            if (!response.ok) return [];
-            const data = await response.json();
-            return data.items || [];
-        }
-
-        setupEvents() {
-            // Toggle chat
-            document.getElementById('azinewsChatBtn').addEventListener('click', () => this.toggle());
-            document.getElementById('azinewsChatClose').addEventListener('click', () => this.close());
-            
-            // Send message
-            this.sendBtn.addEventListener('click', () => this.sendMessage());
-            this.inputEl.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter' && !e.shiftKey) {
-                    e.preventDefault();
-                    this.sendMessage();
-                }
-            });
-            
-            // Welcome suggestions
-            document.querySelectorAll('.azinews-welcome-suggestion').forEach(btn => {
-                btn.addEventListener('click', () => {
-                    const msg = btn.dataset.msg;
-                    this.inputEl.value = msg;
-                    this.sendMessage();
-                });
-            });
-        }
-
-        toggle() {
-            this.isOpen = !this.isOpen;
-            const btn = document.getElementById('azinewsChatBtn');
-            
-            if (this.isOpen) {
-                this.panel.classList.add('open');
-                btn.classList.add('active');
-                this.inputEl.focus();
-            } else {
-                this.panel.classList.remove('open');
-                btn.classList.remove('active');
-            }
-        }
-
-        close() {
-            this.isOpen = false;
-            this.panel.classList.remove('open');
-            document.getElementById('azinewsChatBtn').classList.remove('active');
-        }
-
-        autoResize() {
-            this.inputEl.style.height = 'auto';
-            this.inputEl.style.height = Math.min(this.inputEl.scrollHeight, 120) + 'px';
-        }
-
-        async sendMessage() {
-            const message = this.inputEl.value.trim();
-            if (!message || this.isLoading) return;
-            
-            // Clear input
-            this.inputEl.value = '';
-            this.autoResize();
-            
-            // Remove welcome if exists
-            const welcome = this.messagesEl.querySelector('.azinews-welcome');
-            if (welcome) welcome.remove();
-            
-            // Add user message
-            this.addMessage(message, 'user');
-            
-            // Show typing indicator
-            this.showTyping();
-            this.isLoading = true;
-            this.sendBtn.disabled = true;
-            
-            try {
-                const response = await this.getAIResponse(message);
-                this.hideTyping();
-                this.addMessage(response, 'bot');
-            } catch (error) {
-                this.hideTyping();
-                this.showError('Eroare: ' + error.message);
-                this.addMessage('Scuze, am întâmpinat o problemă. Te rog încearcă din nou.', 'bot');
-            } finally {
-                this.isLoading = false;
-                this.sendBtn.disabled = false;
-            }
-        }
-
-        async getAIResponse(userMessage) {
-            // Fetch news from all_news.json
-            let newsContext = 'Nu am informații despre știri momentan.';
-            try {
-                {
-                    const news = await this.getLatestNews();
-                    if (news && news.length > 0) {
-                        newsContext = news.slice(0, 20).map(n => {
-                            const title = n.title || '';
-                            const source = n.source || '';
-                            const content = (n.content || '').substring(0, 300);
-                            return `${source}: ${title}${content ? ' - ' + content : ''}`;
-                        }).join('\n\n');
-                    }
-                }
-            } catch (e) {
-                console.log('Could not load news:', e);
-            }
-
-            // Build prompt with context
-            const prompt = `${SYSTEM_PROMPT}\n\nIată știrile disponibile:\n${newsContext}\n\nÎntrebare: ${userMessage}`;
-
-            const response = await fetch(WORKER_URL, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    message: userMessage,
-                    context: newsContext
-                })
-            });
-
-            if (!response.ok) {
-                const errorData = await response.json().catch(() => ({}));
-                throw new Error(errorData.error || `Eroare: ${response.status}`);
-            }
-
-            const data = await response.json();
-            
-            if (data.response) {
-                return data.response;
-            }
-            
-            throw new Error('Răspuns invalid de la server');
-        }
-
-        addMessage(content, type) {
-            const messageEl = document.createElement('div');
-            messageEl.className = `azinews-message ${type}`;
-            
-            const avatar = type === 'user' ? '👤' : '🤖';
-            
-            messageEl.innerHTML = `
-                <div class="azinews-message-avatar">${avatar}</div>
-                <div class="azinews-message-content">${this.formatMessage(content)}</div>
-            `;
-            
-            this.messagesEl.appendChild(messageEl);
-            this.scrollToBottom();
-        }
-
-        formatMessage(text) {
-            // Basic formatting
-            return text
-                .replace(/\n/g, '<br>')
-                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                .replace(/\*(.*?)\*/g, '<em>$1</em>')
-                .replace(/`(.*?)`/g, '<code style="background:var(--paper, #21262d);padding:2px 6px;border-radius:4px;">$1</code>');
-        }
-
-        showTyping() {
-            const typingEl = document.createElement('div');
-            typingEl.className = 'azinews-message bot';
-            typingEl.id = 'azinewsTyping';
-            typingEl.innerHTML = `
-                <div class="azinews-message-avatar">🤖</div>
-                <div class="azinews-message-content">
-                    <div class="azinews-typing">
-                        <div class="azinews-typing-dots">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
+            this.root = document.createElement('div');
+            this.root.className = 'azn';
+            this.root.innerHTML = `
+                <button class="azn-launch" type="button" aria-haspopup="dialog" aria-controls="aznPanel" aria-expanded="false" aria-label="Întreabă asistentul AI">${ICON.chat}<span class="azn-label" aria-hidden="true">Întreabă AI</span></button>
+                <div class="azn-backdrop"></div>
+                <section class="azn-panel" id="aznPanel" role="dialog" aria-label="Asistentul AziNews">
+                    <div class="azn-handle" aria-hidden="true"></div>
+                    <header class="azn-head">
+                        <div class="azn-avatar">${ICON.spark}</div>
+                        <div class="azn-title"><b>Asistentul AziNews</b><span>Răspunde din știrile de azi</span></div>
+                        <button class="azn-icon" type="button" data-act="reset" title="Conversație nouă" aria-label="Conversație nouă">${ICON.reset}</button>
+                        <button class="azn-icon" type="button" data-act="close" title="Închide" aria-label="Închide">${ICON.close}</button>
+                    </header>
+                    <div class="azn-body" aria-live="polite"></div>
+                    <div class="azn-foot">
+                        <form class="azn-form">
+                            <label class="sr-only" for="aznInput">Întrebarea ta</label>
+                            <textarea class="azn-input" id="aznInput" rows="1" placeholder="Întreabă ceva despre știri..." enterkeyhint="send"></textarea>
+                            <button class="azn-send" type="submit" aria-label="Trimite" disabled>${ICON.send}</button>
+                        </form>
+                        <p class="azn-note">Poate greși. Verifică în articolul original.</p>
                     </div>
-                </div>
-            `;
-            this.messagesEl.appendChild(typingEl);
-            this.scrollToBottom();
+                </section>`;
+            document.body.appendChild(this.root);
+
+            this.launch = this.root.querySelector('.azn-launch');
+            this.body = this.root.querySelector('.azn-body');
+            this.input = this.root.querySelector('.azn-input');
+            this.send = this.root.querySelector('.azn-send');
+
+            this.launch.addEventListener('click', () => this.open());
+            this.root.querySelector('.azn-backdrop').addEventListener('click', () => this.close());
+            this.root.querySelector('[data-act=close]').addEventListener('click', () => this.close());
+            this.root.querySelector('[data-act=reset]').addEventListener('click', () => this.welcome());
+            this.root.querySelector('.azn-form').addEventListener('submit', e => { e.preventDefault(); this.ask(this.input.value); });
+            this.input.addEventListener('input', () => this.resize());
+            this.input.addEventListener('keydown', e => {
+                if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); this.ask(this.input.value); }
+            });
+            this.body.addEventListener('click', e => {
+                const chip = e.target.closest('[data-msg]');
+                if (chip) this.ask(chip.dataset.msg);
+                if (e.target.closest('[data-act=retry]')) this.ask(this.lastQuestion, true);
+            });
+            document.addEventListener('keydown', e => { if (e.key === 'Escape' && this.isOpen()) this.close(); });
+            this.welcome();
         }
 
-        hideTyping() {
-            const typingEl = document.getElementById('azinewsTyping');
-            if (typingEl) typingEl.remove();
+        isOpen() { return this.root.classList.contains('azn-open'); }
+        isMobile() { return matchMedia('(max-width: 640px)').matches; }
+
+        open() {
+            this.root.classList.add('azn-open');
+            this.launch.setAttribute('aria-expanded', 'true');
+            if (this.isMobile()) document.documentElement.style.overflow = 'hidden';
+            // pe mobil nu deschidem tastatura singuri: ar acoperi sugestiile
+            if (!this.isMobile()) setTimeout(() => this.input.focus(), 50);
+            if (!this.body.querySelector('.azn-msg')) this.welcome();
+        }
+        close() {
+            this.root.classList.remove('azn-open');
+            this.launch.setAttribute('aria-expanded', 'false');
+            document.documentElement.style.overflow = '';
+            this.launch.focus({ preventScroll: true });
         }
 
-        showError(message) {
-            // Remove existing toast
-            const existing = document.querySelector('.azinews-error-toast');
-            if (existing) existing.remove();
-            
-            const toast = document.createElement('div');
-            toast.className = 'azinews-error-toast';
-            toast.textContent = message;
-            document.body.appendChild(toast);
-            
-            setTimeout(() => toast.remove(), 5000);
+        welcome() {
+            this.body.innerHTML = `
+                <div class="azn-hello">
+                    <h3>Salut! Ce vrei să afli?</h3>
+                    <p>Te ajut să înțelegi știrile din ultimele ore: rezumate, explicații, ce s-a mai întâmplat pe un subiect.</p>
+                    <div class="azn-chips">${suggestions().map(s => `<button type="button" class="azn-chip" data-msg="${esc(s.msg)}">${esc(s.label)}</button>`).join('')}</div>
+                </div>`;
+            this.input.value = '';
+            this.resize();
         }
 
-        scrollToBottom() {
-            this.messagesEl.scrollTop = this.messagesEl.scrollHeight;
+        resize() {
+            this.input.style.height = 'auto';
+            this.input.style.height = Math.min(this.input.scrollHeight, 120) + 'px';
+            this.send.disabled = this.busy || !this.input.value.trim();
+        }
+
+        add(html, cls) {
+            const el = document.createElement('div');
+            el.className = 'azn-msg ' + cls;
+            el.innerHTML = html;
+            this.body.appendChild(el);
+            this.body.scrollTop = this.body.scrollHeight;
+            return el;
+        }
+
+        async context() {
+            let items = Array.isArray(window.news) && window.news.length ? window.news : [];
+            if (!items.length) {
+                try {
+                    const r = await fetch('data/latest.json', { cache: 'no-cache' });
+                    if (r.ok) items = (await r.json()).items || [];
+                } catch (e) {}
+            }
+            if (!items.length) return 'Nu am informații despre știri momentan.';
+            return items.slice(0, CONTEXT_ITEMS).map(n =>
+                `${n.source}: ${n.title}${n.content ? ' - ' + n.content.slice(0, 300) : ''}`).join('\n\n');
+        }
+
+        async ask(text, isRetry) {
+            text = (text || '').trim();
+            if (!text || this.busy) return;
+            this.busy = true;
+            this.lastQuestion = text;
+            const hello = this.body.querySelector('.azn-hello');
+            if (hello) hello.remove();
+            const oldErr = this.body.querySelector('.azn-msg.error');
+            if (oldErr) oldErr.remove();
+            if (!isRetry) this.add(esc(text), 'user');
+            this.input.value = '';
+            this.resize();
+            const typing = this.add('<span class="azn-typing" aria-label="Se scrie răspunsul"><i></i><i></i><i></i></span>', 'bot');
+            try {
+                const r = await fetch(WORKER_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: text, context: await this.context() })
+                });
+                const data = await r.json().catch(() => ({}));
+                if (!r.ok || !data.response) throw new Error(data.error || 'HTTP ' + r.status);
+                typing.remove();
+                this.add(formatAnswer(data.response), 'bot');
+            } catch (e) {
+                console.warn('Asistent AI:', e);
+                typing.remove();
+                this.add('Nu am putut răspunde acum. Încearcă din nou peste un minut.<br><button type="button" class="azn-btn" data-act="retry">Încearcă din nou</button>', 'bot error');
+            } finally {
+                this.busy = false;
+                this.resize();
+            }
         }
     }
 
-    // ============================================
-    // INITIALIZARE
-    // ============================================
-    // Start chatbot when DOM is ready
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', () => new AziNewsChatbot());
-    } else {
-        new AziNewsChatbot();
-    }
-
+    const start = () => new AziNewsChat();
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start);
+    else start();
 })();
