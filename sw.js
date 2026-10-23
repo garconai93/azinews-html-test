@@ -1,6 +1,6 @@
 // Service Worker pentru AziNews PWA
 // Rețea întâi pentru pagină și ultimele știri; cache doar ca rezervă offline.
-const CACHE_NAME = 'azinews-v5';
+const CACHE_NAME = 'azinews-v6';
 const OFFLINE_URLS = ['./', 'index.html', 'data/latest.json', 'data/horoscope.json', 'manifest.json', 'icon-192.png'];
 
 self.addEventListener('install', event => {
