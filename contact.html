@@ -2,101 +2,54 @@
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Contact - AziNews</title>
-    <meta name="description" content="Contact AziNews - Aplicație de știri din România">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --bg-primary: #0d1117;
-            --bg-secondary: #161b22;
-            --bg-tertiary: #21262d;
-            --border-color: #30363d;
-            --text-primary: #f0f6fc;
-            --text-secondary: #8b949e;
-            --accent: #58a6ff;
-        }
-        
-        body {
-            font-family: 'Inter', sans-serif;
-            background: var(--bg-primary);
-            color: var(--text-primary);
-            margin: 0;
-            padding: 20px;
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: var(--bg-secondary);
-            border-radius: 12px;
-            padding: 40px;
-            border: 1px solid var(--border-color);
-        }
-        
-        h1 {
-            color: var(--accent);
-            margin-bottom: 30px;
-        }
-        
-        .contact-info {
-            margin: 30px 0;
-        }
-        
-        .contact-item {
-            display: flex;
-            align-items: center;
-            gap: 15px;
-            padding: 20px;
-            background: var(--bg-tertiary);
-            border-radius: 8px;
-            margin: 15px 0;
-        }
-        
-        .contact-item span {
-            font-size: 1.5rem;
-        }
-        
-        a {
-            color: var(--accent);
-            text-decoration: none;
-        }
-        
-        a:hover {
-            text-decoration: underline;
-        }
-        
-        .back-link {
-            display: inline-block;
-            margin-bottom: 20px;
-            color: var(--accent);
-        }
-    </style>
+    <meta name="description" content="Cum ne poți contacta pentru întrebări, greșeli sau solicitări ale surselor.">
+    <link rel="canonical" href="https://azinews.ro/contact.html">
+    <meta name="robots" content="noindex"><!-- doar-test -->
+    <meta name="theme-color" content="#F2F3EF" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#0E1525" media="(prefers-color-scheme: dark)">
+    <link rel="icon" href="icon-192.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Serif+4:opsz,wght@8..60,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/page.css">
+    <script>try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body>
-    <div class="container">
-        <a href="/" class="back-link">← Înapoi la știri</a>
-        
-        <h1>📧 Contact AziNews</h1>
-        
-        <p>Pentru orice întrebare, sugestii sau probleme, ne poți contacta la:</p>
-        
-        <div class="contact-info">
-            <div class="contact-item">
-                <span>📧</span>
-                <div>
-                    <strong>Email:</strong><br>
-                    <a href="mailto:garconai93@gmail.com">garconai93@gmail.com</a>
-                </div>
-            </div>
+    <header class="topbar">
+        <div class="wrap">
+            <a class="wordmark" href="./"><span class="sun" aria-hidden="true"></span>AziNews</a>
+            <a class="back" href="./">Înapoi la știri</a>
         </div>
-        
-        <hr style="border-color: var(--border-color); margin: 30px 0;">
-        
-        <p style="color: var(--text-secondary); font-size: 0.9rem;">
-            © 2026 AziNews. Toate drepturile rezervate.
-        </p>
-    </div>
+    </header>
+    <main class="wrap">
+
+        <h1>Contact</h1>
+        <p class="lede">Răspundem la e-mail, de obicei în câteva zile.</p>
+        <div class="card">
+            <p><a class="email" href="mailto:garconai93@gmail.com">garconai93@gmail.com</a></p>
+        </div>
+
+        <h2>Ne poți scrie pentru</h2>
+        <ul>
+            <li><strong>O greșeală pe site:</strong> o știre pusă la categoria greșită, două subiecte amestecate, un curs sau o prognoză care nu se încarcă.</li>
+            <li><strong>Sugestii:</strong> o sursă pe care ai vrea s-o adăugăm sau o funcție care ți-ar fi utilă.</li>
+            <li><strong>Solicitări ale redacțiilor:</strong> dacă reprezinți una dintre surse și vrei să schimbăm modul în care îți preluăm titlurile, sau să nu le mai preluăm, scrie-ne și rezolvăm.</li>
+            <li><strong>Date personale:</strong> întrebări despre datele tale sau cereri conform GDPR. Detalii în <a href="privacy.html">Politica de confidențialitate</a>.</li>
+        </ul>
+    </main>
+    <footer>
+        <div class="wrap">
+            <nav aria-label="Pagini">
+                <a href="despre.html">Despre</a>
+                <a href="contact.html">Contact</a>
+                <a href="terms.html">Termeni și condiții</a>
+                <a href="privacy.html">Confidențialitate</a>
+                <a href="feed.xml">RSS</a>
+            </nav>
+            <p>© 2026 AziNews</p>
+        </div>
+    </footer>
 </body>
 </html>

@@ -2,129 +2,66 @@
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Despre - AziNews</title>
-    <meta name="description" content="Despre AziNews - Aplicație de știri din România">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --bg-primary: #0d1117;
-            --bg-secondary: #161b22;
-            --bg-tertiary: #21262d;
-            --border-color: #30363d;
-            --text-primary: #f0f6fc;
-            --text-secondary: #8b949e;
-            --accent: #58a6ff;
-        }
-        
-        body {
-            font-family: 'Inter', sans-serif;
-            background: var(--bg-primary);
-            color: var(--text-primary);
-            margin: 0;
-            padding: 20px;
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: var(--bg-secondary);
-            border-radius: 12px;
-            padding: 40px;
-            border: 1px solid var(--border-color);
-        }
-        
-        h1 {
-            color: var(--accent);
-            margin-bottom: 30px;
-        }
-        
-        h2 {
-            color: var(--text-primary);
-            margin-top: 30px;
-        }
-        
-        a {
-            color: var(--accent);
-            text-decoration: none;
-        }
-        
-        a:hover {
-            text-decoration: underline;
-        }
-        
-        .back-link {
-            display: inline-block;
-            margin-bottom: 20px;
-            color: var(--accent);
-        }
-        
-        .feature {
-            padding: 15px;
-            background: var(--bg-tertiary);
-            border-radius: 8px;
-            margin: 10px 0;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Despre AziNews</title>
+    <meta name="description" content="Ce este AziNews, de unde vin știrile și cum sunt alese subiectele zilei.">
+    <link rel="canonical" href="https://azinews.ro/despre.html">
+    <meta name="robots" content="noindex"><!-- doar-test -->
+    <meta name="theme-color" content="#F2F3EF" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#0E1525" media="(prefers-color-scheme: dark)">
+    <link rel="icon" href="icon-192.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Source+Serif+4:opsz,wght@8..60,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/page.css">
+    <script>try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body>
-    <div class="container">
-        <a href="/" class="back-link">← Înapoi la știri</a>
-        
-        <h1>ℹ️ Despre AziNews</h1>
-        
-        <p><strong>AziNews</strong> este o aplicație de știri din România, concepută pentru a-ți oferi cele mai importante știri din țară într-un singur loc.</p>
-        
-        <h2>📰 Ce oferim</h2>
-        
-        <div class="feature">
-            <strong>📡 Știri în timp real</strong><br>
-            Știri actualizate din cele mai importante surse românești: Digi24, Mediafax, AgerPress, HotNews, și altele.
+    <header class="topbar">
+        <div class="wrap">
+            <a class="wordmark" href="./"><span class="sun" aria-hidden="true"></span>AziNews</a>
+            <a class="back" href="./">Înapoi la știri</a>
         </div>
-        
-        <div class="feature">
-            <strong>📻 Radio Live</strong><br>
-            Ascultă muzică live direct din aplicație - Enjoy Radio și posturi populare.
+    </header>
+    <main class="wrap">
+
+        <h1>Despre AziNews</h1>
+        <p class="lede">AziNews adună într-un singur loc știrile zilei din șase redacții românești, ca să vezi rapid ce se întâmplă și cum relatează fiecare.</p>
+
+        <h2>De unde vin știrile</h2>
+        <p>Preluăm titlurile și scurtele descrieri pe care redacțiile le publică singure în fluxurile lor RSS publice: Digi24, Mediafax, Adevărul, G4Media, Libertatea și Europa FM. Fiecare știre trimite către articolul original, pe site-ul sursei. Nu republicăm articole întregi.</p>
+        <p>Lista se actualizează automat, cam o dată pe oră, iar arhiva păstrează toate știrile din aprilie 2026 încoace. Le poți căuta din bara de sus.</p>
+
+        <h2>Subiectele zilei</h2>
+        <p>Când mai multe redacții scriu despre același eveniment, îl grupăm într-un singur subiect și îți arătăm cum titrează fiecare. Subiectele sunt ordonate după câte surse le acoperă în ultimele 36 de ore, nu după preferințele noastre.</p>
+        <p>Gruparea și categoriile (Politică, România, Externe, Economie, Sport, Sănătate și știință, Lifestyle) sunt făcute automat, după cuvintele din titlu și după secțiunea în care a publicat sursa. Uneori pot greși.</p>
+
+        <h2>Ce mai găsești</h2>
+        <ul>
+            <li><strong>Vremea</strong> pentru orașul tău, cu prognoză pe 7 zile, de la Open-Meteo.</li>
+            <li><strong>Cursul valutar</strong> oficial BNR, cu variația față de ziua anterioară. Dacă BNR nu răspunde, afișăm cursul de referință BCE și scriem asta sub tabel.</li>
+            <li><strong>Radio live:</strong> Enjoy Radio.</li>
+            <li><strong>Horoscopul zilei</strong> pentru toate zodiile.</li>
+            <li><strong>Asistentul AI</strong>, care răspunde la întrebări despre știrile recente. Răspunsurile lui pot conține greșeli, așa că verifică în articolul original.</li>
+        </ul>
+
+        <h2>Aplicația</h2>
+        <p>Poți adăuga AziNews pe ecranul telefonului din meniul browserului („Adaugă pe ecranul principal”). Se deschide ca o aplicație. AziNews există și ca aplicație Android în Google Play.</p>
+
+        <h2>Contact</h2>
+        <p>Ai găsit o greșeală sau reprezinți una dintre surse și vrei să discutăm? Scrie-ne la <a href="mailto:garconai93@gmail.com">garconai93@gmail.com</a> sau pe <a href="contact.html">pagina de contact</a>.</p>
+    </main>
+    <footer>
+        <div class="wrap">
+            <nav aria-label="Pagini">
+                <a href="despre.html">Despre</a>
+                <a href="contact.html">Contact</a>
+                <a href="terms.html">Termeni și condiții</a>
+                <a href="privacy.html">Confidențialitate</a>
+                <a href="feed.xml">RSS</a>
+            </nav>
+            <p>© 2026 AziNews</p>
         </div>
-        
-        <div class="feature">
-            <strong>🌤️ Vremea</strong><br>
-            Prognoza meteo pentru principalele orașe din România.
-        </div>
-        
-        <div class="feature">
-            <strong>💰 Curs BNR</strong><br>
-            Cursul valutar oficial BNR actualizat zilnic.
-        </div>
-        
-        <div class="feature">
-            <strong>🔮 Horoscop</strong><br>
-            Horoscop zilnic pentru toate zodiile.
-        </div>
-        
-        <div class="feature">
-            <strong>🤖 Chatbot AI</strong><br>
-            AziNews include și un asistent AI care te ajută să găsești și să înțelegi știrile. Întreabă-l orice despre știrile zilei!
-        </div>
-        
-        <h2>📱 Aplicația Android</h2>
-        
-        <p>AziNews este disponibil și ca aplicație Android, pe care o poți descărca din Google Play Store. Aceasta oferă aceeași experiență ca și versiunea web, optimizată pentru dispozitive mobile.</p>
-        
-        <h2>🔒 Confidențialitate</h2>
-        
-        <p>Respectăm confidențialitatea ta. Citește <a href="privacy.html">Politica de Confidențialitate</a> pentru a vedea cum gestionăm datele tale.</p>
-        
-        <h2>📧 Contact</h2>
-        
-        <p>Pentru orice întrebări sau sugestii, ne poți contacta la <a href="contact.html">pagina de contact</a>.</p>
-        
-        <hr style="border-color: var(--border-color); margin: 30px 0;">
-        
-        <p style="color: var(--text-secondary); font-size: 0.9rem;">
-            © 2026 AziNews. Toate drepturile rezervate.
-        </p>
-    </div>
+    </footer>
 </body>
 </html>

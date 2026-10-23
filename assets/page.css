@@ -1,0 +1,54 @@
+/* Stil comun pentru paginile secundare (Despre, Contact, Termeni, Confidențialitate, 404).
+   Aceleași culori și fonturi ca index.html. */
+:root {
+    --paper: #F2F3EF; --surface: #FFFFFF; --ink: #14213D; --ink-2: #4E5A70; --ink-3: #636C7E;
+    --rule: #DADDD4; --link: #2448E0; --azi: #FFCB3D; --azi-ink: #14213D;
+    --display: 'Bricolage Grotesque', system-ui, sans-serif;
+    --serif: 'Source Serif 4', Georgia, serif;
+    color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+        --paper: #0E1525; --surface: #162038; --ink: #E9EDF5; --ink-2: #A3AEC2; --ink-3: #8C97AE;
+        --rule: #26324D; --link: #93AAFF; --azi: #FFD45C; color-scheme: dark;
+    }
+}
+:root[data-theme="dark"] {
+    --paper: #0E1525; --surface: #162038; --ink: #E9EDF5; --ink-2: #A3AEC2; --ink-3: #8C97AE;
+    --rule: #26324D; --link: #93AAFF; --azi: #FFD45C; color-scheme: dark;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--display); font-size: 16px; line-height: 1.5; -webkit-font-smoothing: antialiased; }
+a { color: var(--link); }
+:focus-visible { outline: 3px solid var(--link); outline-offset: 2px; border-radius: 6px; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+
+.topbar { border-bottom: 1px solid var(--rule); }
+.topbar .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 60px; }
+.wordmark { display: flex; align-items: center; gap: 8px; min-height: 44px; font-weight: 800; font-size: 1.35rem; letter-spacing: -0.03em; color: var(--ink); text-decoration: none; font-variation-settings: "wdth" 85; }
+.wordmark .sun { width: 22px; height: 22px; border-radius: 50%; background: var(--azi); box-shadow: inset -4px -4px 0 rgba(0,0,0,.08); }
+.back { color: var(--ink); font-weight: 600; text-decoration: none; padding: 10px 0; }
+.back:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+main.wrap { padding-top: 40px; padding-bottom: 56px; }
+h1 { margin: 0 0 8px; font-size: clamp(2.2rem, 7vw, 3.4rem); line-height: 1.02; letter-spacing: -0.03em; font-weight: 800; font-variation-settings: "wdth" 84, "opsz" 96; }
+.lede { margin: 0 0 32px; color: var(--ink-2); font-size: 1.1rem; max-width: 60ch; }
+.updated { color: var(--ink-3); font-size: .9rem; margin: 0 0 32px; }
+h2 { margin: 36px 0 8px; font-size: 1.3rem; letter-spacing: -0.015em; font-weight: 750; font-variation-settings: "wdth" 90; }
+h3 { margin: 22px 0 4px; font-size: 1.05rem; font-weight: 700; }
+p, li { font-family: var(--serif); font-size: 1.06rem; line-height: 1.65; max-width: 66ch; }
+p { margin: 0 0 14px; }
+ul { margin: 0 0 14px; padding-left: 1.2em; }
+li { margin: 4px 0; }
+li strong, p strong { font-family: var(--display); font-weight: 650; }
+.card { background: var(--surface); border: 1px solid var(--rule); border-radius: 18px; padding: 20px; margin: 18px 0; }
+.card p:last-child { margin-bottom: 0; }
+.email { font-family: var(--display); font-size: 1.35rem; font-weight: 700; word-break: break-all; }
+
+footer { border-top: 1px solid var(--rule); padding: 24px 0 48px; color: var(--ink-2); font-size: .9rem; }
+footer nav { display: flex; gap: 4px 18px; flex-wrap: wrap; }
+footer nav a { color: var(--ink); display: inline-block; padding: 10px 0; }
+footer p { font-family: var(--display); font-size: .9rem; margin: 8px 0 0; }
+.cta { display: inline-flex; align-items: center; min-height: 44px; padding: 0 20px; border-radius: 999px; background: var(--ink); color: var(--paper); font-family: var(--display); font-weight: 600; text-decoration: none; }
+.cta:hover { opacity: .9; }
