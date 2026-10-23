@@ -9,6 +9,7 @@ Structura datelor (tot ce citește site-ul):
 Ziua unei știri = data (ora României) la care a fost preluată.
 """
 
+import html
 import json
 import os
 import random
@@ -85,9 +86,24 @@ def list_days():
     return sorted((f[:-5] for f in os.listdir(ARCHIVE_DIR) if f.endswith(".json")), reverse=True)
 
 
+# resturi pe care unele feed-uri le pun la finalul rezumatului
+TRAILING_JUNK = [
+    re.compile(r"\s*©\s*[\w.-]+\.ro\.?\s*$", re.I),                    # "© G4Media.ro."
+    re.compile(r"\s*The post .{0,300} appeared first on .{0,80}$", re.I),  # WordPress
+    re.compile(r"\s*Articolul .{0,300} apare prima dată pe .{0,80}$", re.I),
+]
+
+
 def clean_text(text):
-    text = re.sub(r"<[^>]+>", "", text or "")
-    text = re.sub(r"\s+", " ", text)
+    text = text or ""
+    for _ in range(2):  # unele feed-uri codifică de două ori (&amp;#8230;)
+        text = html.unescape(text)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = text.replace("\u00a0", " ")
+    text = re.sub(r"\s+", " ", text).strip()
+    for rx in TRAILING_JUNK:
+        text = rx.sub("", text)
+    text = re.sub(r"\s*\[(…|\.\.\.)\]\s*(©.{0,40})?$", "…", text)  # "[…]" (+ © tăiat) de la final -> "…"
     return text.strip()
 
 
@@ -141,7 +157,7 @@ def fetch_news(source_name, url):
         if len(content) > 500:
             cut = content[:500]
             space = cut.rfind(" ")
-            content = (cut[:space] if space > 400 else cut) + "..."
+            content = (cut[:space] if space > 400 else cut).rstrip(" .,;:…") + "…"
 
         news.append({
             "source": source_name,
