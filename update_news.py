@@ -9,17 +9,21 @@ Structura datelor (tot ce citește site-ul):
 Ziua unei știri = data (ora României) la care a fost preluată.
 """
 
+import hashlib
 import html
 import json
 import os
 import random
 import re
 import xml.etree.ElementTree as ET
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
 import requests
+
+import newsmeta
 
 SOURCES = [
     ("Digi24", "https://www.digi24.ro/rss"),
@@ -35,6 +39,9 @@ DATA_DIR = "data"
 ARCHIVE_DIR = os.path.join(DATA_DIR, "archive")
 SEARCH_DIR = os.path.join(DATA_DIR, "search")
 LATEST_FILE = os.path.join(DATA_DIR, "latest.json")
+STORIES_FILE = os.path.join(DATA_DIR, "stories.json")
+STORY_WINDOW_HOURS = 36   # subiectele zilei se calculează din ultimele 36 de ore
+TRAIN_DAYS = 45           # zile de arhivă pe care se antrenează clasificatorul de categorii
 LATEST_COUNT = 300
 DEDUPE_DAYS = 7  # câte zile în urmă verificăm dacă știrea există deja
 ITEMS_PER_FEED = 20
@@ -204,8 +211,62 @@ def rebuild_search_month(month, days):
     for day in days:
         if day.startswith(month):
             for n in read_json(archive_path(day), []):
-                rows.append([n["title"], n["source"], n["url"], day, n.get("time", "")])
+                rows.append([n["title"], n["source"], n["url"], day, n.get("time", ""), n.get("cat", "")])
     write_json(os.path.join(SEARCH_DIR, f"{month}.json"), rows)
+
+
+def item_time(n):
+    for key in ("ts", "fetched_at"):
+        try:
+            return datetime.fromisoformat(n[key].replace("Z", "+00:00"))
+        except (KeyError, ValueError, AttributeError):
+            pass
+    return datetime(2000, 1, 1, tzinfo=timezone.utc)
+
+
+def rebuild_stories(days):
+    """Subiectele acoperite de cel puțin două surse, din ultimele STORY_WINDOW_HOURS ore."""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=STORY_WINDOW_HOURS)
+    items = []
+    for day in days[:3]:
+        items.extend(n for n in read_json(archive_path(day), []) if item_time(n) >= cutoff)
+    items.sort(key=item_time, reverse=True)
+
+    stories = []
+    for group in newsmeta.cluster(items):
+        sources = []
+        for n in group:
+            if n["source"] not in sources:
+                sources.append(n["source"])
+        if len(sources) < 2:
+            continue
+        group.sort(key=item_time)  # cel mai vechi primul -> id stabil
+        url_cats = [c for c in (newsmeta.category_from_url(n["source"], n["url"]) for n in group) if c]
+        cat = Counter(url_cats or [n.get("cat") for n in group]).most_common(1)[0][0]
+        newest = max(group, key=item_time)
+        lead = next((n for n in sorted(group, key=lambda n: -len(n.get("content", ""))) if n.get("image")), newest)
+        stories.append({
+            "id": hashlib.sha1(group[0]["url"].encode()).hexdigest()[:10],
+            "cat": cat,
+            "title": lead["title"],
+            "image": lead.get("image", ""),
+            "content": lead.get("content", ""),
+            "sources": sources,
+            "updated": utc_iso(item_time(newest)),
+            "items": [{k: n.get(k, "") for k in ("source", "title", "url", "ts", "fetched_at")}
+                      for n in sorted(group, key=item_time, reverse=True)],
+        })
+    # mai multe surse = mai important; la egalitate, cel mai recent
+    stories.sort(key=lambda s: (len(s["sources"]), len(s["items"]), s["updated"]), reverse=True)
+    write_json(STORIES_FILE, {"updated": utc_iso(datetime.now(timezone.utc)), "stories": stories[:40]})
+    return len(stories)
+
+
+def train_classifier(days):
+    items = []
+    for day in days[:TRAIN_DAYS]:
+        items.extend(read_json(archive_path(day), []))
+    return newsmeta.Classifier().train(items)
 
 
 def main():
@@ -230,6 +291,9 @@ def main():
 
     touched = set()
     if fresh:
+        clf = train_classifier(days)
+        for n in fresh:
+            n["cat"] = newsmeta.categorize(n, clf)
         random.shuffle(fresh)  # amestecă sursele în lotul nou
         today = day_of(fresh[0])
         path = archive_path(today)
@@ -239,7 +303,8 @@ def main():
         rebuild_search_month(today[:7], days)
 
     total = rebuild_latest(days, touched)
-    print(f"✅ {len(fresh)} știri noi, {total} în arhivă, {len(days)} zile")
+    n_stories = rebuild_stories(days)
+    print(f"✅ {len(fresh)} știri noi, {total} în arhivă, {len(days)} zile, {n_stories} subiecte cu mai multe surse")
 
 
 if __name__ == "__main__":

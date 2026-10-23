@@ -225,6 +225,60 @@
         .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--src, var(--ink-3)); flex: none; }
         .chip[aria-pressed="true"] .dot { box-shadow: 0 0 0 2px var(--paper); }
 
+        /* ---------- categorii (lipite sub bara de sus) ---------- */
+        .cats {
+            position: sticky; top: 60px; z-index: 40; margin-top: 22px;
+            background: color-mix(in srgb, var(--paper) 92%, transparent);
+            backdrop-filter: saturate(1.4) blur(12px); -webkit-backdrop-filter: saturate(1.4) blur(12px);
+            border-bottom: 1px solid var(--rule);
+        }
+        .cats-inner { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; }
+        .cats-inner::-webkit-scrollbar { display: none; }
+        .cats button {
+            all: unset; cursor: pointer; white-space: nowrap; padding: 13px 12px 11px;
+            font-weight: 600; font-size: .98rem; color: var(--ink-2); border-bottom: 3px solid transparent;
+        }
+        .cats button:first-child { padding-left: 0; }
+        .cats button:hover { color: var(--ink); }
+        .cats button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+        .cats button:focus-visible { outline: 3px solid var(--link); outline-offset: -3px; border-radius: 6px; }
+        .src-select select {
+            appearance: none; -webkit-appearance: none; height: 36px; border-radius: 999px; cursor: pointer;
+            border: 1px solid var(--rule); background-color: var(--surface); color: var(--ink);
+            font: inherit; font-size: .9rem; padding: 0 34px 0 14px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237A8496' stroke-width='2.5'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+            background-repeat: no-repeat; background-position: right 12px center; background-size: 14px;
+        }
+
+        /* ---------- subiectele zilei ---------- */
+        #topStories { margin: 6px 0 34px; }
+        #topStories[hidden] { display: none; }
+        .ts-head p { margin: 2px 0 0; color: var(--ink-2); font-size: .9rem; }
+        .ts-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 28px; margin-top: 18px; }
+        .ts-item { border-top: 1px solid var(--rule); padding: 14px 0 16px; }
+        .ts-item h3 { margin: 4px 0 6px; font-size: 1.08rem; line-height: 1.3; font-weight: 650; letter-spacing: -0.01em; }
+        .ts-item h3 a, .lead h3 a { color: inherit; text-decoration: none; }
+        .ts-item h3 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+        .why { font-family: var(--serif); color: var(--ink-2); font-size: .98rem; line-height: 1.55; margin: 0; }
+        .lead .why { font-size: 1.08rem; line-height: 1.6; margin-top: 10px; max-width: 62ch; }
+        .coverage { margin-top: 12px; }
+        .cov-toggle { all: unset; cursor: pointer; display: inline-flex; align-items: center; gap: 10px; font-size: .88rem; font-weight: 600; color: var(--ink); }
+        .cov-toggle:hover span:last-child { text-decoration: underline; text-underline-offset: 3px; }
+        .cov-toggle:focus-visible { outline: 3px solid var(--link); outline-offset: 3px; border-radius: 4px; }
+        .cov-toggle svg { width: 14px; height: 14px; transition: transform .15s; }
+        .cov-toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
+        .cov-dots { display: inline-flex; padding-left: 4px; }
+        .cov-dots .dot { width: 13px; height: 13px; margin-left: -4px; box-shadow: 0 0 0 2px var(--paper); }
+        .cov-list { list-style: none; margin: 10px 0 0; padding: 0; border-left: 2px solid var(--rule); }
+        .cov-list[hidden] { display: none; }
+        .cov-list li { padding: 6px 0 6px 14px; font-size: .93rem; line-height: 1.38; }
+        .cov-list .src { font-weight: 650; margin-right: 6px; display: inline-flex; align-items: center; gap: 6px; }
+        .cov-list a { color: var(--ink); text-decoration-color: var(--rule); text-underline-offset: 3px; }
+        .cov-list a:hover { text-decoration-color: currentColor; }
+        .cov-list time { color: var(--ink-3); font-size: .8rem; margin-left: 6px; white-space: nowrap; }
+        .more-src { font-size: .76rem; font-weight: 600; color: var(--ink-2); border: 1px solid var(--rule); border-radius: 999px; padding: 0 8px; }
+        .cat-label { color: var(--ink-2); }
+
         /* ---------- layout ---------- */
         .layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 40px; align-items: start; margin-top: 18px; padding-bottom: 40px; }
         .feed-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 6px 0 4px; }
@@ -353,6 +407,9 @@
             .lead p { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; font-size: 1.02rem; }
             .sources { margin-top: 20px; }
             .story-thumb { width: 88px; height: 66px; }
+            .ts-grid { grid-template-columns: 1fr; }
+            .cats { margin-top: 18px; }
+            .feed-head { flex-wrap: wrap; }
             .lead-media { border-radius: var(--radius); }
         }
         @media (prefers-reduced-motion: reduce) {
@@ -424,34 +481,46 @@
                 <div class="drawer-grid" id="crypto-rates"><p class="muted">Se încarcă...</p></div>
             </div>
 
-            <nav class="sources" aria-label="Filtrează după sursă" id="sources">
-                <button class="chip" aria-pressed="true" data-source="">Toate sursele</button>
-                <button class="chip" aria-pressed="false" data-source="Digi24"><span class="dot" style="--src: var(--src-digi24)"></span>Digi24</button>
-                <button class="chip" aria-pressed="false" data-source="Mediafax"><span class="dot" style="--src: var(--src-mediafax)"></span>Mediafax</button>
-                <button class="chip" aria-pressed="false" data-source="Adevarul"><span class="dot" style="--src: var(--src-adevarul)"></span>Adevărul</button>
-                <button class="chip" aria-pressed="false" data-source="G4Media"><span class="dot" style="--src: var(--src-g4media)"></span>G4Media</button>
-                <button class="chip" aria-pressed="false" data-source="Libertatea"><span class="dot" style="--src: var(--src-libertatea)"></span>Libertatea</button>
-                <button class="chip" aria-pressed="false" data-source="Europa FM"><span class="dot" style="--src: var(--src-europafm)"></span>Europa FM</button>
-            </nav>
         </section>
+    </div>
 
+    <nav class="cats" id="cats" aria-label="Categorii">
+        <div class="wrap cats-inner">
+            <button aria-pressed="true" data-cat="">Toate</button>
+            <button aria-pressed="false" data-cat="politica">Politică</button>
+            <button aria-pressed="false" data-cat="romania">România</button>
+            <button aria-pressed="false" data-cat="externe">Externe</button>
+            <button aria-pressed="false" data-cat="economie">Economie</button>
+            <button aria-pressed="false" data-cat="sport">Sport</button>
+            <button aria-pressed="false" data-cat="sanatate">Sănătate și știință</button>
+            <button aria-pressed="false" data-cat="lifestyle">Lifestyle</button>
+        </div>
+    </nav>
+
+    <div class="wrap">
         <div class="layout">
             <main class="feed news-section" id="feed">
-                <div class="feed-head"><h2 id="feedTitle">Ultimele știri</h2></div>
+                <section id="topStories" aria-labelledby="tsTitle" hidden></section>
+                <div class="feed-head">
+                    <h2 id="feedTitle">Ultimele știri</h2>
+                    <label class="src-select"><span class="sr-only">Sursa</span>
+                        <select id="sourceSelect">
+                            <option value="">Toate sursele</option>
+                            <option value="Digi24">Digi24</option>
+                            <option value="Mediafax">Mediafax</option>
+                            <option value="Adevarul">Adevărul</option>
+                            <option value="G4Media">G4Media</option>
+                            <option value="Libertatea">Libertatea</option>
+                            <option value="Europa FM">Europa FM</option>
+                        </select>
+                    </label>
+                </div>
                 <div id="newsGrid"></div>
                 <div id="newsStatus" class="news-status" aria-live="polite"></div>
                 <div id="infiniteScrollSentinel" style="height: 1px;"></div>
             </main>
 
             <aside class="rail" aria-label="Mai mult">
-                <section class="panel" id="topPanel">
-                    <h2>Top 10 azi</h2>
-                    <p>Cele mai importante știri ale momentului, alese de AI din ultimele titluri.</p>
-                    <button class="btn" id="top-news-btn" onclick="generateTopNews()">Arată topul</button>
-                    <div id="top-news-loading" class="muted" style="display:none; padding: 12px 0;">Se alege topul...</div>
-                    <ol class="top10" id="top-news-list"></ol>
-                </section>
-
                 <section class="panel">
                     <h2>Radio live</h2>
                     <div class="radio" id="radio">
@@ -704,66 +773,6 @@
                 .catch(() => { document.getElementById('crypto-rates').innerHTML = '<p class="muted">Prețurile nu sunt disponibile acum. Încearcă din nou peste câteva minute.</p>'; });
         };
 
-        // ---------- Top 10 (AI) ----------
-        function generateTopNews() {
-            const loading = document.getElementById('top-news-loading');
-            const btn = document.getElementById('top-news-btn');
-            const list = document.getElementById('top-news-list');
-            btn.style.display = 'none';
-            list.innerHTML = '';
-            loading.style.display = 'block';
-            loading.textContent = 'Se alege topul...';
-
-            const newsContext = news.slice(0, 40).map(n => `- ${n.title} (${n.source})`).join('\n');
-            const prompt = `Analyze the following Romanian news provided below. Identify the 10 MOST IMPORTANT stories from THIS LIST ONLY. Do NOT use any external knowledge. If there are fewer than 10 news items, provide summaries for as many as available.
-
-For each news item, provide:
-1. A short title (max 10 words)
-2. A 1-sentence explanation of why it matters
-
-Format EXACTLY like this (numbered list, no other text):
-1. [Short title] - [1 sentence significance]
-
-IMPORTANT: Use ONLY the news below. Do NOT invent or add any information not present. If the news don't cover a topic, skip it. Write in Romanian.
-
-Today's news:
-${newsContext}`;
-
-            fetch('https://api.groq.com/openai/v1/chat/completions', {
-                method: 'POST',
-                headers: {
-                    'Authorization': 'Bearer GROQ_API_KEY_PLACEHOLDER',
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    model: 'openai/gpt-oss-20b',
-                    messages: [
-                        { role: 'system', content: 'You are a news analyst for AziNews.ro, a Romanian news aggregator. You analyze news and highlight the most important stories with brief explanations of their significance. Always respond in Romanian.' },
-                        { role: 'user', content: prompt }
-                    ],
-                    temperature: 0.3,
-                    max_tokens: 1500
-                })
-            })
-            .then(r => r.json())
-            .then(d => {
-                const text = d.choices && d.choices[0] ? (d.choices[0].message.content || '') : '';
-                const items = text.split('\n').map(l => l.match(/^\s*\d+[.)]\s*(.+)/)).filter(Boolean)
-                    .map(m => m[1].replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*(.*?)\*/g, '$1').replace(/^\[|\]/g, '').trim());
-                if (!items.length) throw new Error('empty');
-                loading.style.display = 'none';
-                list.innerHTML = items.slice(0, 10).map(it => {
-                    const [title, ...rest] = it.split(/\s[-–—]\s/);
-                    return `<li><div><strong>${esc(title)}</strong>${rest.length ? '<br><span class="muted">' + esc(rest.join(' – ')) + '</span>' : ''}</div></li>`;
-                }).join('');
-            })
-            .catch(() => {
-                loading.textContent = 'Topul nu a putut fi generat acum. Încearcă din nou peste un minut.';
-                btn.style.display = 'inline-flex';
-                btn.textContent = 'Încearcă din nou';
-            });
-        }
-
         // ---------- radio ----------
         const audio = document.getElementById('radioPlayer');
         const radio = document.getElementById('radio');
@@ -825,7 +834,16 @@ ${newsContext}`;
         const SOURCE_NAMES = { 'Adevarul': 'Adevărul' };
         const SOURCE_VAR = { 'Digi24': 'digi24', 'Mediafax': 'mediafax', 'Europa FM': 'europafm', 'Libertatea': 'libertatea', 'Adevarul': 'adevarul', 'G4Media': 'g4media' };
         const srcName = s => SOURCE_NAMES[s] || s;
-        const feed = { days: [], nextDay: 0, view: [], shown: 0, loading: false, source: null, mode: 'feed', lastDay: null, updated: null, total: 0 };
+        const feed = { days: [], nextDay: 0, view: [], shown: 0, loading: false, source: null, cat: null, mode: 'feed', lastDay: null, updated: null, total: 0 };
+        const CATS = { politica: 'Politică', romania: 'România', externe: 'Externe', economie: 'Economie', sport: 'Sport', sanatate: 'Sănătate și știință', lifestyle: 'Lifestyle' };
+        function matches(n) { return (!feed.source || n.source === feed.source) && (!feed.cat || n.cat === feed.cat); }
+        function feedTitle() {
+            return `${feed.cat ? CATS[feed.cat] : 'Ultimele știri'}${feed.source ? ', doar ' + srcName(feed.source) : ''}`;
+        }
+        // subiecte acoperite de mai multe surse (data/stories.json) și rezumatele „Pe scurt” (data/brief.json)
+        let stories = [], brief = {}, topExpanded = false;
+        const urlToStory = new Map();
+        const feedStoryIds = new Set();
         const searchState = { query: '', months: [], nextMonth: 0, results: [], urls: new Set(), timer: null, token: 0 };
 
         function itemDay(n) {
@@ -885,13 +903,92 @@ ${newsContext}`;
             </article>`;
         }
         let storyId = 0;
-        function storyHtml(n, extraMeta) {
+        const ICON_CHEVRON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>';
+        const dotHtml = src => `<span class="dot" style="--src: var(--src-${SOURCE_VAR[src] || 'none'})"></span>`;
+
+        // „Cum scriu sursele”: titlul fiecărei surse despre același subiect
+        function coverageHtml(st, open, skipUrl) {
+            const id = 'c' + (++storyId);
+            const items = st.items.filter(i => i.url !== skipUrl);
+            const n = st.sources.length;
+            const label = skipUrl ? `Și la ${n - 1 === 1 ? 'încă o sursă' : `alte ${n - 1} surse`}` : `${n} surse scriu despre asta`;
+            return `<div class="coverage">
+                <button class="cov-toggle" aria-expanded="${open}" aria-controls="${id}">
+                    <span class="cov-dots" aria-hidden="true">${st.sources.map(dotHtml).join('')}</span><span>${label}</span>${ICON_CHEVRON}
+                </button>
+                <ul class="cov-list" id="${id}"${open ? '' : ' hidden'}>
+                    ${items.map(i => `<li><span class="src">${dotHtml(i.source)}${esc(srcName(i.source))}</span><a href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener">${esc(i.title)}</a><time>${esc(whenLabel(i))}</time></li>`).join('')}
+                </ul>
+            </div>`;
+        }
+        function storyMeta(st) {
+            return `<div class="story-meta"><span class="cat-label">${esc(CATS[st.cat] || '')}</span><time>${esc(whenLabel({ ts: st.updated }))}</time></div>`;
+        }
+        function leadStoryHtml(st) {
+            const first = st.items.find(i => i.title === st.title) || st.items[0];
+            const url = esc(safeUrl(first.url));
+            const why = brief[st.id] || st.content;
+            return `<article class="lead">
+                ${st.image ? `<a class="lead-media" href="${url}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="${esc(safeUrl(st.image))}" alt="" fetchpriority="high" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a>` : ''}
+                ${storyMeta(st)}
+                <h3><a href="${url}" target="_blank" rel="noopener">${esc(st.title)}</a></h3>
+                ${why ? `<p class="why">${esc(why)}</p>` : ''}
+                ${coverageHtml(st, innerWidth > 640)}
+            </article>`;
+        }
+        function topStoryHtml(st) {
+            const first = st.items.find(i => i.title === st.title) || st.items[0];
+            return `<article class="ts-item">
+                ${storyMeta(st)}
+                <h3><a href="${esc(safeUrl(first.url))}" target="_blank" rel="noopener">${esc(st.title)}</a></h3>
+                ${brief[st.id] ? `<p class="why">${esc(brief[st.id])}</p>` : ''}
+                ${coverageHtml(st, false)}
+            </article>`;
+        }
+        async function loadStories() {
+            try {
+                const [s, b] = await Promise.all([
+                    fetchJson('data/stories.json'),
+                    fetchJson('data/brief.json').catch(() => ({}))
+                ]);
+                stories = s.stories || [];
+                brief = b.summaries || {};
+                urlToStory.clear();
+                stories.forEach(st => st.items.forEach(i => urlToStory.set(i.url, st)));
+            } catch (e) { console.warn('Subiectele zilei nu s-au încărcat', e); }
+        }
+        function renderTopStories() {
+            const el = document.getElementById('topStories');
+            const list = stories.filter(st => !feed.cat || st.cat === feed.cat);
+            if (feed.mode === 'search' || feed.source || !list.length) { el.hidden = true; el.innerHTML = ''; return; }
+            const max = topExpanded ? 13 : 5;
+            const [lead, ...rest] = list.slice(0, max);
+            el.hidden = false;
+            el.innerHTML = `<div class="ts-head feed-head" style="display:block"><h2 id="tsTitle">Subiectele zilei${feed.cat ? ': ' + esc(CATS[feed.cat]) : ''}</h2>
+                    <p>Știrile despre care scriu cele mai multe surse, în ultimele 36 de ore.</p></div>
+                ${leadStoryHtml(lead)}
+                ${rest.length ? `<div class="ts-grid">${rest.map(topStoryHtml).join('')}</div>` : ''}
+                ${list.length > max ? `<button class="btn ghost" id="tsMore" style="margin-top:6px">Arată încă ${Math.min(list.length, 13) - max} subiecte</button>` : ''}`;
+        }
+        document.getElementById('topStories').addEventListener('click', e => {
+            if (e.target.closest('#tsMore')) { topExpanded = true; renderTopStories(); }
+        });
+        // deschide/închide lista „cum scriu sursele” (în subiecte și în flux)
+        document.addEventListener('click', e => {
+            const t = e.target.closest('.cov-toggle');
+            if (!t) return;
+            const open = t.getAttribute('aria-expanded') !== 'true';
+            t.setAttribute('aria-expanded', String(open));
+            document.getElementById(t.getAttribute('aria-controls')).hidden = !open;
+        });
+
+        function storyHtml(n, extraMeta, st) {
             const id = 's' + (++storyId);
             const thumb = n.image ? `<img class="story-thumb" src="${esc(safeUrl(n.image))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">` : '';
             return `<article class="story${extraMeta ? ' hit' : ''}" data-url="${esc(safeUrl(n.url))}">
                 <div class="story-row">
                     <div>
-                        ${metaHtml(n, extraMeta)}
+                        ${st ? metaHtml(n, extraMeta).replace('</time></div>', `</time><span class="more-src">+${st.sources.length - 1} ${st.sources.length - 1 === 1 ? 'sursă' : 'surse'}</span></div>`) : metaHtml(n, extraMeta)}
                         <button class="story-toggle" aria-expanded="false" aria-controls="${id}">${esc(n.title)}</button>
                     </div>
                     ${thumb}
@@ -899,6 +996,7 @@ ${newsContext}`;
                 <div class="story-more" id="${id}" hidden>
                     ${n.content ? `<p>${esc(n.content)}</p>` : ''}
                     ${actionsHtml(n)}
+                    ${st ? coverageHtml(st, true, n.url) : ''}
                 </div>
             </article>`;
         }
@@ -922,7 +1020,7 @@ ${newsContext}`;
                 if (!n || !n.url || seenUrls.has(n.url)) continue;
                 seenUrls.add(n.url);
                 news.push(n);
-                if (!feed.source || n.source === feed.source) feed.view.push(n);
+                if (matches(n)) feed.view.push(n);
             }
         }
         async function fetchJson(path) {
@@ -949,7 +1047,12 @@ ${newsContext}`;
                     let html = '';
                     batch.forEach((n, i) => {
                         const day = itemDay(n);
-                        if (feed.shown === 0 && i === 0 && !feed.source && n.image) {
+                        const st = urlToStory.get(n.url);
+                        if (st) {
+                            if (feedStoryIds.has(st.id)) return;
+                            feedStoryIds.add(st.id);
+                        }
+                        if (feed.shown === 0 && i === 0 && !feed.source && n.image && document.getElementById('topStories').hidden) {
                             html += leadHtml(n);
                             feed.lastDay = day;
                             return;
@@ -958,7 +1061,7 @@ ${newsContext}`;
                             html += `<h3 class="day-break">${esc(dayHeading(day))}</h3>`;
                             feed.lastDay = day;
                         }
-                        html += storyHtml(n);
+                        html += storyHtml(n, null, st);
                     });
                     feed.shown += batch.length;
                     if (feed.shown < feed.view.length || feed.nextDay < feed.days.length) html += adHtml();
@@ -966,7 +1069,7 @@ ${newsContext}`;
                     pushAds();
                 }
                 const done = feed.shown >= feed.view.length && feed.nextDay >= feed.days.length;
-                setStatus(done ? (feed.shown ? 'Ai ajuns la începutul arhivei, în aprilie 2026.' : 'Nicio știre de la această sursă.') : '');
+                setStatus(done ? (feed.shown ? 'Ai ajuns la începutul arhivei, în aprilie 2026.' : 'Nicio știre pentru acest filtru. Alege altă categorie sau toate sursele.') : '');
             } finally {
                 feed.loading = false;
             }
@@ -974,9 +1077,11 @@ ${newsContext}`;
 
         function restartFeed() {
             feed.mode = 'feed';
-            feed.view = feed.source ? news.filter(n => n.source === feed.source) : news.slice();
+            feed.view = news.filter(matches);
             feed.shown = 0;
             feed.lastDay = null;
+            feedStoryIds.clear();
+            renderTopStories();
             document.getElementById('newsGrid').innerHTML = '';
             setStatus('');
             loadMoreNews();
@@ -994,7 +1099,7 @@ ${newsContext}`;
         async function initNews() {
             setStatus('Se încarcă știrile...');
             try {
-                const data = await fetchJson('data/latest.json');
+                const [data] = await Promise.all([fetchJson('data/latest.json'), loadStories()]);
                 feed.daysInfo = data.days || [];
                 feed.days = feed.daysInfo.map(d => d.d);
                 feed.updated = data.updated;
@@ -1006,6 +1111,7 @@ ${newsContext}`;
                 updateStatusLine();
                 setInterval(updateStatusLine, 60000);
                 setStatus('');
+                renderTopStories();
                 loadMoreNews();
             } catch (e) {
                 console.error(e);
@@ -1045,24 +1151,32 @@ ${newsContext}`;
             }
         }
 
-        // ---------- surse ----------
-        document.getElementById('sources').addEventListener('click', e => {
-            const chip = e.target.closest('[data-source]');
-            if (chip) filterNews('source', chip.dataset.source || null);
+        // ---------- categorii și surse ----------
+        document.getElementById('cats').addEventListener('click', e => {
+            const b = e.target.closest('[data-cat]');
+            if (!b) return;
+            feed.cat = b.dataset.cat || null;
+            document.querySelectorAll('#cats [data-cat]').forEach(x => x.setAttribute('aria-pressed', String((x.dataset.cat || null) === feed.cat)));
+            b.scrollIntoView({ block: 'nearest', inline: 'nearest' });
+            applyFilters();
         });
+        document.getElementById('sourceSelect').addEventListener('change', e => filterNews('source', e.target.value || null));
         function filterNews(type, value) {
             feed.source = value || null;
-            document.querySelectorAll('#sources .chip').forEach(c => c.setAttribute('aria-pressed', String((c.dataset.source || null) === feed.source)));
+            document.getElementById('sourceSelect').value = feed.source || '';
+            applyFilters();
+        }
+        function applyFilters() {
             const q = document.getElementById('news-search').value.trim();
             if (q.length >= 2) runSearch(q);
             else {
-                setTitle(feed.source ? `Știri de la ${srcName(feed.source)}` : 'Ultimele știri');
+                setTitle(feedTitle());
                 restartFeed();
             }
             scrollToFeed();
         }
         function scrollToFeed() {
-            const top = document.getElementById('feed').getBoundingClientRect().top + scrollY - 76;
+            const top = document.getElementById('feed').getBoundingClientRect().top + scrollY - 124;
             if (scrollY > top || feed.mode === 'search') scrollTo({ top, behavior: 'smooth' });
         }
 
@@ -1095,11 +1209,11 @@ ${newsContext}`;
                 if (token !== searchState.token) return;
                 const terms = norm(searchState.query).split(/\s+/).filter(Boolean);
                 const found = [];
-                for (const [title, source, url, day, time] of rows) {
-                    if (searchState.urls.has(url) || (feed.source && source !== feed.source)) continue;
+                for (const [title, source, url, day, time, cat] of rows) {
+                    if (searchState.urls.has(url) || (feed.source && source !== feed.source) || (feed.cat && cat && cat !== feed.cat)) continue;
                     if (terms.every(t => norm(title + ' ' + source).includes(t))) {
                         searchState.urls.add(url);
-                        found.push({ title, source, url, time, day });
+                        found.push({ title, source, url, time, day, cat });
                     }
                 }
                 searchState.results.push(...found);
@@ -1111,13 +1225,14 @@ ${newsContext}`;
             const terms = norm(query).split(/\s+/).filter(Boolean);
             Object.assign(searchState, { query, urls: new Set(), results: [], months: searchMonths(), nextMonth: 0 });
             for (const n of news) {
-                if (feed.source && n.source !== feed.source) continue;
+                if (!matches(n)) continue;
                 if (terms.every(t => norm(n.title + ' ' + (n.content || '') + ' ' + n.source).includes(t))) {
                     searchState.urls.add(n.url);
                     searchState.results.push(n);
                 }
             }
             feed.mode = 'search';
+            renderTopStories();
             renderSearch();
             searchNextMonth(token);  // luna curentă automat; cele vechi la cerere
         }
@@ -1138,7 +1253,7 @@ ${newsContext}`;
             document.getElementById('news-search').value = '';
             document.getElementById('searchForm').classList.remove('has-text');
             searchState.token++;
-            setTitle(feed.source ? `Știri de la ${srcName(feed.source)}` : 'Ultimele știri');
+            setTitle(feedTitle());
             restartFeed();
         }
         function resetFilters() { document.getElementById('news-search').value = ''; filterNews('source', null); }

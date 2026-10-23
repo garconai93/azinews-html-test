@@ -36,6 +36,11 @@ jobs:
           python3 update_news.py
           python3 generate_rss.py
 
+      - name: Pe scurt (AI, opțional)
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python3 generate_brief.py || echo "Pe scurt a eșuat, continui fără"
+
       - name: Commit and push
         run: |
           git config --local user.email "garconaibot@gmail.com"
