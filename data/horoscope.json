@@ -1,53 +1,53 @@
 {
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "items": [
   {
-   "sign": "Rac",
-   "msg": "Sentimente reciproce"
+   "sign": "Capricorn",
+   "msg": "Responsabilitate și disciplină"
   },
   {
-   "sign": "Berbec",
-   "msg": "Zi perfectă pentru inițiative noi"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Intuiție spirituală"
+   "sign": "Gemeni",
+   "msg": "Comunicare excelentă"
   },
   {
    "sign": "Fecioară",
    "msg": "Organizare impecabilă"
   },
   {
+   "sign": "Scorpion",
+   "msg": "Intensitate emoțională"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Armonie în familie"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Inovație și originalitate"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Energie maximă, profită de ea"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Emoții profunde"
+  },
+  {
    "sign": "Balanță",
    "msg": "Frumusețe și artă"
   },
   {
-   "sign": "Scorpion",
-   "msg": "Descoperiri importante"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Responsabilitate și disciplină"
+   "sign": "Pești",
+   "msg": "Lume interioară bogată"
   },
   {
    "sign": "Leu",
-   "msg": "Atenție din partea celorlalți"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Inspirație creativă"
+   "msg": "Strălucești în orice situație"
   },
   {
    "sign": "Săgetător",
-   "msg": "Filozofie de viață"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Viitor luminos"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Stabilitate financiară"
+   "msg": "Optimism exploziv"
   }
  ]
 }
