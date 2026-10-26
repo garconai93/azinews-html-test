@@ -1,53 +1,53 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "items": [
   {
-   "sign": "Rac",
-   "msg": "Intuiție puternică"
+   "sign": "Taur",
+   "msg": "Conexiuni emoționale puternice"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Succes în proiectele personale"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Succes garantat"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Echilibru în toate"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Gândire unică"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Inspirație creativă"
   },
   {
    "sign": "Fecioară",
-   "msg": "Organizare impecabilă"
+   "msg": "Analiză profundă"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Succes în afaceri"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Putere și determinare"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Intuiție spirituală"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Emoții profunde"
   },
   {
    "sign": "Săgetător",
    "msg": "Filozofie de viață"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Lume interioară bogată"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Zi perfectă pentru inițiative noi"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Comunicare excelentă"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Creativitate debordantă"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Disciplină de fier"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Viitor luminos"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Stabilitate financiară"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Relații armonioase"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Mister și charisma"
   }
  ]
 }
