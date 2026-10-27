@@ -1,53 +1,53 @@
 {
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "items": [
   {
-   "sign": "Taur",
-   "msg": "Conexiuni emoționale puternice"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Succes în proiectele personale"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Succes garantat"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Echilibru în toate"
+   "sign": "Pești",
+   "msg": "Compasiune profundă"
   },
   {
    "sign": "Vărsător",
-   "msg": "Gândire unică"
+   "msg": "Viitor luminos"
   },
   {
-   "sign": "Gemeni",
-   "msg": "Inspirație creativă"
+   "sign": "Leu",
+   "msg": "Strălucești în orice situație"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Obiective clare"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Conexiuni emoționale puternice"
   },
   {
    "sign": "Fecioară",
    "msg": "Analiză profundă"
   },
   {
-   "sign": "Leu",
-   "msg": "Succes în afaceri"
+   "sign": "Rac",
+   "msg": "Sentimente reciproce"
   },
   {
    "sign": "Scorpion",
    "msg": "Putere și determinare"
   },
   {
-   "sign": "Pești",
-   "msg": "Intuiție spirituală"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Emoții profunde"
-  },
-  {
    "sign": "Săgetător",
-   "msg": "Filozofie de viață"
+   "msg": "Optimism exploziv"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Momente favorabile în relații"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Noi cunoștințe valoroase"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Diplomație excelentă"
   }
  ]
 }
