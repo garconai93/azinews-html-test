@@ -1,53 +1,53 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "items": [
-  {
-   "sign": "Fecioară",
-   "msg": "Perfecțiune în lucruri"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Echilibru în toate"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Gândire unică"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Țintește sus"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Progrese în carieră"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Libertate personală"
-  },
   {
    "sign": "Scorpion",
    "msg": "Putere și determinare"
   },
   {
+   "sign": "Balanță",
+   "msg": "Relații armonioase"
+  },
+  {
    "sign": "Gemeni",
-   "msg": "Comunicare excelentă"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Visatori romantici"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Protecție și siguranță"
+   "msg": "Inspirație creativă"
   },
   {
    "sign": "Leu",
-   "msg": "Succes în afaceri"
+   "msg": "Leadership natural"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Lume interioară bogată"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Timp prețios cu familia"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Zi de relaxare și reflecție"
   },
   {
    "sign": "Berbec",
-   "msg": "Zi perfectă pentru inițiative noi"
+   "msg": "Momente favorabile în relații"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Disciplină de fier"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Perfecțiune în lucruri"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Aventură și explorare"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Gândire unică"
   }
  ]
 }
