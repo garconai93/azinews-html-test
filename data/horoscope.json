@@ -1,53 +1,53 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "items": [
   {
-   "sign": "Pești",
-   "msg": "Compasiune profundă"
+   "sign": "Fecioară",
+   "msg": "Perfecțiune în lucruri"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Echilibru în toate"
   },
   {
    "sign": "Vărsător",
-   "msg": "Viitor luminos"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Strălucești în orice situație"
+   "msg": "Gândire unică"
   },
   {
    "sign": "Capricorn",
-   "msg": "Obiective clare"
+   "msg": "Țintește sus"
   },
   {
    "sign": "Taur",
-   "msg": "Conexiuni emoționale puternice"
+   "msg": "Progrese în carieră"
   },
   {
-   "sign": "Fecioară",
-   "msg": "Analiză profundă"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Sentimente reciproce"
+   "sign": "Săgetător",
+   "msg": "Libertate personală"
   },
   {
    "sign": "Scorpion",
    "msg": "Putere și determinare"
   },
   {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
+   "sign": "Gemeni",
+   "msg": "Comunicare excelentă"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Visatori romantici"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Protecție și siguranță"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Succes în afaceri"
   },
   {
    "sign": "Berbec",
-   "msg": "Momente favorabile în relații"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Noi cunoștințe valoroase"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Diplomație excelentă"
+   "msg": "Zi perfectă pentru inițiative noi"
   }
  ]
 }
