@@ -1,53 +1,53 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "items": [
   {
-   "sign": "Scorpion",
-   "msg": "Putere și determinare"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Relații armonioase"
-  },
-  {
    "sign": "Gemeni",
-   "msg": "Inspirație creativă"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Leadership natural"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Lume interioară bogată"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Timp prețios cu familia"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Zi de relaxare și reflecție"
+   "msg": "Comunicare excelentă"
   },
   {
    "sign": "Berbec",
    "msg": "Momente favorabile în relații"
   },
   {
-   "sign": "Capricorn",
-   "msg": "Disciplină de fier"
+   "sign": "Fecioară",
+   "msg": "Analiză profundă"
   },
   {
-   "sign": "Fecioară",
-   "msg": "Perfecțiune în lucruri"
+   "sign": "Balanță",
+   "msg": "Diplomație excelentă"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Responsabilitate și disciplină"
   },
   {
    "sign": "Săgetător",
-   "msg": "Aventură și explorare"
+   "msg": "Optimism exploziv"
   },
   {
    "sign": "Vărsător",
-   "msg": "Gândire unică"
+   "msg": "Schimbări benefice"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Leadership natural"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Sentimente reciproce"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Creativitate artistică"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Zi de relaxare și reflecție"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Mister și charisma"
   }
  ]
 }
