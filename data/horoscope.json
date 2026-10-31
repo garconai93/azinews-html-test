@@ -1,53 +1,53 @@
 {
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "items": [
   {
-   "sign": "Gemeni",
-   "msg": "Comunicare excelentă"
-  },
-  {
    "sign": "Berbec",
-   "msg": "Momente favorabile în relații"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Analiză profundă"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Diplomație excelentă"
+   "msg": "Energie maximă, profită de ea"
   },
   {
    "sign": "Capricorn",
-   "msg": "Responsabilitate și disciplină"
+   "msg": "Țintește sus"
   },
   {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
+   "sign": "Gemeni",
+   "msg": "Noi cunoștințe valoroase"
   },
   {
    "sign": "Vărsător",
-   "msg": "Schimbări benefice"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Leadership natural"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Sentimente reciproce"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Creativitate artistică"
+   "msg": "Viitor luminos"
   },
   {
    "sign": "Taur",
-   "msg": "Zi de relaxare și reflecție"
+   "msg": "Stabilitate financiară"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Atenție din partea celorlalți"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Călătorii benefice"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Frumusețe și artă"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Lume interioară bogată"
   },
   {
    "sign": "Scorpion",
-   "msg": "Mister și charisma"
+   "msg": "Putere și determinare"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Atenție la detalii"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Emoții profunde"
   }
  ]
 }
