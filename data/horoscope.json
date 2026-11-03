@@ -1,53 +1,53 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "items": [
-  {
-   "sign": "Rac",
-   "msg": "Protecție și siguranță"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Libertate personală"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Sănătate și bunăstare"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Energie maximă, profită de ea"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Schimbări benefice"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Noi cunoștințe valoroase"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Succes garantat"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Putere și determinare"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Relații armonioase"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Conexiuni emoționale puternice"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Compasiune profundă"
-  },
   {
    "sign": "Leu",
    "msg": "Succes în afaceri"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Zi dinamică și interesantă"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Gândire unică"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Justiție și fair-play"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Disciplină de fier"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Descoperiri importante"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Stabilitate financiară"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Optimism exploziv"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Visatori romantici"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Analiză profundă"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Oportunități profesionale"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Timp prețios cu familia"
   }
  ]
 }
