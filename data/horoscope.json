@@ -1,53 +1,53 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "items": [
   {
-   "sign": "Taur",
-   "msg": "Conexiuni emoționale puternice"
+   "sign": "Rac",
+   "msg": "Protecție și siguranță"
   },
   {
    "sign": "Săgetător",
-   "msg": "Filozofie de viață"
+   "msg": "Libertate personală"
   },
   {
-   "sign": "Pești",
-   "msg": "Lume interioară bogată"
+   "sign": "Fecioară",
+   "msg": "Sănătate și bunăstare"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Energie maximă, profită de ea"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Schimbări benefice"
   },
   {
    "sign": "Gemeni",
-   "msg": "Zi dinamică și interesantă"
+   "msg": "Noi cunoștințe valoroase"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Succes garantat"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Putere și determinare"
   },
   {
    "sign": "Balanță",
    "msg": "Relații armonioase"
   },
   {
+   "sign": "Taur",
+   "msg": "Conexiuni emoționale puternice"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Compasiune profundă"
+  },
+  {
    "sign": "Leu",
-   "msg": "Creativitate debordantă"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Intensitate emoțională"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Viitor luminos"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Zi perfectă pentru inițiative noi"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Intuiție puternică"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Organizare impecabilă"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Disciplină de fier"
+   "msg": "Succes în afaceri"
   }
  ]
 }
