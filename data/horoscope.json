@@ -1,53 +1,53 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "items": [
   {
    "sign": "Leu",
-   "msg": "Succes în afaceri"
+   "msg": "Strălucești în orice situație"
   },
   {
-   "sign": "Gemeni",
-   "msg": "Zi dinamică și interesantă"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Gândire unică"
+   "sign": "Berbec",
+   "msg": "Energie maximă, profită de ea"
   },
   {
    "sign": "Balanță",
    "msg": "Justiție și fair-play"
   },
   {
-   "sign": "Capricorn",
-   "msg": "Disciplină de fier"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Descoperiri importante"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Stabilitate financiară"
-  },
-  {
    "sign": "Săgetător",
-   "msg": "Optimism exploziv"
+   "msg": "Filozofie de viață"
   },
   {
-   "sign": "Pești",
-   "msg": "Visatori romantici"
+   "sign": "Capricorn",
+   "msg": "Succes garantat"
   },
   {
    "sign": "Fecioară",
-   "msg": "Analiză profundă"
+   "msg": "Sănătate și bunăstare"
   },
   {
-   "sign": "Berbec",
-   "msg": "Oportunități profesionale"
+   "sign": "Vărsător",
+   "msg": "Gândire unică"
   },
   {
    "sign": "Rac",
-   "msg": "Timp prețios cu familia"
+   "msg": "Emoții profunde"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Noi cunoștințe valoroase"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Lume interioară bogată"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Putere și determinare"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Zi de relaxare și reflecție"
   }
  ]
 }
