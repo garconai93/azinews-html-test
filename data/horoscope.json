@@ -1,53 +1,53 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "items": [
   {
-   "sign": "Leu",
-   "msg": "Strălucești în orice situație"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Energie maximă, profită de ea"
-  },
-  {
    "sign": "Balanță",
-   "msg": "Justiție și fair-play"
+   "msg": "Relații armonioase"
   },
   {
-   "sign": "Săgetător",
-   "msg": "Filozofie de viață"
+   "sign": "Scorpion",
+   "msg": "Mister și charisma"
   },
   {
    "sign": "Capricorn",
-   "msg": "Succes garantat"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Sănătate și bunăstare"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Gândire unică"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Emoții profunde"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Noi cunoștințe valoroase"
+   "msg": "Disciplină de fier"
   },
   {
    "sign": "Pești",
    "msg": "Lume interioară bogată"
   },
   {
-   "sign": "Scorpion",
-   "msg": "Putere și determinare"
+   "sign": "Taur",
+   "msg": "Stabilitate financiară"
   },
   {
-   "sign": "Taur",
-   "msg": "Zi de relaxare și reflecție"
+   "sign": "Rac",
+   "msg": "Intuiție puternică"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Creativitate debordantă"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Succes în proiectele personale"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Viitor luminos"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Zi dinamică și interesantă"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Atenție la detalii"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Călătorii benefice"
   }
  ]
 }
