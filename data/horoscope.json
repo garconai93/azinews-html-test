@@ -1,6 +1,42 @@
 {
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "items": [
+  {
+   "sign": "Berbec",
+   "msg": "Momente favorabile în relații"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Noi cunoștințe valoroase"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Viitor luminos"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Strălucești în orice situație"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Optimism exploziv"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Emoții profunde"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Progrese în carieră"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Perfecțiune în lucruri"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Creativitate artistică"
+  },
   {
    "sign": "Balanță",
    "msg": "Relații armonioase"
@@ -12,42 +48,6 @@
   {
    "sign": "Capricorn",
    "msg": "Disciplină de fier"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Lume interioară bogată"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Stabilitate financiară"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Intuiție puternică"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Creativitate debordantă"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Succes în proiectele personale"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Viitor luminos"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Zi dinamică și interesantă"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Atenție la detalii"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Călătorii benefice"
   }
  ]
 }
