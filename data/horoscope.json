@@ -1,53 +1,53 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "items": [
+  {
+   "sign": "Pești",
+   "msg": "Lume interioară bogată"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Responsabilitate și disciplină"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Energie maximă, profită de ea"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Organizare impecabilă"
+  },
   {
    "sign": "Rac",
    "msg": "Protecție și siguranță"
   },
   {
-   "sign": "Fecioară",
-   "msg": "Perfecțiune în lucruri"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Inovație și originalitate"
+   "sign": "Taur",
+   "msg": "Armonie în familie"
   },
   {
    "sign": "Leu",
-   "msg": "Atenție din partea celorlalți"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Mister și charisma"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Compasiune profundă"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Oportunități profesionale"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Echilibru în toate"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Obiective clare"
+   "msg": "Strălucești în orice situație"
   },
   {
    "sign": "Săgetător",
-   "msg": "Călătorii benefice"
+   "msg": "Optimism exploziv"
   },
   {
    "sign": "Gemeni",
-   "msg": "Noi cunoștințe valoroase"
+   "msg": "Inspirație creativă"
   },
   {
-   "sign": "Taur",
-   "msg": "Armonie în familie"
+   "sign": "Vărsător",
+   "msg": "Comunitate și prietenie"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Diplomație excelentă"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Putere și determinare"
   }
  ]
 }
