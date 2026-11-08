@@ -1,53 +1,53 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "items": [
   {
-   "sign": "Berbec",
-   "msg": "Momente favorabile în relații"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Noi cunoștințe valoroase"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Viitor luminos"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Strălucești în orice situație"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
-  },
-  {
    "sign": "Rac",
-   "msg": "Emoții profunde"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Progrese în carieră"
+   "msg": "Protecție și siguranță"
   },
   {
    "sign": "Fecioară",
    "msg": "Perfecțiune în lucruri"
   },
   {
-   "sign": "Pești",
-   "msg": "Creativitate artistică"
+   "sign": "Vărsător",
+   "msg": "Inovație și originalitate"
   },
   {
-   "sign": "Balanță",
-   "msg": "Relații armonioase"
+   "sign": "Leu",
+   "msg": "Atenție din partea celorlalți"
   },
   {
    "sign": "Scorpion",
    "msg": "Mister și charisma"
   },
   {
+   "sign": "Pești",
+   "msg": "Compasiune profundă"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Oportunități profesionale"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Echilibru în toate"
+  },
+  {
    "sign": "Capricorn",
-   "msg": "Disciplină de fier"
+   "msg": "Obiective clare"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Călătorii benefice"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Noi cunoștințe valoroase"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Armonie în familie"
   }
  ]
 }
