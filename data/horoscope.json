@@ -1,53 +1,53 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "items": [
-  {
-   "sign": "Pești",
-   "msg": "Lume interioară bogată"
-  },
   {
    "sign": "Capricorn",
    "msg": "Responsabilitate și disciplină"
   },
   {
-   "sign": "Berbec",
-   "msg": "Energie maximă, profită de ea"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Organizare impecabilă"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Protecție și siguranță"
-  },
-  {
    "sign": "Taur",
-   "msg": "Armonie în familie"
+   "msg": "Zi de relaxare și reflecție"
   },
   {
-   "sign": "Leu",
-   "msg": "Strălucești în orice situație"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Inspirație creativă"
+   "sign": "Scorpion",
+   "msg": "Mister și charisma"
   },
   {
    "sign": "Vărsător",
    "msg": "Comunitate și prietenie"
   },
   {
-   "sign": "Balanță",
-   "msg": "Diplomație excelentă"
+   "sign": "Săgetător",
+   "msg": "Libertate personală"
   },
   {
-   "sign": "Scorpion",
-   "msg": "Putere și determinare"
+   "sign": "Rac",
+   "msg": "Timp prețios cu familia"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Intuiție spirituală"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Inspirație creativă"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Frumusețe și artă"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Oportunități profesionale"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Strălucești în orice situație"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Atenție la detalii"
   }
  ]
 }
