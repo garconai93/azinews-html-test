@@ -1,53 +1,53 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "items": [
   {
-   "sign": "Capricorn",
-   "msg": "Responsabilitate și disciplină"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Zi de relaxare și reflecție"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Mister și charisma"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Comunitate și prietenie"
-  },
-  {
    "sign": "Săgetător",
-   "msg": "Libertate personală"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Timp prețios cu familia"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Intuiție spirituală"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Inspirație creativă"
+   "msg": "Optimism exploziv"
   },
   {
    "sign": "Balanță",
-   "msg": "Frumusețe și artă"
+   "msg": "Justiție și fair-play"
   },
   {
-   "sign": "Berbec",
-   "msg": "Oportunități profesionale"
+   "sign": "Scorpion",
+   "msg": "Intensitate emoțională"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Armonie în familie"
   },
   {
    "sign": "Leu",
    "msg": "Strălucești în orice situație"
   },
   {
+   "sign": "Berbec",
+   "msg": "Energie maximă, profită de ea"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Schimbări benefice"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Disciplină de fier"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Flexibilitate și adaptabilitate"
+  },
+  {
    "sign": "Fecioară",
-   "msg": "Atenție la detalii"
+   "msg": "Sănătate și bunăstare"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Intuiție spirituală"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Emoții profunde"
   }
  ]
 }
