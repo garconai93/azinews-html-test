@@ -1,53 +1,53 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "items": [
   {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Justiție și fair-play"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Intensitate emoțională"
+   "sign": "Rac",
+   "msg": "Emoții profunde"
   },
   {
    "sign": "Taur",
-   "msg": "Armonie în familie"
+   "msg": "Progrese în carieră"
   },
   {
-   "sign": "Leu",
-   "msg": "Strălucești în orice situație"
+   "sign": "Balanță",
+   "msg": "Diplomație excelentă"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Aventură și explorare"
   },
   {
    "sign": "Berbec",
    "msg": "Energie maximă, profită de ea"
   },
   {
+   "sign": "Fecioară",
+   "msg": "Organizare impecabilă"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Noi cunoștințe valoroase"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Lume interioară bogată"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Responsabilitate și disciplină"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Transformări pozitive"
+  },
+  {
    "sign": "Vărsător",
    "msg": "Schimbări benefice"
   },
   {
-   "sign": "Capricorn",
-   "msg": "Disciplină de fier"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Flexibilitate și adaptabilitate"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Sănătate și bunăstare"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Intuiție spirituală"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Emoții profunde"
+   "sign": "Leu",
+   "msg": "Leadership natural"
   }
  ]
 }
