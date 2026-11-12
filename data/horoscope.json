@@ -1,53 +1,53 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "items": [
   {
-   "sign": "Rac",
-   "msg": "Emoții profunde"
+   "sign": "Pești",
+   "msg": "Compasiune profundă"
   },
   {
-   "sign": "Taur",
-   "msg": "Progrese în carieră"
+   "sign": "Rac",
+   "msg": "Sentimente reciproce"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Strălucești în orice situație"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Obiective clare"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Călătorii benefice"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Succes în proiectele personale"
   },
   {
    "sign": "Balanță",
    "msg": "Diplomație excelentă"
   },
   {
-   "sign": "Săgetător",
-   "msg": "Aventură și explorare"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Energie maximă, profită de ea"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Organizare impecabilă"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Noi cunoștințe valoroase"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Lume interioară bogată"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Responsabilitate și disciplină"
-  },
-  {
    "sign": "Scorpion",
-   "msg": "Transformări pozitive"
+   "msg": "Putere și determinare"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Zi de relaxare și reflecție"
   },
   {
    "sign": "Vărsător",
    "msg": "Schimbări benefice"
   },
   {
-   "sign": "Leu",
-   "msg": "Leadership natural"
+   "sign": "Fecioară",
+   "msg": "Analiză profundă"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Flexibilitate și adaptabilitate"
   }
  ]
 }
