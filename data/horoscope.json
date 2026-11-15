@@ -1,53 +1,53 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "items": [
   {
-   "sign": "Rac",
-   "msg": "Timp prețios cu familia"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Obiective clare"
-  },
-  {
    "sign": "Taur",
-   "msg": "Conexiuni emoționale puternice"
+   "msg": "Zi de relaxare și reflecție"
   },
   {
-   "sign": "Fecioară",
-   "msg": "Analiză profundă"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Succes în afaceri"
+   "sign": "Rac",
+   "msg": "Emoții profunde"
   },
   {
    "sign": "Scorpion",
-   "msg": "Putere și determinare"
+   "msg": "Intensitate emoțională"
   },
   {
-   "sign": "Pești",
-   "msg": "Intuiție spirituală"
+   "sign": "Gemeni",
+   "msg": "Flexibilitate și adaptabilitate"
   },
   {
    "sign": "Berbec",
-   "msg": "Momente favorabile în relații"
+   "msg": "Zi perfectă pentru inițiative noi"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Atenție la detalii"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Justiție și fair-play"
   },
   {
    "sign": "Săgetător",
    "msg": "Filozofie de viață"
   },
   {
-   "sign": "Balanță",
-   "msg": "Diplomație excelentă"
+   "sign": "Pești",
+   "msg": "Lume interioară bogată"
   },
   {
    "sign": "Vărsător",
    "msg": "Inovație și originalitate"
   },
   {
-   "sign": "Gemeni",
-   "msg": "Comunicare excelentă"
+   "sign": "Capricorn",
+   "msg": "Obiective clare"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Creativitate debordantă"
   }
  ]
 }
