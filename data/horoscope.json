@@ -1,53 +1,53 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "items": [
   {
-   "sign": "Balanță",
-   "msg": "Diplomație excelentă"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Sănătate și bunăstare"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Atenție din partea celorlalți"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Călătorii benefice"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Noi cunoștințe valoroase"
-  },
-  {
    "sign": "Rac",
-   "msg": "Sentimente reciproce"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Creativitate artistică"
+   "msg": "Timp prețios cu familia"
   },
   {
    "sign": "Capricorn",
    "msg": "Obiective clare"
   },
   {
+   "sign": "Taur",
+   "msg": "Conexiuni emoționale puternice"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Analiză profundă"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Succes în afaceri"
+  },
+  {
    "sign": "Scorpion",
-   "msg": "Mister și charisma"
+   "msg": "Putere și determinare"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Intuiție spirituală"
   },
   {
    "sign": "Berbec",
-   "msg": "Succes în proiectele personale"
+   "msg": "Momente favorabile în relații"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Filozofie de viață"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Diplomație excelentă"
   },
   {
    "sign": "Vărsător",
-   "msg": "Viitor luminos"
+   "msg": "Inovație și originalitate"
   },
   {
-   "sign": "Taur",
-   "msg": "Stabilitate financiară"
+   "sign": "Gemeni",
+   "msg": "Comunicare excelentă"
   }
  ]
 }
