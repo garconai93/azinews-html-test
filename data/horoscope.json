@@ -1,53 +1,53 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "items": [
   {
-   "sign": "Taur",
-   "msg": "Zi de relaxare și reflecție"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Emoții profunde"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Intensitate emoțională"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Flexibilitate și adaptabilitate"
-  },
-  {
    "sign": "Berbec",
-   "msg": "Zi perfectă pentru inițiative noi"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Atenție la detalii"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Justiție și fair-play"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Filozofie de viață"
+   "msg": "Momente favorabile în relații"
   },
   {
    "sign": "Pești",
-   "msg": "Lume interioară bogată"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Inovație și originalitate"
+   "msg": "Compasiune profundă"
   },
   {
    "sign": "Capricorn",
-   "msg": "Obiective clare"
+   "msg": "Succes garantat"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Sănătate și bunăstare"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Relații armonioase"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Inspirație creativă"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Comunitate și prietenie"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Sentimente reciproce"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Stabilitate financiară"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Optimism exploziv"
   },
   {
    "sign": "Leu",
    "msg": "Creativitate debordantă"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Intensitate emoțională"
   }
  ]
 }
