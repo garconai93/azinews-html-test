@@ -1,53 +1,53 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "items": [
   {
-   "sign": "Leu",
-   "msg": "Leadership natural"
+   "sign": "Balanță",
+   "msg": "Diplomație excelentă"
   },
   {
-   "sign": "Berbec",
-   "msg": "Oportunități profesionale"
+   "sign": "Capricorn",
+   "msg": "Responsabilitate și disciplină"
   },
   {
    "sign": "Gemeni",
-   "msg": "Zi dinamică și interesantă"
+   "msg": "Comunicare excelentă"
   },
   {
    "sign": "Rac",
-   "msg": "Intuiție puternică"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Schimbări benefice"
+   "msg": "Emoții profunde"
   },
   {
    "sign": "Scorpion",
    "msg": "Intensitate emoțională"
   },
   {
-   "sign": "Balanță",
-   "msg": "Diplomație excelentă"
-  },
-  {
    "sign": "Taur",
-   "msg": "Stabilitate financiară"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Obiective clare"
+   "msg": "Armonie în familie"
   },
   {
    "sign": "Pești",
-   "msg": "Visatori romantici"
+   "msg": "Creativitate artistică"
   },
   {
-   "sign": "Fecioară",
-   "msg": "Analiză profundă"
+   "sign": "Leu",
+   "msg": "Atenție din partea celorlalți"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Momente favorabile în relații"
   },
   {
    "sign": "Săgetător",
-   "msg": "Libertate personală"
+   "msg": "Filozofie de viață"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Viitor luminos"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Sănătate și bunăstare"
   }
  ]
 }
