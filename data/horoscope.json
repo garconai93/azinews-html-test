@@ -1,53 +1,53 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "items": [
+  {
+   "sign": "Vărsător",
+   "msg": "Inovație și originalitate"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Obiective clare"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Conexiuni emoționale puternice"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Analiză profundă"
+  },
   {
    "sign": "Balanță",
    "msg": "Diplomație excelentă"
   },
   {
-   "sign": "Capricorn",
-   "msg": "Responsabilitate și disciplină"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Comunicare excelentă"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Emoții profunde"
+   "sign": "Berbec",
+   "msg": "Zi perfectă pentru inițiative noi"
   },
   {
    "sign": "Scorpion",
-   "msg": "Intensitate emoțională"
+   "msg": "Transformări pozitive"
   },
   {
-   "sign": "Taur",
-   "msg": "Armonie în familie"
+   "sign": "Gemeni",
+   "msg": "Inspirație creativă"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Leadership natural"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Sentimente reciproce"
   },
   {
    "sign": "Pești",
    "msg": "Creativitate artistică"
   },
   {
-   "sign": "Leu",
-   "msg": "Atenție din partea celorlalți"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Momente favorabile în relații"
-  },
-  {
    "sign": "Săgetător",
-   "msg": "Filozofie de viață"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Viitor luminos"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Sănătate și bunăstare"
+   "msg": "Optimism exploziv"
   }
  ]
 }
