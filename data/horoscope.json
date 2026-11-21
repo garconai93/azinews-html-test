@@ -1,53 +1,53 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-21",
  "items": [
   {
-   "sign": "Vărsător",
-   "msg": "Inovație și originalitate"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Obiective clare"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Conexiuni emoționale puternice"
-  },
-  {
-   "sign": "Fecioară",
-   "msg": "Analiză profundă"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Diplomație excelentă"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Zi perfectă pentru inițiative noi"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Transformări pozitive"
-  },
-  {
    "sign": "Gemeni",
-   "msg": "Inspirație creativă"
+   "msg": "Comunicare excelentă"
   },
   {
    "sign": "Leu",
-   "msg": "Leadership natural"
+   "msg": "Creativitate debordantă"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Disciplină de fier"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Oportunități profesionale"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Echilibru în toate"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Optimism exploziv"
   },
   {
    "sign": "Rac",
-   "msg": "Sentimente reciproce"
+   "msg": "Emoții profunde"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Progrese în carieră"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Viitor luminos"
   },
   {
    "sign": "Pești",
    "msg": "Creativitate artistică"
   },
   {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
+   "sign": "Scorpion",
+   "msg": "Transformări pozitive"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Organizare impecabilă"
   }
  ]
 }
