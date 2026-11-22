@@ -1,37 +1,13 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "items": [
   {
-   "sign": "Gemeni",
-   "msg": "Comunicare excelentă"
+   "sign": "Capricorn",
+   "msg": "Țintește sus"
   },
   {
    "sign": "Leu",
-   "msg": "Creativitate debordantă"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Disciplină de fier"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Oportunități profesionale"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Echilibru în toate"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Emoții profunde"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Progrese în carieră"
+   "msg": "Leadership natural"
   },
   {
    "sign": "Vărsător",
@@ -42,12 +18,36 @@
    "msg": "Creativitate artistică"
   },
   {
+   "sign": "Taur",
+   "msg": "Zi de relaxare și reflecție"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Justiție și fair-play"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Noi cunoștințe valoroase"
+  },
+  {
    "sign": "Scorpion",
-   "msg": "Transformări pozitive"
+   "msg": "Descoperiri importante"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Timp prețios cu familia"
   },
   {
    "sign": "Fecioară",
-   "msg": "Organizare impecabilă"
+   "msg": "Atenție la detalii"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Momente favorabile în relații"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Filozofie de viață"
   }
  ]
 }
