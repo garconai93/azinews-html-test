@@ -1,53 +1,53 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "items": [
   {
    "sign": "Capricorn",
-   "msg": "Țintește sus"
-  },
-  {
-   "sign": "Leu",
-   "msg": "Leadership natural"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Viitor luminos"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Creativitate artistică"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Zi de relaxare și reflecție"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Justiție și fair-play"
-  },
-  {
-   "sign": "Gemeni",
-   "msg": "Noi cunoștințe valoroase"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Descoperiri importante"
+   "msg": "Disciplină de fier"
   },
   {
    "sign": "Rac",
-   "msg": "Timp prețios cu familia"
+   "msg": "Sentimente reciproce"
   },
   {
-   "sign": "Fecioară",
-   "msg": "Atenție la detalii"
+   "sign": "Vărsător",
+   "msg": "Inovație și originalitate"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Intuiție spirituală"
+  },
+  {
+   "sign": "Scorpion",
+   "msg": "Mister și charisma"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Progrese în carieră"
   },
   {
    "sign": "Berbec",
-   "msg": "Momente favorabile în relații"
+   "msg": "Oportunități profesionale"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Sănătate și bunăstare"
   },
   {
    "sign": "Săgetător",
-   "msg": "Filozofie de viață"
+   "msg": "Optimism exploziv"
+  },
+  {
+   "sign": "Leu",
+   "msg": "Creativitate debordantă"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Frumusețe și artă"
+  },
+  {
+   "sign": "Gemeni",
+   "msg": "Flexibilitate și adaptabilitate"
   }
  ]
 }
