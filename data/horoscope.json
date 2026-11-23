@@ -1,53 +1,53 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "items": [
   {
-   "sign": "Capricorn",
-   "msg": "Disciplină de fier"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Sentimente reciproce"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Inovație și originalitate"
-  },
-  {
-   "sign": "Pești",
-   "msg": "Intuiție spirituală"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Mister și charisma"
-  },
-  {
-   "sign": "Taur",
-   "msg": "Progrese în carieră"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Oportunități profesionale"
+   "sign": "Gemeni",
+   "msg": "Flexibilitate și adaptabilitate"
   },
   {
    "sign": "Fecioară",
    "msg": "Sănătate și bunăstare"
   },
   {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
+   "sign": "Scorpion",
+   "msg": "Transformări pozitive"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Țintește sus"
   },
   {
    "sign": "Leu",
-   "msg": "Creativitate debordantă"
+   "msg": "Leadership natural"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Lume interioară bogată"
   },
   {
    "sign": "Balanță",
-   "msg": "Frumusețe și artă"
+   "msg": "Echilibru în toate"
   },
   {
-   "sign": "Gemeni",
-   "msg": "Flexibilitate și adaptabilitate"
+   "sign": "Berbec",
+   "msg": "Energie maximă, profită de ea"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Schimbări benefice"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Protecție și siguranță"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Libertate personală"
+  },
+  {
+   "sign": "Taur",
+   "msg": "Stabilitate financiară"
   }
  ]
 }
