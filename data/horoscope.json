@@ -1,53 +1,53 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "items": [
   {
-   "sign": "Gemeni",
-   "msg": "Flexibilitate și adaptabilitate"
+   "sign": "Scorpion",
+   "msg": "Putere și determinare"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Optimism exploziv"
   },
   {
    "sign": "Fecioară",
-   "msg": "Sănătate și bunăstare"
+   "msg": "Organizare impecabilă"
   },
   {
-   "sign": "Scorpion",
-   "msg": "Transformări pozitive"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Țintește sus"
+   "sign": "Vărsător",
+   "msg": "Comunitate și prietenie"
   },
   {
    "sign": "Leu",
-   "msg": "Leadership natural"
+   "msg": "Succes în afaceri"
   },
   {
-   "sign": "Pești",
-   "msg": "Lume interioară bogată"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Echilibru în toate"
+   "sign": "Taur",
+   "msg": "Stabilitate financiară"
   },
   {
    "sign": "Berbec",
    "msg": "Energie maximă, profită de ea"
   },
   {
-   "sign": "Vărsător",
-   "msg": "Schimbări benefice"
+   "sign": "Gemeni",
+   "msg": "Inspirație creativă"
   },
   {
    "sign": "Rac",
    "msg": "Protecție și siguranță"
   },
   {
-   "sign": "Săgetător",
-   "msg": "Libertate personală"
+   "sign": "Capricorn",
+   "msg": "Succes garantat"
   },
   {
-   "sign": "Taur",
-   "msg": "Stabilitate financiară"
+   "sign": "Balanță",
+   "msg": "Echilibru în toate"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Intuiție spirituală"
   }
  ]
 }
