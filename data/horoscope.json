@@ -1,53 +1,53 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "items": [
   {
-   "sign": "Rac",
-   "msg": "Intuiție puternică"
+   "sign": "Berbec",
+   "msg": "Momente favorabile în relații"
   },
   {
-   "sign": "Gemeni",
-   "msg": "Inspirație creativă"
+   "sign": "Rac",
+   "msg": "Protecție și siguranță"
+  },
+  {
+   "sign": "Balanță",
+   "msg": "Diplomație excelentă"
+  },
+  {
+   "sign": "Vărsător",
+   "msg": "Inovație și originalitate"
   },
   {
    "sign": "Taur",
-   "msg": "Progrese în carieră"
+   "msg": "Zi de relaxare și reflecție"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Țintește sus"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Filozofie de viață"
   },
   {
    "sign": "Scorpion",
    "msg": "Descoperiri importante"
   },
   {
+   "sign": "Gemeni",
+   "msg": "Zi dinamică și interesantă"
+  },
+  {
    "sign": "Pești",
-   "msg": "Creativitate artistică"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Optimism exploziv"
-  },
-  {
-   "sign": "Vărsător",
-   "msg": "Schimbări benefice"
+   "msg": "Intuiție spirituală"
   },
   {
    "sign": "Fecioară",
-   "msg": "Analiză profundă"
-  },
-  {
-   "sign": "Berbec",
-   "msg": "Oportunități profesionale"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Responsabilitate și disciplină"
+   "msg": "Organizare impecabilă"
   },
   {
    "sign": "Leu",
-   "msg": "Atenție din partea celorlalți"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Justiție și fair-play"
+   "msg": "Leadership natural"
   }
  ]
 }
