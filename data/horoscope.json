@@ -1,53 +1,53 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "items": [
   {
-   "sign": "Berbec",
-   "msg": "Momente favorabile în relații"
-  },
-  {
-   "sign": "Rac",
-   "msg": "Protecție și siguranță"
-  },
-  {
-   "sign": "Balanță",
-   "msg": "Diplomație excelentă"
-  },
-  {
    "sign": "Vărsător",
-   "msg": "Inovație și originalitate"
+   "msg": "Comunitate și prietenie"
   },
   {
    "sign": "Taur",
-   "msg": "Zi de relaxare și reflecție"
-  },
-  {
-   "sign": "Capricorn",
-   "msg": "Țintește sus"
-  },
-  {
-   "sign": "Săgetător",
-   "msg": "Filozofie de viață"
-  },
-  {
-   "sign": "Scorpion",
-   "msg": "Descoperiri importante"
+   "msg": "Armonie în familie"
   },
   {
    "sign": "Gemeni",
    "msg": "Zi dinamică și interesantă"
   },
   {
-   "sign": "Pești",
-   "msg": "Intuiție spirituală"
+   "sign": "Scorpion",
+   "msg": "Transformări pozitive"
   },
   {
-   "sign": "Fecioară",
-   "msg": "Organizare impecabilă"
+   "sign": "Balanță",
+   "msg": "Justiție și fair-play"
   },
   {
    "sign": "Leu",
    "msg": "Leadership natural"
+  },
+  {
+   "sign": "Săgetător",
+   "msg": "Libertate personală"
+  },
+  {
+   "sign": "Pești",
+   "msg": "Creativitate artistică"
+  },
+  {
+   "sign": "Capricorn",
+   "msg": "Obiective clare"
+  },
+  {
+   "sign": "Rac",
+   "msg": "Emoții profunde"
+  },
+  {
+   "sign": "Fecioară",
+   "msg": "Analiză profundă"
+  },
+  {
+   "sign": "Berbec",
+   "msg": "Oportunități profesionale"
   }
  ]
 }
